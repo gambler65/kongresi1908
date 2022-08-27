@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="==== BOSNA I HERCEGOVINA ====" tvg-logo="https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png" group-title="BOSNA I HERCEGOVINA",==== BOSNA I HERCEGOVINA ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/799
+#EXTINF:-1 tvg-id="13908" tvg-name="AL JAZEERA BALKANS HD" tvg-logo="http://ledeni.kozow.com:8181/images/21fb74f8ad5242d823e5435818382abb.png" group-title="BOSNA I HERCEGOVINA",AL JAZEERA BALKANS HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/816
+#EXTINF:-1 tvg-id="23470" tvg-name="ALFA TV" tvg-logo="http://uticnica.dynu.net/logos/alfatv.png" group-title="BOSNA I HERCEGOVINA",ALFA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1958
+#EXTINF:-1 tvg-id="13913" tvg-name="ATV" tvg-logo="http://ledeni.kozow.com:8181/images/207eae0b5a4e5ee91cc025815a681399.png" group-title="BOSNA I HERCEGOVINA",ATV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/818
+#EXTINF:-1 tvg-id="15066" tvg-name="BHT 1 HD" tvg-logo="http://insigniaco.co.uk:8181/images/2f480e20135560a1c68145b41a0d21ad.png" group-title="BOSNA I HERCEGOVINA",BHT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/802
+#EXTINF:-1 tvg-id="13912" tvg-name="BN  TV HD" tvg-logo="http://insigniaco.co.uk:8181/images/8a3fa6c3679261c5d8e040a4e2197182.png" group-title="BOSNA I HERCEGOVINA",BN  TV HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/760
+#EXTINF:-1 tvg-id="13918" tvg-name="CITY TV" tvg-logo="http://insigniaco.co.uk:8181/images/4ed5d2eaed1a1fadcc41ad1d58ed603e.png" group-title="BOSNA I HERCEGOVINA",CITY TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/825
+#EXTINF:-1 tvg-id="21120" tvg-name="FACE HD" tvg-logo="http://insigniaco.co.uk:8181/images/2ea64ae9d8262814ee5966ed05901c0e.png" group-title="BOSNA I HERCEGOVINA",FACE HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/808
+#EXTINF:-1 tvg-id="15069" tvg-name="FTV" tvg-logo="http://insigniaco.co.uk:8181/images/3b8bdd9b960e0852378ee07c5094d8ea.png" group-title="BOSNA I HERCEGOVINA",FTV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/804
+#EXTINF:-1 tvg-id="13906" tvg-name="HAYAT HD" tvg-logo="http://ledeni.kozow.com:8181/images/83e290e4101040f7505e8cda99d37d15.png" group-title="BOSNA I HERCEGOVINA",HAYAT HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/811
+#EXTINF:-1 tvg-id="hayat_plus_(exyu)" tvg-name="HAYAT PLUS" tvg-logo="http://ledeni.kozow.com:8181/images/bb4949c684bcd914605a9f28e5f3c626.png" group-title="BOSNA I HERCEGOVINA",HAYAT PLUS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/812
+#EXTINF:-1 tvg-id="13916" tvg-name="IGMAN  TV" tvg-logo="http://nova-generacija.ooguy.com:8181/images/22ef08c7ac00d3bb507853fc2e4ecc5f.png" group-title="BOSNA I HERCEGOVINA",IGMAN  TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/829
+#EXTINF:-1 tvg-id="13909" tvg-name="N1 TV BIH HD" tvg-logo="http://nova-generacija.ooguy.com:8181/images/5bf4754b5b3bfc72b905b9310a1bc628.png" group-title="BOSNA I HERCEGOVINA",N1 TV BIH HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/817
+#EXTINF:-1 tvg-id="13904" tvg-name="NOVA  BH HD" tvg-logo="http://insigniaco.co.uk:8181/images/78f53c9eeb6055d588d0898677d5a110.png" group-title="BOSNA I HERCEGOVINA",NOVA  BH HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2985
+#EXTINF:-1 tvg-id="rtv_novi_pazar_(exyu)" tvg-name="NOVI PAZAR" tvg-logo="http://ledeni.kozow.com:8181/images/8345d0d603468e1beb0e4119f826e4dc.png" group-title="BOSNA I HERCEGOVINA",NOVI PAZAR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/767
+#EXTINF:-1 tvg-id="13901" tvg-name="OBN" tvg-logo="http://nova-generacija.ooguy.com:8181/images/788da14d192f8401149d8451f655c81d.png" group-title="BOSNA I HERCEGOVINA",OBN
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/806
+#EXTINF:-1 tvg-id="7633" tvg-name="PINK BH" tvg-logo="http://nova-generacija.ooguy.com:8181/images/adc8d469b82c2e7e745c6b45dd943827.png" group-title="BOSNA I HERCEGOVINA",PINK BH
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2887
+#EXTINF:-1 tvg-id="24_vesti_(exyu)" tvg-name="SANDZAK TV" tvg-logo="http://ledeni.kozow.com:8181/images/83edb09ff31e7366cb623731b679376e.png" group-title="BOSNA I HERCEGOVINA",SANDZAK TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/768
+#EXTINF:-1 tvg-id="13919" tvg-name="SLON TV" tvg-logo="http://ledeni.kozow.com:8181/images/2aa8c600e795dcd834f58b1a209fee99.png" group-title="BOSNA I HERCEGOVINA",SLON TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/814
+#EXTINF:-1 tvg-id="13900" tvg-name="TK TUZLA" tvg-logo="http://insigniaco.co.uk:8181/images/0c8d77bd84931d28c1acec7cf1afc1bf.png" group-title="BOSNA I HERCEGOVINA",TK TUZLA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/813
+#EXTINF:-1 tvg-id="tv5_bh_(exyu)" tvg-name="TV  5" tvg-logo="http://ledeni.kozow.com:8181/images/0c39a42ca5a9f91091459b9cb1486155.png" group-title="BOSNA I HERCEGOVINA",TV  5
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/828
+#EXTINF:-1 tvg-id="20136" tvg-name="TV SARAJEVO HD" tvg-logo="http://ledeni.kozow.com:8181/images/850ea3233ba106cd97fa2d965060fd7a.png" group-title="BOSNA I HERCEGOVINA",TV SARAJEVO HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/820
+#EXTINF:-1 tvg-id="13924" tvg-name="USK HD" tvg-logo="http://ledeni.kozow.com:8181/images/42400962d141ea528e709d1cd3f46c46.png" group-title="BOSNA I HERCEGOVINA",USK HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/821
+#EXTINF:-1 tvg-id="" tvg-name="==== HRVATSKA ====" tvg-logo="https://croatia.hr/themes/croatia_d8/images/logo-footer/logo--hr.png" group-title="HRVATSKA",==== HRVATSKA ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/775
+#EXTINF:-1 tvg-id="6023" tvg-name="DOMA TV HD" tvg-logo="http://insigniaco.co.uk:8181/images/fa6351d26fca90b22d79e1c27fb01728.png" group-title="HRVATSKA",DOMA TV HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/783
+#EXTINF:-1 tvg-id="5798" tvg-name="RTL LIVING HR" tvg-logo="http://ledeni.kozow.com:8181/images/7d648944cf1e423d6c4f45f2915839ff.png" group-title="HRVATSKA",RTL LIVING HR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/787
+#EXTINF:-1 tvg-id="5465" tvg-name="RTL PASSION" tvg-logo="http://insigniaco.co.uk:8181/images/18a5c9c1260fd2a0d74e3d9505807b7d.png" group-title="HRVATSKA",RTL PASSION
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/788
+#EXTINF:-1 tvg-id="5484" tvg-name="RTL CRIME  HR" tvg-logo="http://insigniaco.co.uk:8181/images/f654e0648840d4834888f314153b76fa.png" group-title="HRVATSKA",RTL CRIME  HR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/789
+#EXTINF:-1 tvg-id="5486" tvg-name="Z 1" tvg-logo="http://insigniaco.co.uk:8181/images/5f27b887b3e4c930e7b4140293c20ff3.png" group-title="HRVATSKA",Z 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/790
+#EXTINF:-1 tvg-id="20293" tvg-name="N1 TV HR HD" tvg-logo="http://ledeni.kozow.com:8181/images/885eb5f4d689b1b23178bcbd7a8b8389.png" group-title="HRVATSKA",N1 TV HR HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/791
+#EXTINF:-1 tvg-id="5801" tvg-name="SLAVONSKA TV" tvg-logo="http://ledeni.kozow.com:8181/images/8fabfe59ff57e843c848aafb49eb6e9d.png" group-title="HRVATSKA",SLAVONSKA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/792
+#EXTINF:-1 tvg-id="6010" tvg-name="VINKOVACKA TV" tvg-logo="http://insigniaco.co.uk:8181/images/5068e10ed6642addf18a74edf7b5a209.png" group-title="HRVATSKA",VINKOVACKA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/793
+#EXTINF:-1 tvg-id="sportska_tv_(exyu)" tvg-name="HR: SPORTSKA  TV" tvg-logo="http://ledeni.kozow.com:8181/images/0ed61ca80dfdd6688efdfe414a54bd62.png" group-title="SPORT EXYU",HR: SPORTSKA  TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/794
+#EXTINF:-1 tvg-id="13925" tvg-name="POSAVINA TV" tvg-logo="http://ledeni.kozow.com:8181/images/8a082090367179a99e83731e68ee642a.jpg" group-title="HRVATSKA",POSAVINA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/796
+#EXTINF:-1 tvg-id="5627" tvg-name="OSIJECKA  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/1e/Logo_OSTV.png" group-title="HRVATSKA",OSIJECKA  TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1444
+#EXTINF:-1 tvg-id="10695" tvg-name="HRT 5" tvg-logo="http://uticnica.dynu.net/logos/hrttv5.png" group-title="HRVATSKA",HRT 5
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1596
+#EXTINF:-1 tvg-id="7873" tvg-name="HRT 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/8d78c5dc35fa6a3f41ce69175fa24f99.png" group-title="HRVATSKA",HRT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/19920
+#EXTINF:-1 tvg-id="13473" tvg-name="HRT 2 HD" tvg-logo="http://insigniaco.co.uk:8181/images/014c83fc91da39dc12ae35d710b8c048.png" group-title="HRVATSKA",HRT 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/19919
+#EXTINF:-1 tvg-id="5800" tvg-name="HRT 3 HD" tvg-logo="http://insigniaco.co.uk:8181/images/4eeadc84b6b911cbbd058163b23029ba.png" group-title="HRVATSKA",HRT 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/19921
+#EXTINF:-1 tvg-id="13739" tvg-name="HRT 4 HD" tvg-logo="http://insigniaco.co.uk:8181/images/bba66d6c53cf381da154bb51c6f51bbf.png" group-title="HRVATSKA",HRT 4 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/19918
+#EXTINF:-1 tvg-id="" tvg-name="==== SRBIJA  ====" tvg-logo="http://nova-generacija.ooguy.com:8181/images/1584d444e0088a3ff33fe51b388d7dfe.png" group-title="SRBIJA",==== SRBIJA  ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/746
+#EXTINF:-1 tvg-id="14103" tvg-name="PRVA TV" tvg-logo="http://insigniaco.co.uk:8181/images/d4bbd341cc3234b83189c265e52e252d.png" group-title="SRBIJA",PRVA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/749
+#EXTINF:-1 tvg-id="prva_plus_(exyu)" tvg-name="PRVA  PLUS" tvg-logo="http://ledeni.kozow.com:8181/images/b355132d767675b1553352a486d21fed.png" group-title="SRBIJA",PRVA  PLUS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/752
+#EXTINF:-1 tvg-id="14105" tvg-name="PRVA  MAX" tvg-logo="http://ledeni.kozow.com:8181/images/942cbc115d627649f014457286b59049.png" group-title="SRBIJA",PRVA  MAX
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/753
+#EXTINF:-1 tvg-id="prva_world_(exyu)" tvg-name="PRVA WORLD" tvg-logo="http://ledeni.kozow.com:8181/images/6c6742644914aa78f60ea634011e544a.png" group-title="SRBIJA",PRVA WORLD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/754
+#EXTINF:-1 tvg-id="rts_2_(exyu)" tvg-name="RTS 2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/da32a0ab8308b6edc2a37bff37dbfb74.PNG" group-title="SRBIJA",RTS 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/756
+#EXTINF:-1 tvg-id="rts_3_(exyu)" tvg-name="RTS 3 HD" tvg-logo="http://ledeni.kozow.com:8181/images/89afbd109190d5abc6a6f42bcf61be80.png" group-title="SRBIJA",RTS 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/757
+#EXTINF:-1 tvg-id="13910" tvg-name="RTRS" tvg-logo="http://ledeni.kozow.com:8181/images/3c5b353892898c70eb94e341e8fd5148.png" group-title="BOSNA I HERCEGOVINA",RTRS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/758
+#EXTINF:-1 tvg-id="14118" tvg-name="B 92 HD" tvg-logo="http://ledeni.kozow.com:8181/images/34a26f8ade3ee956984f732c29611450.png" group-title="SRBIJA",B 92 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/761
+#EXTINF:-1 tvg-id="13911" tvg-name="RTRS PLUS" tvg-logo="http://ledeni.kozow.com:8181/images/f9b6c38512d7a06e63c0e55c5e414683.png" group-title="BOSNA I HERCEGOVINA",RTRS PLUS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/759
+#EXTINF:-1 tvg-id="15391" tvg-name="HAPPY TV" tvg-logo="http://uticnica.dynu.net/logos/happy.png" group-title="SRBIJA",HAPPY TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/762
+#EXTINF:-1 tvg-id="18307" tvg-name="PAROVI  TV HAPPY" tvg-logo="http://ledeni.kozow.com:8181/images/65190d54b7db236d999390e4f9b6292e.png" group-title="SRBIJA",PAROVI  TV HAPPY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/763
+#EXTINF:-1 tvg-id="14622" tvg-name="RTV VOJVODINA 1" tvg-logo="http://insigniaco.co.uk:8181/images/02d24571eaaf0fdf031b062ed61fcd51.png" group-title="SRBIJA",RTV VOJVODINA 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/764
+#EXTINF:-1 tvg-id="14623" tvg-name="RTV VOJVODINA 2" tvg-logo="http://uticnica.dynu.net/logos/rtv2.png" group-title="SRBIJA",RTV VOJVODINA 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/765
+#EXTINF:-1 tvg-id="15297" tvg-name="N1 TV SRB HD" tvg-logo="http://ledeni.kozow.com:8181/images/5bf4754b5b3bfc72b905b9310a1bc628.png" group-title="SRBIJA",N1 TV SRB HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/766
+#EXTINF:-1 tvg-id="rts_1_(exyu)" tvg-name="RTS 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/e51e03cf610b6bf7463a94eecc534439.png" group-title="SRBIJA",RTS 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/824
+#EXTINF:-1 tvg-id="13741" tvg-name="NOVA S HD" tvg-logo="http://ledeni.kozow.com:8181/images/4117203ccbe33eb68ba862fc191c2d94.png" group-title="SRBIJA",NOVA S HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1412
+#EXTINF:-1 tvg-id="rts_život_(exyu)" tvg-name="RTS ZIVOT" tvg-logo="http://ledeni.kozow.com:8181/images/4111d563ef7833a00fac8d56094f499c.png" group-title="SRBIJA",RTS ZIVOT
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1415
+#EXTINF:-1 tvg-id="18306" tvg-name="SOS KANAL" tvg-logo="http://uticnica.dynu.net/logos/soskanalplus.png" group-title="SRBIJA",SOS KANAL
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/20160
+#EXTINF:-1 tvg-id="13747" tvg-name="HBO HD" tvg-logo="http://ledeni.kozow.com:8181/images/4551db1bbea4025e88aa1398c1d6509a.png" group-title="FILMSKI",HBO HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/681
+#EXTINF:-1 tvg-id="13748" tvg-name="HBO 2 HD" tvg-logo="http://uticnica.dynu.net/logos/hbo2hd.png" group-title="FILMSKI",HBO 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/682
+#EXTINF:-1 tvg-id="13749" tvg-name="HBO 3 HD" tvg-logo="http://ledeni.kozow.com:8181/images/cee71028915464dbf234547f65c22c0e.png" group-title="FILMSKI",HBO 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/683
+#EXTINF:-1 tvg-id="cinestar_tv_premiere_1_hd_(exyu)" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/63a75c664f1542a41f790d5196ef616f.png" group-title="FILMSKI",CINESTAR PREMIERE 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/685
+#EXTINF:-1 tvg-id="cinestar_tv_premiere_2_hd_(exyu)" tvg-name="CINESTAR PREMIERE 2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/026684f0821a669f11b0b17cd68982b2.png" group-title="FILMSKI",CINESTAR PREMIERE 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/686
+#EXTINF:-1 tvg-id="cinemax_hd_(exyu)" tvg-name="CINEMAX 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/774ac5023dea009d6f5bd84b8e8e631b.png" group-title="FILMSKI",CINEMAX 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/687
+#EXTINF:-1 tvg-id="cinemax_2_hd_(exyu)" tvg-name="CINEMAX 2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/87ddd78b9ca504e82e4b9e0e642f964b.png" group-title="FILMSKI",CINEMAX 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/688
+#EXTINF:-1 tvg-id="cinestar_tv_hr_(exyu)" tvg-name="CINESTAR  TV" tvg-logo="http://ledeni.kozow.com:8181/images/751cb5d9cdf1e00b4234fd7957810e6f.png" group-title="FILMSKI",CINESTAR  TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/692
+#EXTINF:-1 tvg-id="19351" tvg-name="CINESTAR FANTASY" tvg-logo="http://uticnica.dynu.net/logos/cinestartvfantasy.png" group-title="FILMSKI",CINESTAR FANTASY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/3303
+#EXTINF:-1 tvg-id="kanal_6_(exyu)" tvg-name="KANAL 6 HD" tvg-logo="http://ledeni.kozow.com:8181/images/a4c5cf256f5f47b83657dab662650ea1.png" group-title="FILMSKI",KANAL 6 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/690
+#EXTINF:-1 tvg-id="filmbox-plus" tvg-name="FILMBOX PLUS " tvg-logo="http://ledeni.kozow.com:8181/images/06dd1192d55ab64074f190469710e8b4.png" group-title="FILMSKI",FILMBOX PLUS 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/704
+#EXTINF:-1 tvg-id="17890" tvg-name="FILMBOX EXTRA" tvg-logo="http://ledeni.kozow.com:8181/images/bf1b9303db9bce9f7d547ad418353b2a.png" group-title="FILMSKI",FILMBOX EXTRA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/702
+#EXTINF:-1 tvg-id="20226" tvg-name="M1 FILM" tvg-logo="http://ledeni.kozow.com:8181/images/9e4999946c52ff95b095717b52253c9f.png" group-title="FILMSKI",M1 FILM
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/703
+#EXTINF:-1 tvg-id="17888" tvg-name="SCIFI HD" tvg-logo="http://uticnica.dynu.net/logos/scifi.png" group-title="FILMSKI",SCIFI HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/707
+#EXTINF:-1 tvg-id="13762" tvg-name="AXN ADRIA" tvg-logo="http://ledeni.kozow.com:8181/images/f9b88336986652a71d1af152a2264c8d.png" group-title="FILMSKI",AXN ADRIA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/708
+#EXTINF:-1 tvg-id="17891" tvg-name="AXN SPIN" tvg-logo="http://ledeni.kozow.com:8181/images/3b95dcebe4b32628fb1f6c89e2791230.png" group-title="FILMSKI",AXN SPIN
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/709
+#EXTINF:-1 tvg-id="13761" tvg-name="TV 1000" tvg-logo="http://uticnica.dynu.net/logos/tv1000.png" group-title="FILMSKI",TV 1000
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/710
+#EXTINF:-1 tvg-id="19744" tvg-name="KLASSIC TV" tvg-logo="http://uticnica.dynu.net/logos/klasiktv.png" group-title="FILMSKI",KLASSIC TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/711
+#EXTINF:-1 tvg-id="17892" tvg-name="DIVA" tvg-logo="http://ledeni.kozow.com:8181/images/1275beaa089ba785e79d5e9da2b854b6.png" group-title="FILMSKI",DIVA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/712
+#EXTINF:-1 tvg-id="" tvg-name="==== DOKUMENTARNI ====" tvg-logo="" group-title="DOKUMENTARNI",==== DOKUMENTARNI ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/720
+#EXTINF:-1 tvg-id="15300" tvg-name="E! HD (RS)" tvg-logo="http://ledeni.kozow.com:8181/images/735d24dc3c200a2d4262c7382a35b2ff.png" group-title="DOKUMENTARNI",E! HD (RS)
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/722
+#EXTINF:-1 tvg-id="14187" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://uticnica.dynu.net/logos/discoverychannel.png" group-title="DOKUMENTARNI",DISCOVERY CHANNEL
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/725
+#EXTINF:-1 tvg-id="18308" tvg-name="TLC (RS)" tvg-logo="http://uticnica.dynu.net/logos/tlc.png" group-title="DOKUMENTARNI",TLC (RS)
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/726
+#EXTINF:-1 tvg-id="14185" tvg-name="ANIMAL PLANET" tvg-logo="http://ledeni.kozow.com:8181/images/5cf0ab099d41976fbcfb274955961e62.png" group-title="DOKUMENTARNI",ANIMAL PLANET
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/729
+#EXTINF:-1 tvg-id="14195" tvg-name="HISTORY 2" tvg-logo="http://uticnica.dynu.net/logos/history2.png" group-title="DOKUMENTARNI",HISTORY 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/731
+#EXTINF:-1 tvg-id="20805" tvg-name="DOCU BOX HD RS" tvg-logo="http://uticnica.dynu.net/logos/docuboxhd.png" group-title="DOKUMENTARNI",DOCU BOX HD RS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/732
+#EXTINF:-1 tvg-id="14200" tvg-name="VIASAT  EXPLORER" tvg-logo="http://uticnica.dynu.net/logos/viasatexplore.png" group-title="DOKUMENTARNI",VIASAT  EXPLORER
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/735
+#EXTINF:-1 tvg-id="14190" tvg-name="VIASAT NATURE HD" tvg-logo="http://ledeni.kozow.com:8181/images/cddef9de700be55371798d4ea1743a64.png" group-title="DOKUMENTARNI",VIASAT NATURE HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/737
+#EXTINF:-1 tvg-id="15709" tvg-name="24  KITCHEN" tvg-logo="http://ledeni.kozow.com:8181/images/64314e737016b0fc674acea2e585436b.png" group-title="DOKUMENTARNI",24  KITCHEN
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/741
+#EXTINF:-1 tvg-id="18810" tvg-name="LOV I RIBOLOV HD" tvg-logo="http://uticnica.dynu.net/logos/loviribolov.png" group-title="DOKUMENTARNI",LOV I RIBOLOV HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/742
+#EXTINF:-1 tvg-id="17330" tvg-name="VIASAT HISTORY" tvg-logo="http://uticnica.dynu.net/logos/viasathistory.png" group-title="DOKUMENTARNI",VIASAT HISTORY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1755
+#EXTINF:-1 tvg-id="discovery_id_xtra_(exyu)" tvg-name="DISCOVERY ID XTRA" tvg-logo="http://ledeni.kozow.com:8181/images/c98d5abeb12ad9e2069d522041f1af6a.png" group-title="DOKUMENTARNI",DISCOVERY ID XTRA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2856
+#EXTINF:-1 tvg-id="14196" tvg-name="HISTORY CHANNEL" tvg-logo="http://ledeni.kozow.com:8181/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="DOKUMENTARNI",HISTORY CHANNEL
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2891
+#EXTINF:-1 tvg-id="14186" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://uticnica.dynu.net/logos/discoveryscience-clivebesle.png" group-title="DOKUMENTARNI",DISCOVERY SCIENCE HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/20153
+#EXTINF:-1 tvg-id="14193" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://ledeni.kozow.com:8181/images/757a717ee2ade661c665276734c83b16.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC WILD SD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/20155
+#EXTINF:-1 tvg-id="14192" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://ledeni.kozow.com:8181/images/1e01e63e3d890408725310cd6c01960a.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC SD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/20156
+#EXTINF:-1 tvg-id="" tvg-name="====   DJECIJI   ====" tvg-logo="" group-title="DJECIJI",====   DJECIJI   ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/668
+#EXTINF:-1 tvg-id="nickelodeon_hd_(exyu)" tvg-name="NICKELODEON HR" tvg-logo="http://ledeni.kozow.com:8181/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="DJECIJI",NICKELODEON HR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/669
+#EXTINF:-1 tvg-id="4759" tvg-name="NICK JR HR" tvg-logo="http://ledeni.kozow.com:8181/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="DJECIJI",NICK JR HR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/670
+#EXTINF:-1 tvg-id="5606" tvg-name="RTL KOCKICA HD" tvg-logo="http://ledeni.kozow.com:8181/images/fccca9ea6e17c1eaa015c10a3b59eba1.png" group-title="DJECIJI",RTL KOCKICA HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/672
+#EXTINF:-1 tvg-id="hayatovci_(exyu)" tvg-name="HAYATOVCI HD" tvg-logo="http://uticnica.dynu.net/logos/hayatovci.png" group-title="DJECIJI",HAYATOVCI HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/671
+#EXTINF:-1 tvg-id="4848" tvg-name="BABY TV" tvg-logo="http://ledeni.kozow.com:8181/images/ba0ea906fc2c2768a3aaf332fb3565e5.png" group-title="DJECIJI",BABY TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/673
+#EXTINF:-1 tvg-id="6021" tvg-name="PINK KIDS" tvg-logo="http://insigniaco.co.uk:8181/images/ea3f074a020a5939d2af7937dc61bd2d.png" group-title="DJECIJI",PINK KIDS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/674
+#EXTINF:-1 tvg-id="minimax_(exyu)" tvg-name="MINIMAX" tvg-logo="http://uticnica.dynu.net/logos/minimax.png" group-title="DJECIJI",MINIMAX
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1955
+#EXTINF:-1 tvg-id="" tvg-name="MASA I MEDVJED HR HD" tvg-logo="https://www.talentshow.hr/Brands/Masha/Himage2.png" group-title="DJECIJI",MASA I MEDVJED HR HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1421
+#EXTINF:-1 tvg-id="7875" tvg-name="CARTOON NETWORK" tvg-logo="http://uticnica.dynu.net/logos/cartoonnetwork.png" group-title="DJECIJI",CARTOON NETWORK
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/19924
+#EXTINF:-1 tvg-id="boomerang_(exyu)" tvg-name="BOOMERANG" tvg-logo="http://ledeni.kozow.com:8181/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="DJECIJI",BOOMERANG
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/20490
+#EXTINF:-1 tvg-id="" tvg-name="==== MUZICKI GLAZBENI KANALI ====" tvg-logo="" group-title="MUZICKI-GLAZBENI",==== MUZICKI GLAZBENI KANALI ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/636
+#EXTINF:-1 tvg-id="hayat_folk_(exyu)" tvg-name="HAYAT FOLK" tvg-logo="http://ledeni.kozow.com:8181/images/33def19521802fc3caca3c502628cc38.png" group-title="MUZICKI-GLAZBENI",HAYAT FOLK
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/639
+#EXTINF:-1 tvg-id="hayat_music_(exyu)" tvg-name="HAYAT MUSIC" tvg-logo="http://ledeni.kozow.com:8181/images/32fddcbdc1f0bfa85a49a30e2f8aca96.png" group-title="MUZICKI-GLAZBENI",HAYAT MUSIC
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/640
+#EXTINF:-1 tvg-id="5589" tvg-name="GRAND TV" tvg-logo="http://ledeni.kozow.com:8181/images/662f0059608902aaaf47299022f207ca.png" group-title="MUZICKI-GLAZBENI",GRAND TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/641
+#EXTINF:-1 tvg-id="6780" tvg-name="GRAND 2 RS" tvg-logo="http://uticnica.dynu.net/logos/grand.png" group-title="MUZICKI-GLAZBENI",GRAND 2 RS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/642
+#EXTINF:-1 tvg-id="5377" tvg-name="JUGOTON TV" tvg-logo="http://ledeni.kozow.com:8181/images/8a400752393ba42c7f336644e1877d8b.png" group-title="MUZICKI-GLAZBENI",JUGOTON TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/649
+#EXTINF:-1 tvg-id="13915" tvg-name="IZVORNA TV" tvg-logo="http://ledeni.kozow.com:8181/images/3642e1cc20f1395683bd355a98583f58.png" group-title="MUZICKI-GLAZBENI",IZVORNA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/650
+#EXTINF:-1 tvg-id="5161" tvg-name="OTV  VALENTINO" tvg-logo="http://uticnica.dynu.net/logos/otvvalentino.png" group-title="MUZICKI-GLAZBENI",OTV  VALENTINO
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/651
+#EXTINF:-1 tvg-id="5592" tvg-name="BN MUSIC HD" tvg-logo="http://uticnica.dynu.net/logos/bnmusic.png" group-title="MUZICKI-GLAZBENI",BN MUSIC HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/652
+#EXTINF:-1 tvg-id="5588" tvg-name="DM SAT" tvg-logo="http://ledeni.kozow.com:8181/images/c62f5698822de90d09ef335546120350.png" group-title="MUZICKI-GLAZBENI",DM SAT
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/653
+#EXTINF:-1 tvg-id="20306" tvg-name="KCN 1" tvg-logo="http://ledeni.kozow.com:8181/images/4d8b57cc9f2bd0488b22e0f0c6e2287f.png" group-title="MUZICKI-GLAZBENI",KCN 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/655
+#EXTINF:-1 tvg-id="20308" tvg-name="KCN 3" tvg-logo="http://ledeni.kozow.com:8181/images/84de3338cc8ef678f95b99e10f445cee.png" group-title="MUZICKI-GLAZBENI",KCN 3
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/657
+#EXTINF:-1 tvg-id="20307" tvg-name="KCN 2" tvg-logo="http://ledeni.kozow.com:8181/images/083d2dbd50881de10d91d5db04a85026.png" group-title="MUZICKI-GLAZBENI",KCN 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/656
+#EXTINF:-1 tvg-id="22265" tvg-name="CMC HD" tvg-logo="http://ledeni.kozow.com:8181/images/7d68d2ba8afb466769724f3e52228549.png" group-title="MUZICKI-GLAZBENI",CMC HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/658
+#EXTINF:-1 tvg-id="5596" tvg-name="BALKANIKA" tvg-logo="http://ledeni.kozow.com:8181/images/6947c752b3d162f6b8dd3bd10634b6a0.png" group-title="MUZICKI-GLAZBENI",BALKANIKA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/661
+#EXTINF:-1 tvg-id="13926" tvg-name="TV GLAS DRINE HD" tvg-logo="http://ledeni.kozow.com:8181/images/d0e6a706b74826465f1b29256e278d9e.png" group-title="MUZICKI-GLAZBENI",TV GLAS DRINE HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/662
+#EXTINF:-1 tvg-id="19414" tvg-name="PLANETA TV" tvg-logo="http://ledeni.kozow.com:8181/images/9772370be8dae4e7e0118e8648667407.png" group-title="MUZICKI-GLAZBENI",PLANETA TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/20521
+#EXTINF:-1 tvg-id="5501" tvg-name="PINK SERIJE" tvg-logo="http://ledeni.kozow.com:8181/images/7f50431e5bf893c955ea81a403dede32.png" group-title="PINK PEDIJA",PINK SERIJE
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1869
+#EXTINF:-1 tvg-id="4867" tvg-name="PINK MUSIC 2" tvg-logo="http://nova-generacija.ooguy.com:8181/images/0076100f8930021463a37de7747641f0.png" group-title="PINK PEDIJA",PINK MUSIC 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1870
+#EXTINF:-1 tvg-id="5121" tvg-name="PINK MUSIC" tvg-logo="http://uticnica.dynu.net/logos/pinkmusic.png" group-title="PINK PEDIJA",PINK MUSIC
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1871
+#EXTINF:-1 tvg-id="5508" tvg-name="PINK KUVAR" tvg-logo="http://ledeni.kozow.com:8181/images/2d330b4f03fdf07c938ffacf1be5d420.png" group-title="PINK PEDIJA",PINK KUVAR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1873
+#EXTINF:-1 tvg-id="5383" tvg-name="PINK HITS 2" tvg-logo="http://ledeni.kozow.com:8181/images/da104b27ff22d98fefce41a7a9867203.png" group-title="PINK PEDIJA",PINK HITS 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1874
+#EXTINF:-1 tvg-id="5587" tvg-name="PINK FOLK 2" tvg-logo="http://ledeni.kozow.com:8181/images/189174e542e45be1e40f6184860687a2.png" group-title="PINK PEDIJA",PINK FOLK 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1875
+#EXTINF:-1 tvg-id="5374" tvg-name="PINK FAMILY" tvg-logo="http://ledeni.kozow.com:8181/images/95a865235259c66407154adf523e45ec.png" group-title="PINK PEDIJA",PINK FAMILY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1877
+#EXTINF:-1 tvg-id="6525" tvg-name="PINK EXTRA" tvg-logo="http://ledeni.kozow.com:8181/images/6a8c3b53c3eb7e71ea7a740faaaa2963.png" group-title="PINK PEDIJA",PINK EXTRA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1878
+#EXTINF:-1 tvg-id="5635" tvg-name="PINK CLASIC" tvg-logo="http://ledeni.kozow.com:8181/images/8f63e2f835e6d99a9dfc674ca25dba64.png" group-title="PINK PEDIJA",PINK CLASIC
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1879
+#EXTINF:-1 tvg-id="5503" tvg-name="PINK WESTERN" tvg-logo="http://ledeni.kozow.com:8181/images/b8b2313685003ec3c525836d8bf45ecd.png" group-title="PINK PEDIJA",PINK WESTERN
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1883
+#EXTINF:-1 tvg-id="6540" tvg-name="PINK MOVIES" tvg-logo="http://ledeni.kozow.com:8181/images/733a4093f6dc23d6548a22f216f45e81.png" group-title="PINK PEDIJA",PINK MOVIES
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1885
+#EXTINF:-1 tvg-id="5847" tvg-name="PINK FILM" tvg-logo="http://ledeni.kozow.com:8181/images/8564d13e4c08147f62435066d85c76c6.png" group-title="PINK PEDIJA",PINK FILM
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1886
+#EXTINF:-1 tvg-id="5495" tvg-name="PINK ACTION" tvg-logo="http://ledeni.kozow.com:8181/images/9f5d6f2b5c0f8fbe0410d3ad90c2ab4f.png" group-title="PINK PEDIJA",PINK ACTION
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1888
+#EXTINF:-1 tvg-id="5504" tvg-name="PINK ZABAVA" tvg-logo="http://ledeni.kozow.com:8181/images/0dc42a51a98c6bac9efd5a8c15a4751d.png" group-title="PINK PEDIJA",PINK ZABAVA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1890
+#EXTINF:-1 tvg-id="5789" tvg-name="PINK WORLD" tvg-logo="http://ledeni.kozow.com:8181/images/4932650378cf8c6396acf826a8d2677d.png" group-title="PINK PEDIJA",PINK WORLD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1891
+#EXTINF:-1 tvg-id="5502" tvg-name="PINK THRILLER" tvg-logo="http://ledeni.kozow.com:8181/images/5de5dd67c8fef34b170080e589003ab1.png" group-title="PINK PEDIJA",PINK THRILLER
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1892
+#EXTINF:-1 tvg-id="5505" tvg-name="PINK SOAP" tvg-logo="http://ledeni.kozow.com:8181/images/724cfdfcda952b9e4eb80d3f2071306f.png" group-title="PINK PEDIJA",PINK SOAP
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1893
+#EXTINF:-1 tvg-id="5500" tvg-name="PINK SCI-FI FANTASY" tvg-logo="http://ledeni.kozow.com:8181/images/84ae5ab68484cb20b008e050e53fc934.png" group-title="PINK PEDIJA",PINK SCI-FI FANTASY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1894
+#EXTINF:-1 tvg-id="5506" tvg-name="PINK ROMANCE" tvg-logo="http://ledeni.kozow.com:8181/images/18869c3ea5a64fecb67f97aaf91f4ab9.png" group-title="PINK PEDIJA",PINK ROMANCE
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1895
+#EXTINF:-1 tvg-id="5499" tvg-name="PINK REALITY" tvg-logo="http://ledeni.kozow.com:8181/images/09a5d8abe34d2377a1a6ee5807ff7f6b.png" group-title="PINK PEDIJA",PINK REALITY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1896
+#EXTINF:-1 tvg-id="5498" tvg-name="PINK PREMIUM" tvg-logo="http://ledeni.kozow.com:8181/images/29513f0f0ceee4261241bec795149bfe.png" group-title="PINK PEDIJA",PINK PREMIUM
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1897
+#EXTINF:-1 tvg-id="5497" tvg-name="PINK HOROR" tvg-logo="http://uticnica.dynu.net/logos/pinkhorror.png" group-title="PINK PEDIJA",PINK HOROR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1899
+#EXTINF:-1 tvg-id="5509" tvg-name="PINK CRIME&MYSTERY" tvg-logo="http://ledeni.kozow.com:8181/images/d5855df83be767072a1fc48719901d5e.png" group-title="PINK PEDIJA",PINK CRIME&MYSTERY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1900
+#EXTINF:-1 tvg-id="5496" tvg-name="PINK COMEDY" tvg-logo="http://uticnica.dynu.net/logos/pinkcomedy.png" group-title="PINK PEDIJA",PINK COMEDY
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1901
+#EXTINF:-1 tvg-id="5493" tvg-name="RED TV" tvg-logo="http://ledeni.kozow.com:8181/images/310006edab3981a0ddc87d4c67fe2668.png" group-title="PINK PEDIJA",RED TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1960
+#EXTINF:-1 tvg-id="5586" tvg-name="PINK FOLK  1" tvg-logo="http://ledeni.kozow.com:8181/images/2114e123cd9f94be9ed1ae181d027456.png" group-title="PINK PEDIJA",PINK FOLK  1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2854
+#EXTINF:-1 tvg-id="6392" tvg-name="PINK 1" tvg-logo="http://ledeni.kozow.com:8181/images/ae10f030ef79d76c2c486f1beaf6157e.png" group-title="PINK PEDIJA",PINK 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2855
+#EXTINF:-1 tvg-id="5507" tvg-name="PINK PLUS" tvg-logo="http://ledeni.kozow.com:8181/images/cbb4fb294b30a994e8837418f1951918.png" group-title="PINK PEDIJA",PINK PLUS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2881
+#EXTINF:-1 tvg-id="" tvg-name="==== PINK PEDIJA ====" tvg-logo="" group-title="PINK PEDIJA",==== PINK PEDIJA ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/3063
+#EXTINF:-1 tvg-id="13866" tvg-name="DE: RTL HD " tvg-logo="http://ledeni.kozow.com:8181/images/f6d7c1476945c03fd53110d1f3295f42.png" group-title="GERMANY & SKY GERMANY",DE: RTL HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/383
+#EXTINF:-1 tvg-id="RTL Living HD" tvg-name="DE: RTL LIVING HD" tvg-logo="http://uticnica.dynu.net/logos/rtllivinghd.png" group-title="GERMANY & SKY GERMANY",DE: RTL LIVING HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/386
+#EXTINF:-1 tvg-id="Nitro HD" tvg-name="DE: RTL NITRO HD " tvg-logo="http://uticnica.dynu.net/logos/rtlnitrohd.png" group-title="GERMANY & SKY GERMANY",DE: RTL NITRO HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/388
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE: FOX  HD " tvg-logo="http://ledeni.kozow.com:8181/images/13667c2478f5dad7cddb7fb42085c00a.png" group-title="GERMANY & SKY GERMANY",DE: FOX  HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/391
+#EXTINF:-1 tvg-id="Super RTL HD" tvg-name="DE: SUPER RTL HD" tvg-logo="http://uticnica.dynu.net/logos/superrtlhd.png" group-title="GERMANY & SKY GERMANY",DE: SUPER RTL HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/392
+#EXTINF:-1 tvg-id="3sat HD" tvg-name="DE: 3 SAT HD" tvg-logo="http://uticnica.dynu.net/logos/3sathd.png" group-title="GERMANY & SKY GERMANY",DE: 3 SAT HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/393
+#EXTINF:-1 tvg-id="ProSieben FUN HD" tvg-name="DE: PRO 7 FUN  HD" tvg-logo="http://uticnica.dynu.net/logos/prosiebenfunhd.png" group-title="GERMANY & SKY GERMANY",DE: PRO 7 FUN  HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/396
+#EXTINF:-1 tvg-id="Das Erste HD" tvg-name="DE: DAS ERSTE HD " tvg-logo="http://uticnica.dynu.net/logos/daserstehd.png" group-title="GERMANY & SKY GERMANY",DE: DAS ERSTE HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/399
+#EXTINF:-1 tvg-id="DMAX HD" tvg-name="DE: DMAX HD" tvg-logo="http://uticnica.dynu.net/logos/dmaxhd.png" group-title="GERMANY & SKY GERMANY",DE: DMAX HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/400
+#EXTINF:-1 tvg-id="arte HD" tvg-name="DE: ARTE HD" tvg-logo="http://uticnica.dynu.net/logos/artehd.png" group-title="GERMANY & SKY GERMANY",DE: ARTE HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/401
+#EXTINF:-1 tvg-id="ZDF HD" tvg-name="DE: ZDF HD" tvg-logo="http://ledeni.kozow.com:8181/images/c68382b64d2e23c4f2ef685b173ea90b.png" group-title="GERMANY & SKY GERMANY",DE: ZDF HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/403
+#EXTINF:-1 tvg-id="ZDF_neo HD" tvg-name="DE: ZDF NEO" tvg-logo="http://uticnica.dynu.net/logos/zdfneohd.png" group-title="GERMANY & SKY GERMANY",DE: ZDF NEO
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/404
+#EXTINF:-1 tvg-id="ORF 1 HD" tvg-name="AT: ORF 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/c669aec0dfb4a20e93f585d14fd63eb1.png" group-title="GERMANY & SKY GERMANY",AT: ORF 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/405
+#EXTINF:-1 tvg-id="13843" tvg-name="AT: ORF 2 HD" tvg-logo="http://uticnica.dynu.net/logos/orf2hd.png" group-title="GERMANY & SKY GERMANY",AT: ORF 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/406
+#EXTINF:-1 tvg-id="20806" tvg-name="DE: N24 HD" tvg-logo="http://uticnica.dynu.net/logos/n24hd.png" group-title="GERMANY & SKY GERMANY",DE: N24 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/410
+#EXTINF:-1 tvg-id="KiKA HD" tvg-name="DE: KIKA HD" tvg-logo="http://uticnica.dynu.net/logos/kikahd.png" group-title="GERMANY & SKY GERMANY",DE: KIKA HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/412
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="DE: NICKELODEON HD " tvg-logo="http://uticnica.dynu.net/logos/nickelodeonhd.png" group-title="GERMANY & SKY GERMANY",DE: NICKELODEON HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/414
+#EXTINF:-1 tvg-id="Junior" tvg-name="DE: DISNEY JUNIOR HD " tvg-logo="http://uticnica.dynu.net/logos/disneyjuniorhd.png" group-title="GERMANY & SKY GERMANY",DE: DISNEY JUNIOR HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/417
+#EXTINF:-1 tvg-id="" tvg-name="====  GERMANY & SKY GERMANY  ====" tvg-logo="" group-title="GERMANY & SKY GERMANY",====  GERMANY & SKY GERMANY  ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/419
+#EXTINF:-1 tvg-id="Sky One HD" tvg-name="DE: SKY ONE  HD" tvg-logo="http://ledeni.kozow.com:8181/images/6799b6840c524210647b2a320bb2a1f6.png" group-title="GERMANY & SKY GERMANY",DE: SKY ONE  HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/433
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="DE: SKY CINEMA PREMIEREN  +24 HD " tvg-logo="http://ledeni.kozow.com:8181/images/c7ec98c0be9fc169d8050a525cf1ed12.png" group-title="GERMANY & SKY GERMANY",DE: SKY CINEMA PREMIEREN  +24 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/439
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="DE: SYFY HD " tvg-logo="http://uticnica.dynu.net/logos/syfyhd.png" group-title="GERMANY & SKY GERMANY",DE: SYFY HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/447
+#EXTINF:-1 tvg-id="SONY AXN HD" tvg-name="DE: AXN HD " tvg-logo="http://uticnica.dynu.net/logos/axnhd.png" group-title="GERMANY & SKY GERMANY",DE: AXN HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/451
+#EXTINF:-1 tvg-id="The HISTORY Channel HD" tvg-name="DE: HISTORY HD " tvg-logo="http://uticnica.dynu.net/logos/historyhd.png" group-title="GERMANY & SKY GERMANY",DE: HISTORY HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/455
+#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-name="DE: NATIONAL GEOGRAPHIC WILD HD " tvg-logo="http://ledeni.kozow.com:8181/images/e46ad8c029b6c42a9e8b429931f4db3a.png" group-title="GERMANY & SKY GERMANY",DE: NATIONAL GEOGRAPHIC WILD HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/460
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="DE: BOOMERANG " tvg-logo="http://ledeni.kozow.com:8181/images/97ccbe33b26a6a8f49cf2b665a665270.png" group-title="GERMANY & SKY GERMANY",DE: BOOMERANG 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1780
+#EXTINF:-1 tvg-id="Sky Cinema Action HD" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="http://ledeni.kozow.com:8181/images/8f3f6b311636ccbe1d062b9c89278daf.png" group-title="GERMANY & SKY GERMANY",DE: SKY CINEMA ACTION HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1904
+#EXTINF:-1 tvg-id="13860" tvg-name="DE: SKY CINEMA COMEDY HD" tvg-logo="http://ledeni.kozow.com:8181/images/c077cdc08a0ad3cdfe01e701d88b0a71.png" group-title="GERMANY & SKY GERMANY",DE: SKY CINEMA COMEDY HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1905
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL SD  " tvg-logo="http://uticnica.dynu.net/logos/rtl.png" group-title="GERMANY & SKY GERMANY",DE: RTL SD  
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1907
+#EXTINF:-1 tvg-id="RTLZWEI HD" tvg-name="DE: RTL 2 HD " tvg-logo="http://uticnica.dynu.net/logos/rtl2hd.png" group-title="GERMANY & SKY GERMANY",DE: RTL 2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1908
+#EXTINF:-1 tvg-id="RTLplus HD" tvg-name="DE: RTL PLUS" tvg-logo="http://uticnica.dynu.net/logos/rtlplus.png" group-title="GERMANY & SKY GERMANY",DE: RTL PLUS
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1909
+#EXTINF:-1 tvg-id="ProSieben HD" tvg-name="DE: PRO 7 HD" tvg-logo="http://uticnica.dynu.net/logos/prosiebenhd.png" group-title="GERMANY & SKY GERMANY",DE: PRO 7 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1912
+#EXTINF:-1 tvg-id="1-2-3.TV HD" tvg-name="DE: KABEL EINS HD" tvg-logo="http://uticnica.dynu.net/logos/kabeleinshd.png" group-title="GERMANY & SKY GERMANY",DE: KABEL EINS HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1914
+#EXTINF:-1 tvg-id="VOX HD" tvg-name="DE: VOX HD" tvg-logo="http://uticnica.dynu.net/logos/voxhd.png" group-title="GERMANY & SKY GERMANY",DE: VOX HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1915
+#EXTINF:-1 tvg-id="Kinowelt TV HD" tvg-name="DE: KINOWELT  TV" tvg-logo="http://uticnica.dynu.net/logos/kinowelttvhd.png" group-title="GERMANY & SKY GERMANY",DE: KINOWELT  TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1925
+#EXTINF:-1 tvg-id="13th Street HD" tvg-name="DE: 13TH  STREET HD" tvg-logo="http://uticnica.dynu.net/logos/13thstreethd.png" group-title="GERMANY & SKY GERMANY",DE: 13TH  STREET HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1926
+#EXTINF:-1 tvg-id="13838" tvg-name="DE: NATIONAL GEOGRAFIC HD " tvg-logo="http://ledeni.kozow.com:8181/images/64decb20124b5e8611c0d3677c3b9318.png" group-title="GERMANY & SKY GERMANY",DE: NATIONAL GEOGRAFIC HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1927
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DE: DISCOVERY CHANNEL HD  " tvg-logo="http://uticnica.dynu.net/logos/discoverychannelhd.png" group-title="GERMANY & SKY GERMANY",DE: DISCOVERY CHANNEL HD  
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1928
+#EXTINF:-1 tvg-id="RTL Passion HD" tvg-name="DE: RTL PASION HD " tvg-logo="http://uticnica.dynu.net/logos/rtlpassionhd.png" group-title="GERMANY & SKY GERMANY",DE: RTL PASION HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1929
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="DE: RTL CRIME HD" tvg-logo="http://uticnica.dynu.net/logos/rtlcrimehd.png" group-title="GERMANY & SKY GERMANY",DE: RTL CRIME HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1930
+#EXTINF:-1 tvg-id="13817" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="http://uticnica.dynu.net/logos/animalplanethd-clivebesle.png" group-title="GERMANY & SKY GERMANY",DE: ANIMAL PLANET HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1963
+#EXTINF:-1 tvg-id="13891" tvg-name="DE: UNIVERSAL HD" tvg-logo="http://uticnica.dynu.net/logos/universalchannelhd.png" group-title="GERMANY & SKY GERMANY",DE: UNIVERSAL HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2575
+#EXTINF:-1 tvg-id="sixx HD" tvg-name="DE: SIXX HD" tvg-logo="http://uticnica.dynu.net/logos/sixxhd.png" group-title="GERMANY & SKY GERMANY",DE: SIXX HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2585
+#EXTINF:-1 tvg-id="cinemagicde" tvg-name="DE: DISNEY CINEMAGIC HD" tvg-logo="http://ledeni.kozow.com:8181/images/1089126cb2e029f28b711ae56f1a23ae.png" group-title="GERMANY & SKY GERMANY",DE: DISNEY CINEMAGIC HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2702
+#EXTINF:-1 tvg-id="Disney HD" tvg-name="DE: DISNEY CH HD" tvg-logo="http://ledeni.kozow.com:8181/images/b2769b4fd46ca30e0df1b5f4f0243881.png" group-title="GERMANY & SKY GERMANY",DE: DISNEY CH HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2781
+#EXTINF:-1 tvg-id="" tvg-name="====  SPORT EXYU  ====" tvg-logo="http://nova-generacija.ooguy.com:8181/images/952a871995a4f5635047f00355faea89.png" group-title="SPORT EXYU",====  SPORT EXYU  ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/573
+#EXTINF:-1 tvg-id="14724" tvg-name="HR: ARENA SPORT 1 HD " tvg-logo="http://ledeni.kozow.com:8181/images/85c7d216358e6154172a7dbe89c2f897.png" group-title="SPORT EXYU",HR: ARENA SPORT 1 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/575
+#EXTINF:-1 tvg-id="14725" tvg-name="HR: ARENA SPORT 2 HD " tvg-logo="http://ledeni.kozow.com:8181/images/9f316e5c99cc919773ca2f39d63e067a.png" group-title="SPORT EXYU",HR: ARENA SPORT 2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/576
+#EXTINF:-1 tvg-id="14726" tvg-name="HR: ARENA SPORT 3 HD " tvg-logo="http://ledeni.kozow.com:8181/images/960520d43f16e799d1dec39186ffc2aa.png" group-title="SPORT EXYU",HR: ARENA SPORT 3 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/577
+#EXTINF:-1 tvg-id="arena_sport_4_croatia_(exyu)" tvg-name="HR: ARENA SPORT 4 HD " tvg-logo="http://ledeni.kozow.com:8181/images/f89c7ec70e63c92cd7e74143d1c792e2.png" group-title="SPORT EXYU",HR: ARENA SPORT 4 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/578
+#EXTINF:-1 tvg-id="14728" tvg-name="HR: ARENA SPORT 5 HD " tvg-logo="http://ledeni.kozow.com:8181/images/f22cbf57f6ac76dd8cf3be49c0dd9bd3.png" group-title="SPORT EXYU",HR: ARENA SPORT 5 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/579
+#EXTINF:-1 tvg-id="14729" tvg-name="HR: ARENA SPORT  6 HD " tvg-logo="http://ledeni.kozow.com:8181/images/50cc2d35fb1bdd7b2d42f074bbd0c895.png" group-title="SPORT EXYU",HR: ARENA SPORT  6 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/580
+#EXTINF:-1 tvg-id="24420" tvg-name="SR: ARENA SPORT 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/85c7d216358e6154172a7dbe89c2f897.png" group-title="SPORT EXYU",SR: ARENA SPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/581
+#EXTINF:-1 tvg-id="24421" tvg-name="SR: ARENA SPORT 2 HD" tvg-logo="http://uticnica.dynu.net/logos/arenasport2-drukahehip.png" group-title="SPORT EXYU",SR: ARENA SPORT 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/582
+#EXTINF:-1 tvg-id="24422" tvg-name="SR: ARENA SPORT 3 HD" tvg-logo="http://uticnica.dynu.net/logos/arenasport3-drukahehip.png" group-title="SPORT EXYU",SR: ARENA SPORT 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/583
+#EXTINF:-1 tvg-id="24423" tvg-name="SR: ARENA SPORT 4 HD" tvg-logo="http://ledeni.kozow.com:8181/images/f89c7ec70e63c92cd7e74143d1c792e2.png" group-title="SPORT EXYU",SR: ARENA SPORT 4 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/584
+#EXTINF:-1 tvg-id="14741" tvg-name="HR: SPORT KLUB 1 HD " tvg-logo="http://uticnica.dynu.net/logos/sportklub1.png" group-title="SPORT EXYU",HR: SPORT KLUB 1 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/594
+#EXTINF:-1 tvg-id="14742" tvg-name="HR: SPORT KLUB 2 HD " tvg-logo="http://ledeni.kozow.com:8181/images/f6b976cff121ed98fb3a14e350b8224b.png" group-title="SPORT EXYU",HR: SPORT KLUB 2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/595
+#EXTINF:-1 tvg-id="14743" tvg-name="HR: SPORT KLUB 3 HD " tvg-logo="http://ledeni.kozow.com:8181/images/ebde0c3fc0b1c75b2e0baa33adf977af.png" group-title="SPORT EXYU",HR: SPORT KLUB 3 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/596
+#EXTINF:-1 tvg-id="14738" tvg-name="SR: SPORT KLUB 1 HD " tvg-logo="http://ledeni.kozow.com:8181/images/7a3b1b3cbdf8fd7346422329a9a56214.png" group-title="SPORT EXYU",SR: SPORT KLUB 1 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/597
+#EXTINF:-1 tvg-id="14739" tvg-name="SR: SPORT KLUB 2 HD " tvg-logo="http://ledeni.kozow.com:8181/images/f6b976cff121ed98fb3a14e350b8224b.png" group-title="SPORT EXYU",SR: SPORT KLUB 2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/598
+#EXTINF:-1 tvg-id="14740" tvg-name="SR: SPORT KLUB 3 HD " tvg-logo="http://uticnica.dynu.net/logos/sportklub3.png" group-title="SPORT EXYU",SR: SPORT KLUB 3 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/599
+#EXTINF:-1 tvg-id="eurosport_1_hd_(exyu)" tvg-name="SR: EUROSPORT 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/8b09226975f258b7124e2ce9fed72537.png" group-title="SPORT EXYU",SR: EUROSPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/604
+#EXTINF:-1 tvg-id="eurosport_2_hd_(exyu)" tvg-name="SR: EUROSPORT  2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/00295a368675482110dbe435465bba33.png" group-title="SPORT EXYU",SR: EUROSPORT  2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/605
+#EXTINF:-1 tvg-id="" tvg-name="==== OTHER SPORT  ====" tvg-logo="" group-title="OTHER SPORT",==== OTHER SPORT  ====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/495
+#EXTINF:-1 tvg-id="Eurosport1 HD" tvg-name="DE: EUROSPORT 1 HD " tvg-logo="http://ledeni.kozow.com:8181/images/28b5e66a7022294ec8bc456cd9fb3f5e.png" group-title="OTHER SPORT",DE: EUROSPORT 1 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/497
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="DE: EUROSPORT 2 HD " tvg-logo="http://ledeni.kozow.com:8181/images/e4b2605ee8f033a55886c529e330e667.png" group-title="OTHER SPORT",DE: EUROSPORT 2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/498
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: SKY SPORTS NEWS " tvg-logo="http://uticnica.dynu.net/logos/skysportnewshd.png" group-title="OTHER SPORT",DE: SKY SPORTS NEWS 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/500
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD" tvg-name="DE: BUNDES 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/1397561246a854b2c4150a54bc9e2ee1.png" group-title="OTHER SPORT",DE: BUNDES 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/501
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD" tvg-name="DE: BUNDES 2 HD (ONLY ON MATCHDAY)" tvg-logo="http://ledeni.kozow.com:8181/images/ebbbd83fcc303cf2816c2d13f58d2055.png" group-title="OTHER SPORT",DE: BUNDES 2 HD (ONLY ON MATCHDAY)
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/502
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://uticnica.dynu.net/logos/skysport1hd.png" group-title="OTHER SPORT",DE: SKY SPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/506
+#EXTINF:-1 tvg-id="Sky Sport 2 HD" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/e7543b0a33ac5b9d80a6eae3862c8e8c.png" group-title="OTHER SPORT",DE: SKY SPORT 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/507
+#EXTINF:-1 tvg-id="14772" tvg-name="AR: BEIN SPORT 1 HD" tvg-logo="http://uticnica.dynu.net/logos/beinsportshd1.png" group-title="OTHER SPORT",AR: BEIN SPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/510
+#EXTINF:-1 tvg-id="14773" tvg-name="AR: BEIN SPORT 2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/d1c22adb93ffe30843b0858a9361b619.png" group-title="OTHER SPORT",AR: BEIN SPORT 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/511
+#EXTINF:-1 tvg-id="14774" tvg-name="AR: BEIN SPORT 3 HD" tvg-logo="http://uticnica.dynu.net/logos/beinsportshd3.png" group-title="OTHER SPORT",AR: BEIN SPORT 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/512
+#EXTINF:-1 tvg-id="14775" tvg-name="AR: BEIN SPORT 4 HD" tvg-logo="http://uticnica.dynu.net/logos/beinsportshd4.png" group-title="OTHER SPORT",AR: BEIN SPORT 4 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/513
+#EXTINF:-1 tvg-id="14776" tvg-name="AR: BEIN SPORT 5 HD" tvg-logo="http://uticnica.dynu.net/logos/beinsportshd5.png" group-title="OTHER SPORT",AR: BEIN SPORT 5 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/514
+#EXTINF:-1 tvg-id="14777" tvg-name="AR: BEIN SPORT 6 HD" tvg-logo="http://uticnica.dynu.net/logos/beinsportshd6.png" group-title="OTHER SPORT",AR: BEIN SPORT 6 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/515
+#EXTINF:-1 tvg-id="14778" tvg-name="AR: BEIN SPORT 7 HD" tvg-logo="http://ledeni.kozow.com:8181/images/d8b770e83d9c764718e9cf4a0f4b88dc.png" group-title="OTHER SPORT",AR: BEIN SPORT 7 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/516
+#EXTINF:-1 tvg-id="14779" tvg-name="AR: BEIN SPORT 8 HD" tvg-logo="http://uticnica.dynu.net/logos/beinsportshd8.png" group-title="OTHER SPORT",AR: BEIN SPORT 8 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/517
+#EXTINF:-1 tvg-id="7873" tvg-name="AR: BEIN SPORT 9 HD" tvg-logo="http://vip.gotdns.ch:8181/images/1b5e07f395d285a8b95f656ee438c0e6.png" group-title="OTHER SPORT",AR: BEIN SPORT 9 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/518
+#EXTINF:-1 tvg-id="14781" tvg-name="AR: BEIN SPORT 10 HD" tvg-logo="http://insigniaco.co.uk:8181/images/9fe42fc23e2ae383e9fdf23552e7c6f3.png" group-title="OTHER SPORT",AR: BEIN SPORT 10 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/519
+#EXTINF:-1 tvg-id="14769" tvg-name="FR: BEIN SPORTS 1 HD FR" tvg-logo="http://ledeni.kozow.com:8181/images/9381fa75a05f97b3ab9ec17eb8cd5ffd.png" group-title="OTHER SPORT",FR: BEIN SPORTS 1 HD FR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/520
+#EXTINF:-1 tvg-id="14770" tvg-name="FR: BEIN SPORTS 2 HD " tvg-logo="http://ledeni.kozow.com:8181/images/d1c22adb93ffe30843b0858a9361b619.png" group-title="OTHER SPORT",FR: BEIN SPORTS 2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/521
+#EXTINF:-1 tvg-id="14771" tvg-name="FR: BEIN SPORTS 3 HD " tvg-logo="http://uticnica.dynu.net/logos/beinsportshd3.png" group-title="OTHER SPORT",FR: BEIN SPORTS 3 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/522
+#EXTINF:-1 tvg-id="14807" tvg-name="AL: SUPER SPORT  1 HD " tvg-logo="http://ledeni.kozow.com:8181/images/5cb9a76f0c334e32347553ff0cdbe39c.png" group-title="OTHER SPORT",AL: SUPER SPORT  1 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/526
+#EXTINF:-1 tvg-id="14808" tvg-name="AL: SUPER SPORT  2 HD " tvg-logo="http://ledeni.kozow.com:8181/images/89044c201c7f9ada71638522e4d7f6f7.png" group-title="OTHER SPORT",AL: SUPER SPORT  2 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/527
+#EXTINF:-1 tvg-id="14809" tvg-name="AL: SUPER SPORT  3 HD " tvg-logo="http://ledeni.kozow.com:8181/images/80a58f48a4b65f1d4aa4ff9aee0f34eb.png" group-title="OTHER SPORT",AL: SUPER SPORT  3 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/528
+#EXTINF:-1 tvg-id="14810" tvg-name="AL: SUPER SPORT  4 HD " tvg-logo="http://ledeni.kozow.com:8181/images/42cbb25d9db51a9f9ca07c27068a65a8.png" group-title="OTHER SPORT",AL: SUPER SPORT  4 HD 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/529
+#EXTINF:-1 tvg-id="14783" tvg-name="RO: DIGI SPORT 1 HD" tvg-logo="http://uticnica.dynu.net/logos/digisport1hd.png" group-title="OTHER SPORT",RO: DIGI SPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/532
+#EXTINF:-1 tvg-id="14784" tvg-name="RO: DIGI SPORT 2 HD" tvg-logo="http://ledeni.kozow.com:8181/images/d1fdea1f6e58979a6f5dd800d7edd1f3.png" group-title="OTHER SPORT",RO: DIGI SPORT 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/533
+#EXTINF:-1 tvg-id="14785" tvg-name="RO: DIGI SPORT 4 HD" tvg-logo="http://ledeni.kozow.com:8181/images/f80413ca69001f0ee11086e303c167d7.png" group-title="OTHER SPORT",RO: DIGI SPORT 4 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/534
+#EXTINF:-1 tvg-id="14786" tvg-name="RO: DIGI SPORT 3 HD" tvg-logo="http://uticnica.dynu.net/logos/digisport3.png" group-title="OTHER SPORT",RO: DIGI SPORT 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/535
+#EXTINF:-1 tvg-id="15268" tvg-name="NL: FOX SPORT 1 HD" tvg-logo="http://uticnica.dynu.net/logos/foxsports1.png" group-title="OTHER SPORT",NL: FOX SPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/552
+#EXTINF:-1 tvg-id="15269" tvg-name="NL: FOX SPORT 2 HD" tvg-logo="http://uticnica.dynu.net/logos/foxsports2.png" group-title="OTHER SPORT",NL: FOX SPORT 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/553
+#EXTINF:-1 tvg-id="14805" tvg-name="DE: SKY SPORT AUSTRIA HD" tvg-logo="http://ledeni.kozow.com:8181/images/def5514beba5a03d18b498f4a70c0741.png" group-title="OTHER SPORT",DE: SKY SPORT AUSTRIA HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1936
+#EXTINF:-1 tvg-id="14803" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://uticnica.dynu.net/logos/skysportnewshd.png" group-title="OTHER SPORT",DE: SKY SPORT NEWS HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2571
+#EXTINF:-1 tvg-id="15097" tvg-name="AL:TRING SPORT 1 HD" tvg-logo="http://ledeni.kozow.com:8181/images/dee4f32100e64855effd50e9b4c98072.png" group-title="OTHER SPORT",AL:TRING SPORT 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2846
+#EXTINF:-1 tvg-id="15098" tvg-name="AL:TRING SPORT 2HD" tvg-logo="http://ledeni.kozow.com:8181/images/7a407bd4eadf5b53acc3834470193e7d.png" group-title="OTHER SPORT",AL:TRING SPORT 2HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2847
+#EXTINF:-1 tvg-id="15099" tvg-name="AL:TRING SPORT 3HD" tvg-logo="http://ledeni.kozow.com:8181/images/12bc1406b79d12303090fffeeb5a8997.png" group-title="OTHER SPORT",AL:TRING SPORT 3HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2848
+#EXTINF:-1 tvg-id="15100" tvg-name="AL: TRING SPORT 4HD" tvg-logo="http://ledeni.kozow.com:8181/images/3f4babccb89ecdb31330c28a072229a8.png" group-title="OTHER SPORT",AL: TRING SPORT 4HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2849
+#EXTINF:-1 tvg-id="15101" tvg-name="AL: TRING SPORT NEWS HD" tvg-logo="http://ledeni.kozow.com:8181/images/69bb8478c8e842eca5c1e9340daee353.png" group-title="OTHER SPORT",AL: TRING SPORT NEWS HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2850
+#EXTINF:-1 tvg-id="14798" tvg-name="PT: SPORT TV 1" tvg-logo="http://uticnica.dynu.net/logos/sporttv1hd.png" group-title="OTHER SPORT",PT: SPORT TV 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2861
+#EXTINF:-1 tvg-id="14799" tvg-name="PT: SPORT TV 2" tvg-logo="http://uticnica.dynu.net/logos/sporttv2hd.png" group-title="OTHER SPORT",PT: SPORT TV 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2862
+#EXTINF:-1 tvg-id="14800" tvg-name="PT: SPORT TV 3" tvg-logo="http://uticnica.dynu.net/logos/sporttv3hd.png" group-title="OTHER SPORT",PT: SPORT TV 3
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2863
+#EXTINF:-1 tvg-id="14801" tvg-name="PT: SPORT TV 4" tvg-logo="http://uticnica.dynu.net/logos/sporttv4hd.png" group-title="OTHER SPORT",PT: SPORT TV 4
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2864
+#EXTINF:-1 tvg-id="14802" tvg-name="PT: SPORT TV 5" tvg-logo="http://ledeni.kozow.com:8181/images/81b169fbe368660525f7c2f76995caea.png" group-title="OTHER SPORT",PT: SPORT TV 5
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/2865
+#EXTINF:-1 tvg-id="15270" tvg-name="NL: FOX SPORT 3 HD" tvg-logo="http://uticnica.dynu.net/logos/foxsports3.png" group-title="OTHER SPORT",NL: FOX SPORT 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/3034
+#EXTINF:-1 tvg-id="14810" tvg-name="ALB: SUPER SPORT 4" tvg-logo="http://uticnica.dynu.net/logos/supersport4.png" group-title="OTHER SPORT",ALB: SUPER SPORT 4
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/15787
+#EXTINF:-1 tvg-id="14809" tvg-name="ALB: SUPER SPORT 3" tvg-logo="http://uticnica.dynu.net/logos/supersport3.png" group-title="OTHER SPORT",ALB: SUPER SPORT 3
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/15788
+#EXTINF:-1 tvg-id="14808" tvg-name="ALB: SUPER SPORT 2" tvg-logo="http://uticnica.dynu.net/logos/supersport2.png" group-title="OTHER SPORT",ALB: SUPER SPORT 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/15789
+#EXTINF:-1 tvg-id="14807" tvg-name="ALB: SUPER SPORT 1" tvg-logo="http://ledeni.kozow.com:8181/images/5cb9a76f0c334e32347553ff0cdbe39c.png" group-title="OTHER SPORT",ALB: SUPER SPORT 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/15790
+#EXTINF:-1 tvg-id="15011" tvg-name="MK: ALSAT M " tvg-logo="https://epg.serbianforum.org/logo_znaci/Alsat%20M.png" group-title="MAKEDONIJA",MK: ALSAT M 
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/236
+#EXTINF:-1 tvg-id="5397" tvg-name="MK: MRT 1" tvg-logo="http://nova-generacija.ooguy.com:8181/images/36c917281d7147b315c92f526f962cd0.png" group-title="MAKEDONIJA",MK: MRT 1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/237
+#EXTINF:-1 tvg-id="4816" tvg-name="MK: SITEL" tvg-logo="http://nova-generacija.ooguy.com:8181/images/c76e8ee2158ebd27fbcdcdc5547accf3.png" group-title="MAKEDONIJA",MK: SITEL
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/238
+#EXTINF:-1 tvg-id="5396" tvg-name="MK: ALFA" tvg-logo="http://nova-generacija.ooguy.com:8181/images/513957524190684e00c480e9cc959bc8.png" group-title="MAKEDONIJA",MK: ALFA
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/241
+#EXTINF:-1 tvg-id="5851" tvg-name="MK: Telma" tvg-logo="http://uticnica.dynu.net/logos/telma.png" group-title="MAKEDONIJA",MK: Telma
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/242
+#EXTINF:-1 tvg-id="7804" tvg-name="MK: Nasha TV" tvg-logo="http://insigniaco.co.uk:8181/images/7c5f94b7ed9af66db9a0092c22634201.png" group-title="MAKEDONIJA",MK: Nasha TV
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/245
+#EXTINF:-1 tvg-id="5850" tvg-name="MK: 24 VESTI" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/9671e0e7eb22fd36f3e1f775cd3cc24e-1.png" group-title="MAKEDONIJA",MK: 24 VESTI
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1814
+#EXTINF:-1 tvg-id="5848" tvg-name="MK: KANAL 5" tvg-logo="http://uticnica.dynu.net/logos/kanal5.png" group-title="MAKEDONIJA",MK: KANAL 5
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1815
+#EXTINF:-1 tvg-id="5852" tvg-name="MK: MRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="MAKEDONIJA",MK: MRT 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1820
+#EXTINF:-1 tvg-id="5869" tvg-name="MK: MRT 3" tvg-logo="http://insigniaco.co.uk:8181/images/fb4e8e8dde541fab6ad1e2e23c4d91ff.png" group-title="MAKEDONIJA",MK: MRT 3
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/1821
+#EXTINF:-1 tvg-id="" tvg-name="====MAKEDONIJA====" tvg-logo="http://nova-generacija.ooguy.com:8181/images/dd71077f65c8cdc186750280c7e91b87.png" group-title="MAKEDONIJA",====MAKEDONIJA====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/24200
+#EXTINF:-1 tvg-id="111" tvg-name="NL: NPO 1 HD" tvg-logo="" group-title="HOLANDIJA",NL: NPO 1 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21141
+#EXTINF:-1 tvg-id="15236" tvg-name="NL: NPO 2 HD" tvg-logo="" group-title="HOLANDIJA",NL: NPO 2 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21142
+#EXTINF:-1 tvg-id="15237" tvg-name="NL: NPO 3 HD" tvg-logo="" group-title="HOLANDIJA",NL: NPO 3 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21143
+#EXTINF:-1 tvg-id="15238" tvg-name="NL: RTL 4 HD" tvg-logo="" group-title="HOLANDIJA",NL: RTL 4 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21144
+#EXTINF:-1 tvg-id="15239" tvg-name="NL: RTL 5 HD" tvg-logo="" group-title="HOLANDIJA",NL: RTL 5 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21145
+#EXTINF:-1 tvg-id="15243" tvg-name="NL: RTL 8 HD" tvg-logo="" group-title="HOLANDIJA",NL: RTL 8 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21147
+#EXTINF:-1 tvg-id="15242" tvg-name="NL: RTL 7 HD" tvg-logo="" group-title="HOLANDIJA",NL: RTL 7 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21148
+#EXTINF:-1 tvg-id="15254" tvg-name="NL: NICK JR" tvg-logo="" group-title="HOLANDIJA",NL: NICK JR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21151
+#EXTINF:-1 tvg-id="15258" tvg-name="NL:FILM 1 PREMIERE HD" tvg-logo="" group-title="HOLANDIJA",NL:FILM 1 PREMIERE HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21156
+#EXTINF:-1 tvg-id="15264" tvg-name="NL:ZIGGO SPORT VOETBAL" tvg-logo="http://uticnica.dynu.net/logos/ziggosportvoetbal.png" group-title="OTHER SPORT",NL:ZIGGO SPORT VOETBAL
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21159
+#EXTINF:-1 tvg-id="15263" tvg-name="NL:ZIGGO SPORT SELECT HD" tvg-logo="http://uticnica.dynu.net/logos/ziggosportselect.png" group-title="OTHER SPORT",NL:ZIGGO SPORT SELECT HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21160
+#EXTINF:-1 tvg-id="" tvg-name="====HOLANDIJA====" tvg-logo="" group-title="HOLANDIJA",====HOLANDIJA====
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21162
+#EXTINF:-1 tvg-id="7792" tvg-name="FR: CANAL FAMILY HD" tvg-logo="" group-title="FRANCUSKA",FR: CANAL FAMILY HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/216
+#EXTINF:-1 tvg-id="6164" tvg-name="FR: M6" tvg-logo="" group-title="FRANCUSKA",FR: M6
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21082
+#EXTINF:-1 tvg-id="5921" tvg-name="FR: TF1" tvg-logo="" group-title="FRANCUSKA",FR: TF1
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21083
+#EXTINF:-1 tvg-id="6143" tvg-name="FR: FRANCE 2" tvg-logo="" group-title="FRANCUSKA",FR: FRANCE 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21085
+#EXTINF:-1 tvg-id="6144" tvg-name="FR: FRANCE 3" tvg-logo="" group-title="FRANCUSKA",FR: FRANCE 3
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21086
+#EXTINF:-1 tvg-id="6157" tvg-name="FR: FRANCE 4 HD" tvg-logo="" group-title="FRANCUSKA",FR: FRANCE 4 HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21087
+#EXTINF:-1 tvg-id="6145" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="FRANCUSKA",FR: FRANCE 5
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21088
+#EXTINF:-1 tvg-id="10742" tvg-name="FR: DISNEY CHANNEL HD" tvg-logo="" group-title="FRANCUSKA",FR: DISNEY CHANNEL HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21091
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY JUNIOR" tvg-logo="" group-title="FRANCUSKA",FR: DISNEY JUNIOR
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21093
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY XD" tvg-logo="" group-title="FRANCUSKA",FR: DISNEY XD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21094
+#EXTINF:-1 tvg-id="14830" tvg-name="FR: CANAL SPORT HD" tvg-logo="" group-title="FRANCUSKA",FR: CANAL SPORT HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21097
+#EXTINF:-1 tvg-id="6133" tvg-name="FR: CINE FRISSON" tvg-logo="" group-title="FRANCUSKA",FR: CINE FRISSON
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21099
+#EXTINF:-1 tvg-id="6150" tvg-name="FR: CANAL + CINEMA HD" tvg-logo="" group-title="FRANCUSKA",FR: CANAL + CINEMA HD
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21130
+#EXTINF:-1 tvg-id="5813" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="FRANCUSKA",FR: CANAL+ DECALE
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21131
+#EXTINF:-1 tvg-id="6138" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="FRANCUSKA",FR: CINE+ PREMIER
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21133
+#EXTINF:-1 tvg-id="6132" tvg-name="FR: CINE+ EMOTION" tvg-logo="" group-title="FRANCUSKA",FR: CINE+ EMOTION
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21134
+#EXTINF:-1 tvg-id="7793" tvg-name="FR: CINE+ CLASSIC" tvg-logo="" group-title="FRANCUSKA",FR: CINE+ CLASSIC
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21135
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2" tvg-logo="" group-title="FRANCUSKA",FR: EUROSPORT 2
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21139
+#EXTINF:-1 tvg-id="25455" tvg-name="FR: RMC DECOUVERT" tvg-logo="" group-title="FRANCUSKA",FR: RMC DECOUVERT
+http://uticnica.dynu.net:8181/teso-skype/mGOAuNRdw2/21140
