@@ -1,0 +1,587 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/trt1_hd.png" group-title="TR : Turkiye",|TR| TRT 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/2
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/atv_tr.png" group-title="TR : Turkiye",|TR| ATV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/3
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| Kanal D 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/kanal_d_tr.png" group-title="TR : Turkiye",|TR| Kanal D 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/4
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| Show TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/show_tv_tr.png" group-title="TR : Turkiye",|TR| Show TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/5
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| Star TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/star_tv_tr.png" group-title="TR : Turkiye",|TR| Star TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/6
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| Fox TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/fox.png" group-title="TR : Turkiye",|TR| Fox TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/9
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv8_tr.png" group-title="TR : Turkiye",|TR| TV 8 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/7
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv85_tr.png" group-title="TR : Turkiye",|TR| TV 8.5 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| Kanal 7 4K+ " tvg-logo="http://picon.worldip.nl/satlogo/turkey3/kanal7.png" group-title="TR : Turkiye",|TR| Kanal 7 4K+ 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/10
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| Beyaz TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/beyaz_tv_tr.png" group-title="TR : Turkiye",|TR| Beyaz TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/11
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/a2.png" group-title="TR : Turkiye",|TR| A2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/12
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="|TR| TRT 2 4K+ " tvg-logo="http://picon.worldip.nl/satlogo/turkey3/trt2.png" group-title="TR : Turkiye",|TR| TRT 2 4K+ 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/13
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| Teve 2 4K+ " tvg-logo="http://picon.worldip.nl/satlogo/turkey3/teve2.png" group-title="TR : Turkiye",|TR| Teve 2 4K+ 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/14
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 4 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv4_tr.png" group-title="TR : Turkiye",|TR| TV 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/trt1.png" group-title="TR : Turkiye",|TR| TRT 1 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/atvtr.png" group-title="TR : Turkiye",|TR| ATV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/17
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| Kanal D HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/kanal_d_tr.png" group-title="TR : Turkiye",|TR| Kanal D HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/19
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/a2.png" group-title="TR : Turkiye",|TR| A2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/18
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| Star TV HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/star_tv_tr.png" group-title="TR : Turkiye",|TR| Star TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/21
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| Show TV HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/showtv.png" group-title="TR : Turkiye",|TR| Show TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/20
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| Fox TV HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/fox.png" group-title="TR : Turkiye",|TR| Fox TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/24
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv8_tr.png" group-title="TR : Turkiye",|TR| TV 8 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/22
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv85_tr.png" group-title="TR : Turkiye",|TR| TV 8.5 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/23
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| Kanal 7 HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/kanal7.png" group-title="TR : Turkiye",|TR| Kanal 7 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/25
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| Beyaz TV HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/beyaz_tv_tr.png" group-title="TR : Turkiye",|TR| Beyaz TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/26
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| Teve 2 HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/teve2.png" group-title="TR : Turkiye",|TR| Teve 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/27
+#EXTINF:-1 tvg-id="" tvg-name="|TR| IBB TV HD+" tvg-logo="https://www.canlitvizlemeli.com/uploads/kanal/28656ibb-tv-canli.png" group-title="TR : Turkiye",|TR| IBB TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/28
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| ShowMax " tvg-logo="http://picon.worldip.nl/satlogo/turkey/show_max_tr.png" group-title="TR : Turkiye",|TR| ShowMax 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/30
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 int " tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv8_tr.png" group-title="TR : Turkiye",|TR| TV 8 int 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/29
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="|TR| TRT Turk " tvg-logo="http://picon.worldip.nl/satlogo/turkey/trt_turk_tr.png" group-title="TR : Turkiye",|TR| TRT Turk 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/31
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV Avrupa" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/atv_tr_avrupa.png" group-title="TR : Turkiye",|TR| ATV Avrupa
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/33
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Euro D" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/eurod.png" group-title="TR : Turkiye",|TR| Euro D
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Show Turk" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/show_turk.png" group-title="TR : Turkiye",|TR| Show Turk
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Euro Star " tvg-logo="http://picon.worldip.nl/satlogo/turkey2/euro_star_tr.png" group-title="TR : Turkiye",|TR| Euro Star 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/36
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 7 Avrupa" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/kanal7_avrupa.png" group-title="TR : Turkiye",|TR| Kanal 7 Avrupa
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/37
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/trt1_hd.png" group-title="TR : Turkiye HEVC ",|TR| TRT 1 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47601
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/atv_tr.png" group-title="TR : Turkiye HEVC ",|TR| ATV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47602
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| Kanal D Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/kanal_d_tr.png" group-title="TR : Turkiye HEVC ",|TR| Kanal D Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47603
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| Show TV Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/show_tv_tr.png" group-title="TR : Turkiye HEVC ",|TR| Show TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47604
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| Star TV Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/star_tv_tr.png" group-title="TR : Turkiye HEVC ",|TR| Star TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47605
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| Fox TV Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/fox.png" group-title="TR : Turkiye HEVC ",|TR| Fox TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47610
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv8_tr.png" group-title="TR : Turkiye HEVC ",|TR| TV 8 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47607
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv85_tr.png" group-title="TR : Turkiye HEVC ",|TR| TV 8.5 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47609
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| Beyaz TV Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/beyaz_tv_tr.png" group-title="TR : Turkiye HEVC ",|TR| Beyaz TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47614
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| Kanal 7 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/kanal7.png" group-title="TR : Turkiye HEVC ",|TR| Kanal 7 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47755
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/a2.png" group-title="TR : Turkiye HEVC ",|TR| A2 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47616
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| Teve 2 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey3/teve2.png" group-title="TR : Turkiye HEVC ",|TR| Teve 2 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47620
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV100 Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey/tv_100_tr.png" group-title="TR : Turkiye HEVC ",|TR| TV100 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47756
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 360 TV Hevc" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/360_tv_tr.png" group-title="TR : Turkiye HEVC ",|TR| 360 TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/65618
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kemal Sunal 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Kemal Sunal 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32201
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kemal Sunal 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Kemal Sunal 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32202
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kemal Sunal 3" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Kemal Sunal 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32214
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Hababam Sinifi" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Hababam Sinifi
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/37999
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yesilcam 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yesilcam 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35221
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yesilcam 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yesilcam 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/70984
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Cem Yilmaz" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Cem Yilmaz
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/40996
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Sener Sen " tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Sener Sen 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34661
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox ibrahim Tatlises TV" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox ibrahim Tatlises TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/74448
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Ferdi Tayfur TV" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Ferdi Tayfur TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/74552
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Cuneyt Arkin 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Cuneyt Arkin 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35188
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Cuneyt Arkin 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Cuneyt Arkin 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35208
+#EXTINF:-1 tvg-id="" tvg-name="||TR| LionBox Tarkan" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",||TR| LionBox Tarkan
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56102
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yilmaz Guney" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yilmaz Guney
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/37947
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Turkan Soray" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Turkan Soray
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41340
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kadir Inanir" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Kadir Inanir
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/40995
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox HZ. Yusuf" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox HZ. Yusuf
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/38780
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Hz.Omer" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Hz.Omer
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51900
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yunus Emre" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yunus Emre
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/52110
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Cagri" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Cagri
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/52111
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Evliya" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Evliya
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47199
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32203
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51611
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47353
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47354
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 3" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47355
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 4" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47356
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 5" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47357
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 6" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47358
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 7" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 7
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47359
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 8" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 8
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47360
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 9" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 9
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47361
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 10" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 10
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47362
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 11" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 11
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34974
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 12" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 12
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34973
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 13" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 13
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34972
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 14" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 14
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34971
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 15" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 15
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34970
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 16" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 16
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34969
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 17" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 17
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34968
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 18" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 18
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34967
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 19" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 19
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34966
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 20" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 20
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34965
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47333
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47334
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 3" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47335
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 4" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47336
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 5" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47337
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 6" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47338
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 7" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 7
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47339
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 8" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 8
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47340
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 9" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 9
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47341
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Dublaj 10" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Dublaj 10
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47342
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Marvel 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Marvel 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34660
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Marvel 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Marvel 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34670
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Superman" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Superman
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/38838
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox John Wick" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox John Wick
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/58602
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox The Hangover" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox The Hangover
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/58603
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox X-Men" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox X-Men
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/58604
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Jonny Depp" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Jonny Depp
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41028
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Fast & Furious " tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Fast & Furious 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/38722
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Predator" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Predator
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/40833
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Final Destination" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Final Destination
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41000
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Harry Potter" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Harry Potter
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41026
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yuzuklerin Efendisi" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Yuzuklerin Efendisi
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41027
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Mumya" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Mumya
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51899
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Jackie Chan 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Jackie Chan 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32317
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Jackie Chan 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Jackie Chan 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/33825
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Horror" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Horror
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/42141
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Chucky" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Yabanci Sinema",|TR| LionBox Chucky
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51903
+#EXTINF:-1 tvg-id="npo1.nl" tvg-name="|NL| NPO 1 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_01_nl.png" group-title="NL : Nederland",|NL| NPO 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/258
+#EXTINF:-1 tvg-id="npo2.nl" tvg-name="|NL| NPO 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_02_nl.png" group-title="NL : Nederland",|NL| NPO 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/259
+#EXTINF:-1 tvg-id="npo3.nl" tvg-name="|NL| NPO 3 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_03_nl.png" group-title="NL : Nederland",|NL| NPO 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/260
+#EXTINF:-1 tvg-id="rtl4.nl" tvg-name="|NL| RTL 4 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl4_nl.png" group-title="NL : Nederland",|NL| RTL 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/261
+#EXTINF:-1 tvg-id="rtl5.nl" tvg-name="|NL| RTL 5 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl5.png" group-title="NL : Nederland",|NL| RTL 5 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/262
+#EXTINF:-1 tvg-id="sbs6.nl" tvg-name="|NL| SBS6 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/sbs_6_nl.png" group-title="NL : Nederland",|NL| SBS6 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/263
+#EXTINF:-1 tvg-id="rtl7.nl" tvg-name="|NL| RTL 7 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl7.png" group-title="NL : Nederland",|NL| RTL 7 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/264
+#EXTINF:-1 tvg-id="rtl8.nl" tvg-name="|NL| RTL 8 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl8.png" group-title="NL : Nederland",|NL| RTL 8 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/265
+#EXTINF:-1 tvg-id="veronicadisneyxd.nl" tvg-name="|NL| Veronica / Disney XD 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/veronica.png" group-title="NL : Nederland",|NL| Veronica / Disney XD 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/266
+#EXTINF:-1 tvg-id="net5.nl" tvg-name="|NL| Net 5 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/net_5_nl.png" group-title="NL : Nederland",|NL| Net 5 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/267
+#EXTINF:-1 tvg-id="sbs9.nl" tvg-name="|NL| SBS 9 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/sbs_9_nl.png" group-title="NL : Nederland",|NL| SBS 9 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/268
+#EXTINF:-1 tvg-id="fox.nl" tvg-name="|NL| FOX 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/fox_global.png" group-title="NL : Nederland",|NL| FOX 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/269
+#EXTINF:-1 tvg-id="npo1.nl" tvg-name="|NL| NPO 1 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_01_nl.png" group-title="NL : Nederland",|NL| NPO 1 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/270
+#EXTINF:-1 tvg-id="npo2.nl" tvg-name="|NL| NPO 2 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_02_nl.png" group-title="NL : Nederland",|NL| NPO 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/271
+#EXTINF:-1 tvg-id="npo3.nl" tvg-name="|NL| NPO 3 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_03_nl.png" group-title="NL : Nederland",|NL| NPO 3 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/272
+#EXTINF:-1 tvg-id="rtl4.nl" tvg-name="|NL| RTL 4 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl4_nl.png" group-title="NL : Nederland",|NL| RTL 4 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/273
+#EXTINF:-1 tvg-id="rtl5.nl" tvg-name="|NL| RTL 5 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl5.png" group-title="NL : Nederland",|NL| RTL 5 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/274
+#EXTINF:-1 tvg-id="sbs6.nl" tvg-name="|NL| SBS6 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/sbs_6_nl.png" group-title="NL : Nederland",|NL| SBS6 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/275
+#EXTINF:-1 tvg-id="rtl7.nl" tvg-name="|NL| RTL 7 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl7.png" group-title="NL : Nederland",|NL| RTL 7 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/276
+#EXTINF:-1 tvg-id="rtl8.nl" tvg-name="|NL| RTL 8 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl8.png" group-title="NL : Nederland",|NL| RTL 8 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/277
+#EXTINF:-1 tvg-id="veronicadisneyxd.nl" tvg-name="|NL| Veronica / Disney XD HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/veronica.png" group-title="NL : Nederland",|NL| Veronica / Disney XD HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/278
+#EXTINF:-1 tvg-id="net5.nl" tvg-name="|NL| Net 5 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/net_5_nl.png" group-title="NL : Nederland",|NL| Net 5 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/279
+#EXTINF:-1 tvg-id="sbs9.nl" tvg-name="|NL| SBS 9 HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/sbs_9_nl.png" group-title="NL : Nederland",|NL| SBS 9 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/280
+#EXTINF:-1 tvg-id="fox.nl" tvg-name="|NL| FOX HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/fox_global.png" group-title="NL : Nederland",|NL| FOX HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/281
+#EXTINF:-1 tvg-id="" tvg-name="The Manor (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNf7Dp1m6eTKDY7p56iZdterZkL.jpg" group-title="NL - Films 2021",The Manor (NL)
+http://ac.traveliptv.nl:80/movie/ibrahimturk/v7Nv6vNvdk/59644.mkv
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="|NL| Ziggo Sport 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl.png" group-title="NL : Sport",|NL| Ziggo Sport 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/287
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="|NL| Ziggo Sport Select 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_select.png" group-title="NL : Sport",|NL| Ziggo Sport Select 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/288
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="|NL| Ziggo Sport Voetbal 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_voetbal.png" group-title="NL : Sport",|NL| Ziggo Sport Voetbal 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/289
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="|NL| Ziggo Sport Golf 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_golf.png" group-title="NL : Sport",|NL| Ziggo Sport Golf 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/290
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="|NL| Ziggo Sport Racing 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_racing.png" group-title="NL : Sport",|NL| Ziggo Sport Racing 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/291
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="|NL| Ziggo Sport Tennis 4K+  " tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl.png" group-title="NL : Sport",|NL| Ziggo Sport Tennis 4K+  
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/74559
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="|NL| Ziggo Sport Extra 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_extra_1.png" group-title="NL : Sport",|NL| Ziggo Sport Extra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/292
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 1 4K+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/293
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 2 4K+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-2-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/294
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 3 4K+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-3-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/295
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 4 4K+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/296
+#EXTINF:-1 tvg-id="eurosport1.nl" tvg-name="|NL| Eurosport 1 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/eurosport_fr_1.png" group-title="NL : Sport",|NL| Eurosport 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/299
+#EXTINF:-1 tvg-id="eurosport2.nl" tvg-name="|NL| Eurosport 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/eurosport_fr_2.png" group-title="NL : Sport",|NL| Eurosport 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/300
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="|NL| Ziggo Sport HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl.png" group-title="NL : Sport",|NL| Ziggo Sport HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/301
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="|NL| Ziggo Sport Voetbal HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_voetbal.png" group-title="NL : Sport",|NL| Ziggo Sport Voetbal HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/303
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="|NL| Ziggo Sport Golf HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_golf.png" group-title="NL : Sport",|NL| Ziggo Sport Golf HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/304
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="|NL| Ziggo Sport Racing HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_racing.png" group-title="NL : Sport",|NL| Ziggo Sport Racing HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/305
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN HD+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-Eredivisie.png" group-title="NL : Sport",|NL| ESPN HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/306
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 2 HD+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-2-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/307
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 3 HD+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-3-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 3 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/308
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| ESPN 4 HD+" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-Eredivisie.png" group-title="NL : Sport",|NL| ESPN 4 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/309
+#EXTINF:-1 tvg-id="extremesportschannel.nl" tvg-name="|NL| Extreme Sports HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/extreme_sports_nl.png" group-title="NL : Sport",|NL| Extreme Sports HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/312
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="|NL| Ziggo Sport Select HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ziggo_sport_nl_select.png" group-title="NL : Sport",|NL| Ziggo Sport Select HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/302
+#EXTINF:-1 tvg-id="" tvg-name="|NL| UFC Fight Pass" tvg-logo="" group-title="NL : Sport",|NL| UFC Fight Pass
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71713
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Xtra 1" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Xtra 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71461
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Xtra 2" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Xtra 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71468
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Xtra 3" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Xtra 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71928
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Xtra 4" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Xtra 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71469
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Formule 1 " tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Formule 1 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71462
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Max Verstappen Onboard" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Max Verstappen Onboard
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71464
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Darts" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Darts
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71463
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay MMA" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay MMA
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71465
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Voetbal" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Voetbal
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71467
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Event 4" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71929
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Event 5" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71930
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Viaplay Event 6" tvg-logo="http://5.9.108.141:89/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71466
+#EXTINF:-1 tvg-id="film1premiere.nl" tvg-name="|NL| Film1 Premiere 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl_premiere.png" group-title="NL : Film",|NL| Film1 Premiere 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/282
+#EXTINF:-1 tvg-id="film1action.nl" tvg-name="|NL| Film1 Action 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl_action.png" group-title="NL : Film",|NL| Film1 Action 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/283
+#EXTINF:-1 tvg-id="film1family.nl" tvg-name="|NL| Film1 Family 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl_family.png" group-title="NL : Film",|NL| Film1 Family 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/284
+#EXTINF:-1 tvg-id="film1drama.nl" tvg-name="|NL| Film1 Drama 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl.png" group-title="NL : Film",|NL| Film1 Drama 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/285
+#EXTINF:-1 tvg-id="rtlcrime.nl" tvg-name="|NL| RTL Crime 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl_crime_nl.png" group-title="NL : Film",|NL| RTL Crime 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/286
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Film1 Premiere HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl_premiere.png" group-title="NL : Film",|NL| Film1 Premiere HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34976
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Film1 Action HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl_action.png" group-title="NL : Film",|NL| Film1 Action HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34977
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Film1 Family HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl_family.png" group-title="NL : Film",|NL| Film1 Family HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34978
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Film1 Drama HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/film_1_nl.png" group-title="NL : Film",|NL| Film1 Drama HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34979
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Marvel 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Marvel 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56278
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Marvel 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Marvel 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56279
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox James Bond 007" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox James Bond 007
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56315
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47363
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47364
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 3" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47365
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 4" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47366
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 5" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47367
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 6" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47368
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 7" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 7
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47369
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 8" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 8
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47370
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 9" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 9
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47371
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 10" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 10
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47372
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 11" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 11
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35034
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 12" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 12
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35035
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 13" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 13
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35036
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 14" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 14
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35037
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 15" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 15
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35038
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 16" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 16
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35039
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 17" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 17
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35040
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 18" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 18
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35041
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 19" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 19
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35042
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bios 20" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : BiosBox",|NL| LionBox Bios 20
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35043
+#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-name="|NL| Discovery 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/discovery_global_us.png" group-title="NL : Documentaire & Reality",|NL| Discovery 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/333
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Discovery ID 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/discovery-channel-uk-us-uk.png" group-title="NL : Documentaire & Reality",|NL| Discovery ID 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/334
+#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-name="|NL| Discovery Science 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/discovery-science-france-us-fr.png" group-title="NL : Documentaire & Reality",|NL| Discovery Science 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/335
+#EXTINF:-1 tvg-id="animalplanet.nl" tvg-name="|NL| Animal Planet 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/animal_planet_us.png" group-title="NL : Documentaire & Reality",|NL| Animal Planet 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/336
+#EXTINF:-1 tvg-id="natgeowild.nl" tvg-name="|NL| Nat Geo Wild 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/nat_geo_wild_us.png" group-title="NL : Documentaire & Reality",|NL| Nat Geo Wild 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/337
+#EXTINF:-1 tvg-id="natgeo.nl" tvg-name="|NL| National Geographic Channel 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/nat_geo_us.png" group-title="NL : Documentaire & Reality",|NL| National Geographic Channel 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/338
+#EXTINF:-1 tvg-id="" tvg-name="|NL| MTV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/mtv_us.png" group-title="NL : Documentaire & Reality",|NL| MTV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/339
+#EXTINF:-1 tvg-id="history.nl" tvg-name="|NL| History 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/hh/history_us.png" group-title="NL : Documentaire & Reality",|NL| History 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/340
+#EXTINF:-1 tvg-id="24kitchen.nl" tvg-name="|NL| 24 Kitchen 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/24_kitchen_us.png" group-title="NL : Documentaire & Reality",|NL| 24 Kitchen 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/341
+#EXTINF:-1 tvg-id="tlc.nl" tvg-name="|NL| TLC 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tlc_uk.png" group-title="NL : Documentaire & Reality",|NL| TLC 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/342
+#EXTINF:-1 tvg-id="eentertainment.nl" tvg-name="|NL| E! 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/e_global_us.png" group-title="NL : Documentaire & Reality",|NL| E! 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/343
+#EXTINF:-1 tvg-id="comedycentral.nl" tvg-name="|NL| Comedy Central 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/comedy_central_us.png" group-title="NL : Documentaire & Reality",|NL| Comedy Central 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/344
+#EXTINF:-1 tvg-id="comedycentralextra.nl" tvg-name="|NL| Comedy Central Extra 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/cc/comedy_central_extra_uk.png" group-title="NL : Documentaire & Reality",|NL| Comedy Central Extra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/345
+#EXTINF:-1 tvg-id="spike.nl" tvg-name="|NL| Spike 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ss/spike_tv_us.png" group-title="NL : Documentaire & Reality",|NL| Spike 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/346
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Fashion TV 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/fashion_tv_uk.png" group-title="NL : Documentaire & Reality",|NL| Fashion TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/347
+#EXTINF:-1 tvg-id="rtlz.nl" tvg-name="|NL| RTL Z 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl_z_nl.png" group-title="NL : Documentaire & Reality",|NL| RTL Z 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/348
+#EXTINF:-1 tvg-id="rtllounge.nl" tvg-name="|NL| RTL Lounge 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtl_lounge_nl_tv.png" group-title="NL : Documentaire & Reality",|NL| RTL Lounge 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/349
+#EXTINF:-1 tvg-id="bbcfirst.nl" tvg-name="|NL| BBC First 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/bbc-first-uk.png" group-title="NL : Documentaire & Reality",|NL| BBC First 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/350
+#EXTINF:-1 tvg-id="viceland.nl" tvg-name="|NL| Viceland 4K+" tvg-logo="https://www.logolynx.com/images/logolynx/c0/c05d1510823eac46c84b29e343a00cf4.png" group-title="NL : Documentaire & Reality",|NL| Viceland 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/351
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Love Nature" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ll/love_nature_ca.png" group-title="NL : Documentaire & Reality",|NL| Love Nature
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/352
+#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-name="|NL| Crime & Investigation" tvg-logo="http://picon.worldip.nl/lyngsat/tv/cc/crime_investigation_us.png" group-title="NL : Documentaire & Reality",|NL| Crime & Investigation
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/353
+#EXTINF:-1 tvg-id="npopolitiek.nl" tvg-name="|NL| NPO Politiek" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/npo_politiek.png" group-title="NL : Documentaire & Reality",|NL| NPO Politiek
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/354
+#EXTINF:-1 tvg-id="at5.nl" tvg-name="|NL| AT 5" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/at5.png" group-title="NL : Regionaal",|NL| AT 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/355
+#EXTINF:-1 tvg-id="l1tv.nl" tvg-name="|NL| L1 TV" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/l1_tv.png" group-title="NL : Regionaal",|NL| L1 TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/356
+#EXTINF:-1 tvg-id="rtvrijnmond.nl" tvg-name="|NL| RTV Rijnmond 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtv_rijnmond_nl_tv.png" group-title="NL : Regionaal",|NL| RTV Rijnmond 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/357
+#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-name="|NL| Omroep Gelderland" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtv_gelderland_nl_tv.png" group-title="NL : Regionaal",|NL| Omroep Gelderland
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/358
+#EXTINF:-1 tvg-id="omroepbrabant.nl" tvg-name="|NL| Omroep Brabant" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/omroep_brabant_nl_tv.png" group-title="NL : Regionaal",|NL| Omroep Brabant
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/359
+#EXTINF:-1 tvg-id="omroepflevoland.nl" tvg-name="|NL| Omroep Flevoland" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/omroep_flevoland_nl_tv.png" group-title="NL : Regionaal",|NL| Omroep Flevoland
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/360
+#EXTINF:-1 tvg-id="omropfryslan.nl" tvg-name="|NL| Omroep Fryslan" tvg-logo="https://www.hellenique.nl/wp-content/uploads/Radio-Omrop-Fryslan-logo.png" group-title="NL : Regionaal",|NL| Omroep Fryslan
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/361
+#EXTINF:-1 tvg-id="omroepzeeland.nl" tvg-name="|NL| Omroep Zeeland" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/omroep_zeeland_nl_tv.png" group-title="NL : Regionaal",|NL| Omroep Zeeland
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/362
+#EXTINF:-1 tvg-id="omroepwest.nl" tvg-name="|NL| Omroep West" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/omroep_west_nl_tv.png" group-title="NL : Regionaal",|NL| Omroep West
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/363
+#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-name="|NL| RTV Utrecht" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtv_utrecht_nl.png" group-title="NL : Regionaal",|NL| RTV Utrecht
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/365
+#EXTINF:-1 tvg-id="rtvdrenthe.nl" tvg-name="|NL| RTV Drenthe" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtv_drenthe_nl_tv.png" group-title="NL : Regionaal",|NL| RTV Drenthe
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/367
+#EXTINF:-1 tvg-id="rtvoost.nl" tvg-name="|NL| RTV Oost" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtv_oost_nl_tv.png" group-title="NL : Regionaal",|NL| RTV Oost
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/369
+#EXTINF:-1 tvg-id="ons.nl" tvg-name="|NL| ONS" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/ons_nl.png" group-title="NL : Regionaal",|NL| ONS
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/371
+#EXTINF:-1 tvg-id="tvnoord.nl" tvg-name="|NL| RTV Noord" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/rtv_noord_nl_tv.png" group-title="NL : Regionaal",|NL| RTV Noord
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/368
+#EXTINF:-1 tvg-id="" tvg-name="|NL| TV Ellef " tvg-logo="" group-title="NL : Regionaal",|NL| TV Ellef 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/80840
+#EXTINF:-1 tvg-id="disneychannel.nl" tvg-name="|NL| Disney Channel 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/disney_channel_global.png" group-title="NL : Kids",|NL| Disney Channel 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/323
+#EXTINF:-1 tvg-id="nickelodeon.nl" tvg-name="|NL| Nickelodeon 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/nickelodeon_us.png" group-title="NL : Kids",|NL| Nickelodeon 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/324
+#EXTINF:-1 tvg-id="rtltelekids.nl" tvg-name="|NL| RTL Telekids 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/RTL_Telekids_24-7_Logo.png" group-title="NL : Kids",|NL| RTL Telekids 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/325
+#EXTINF:-1 tvg-id="cartoonnetwork.nl" tvg-name="|NL| Cartoon Network 4K+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/cartoon_network_global.png" group-title="NL : Kids",|NL| Cartoon Network 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/326
+#EXTINF:-1 tvg-id="nickjr.nl" tvg-name="|NL| Nick JR HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nick_jr_us.png" group-title="NL : Kids",|NL| Nick JR HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/327
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="|NL| Nicktoons HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nick_toons_us.png" group-title="NL : Kids",|NL| Nicktoons HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/328
+#EXTINF:-1 tvg-id="boomerang.nl" tvg-name="|NL| Boomerang HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/boomerang_global.png" group-title="NL : Kids",|NL| Boomerang HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/329
+#EXTINF:-1 tvg-id="npozappxtra.nl" tvg-name="|NL| NPO Zappelin Xtra/Humor" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/npo_zappelin_xtra.png" group-title="NL : Kids",|NL| NPO Zappelin Xtra/Humor
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/330
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="|NL| Baby TV " tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/baby_tv_eu.png" group-title="NL : Kids",|NL| Baby TV 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/331
+#EXTINF:-1 tvg-id="pebbletv.nl" tvg-name="|NL| Pebble TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Pebble_TV_logo.png" group-title="NL : Kids",|NL| Pebble TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/332
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Bing" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : Kids",|NL| LionBox Bing
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/67245
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Peppa Big" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : Kids",|NL| LionBox Peppa Big
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/50245
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Tom And Jerry 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : Kids",|NL| LionBox Tom And Jerry 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/55939
+#EXTINF:-1 tvg-id="" tvg-name="|NL| LionBox Tom And Jerry 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="NL : Kids",|NL| LionBox Tom And Jerry 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/55940
+#EXTINF:-1 tvg-id="xite.nl" tvg-name="|NL| XITE 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/xx/xite-nl.png" group-title="NL : Muziek",|NL| XITE 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/313
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| MTV Live HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/mm/mtv_live_us.png" group-title="NL : Muziek",|NL| MTV Live HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/314
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="|NL| MTV Brand New" tvg-logo="http://picon.worldip.nl/lyngsat/tv/mm/mtv_us.png" group-title="NL : Muziek",|NL| MTV Brand New
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/315
+#EXTINF:-1 tvg-id="mtvmusic24.nl" tvg-name="|NL| MTV Music 24" tvg-logo="http://picon.worldip.nl/lyngsat/tv/mm/mtv_music_24.png" group-title="NL : Muziek",|NL| MTV Music 24
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/316
+#EXTINF:-1 tvg-id="tvoranje.nl" tvg-name="|NL| TV Oranje HD+" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/tv_oranje_nl.png" group-title="NL : Muziek",|NL| TV Oranje HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/317
+#EXTINF:-1 tvg-id="slam.nl" tvg-name="|NL| Slam! TV" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/slam_nl_tv.png" group-title="NL : Muziek",|NL| Slam! TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/318
+#EXTINF:-1 tvg-id="192tv.nl" tvg-name="|NL| 192TV" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/192_tv_nl.png" group-title="NL : Muziek",|NL| 192TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/319
+#EXTINF:-1 tvg-id="" tvg-name="|NL| MEZZO" tvg-logo="http://picon.worldip.nl/satlogo/nerdeland/mezzo.png" group-title="NL : Muziek",|NL| MEZZO
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/320
+#EXTINF:-1 tvg-id="nickmusic.nl" tvg-name="|NL| Nick Music" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nick_us_music.png" group-title="NL : Muziek",|NL| Nick Music
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/321
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SPtBf7lLBgfjmFAU14kMnTtGQu.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E01
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/49737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHOuAtM8NcUMP6t3PsTsswde5gt.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E02
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/49738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5L9FvHeGs7oyK9z5p82ecqt7hl.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E03
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/49739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eijDDLGpKVQvI5yUnDnneBLRCmF.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E04
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/50097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gMYxJ1jBGuIJQZ4t6lurNseSNA2.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E05
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/50822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/Ap2UE8oJ9L4fJoNKGcADo4U0iiO.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E06
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/51374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5dnX0s9jSZPRDF5cdybGiTryIal.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E07
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/51907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/sm0FbwPp6rqfaOAb3SnFx6YOPhh.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E08
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/52318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/hHFZUGxD5nBKAdw7Yd5aMINxRBF.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E09
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/52595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/231HZWskC6zF7Q1bbFtPYVYaE85.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S01 E10
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/53335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mighty Ducks: Game Changers S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ain542FEIfZjnvigTO3LLpWeJE7.jpg" group-title="NL - Kinder Series",The Mighty Ducks: Game Changers S02 E01
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/81086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL1FpeyLQrw0xVyFQYYonbfKUi3.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E01
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJlid9dK47DgObpAsYUy1myNSoT.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E02
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEb9TOHB2npbx6JWVEALHapaVRs.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E03
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xPLcjFT12XbCaBWQfNv7vFdJSV.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E04
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiM1JsGueGx5gv93Ct2Z3A4UY4I.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E05
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glFYi3TCw05tKfPymJLMABox9f3.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E06
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwzA6viQeY7kCArxvU4eSquMP0Q.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E07
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69aP2AWL0A6AmNUtgHJPajVQieD.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E08
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nhWU3z01iZvlWMa0rlm5uQLNmI.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E09
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Het verhaal van Nederland S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xep55Nq0VMbh0SN0tm7x2m1QMx1.jpg" group-title="NL - Series",Het verhaal van Nederland S01 E10
+http://ac.traveliptv.nl:80/series/ibrahimturk/v7Nv6vNvdk/69906.mkv
