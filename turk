@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR | TRT 1 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/trt1hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | TRT 1 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/114
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR | SHOW TV 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/showhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | SHOW TV 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/113
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR | KANAL D 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kanaldhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | KANAL D 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/110
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/atvhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | ATV 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/112
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR | STAR TV 4K+" tvg-logo="http://epg.4kplus.vip/kralsin/logos/starhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | STAR TV 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/111
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR | FOX 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/foxhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | FOX 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/109
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR | TV 8 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tv8hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | TV 8 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/107
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR | TV8.5 4K+" tvg-logo="http://epg.4kplus.vip/kralsin/logos/tv8.5hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | TV8.5 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7136
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR | KANAL 7 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kanal7hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | KANAL 7 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/108
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR | BEYAZ TV 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beyazhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | BEYAZ TV 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/106
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR | A2 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/a2hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | A2 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7135
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR | TRT 1 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/trt1hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | TRT 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/34
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR | SHOW TV HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/showhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | SHOW TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/24
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR | KANAL D HD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/kanaldhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | KANAL D HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/28
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/atvhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | ATV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/32
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR | STAR TV HD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/starhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | STAR TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/26
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR | FOX HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/foxhd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | FOX HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/19
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR | TV 8 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tv8hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | TV 8 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/22
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR | DMAX 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/dmaxhd.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | DMAX 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7132
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TR | TRT DIYANET FHD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/trtdiyanet.png" group-title="TR | Dini ᵁᴴᴰ",TR | TRT DIYANET FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/105
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR | TRT HABER FHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/trthaberhd.png" group-title="TR | Haber ᵁᴴᴰ",TR | TRT HABER FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/100
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR | TGRT HABER FHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/tgrthaber.png" group-title="TR | Haber ᵁᴴᴰ",TR | TGRT HABER FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/101
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR | ULKE TV FHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/ulkehd.png" group-title="TR | Haber ᵁᴴᴰ",TR | ULKE TV FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/99
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR | A HABER FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/ahaberhd.png" group-title="TR | Haber ᵁᴴᴰ",TR | A HABER FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/103
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR | CNNTURK FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/cnnturkhd.png" group-title="TR | Haber ᵁᴴᴰ",TR | CNNTURK FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7128
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR | HABERTURK FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/haberturkhd.png" group-title="TR | Haber ᵁᴴᴰ",TR | HABERTURK FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7129
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | A PARA FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/apara.png" group-title="TR | Haber ᵁᴴᴰ",TR | A PARA FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7127
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | 24 HABER FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/24hd.png" group-title="TR | Haber ᵁᴴᴰ",TR | 24 HABER FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7131
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR | HALK TV FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/halk.png" group-title="TR | Haber ᵁᴴᴰ",TR | HALK TV FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/648
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR | ULUSAL KANAL  FHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/ulusal.png" group-title="TR | Haber ᵁᴴᴰ",TR | ULUSAL KANAL  FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/671
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | 360 FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/360hd.png" group-title="TR | Ulusal ᵁᴴᴰ",TR | 360 FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7133
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR | Haber Global UHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/haberglobalhd.png" group-title="TR | Haber ᵁᴴᴰ",TR | Haber Global UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/40962
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR | Bloomberg ᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/bloomberghd.png" group-title="TR | Haber ᵁᴴᴰ",TR | Bloomberg ᴴᴰ
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7123
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | KRT TV UHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/krthd.png" group-title="TR | Haber ᵁᴴᴰ",TR | KRT TV UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/31259
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR |  NTV FHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/ntvhd.png" group-title="TR | Haber ᵁᴴᴰ",TR |  NTV FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7140
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | ON 4 TV" tvg-logo="" group-title="TR | Dini ᵁᴴᴰ",TR | ON 4 TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/31258
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="TR | DOST TV" tvg-logo="" group-title="TR | Dini ᵁᴴᴰ",TR | DOST TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/31255
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | LALEGUL" tvg-logo="" group-title="TR | Dini ᵁᴴᴰ",TR | LALEGUL
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/31253
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR | TEVE2 ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/teve2hd.png" group-title="TR | Ulusal ᵁᴴᴰ",TR | TEVE2 ᵁᴴᴰ
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/11
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | SKY 360  FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/360hd.png" group-title="TR | Ulusal ᴴ²⁶⁵",TR | SKY 360  FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/13
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR | TVNET UHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/tvnethd.png" group-title="TR | Haber ᵁᴴᴰ",TR | TVNET UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/34074
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR | TRT TURK HD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/trtturkhd.png" group-title="TR | Ulusal ᵁᴴᴰ",TR | TRT TURK HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1661
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR | TRT COCUK HD" tvg-logo="http://epglogo.zerotv.xyz/logo/all/trtcocuk.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | TRT COCUK HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/656
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR | Cartoon Network ᴴᴰ" tvg-logo="http://vipnova.xyz:38091//kralsin/logo/nlde/cartoon.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Cartoon Network ᴴᴰ
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1656
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR | DISNEY CHANNEL" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/nlde/disney.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | DISNEY CHANNEL
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1658
+#EXTINF:-1 tvg-id="" tvg-name="TR | DISNEY JUNIOR" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/nlde/disneyj.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | DISNEY JUNIOR
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1657
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR | MINIKA COCUK" tvg-logo="http://epglogo.zerotv.xyz/logo/all/minikacocuk.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | MINIKA COCUK
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1654
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR | MINIKA GO" tvg-logo="http://epglogo.zerotv.xyz/logo/all/minikago.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | MINIKA GO
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1655
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | MR.BEAN CARTOON" tvg-logo="http://epglogo.zerotv.xyz/logo/all/nickjrhd.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | MR.BEAN CARTOON
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1659
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | NICKELODEON HD" tvg-logo="http://foxfilm.dynu.net/kralsin/logo/nlde/nickoledon.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | NICKELODEON HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1660
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR | BABY TV" tvg-logo="http://foxfilm.dynu.net/kralsin/logo/nlde/baby.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | BABY TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1652
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Limon ile Zeytin HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Limon ile Zeytin HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47205
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Pocoyo HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Pocoyo HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47206
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Sevimli Dostlar 1HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Sevimli Dostlar 1HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37082
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Niloya Blu 1" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Niloya Blu 1
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37076
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Pepee 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Pepee 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37074
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Masa ile Koca Ayi 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Masa ile Koca Ayi 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37079
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Cingilikler" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Cingilikler
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35384
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Sirinler" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Sirinler
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35385
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  KIRMIZI BALIK" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR |  KIRMIZI BALIK
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/26117
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Balon Tv HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Balon Tv HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/15405
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Rafadan Tayfa 4KVIP" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Rafadan Tayfa 4KVIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/15404
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Kukuli 1  4KVIP" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Kukuli 1  4KVIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27508
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ten Ten" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Ten Ten
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27511
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Tom ve Jerry" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Tom ve Jerry
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/41769
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Kral Sakir HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Kral Sakir HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/28837
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Canim Kardesim HD" tvg-logo="" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Canim Kardesim HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/29520
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ari Maya HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Ari Maya HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1649
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Masa ile Koca Ayi   HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/4KPLUS.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Masa ile Koca Ayi   HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27254
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Adise Baba Masallar 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Blu Adise Baba Masallar 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27255
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Pepee 4K VIP" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Pepee 4K VIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27258
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Sevimli Dostlar 4K VIP" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Sevimli Dostlar 4K VIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27257
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Seker Hoca Blu" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Seker Hoca Blu
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47162
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Niloya  TV 1" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Cocuk ᵁᴴᴰ",TR | Niloya  TV 1
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47163
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Kuzeyin Oğlu Volkan Konak" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Kuzeyin Oğlu Volkan Konak
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47004
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Kustum Show" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Blu Kustum Show
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/43669
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Mustafa Keser  Show" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Blu Mustafa Keser  Show
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/43670
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ibo Show 1 4KVIP" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Ibo Show 1 4KVIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23888
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ibo Show 2 4KVIP" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Ibo Show 2 4KVIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25861
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ibo Show 4 4KVIP ( 2005 )" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Ibo Show 4 4KVIP ( 2005 )
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27528
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ibo Show 5 4KVIP" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/4KPLUS.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Ibo Show 5 4KVIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/27529
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Ibo Show 7  ( 2009 )" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Blu Ibo Show 7  ( 2009 )
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35394
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Ibo Show 8  ( 1999 )" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Muzik Show ᴴᴰ",TR | Blu Ibo Show 8  ( 1999 )
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35395
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Cok Akustik FHD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Cok Akustik FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46984
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Rubato Duetler" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Blu Rubato Duetler
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/36042
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Rubato HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Blu Rubato HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37617
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Ebru Gundes Sila HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Blu Ebru Gundes Sila HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37853
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU Akustik Turk 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | BLU Akustik Turk 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37792
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Halk Muzigi 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Blu Halk Muzigi 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/36043
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Turku HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Blu Turku HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25860
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Ankara Havalari" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Blu Ankara Havalari
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37084
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR  | KRAL TV EN POPULER" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR  | KRAL TV EN POPULER
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/29514
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Cafe Muslum Baba" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Cafe Muslum Baba
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46854
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Ahmet Kaya" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Ahmet Kaya
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37481
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Evel Zaman İçindeTRT hd" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Evel Zaman İçindeTRT hd
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37480
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR  | Cafeblu Alaturka HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR  | Cafeblu Alaturka HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37620
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR  | Cafeblu Selda Bagcan" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR  | Cafeblu Selda Bagcan
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/37619
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR | Kral Tv Pop" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/KRAL.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Kral Tv Pop
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7492
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Finest TV" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/4KPLUS.png" group-title="TR | Muzik ᵁᴴᴰ",TR | Finest TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7494
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | ANADOLU DERNEK TV" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Muzik ᵁᴴᴰ",TR | ANADOLU DERNEK TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/737
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | CEM TV" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/cem.png" group-title="TR | Ulusal ᵁᴴᴰ",TR | CEM TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/647
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | CAN TV HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Yoresel Kanallar ᴴᴰ",TR | CAN TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/6403
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | YOL TV" tvg-logo="http://epg.4kplus.vip/kralsin/logos/turkiyem.png" group-title="TR | Ulusal ᵁᴴᴰ",TR | YOL TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/6402
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR | POWER HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/powerhd.png" group-title="TR | Muzik ᵁᴴᴰ",TR | POWER HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/688
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR | POWERTURK HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/powerturkhd.png" group-title="TR | Muzik ᵁᴴᴰ",TR | POWERTURK HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/651
+#EXTINF:-1 tvg-id="dreamtv.tr" tvg-name="TR | DREAM TURK" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/dreamturk.png" group-title="TR | Muzik ᵁᴴᴰ",TR | DREAM TURK
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/649
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | NR1 TURK  HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/nr1turk.png" group-title="TR | Muzik ᵁᴴᴰ",TR | NR1 TURK  HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1560
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | NR1 TV HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/4KPLUS.png" group-title="TR | Muzik ᵁᴴᴰ",TR | NR1 TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1567
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR | TRT BELGESEL FHD" tvg-logo="http://epg.4kplus.vip/kralsin/logos/trtbelgesel.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | TRT BELGESEL FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7124
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TRT MUZIK 4K+" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/TRTMUZIK.png" group-title="TR | Muzik ᵁᴴᴰ",TR | TRT MUZIK 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7125
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR |  TLC 4K+" tvg-logo="http://epg.4kplus.vip/kralsin/logos/tlchd.png" group-title="TR | Belgesel ᵁᴴᴰ",TR |  TLC 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7143
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR | YABAN TV 4K+" tvg-logo="http://epg.4kplus.vip/kralsin/logos/yaban.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | YABAN TV 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/666
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR |  BBC EARTH 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/BBCHD.png" group-title="TR | Belgesel ᵁᴴᴰ",TR |  BBC EARTH 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/8347
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR | ANIMAL PLANET FHD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/nlde/animalplanet.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | ANIMAL PLANET FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1007
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | IZ TV 4K+" tvg-logo="http://195.154.235.226/logo/tr/beINiz.tr.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | IZ TV 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1008
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR | NATIONAL GEO WILD 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeowildhd.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | NATIONAL GEO WILD 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1015
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR | NATIONAL GEOGRAPHIC 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeo.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | NATIONAL GEOGRAPHIC 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1014
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR | HISTORY CHANNEL 4K+" tvg-logo="http://foxfilm.dynu.net/kralsin/logo/nlde/historyhd.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | HISTORY CHANNEL 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1006
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="TR | Da Vinci ᴴᴰ" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | Da Vinci ᴴᴰ
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1022
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR | D-Smart=Discovery Channel 4K+" tvg-logo="http://195.154.235.226/logo/all/discoverychannel.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | D-Smart=Discovery Channel 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1020
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR | D-Smart=National Geo WILD 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeowildhd.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | D-Smart=National Geo WILD 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1019
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR | D-Smart=NATIONAL GEOGRAPHIC CHANNEL 4K+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeo.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | D-Smart=NATIONAL GEOGRAPHIC CHANNEL 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1018
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | 24 KITCHEN HD" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | 24 KITCHEN HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46843
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Anadolu Aslanlari" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Belgesel ᵁᴴᴰ",TR | Anadolu Aslanlari
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46841
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Discovery idx" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | Discovery idx
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46845
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | DISCOVERY SCIENCE&VIE HD" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | DISCOVERY SCIENCE&VIE HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46846
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | tivibu history channel" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | tivibu history channel
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46848
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TRT WORLD HD" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | TRT WORLD HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46847
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Viasat Explore HD" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | Viasat Explore HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/46849
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | MEKKE KABE CANLI" tvg-logo="" group-title="TR | Dini ᵁᴴᴰ",TR | MEKKE KABE CANLI
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/14634
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | AKIT TV HD" tvg-logo="" group-title="TR | Dini ᵁᴴᴰ",TR | AKIT TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/14633
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SEMERKAND HD" tvg-logo="" group-title="TR | Dini ᵁᴴᴰ",TR | SEMERKAND HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7374
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Nihat Hatipoglu HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Dini ᵁᴴᴰ",TR | Nihat Hatipoglu HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25941
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | HRT AKDENIZ TV" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/hrtakdeniz.png" group-title="TR | Ulusal ᵁᴴᴰ",TR | HRT AKDENIZ TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/715
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | DISCOVERY ID CHANNEL" tvg-logo="" group-title="TR | Belgesel ᵁᴴᴰ",TR | DISCOVERY ID CHANNEL
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/1552
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU KEMAL SUNAL 1 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kemalsu.jpeg" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU KEMAL SUNAL 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25946
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  BLU KEMAL SUNAL 2 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kemalsu.jpeg" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR |  BLU KEMAL SUNAL 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25947
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  BLU KEMAL SUNAL 3 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kemalsu.jpeg" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR |  BLU KEMAL SUNAL 3 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25948
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  BLU KEMAL SUNAL 4 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kemalsu.jpeg" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR |  BLU KEMAL SUNAL 4 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23889
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU KEMAL SUNAL 5 HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kemalsu.jpeg" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU KEMAL SUNAL 5 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25927
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Recep Ivedik HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | Blu Recep Ivedik HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/40116
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Hababam TV" tvg-logo="http://epg.4kplus.vip/kralsin/logos/kemalsu.jpeg" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | Blu Hababam TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/31426
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  Blu Sener Sen 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR |  Blu Sener Sen 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25950
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU ILYAS SALMAN" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU ILYAS SALMAN
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/12812
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Yilmaz Guney 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | Blu Yilmaz Guney 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23265
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU CUNEYT ARKIN" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU CUNEYT ARKIN
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23271
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 1 4K" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 1 4K
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35356
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 2 4K+" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 2 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35357
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 3 4K+" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 3 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35358
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 4 4K" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 4 4K
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35359
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 5 4K+" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 5 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35360
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 6 4K+" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 6 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35361
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM  1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM  1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/9049
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 2 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25859
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  BLU YESILCAM 3  HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR |  BLU YESILCAM 3  HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/26116
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 4  HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 4  HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23269
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 5 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 5 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23270
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | BLU YESILCAM 6 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Blu Cineturk ᵁᴴᴰ",TR | BLU YESILCAM 6 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/23266
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR | beIN MOVIES TURK FHD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN MOVIES TURK FHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21006
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR | beIN MOVIES PREMIERE HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN MOVIES PREMIERE HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21008
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR | beIN MOVIES PREMIERE 2 HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN MOVIES PREMIERE 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21009
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR | beIN MOVIES FAMILY HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN MOVIES FAMILY HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21010
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR | beIN MOVIES ACTION HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN MOVIES ACTION HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21011
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR | beIN MOVIES ACTION 2 HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN MOVIES ACTION 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21012
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | beIN SERIES SIFI HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN SERIES SIFI HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21017
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | beIN SERIES DRAMA HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN SERIES DRAMA HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21019
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | beIN SERIES COMEDY HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN SERIES COMEDY HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21020
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR | MOVIE SMART TURK HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | MOVIE SMART TURK HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21022
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR | MOVIE SMART CLASSIC HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | MOVIE SMART CLASSIC HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21029
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR | DIZI SMART PREMIUM HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | DIZI SMART PREMIUM HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21033
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Avangers 1 UHD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Sinema ᵁᴴᴰ",TR | Avangers 1 UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/42204
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | beIN BOX OFFICE 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN BOX OFFICE 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30805
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | beIN BOX OFFICE 2 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN BOX OFFICE 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30806
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | beIN BOX OFFICE 3 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR | beIN BOX OFFICE 3 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30807
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Bruce Lee TV" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Sinema ᵁᴴᴰ",TR | Bruce Lee TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/42245
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  SiNEMA 1001" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR |  SiNEMA 1001
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30943
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  SiNEMA TV YERLI" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR |  SiNEMA TV YERLI
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30944
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  SiNEMA TV" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR |  SiNEMA TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30945
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  SINEMA AILE HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR |  SINEMA AILE HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30946
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SINEMA KOMEDI 2 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA KOMEDI 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30948
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SINEMA AKSIYON 2 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA AKSIYON 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/30949
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE VISION 1" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | CINE VISION 1
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44089
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE VISION 2" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | CINE VISION 2
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44090
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE VISION 3" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | CINE VISION 3
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44091
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE VISION JR" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | CINE VISION JR
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44094
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE VISION TR" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | CINE VISION TR
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44093
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE VISION VIP" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | CINE VISION VIP
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44092
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SINEMA TV 1001 HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA TV 1001 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44018
+#EXTINF:-1 tvg-id="" tvg-name="TR | SINEMA TV AILE HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA TV AILE HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44025
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SINEMA TV HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44017
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SINEMA TV KOMEDI HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA TV KOMEDI HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44022
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SINEMA TV YERLI HD" tvg-logo="" group-title="TR | Sinema ᵁᴴᴰ",TR | SINEMA TV YERLI HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/44024
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Avrupa Yakasi  HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/turkiyem.png" group-title="TR | Diziler 7/24 ᵁᴴᴰ",TR | Avrupa Yakasi  HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47159
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu  Ezel Tv 1 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Diziler 7/24 ᵁᴴᴰ",TR | Blu  Ezel Tv 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25949
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu  Ezel Tv 2 HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Diziler 7/24 ᵁᴴᴰ",TR | Blu  Ezel Tv 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/35387
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Aksiyon HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Sinema ᵁᴴᴰ",TR | Blu Aksiyon HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/31423
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Guldur Guldur  HD" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Diziler 7/24 ᵁᴴᴰ",TR | Guldur Guldur  HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/38612
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Blu Comedy Turk" tvg-logo="http://vipnova.xyz:38091/kralsin/logo/blu1.png" group-title="TR | Sinema ᵁᴴᴰ",TR | Blu Comedy Turk
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/25942
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | FX HD" tvg-logo="http://vodxcore.dynu.net/film/logolar/logotr.png" group-title="TR | Sinema ᵁᴴᴰ",TR | FX HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/21031
+#EXTINF:-1 tvg-id="" tvg-name="TR  | Konya Tv" tvg-logo="" group-title="TR | Yoresel Kanallar ᴴᴰ",TR  | Konya Tv
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47578
+#EXTINF:-1 tvg-id="" tvg-name="TR | Ege Tv" tvg-logo="" group-title="TR | Yoresel Kanallar ᴴᴰ",TR | Ege Tv
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47579
+#EXTINF:-1 tvg-id="" tvg-name="TR | Vizyon 58" tvg-logo="" group-title="TR | Yoresel Kanallar ᴴᴰ",TR | Vizyon 58
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47577
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Yildiz Tv" tvg-logo="" group-title="TR | Yoresel Kanallar ᴴᴰ",TR | Yildiz Tv
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/47576
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | A SPOR UHD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | A SPOR UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/41788
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SMART SPOR 2 UHD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | SMART SPOR 2 UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/41787
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | Smart Spor  4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | Smart Spor  4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7379
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SSPORT 4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | SSPORT 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7380
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBUSPOR 3 4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBUSPOR 3 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7378
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBUSPOR 2 4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBUSPOR 2 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7377
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBUSPOR 3 4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBUSPOR 3 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7376
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBU SPOR 1 HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBU SPOR 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/621
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBU SPOR 2 HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBU SPOR 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/619
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBU SPOR 3 HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBU SPOR 3 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/617
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBU VIP 1 HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBU VIP 1 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/615
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TIVIBU VIP 2 HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TIVIBU VIP 2 HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/614
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SMART SPOR 4K" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | SMART SPOR 4K
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/606
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | VIP S-SPORT" tvg-logo="" group-title="TR | B.Spor ᵁᴴᴰ",TR | VIP S-SPORT
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/13826
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | VIP S SPOR 2 4K" tvg-logo="" group-title="TR | B.Spor ᵁᴴᴰ",TR | VIP S SPOR 2 4K
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/13825
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | VIP TIVIBU SPOR 1" tvg-logo="" group-title="TR | B.Spor ᵁᴴᴰ",TR | VIP TIVIBU SPOR 1
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/13830
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | VIP TIVIBU SPOR 2" tvg-logo="" group-title="TR | B.Spor ᵁᴴᴰ",TR | VIP TIVIBU SPOR 2
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/13829
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | VIP TIVIBU SPOR 3" tvg-logo="" group-title="TR | B.Spor ᵁᴴᴰ",TR | VIP TIVIBU SPOR 3
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/13828
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | TRT SPOR 4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TRT SPOR 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/7126
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  GS TV HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR |  GS TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/607
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR  | TRT 2 SPOR 4K" tvg-logo="http://epg.4kplus.vip/kralsin/logos/trt2.png" group-title="TR | Spor Full ᵁᴴᴰ",TR  | TRT 2 SPOR 4K
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/609
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR |  FB TV HD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR |  FB TV HD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/608
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | GS TV" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | GS TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/610
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | A SPOR 4K+" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | A SPOR 4K+
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/613
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR | SPORTS TV" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | SPORTS TV
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/604
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR | TRT SPOR UHD" tvg-logo="" group-title="TR | Spor Full ᵁᴴᴰ",TR | TRT SPOR UHD
+http://4kplus.org:80/hiricane1234/MZwnj9kOZg/612
