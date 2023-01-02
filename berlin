@@ -1,0 +1,1193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/trt1hd.png" group-title="TR : Turkiye",|TR| TRT 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/2
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/atv.png" group-title="TR : Turkiye",|TR| ATV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/3
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| Kanal D 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/kanald.png" group-title="TR : Turkiye",|TR| Kanal D 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/4
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| Show TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/showtv.png" group-title="TR : Turkiye",|TR| Show TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/5
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| Star TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/startv.png" group-title="TR : Turkiye",|TR| Star TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/6
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| Fox TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/foxtv.png" group-title="TR : Turkiye",|TR| Fox TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/9
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/tv8.png" group-title="TR : Turkiye",|TR| TV 8 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/7
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/tv8.5.png" group-title="TR : Turkiye",|TR| TV 8.5 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| Kanal 7 4K+ " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/kanal7.png" group-title="TR : Turkiye",|TR| Kanal 7 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/10
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| Beyaz TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/beyaztv1.png" group-title="TR : Turkiye",|TR| Beyaz TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/11
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/a2tv.png" group-title="TR : Turkiye",|TR| A2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/12
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="|TR| TRT 2 4K+ " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/trt2.png" group-title="TR : Turkiye",|TR| TRT 2 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| Teve 2 4K+ " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/teve2.png" group-title="TR : Turkiye",|TR| Teve 2 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 4 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/TV4.png" group-title="TR : Turkiye",|TR| TV 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/15
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/trt1.png" group-title="TR : Turkiye",|TR| TRT 1 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/16
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/atv.png" group-title="TR : Turkiye",|TR| ATV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/17
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| Kanal D HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/kanald.png" group-title="TR : Turkiye",|TR| Kanal D HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/19
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/a2tv.png" group-title="TR : Turkiye",|TR| A2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/18
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| Star TV HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/startv.png" group-title="TR : Turkiye",|TR| Star TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/21
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| Show TV HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/showtv.png" group-title="TR : Turkiye",|TR| Show TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/20
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| Fox TV HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/foxtv.png" group-title="TR : Turkiye",|TR| Fox TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/24
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/tv8.png" group-title="TR : Turkiye",|TR| TV 8 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/tv8.5.png" group-title="TR : Turkiye",|TR| TV 8.5 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/23
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| Kanal 7 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/kanal7.png" group-title="TR : Turkiye",|TR| Kanal 7 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/25
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| Beyaz TV HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/beyaztv1.png" group-title="TR : Turkiye",|TR| Beyaz TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/26
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| Teve 2 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/teve2.png" group-title="TR : Turkiye",|TR| Teve 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/27
+#EXTINF:-1 tvg-id="" tvg-name="|TR| IBB TV HD+" tvg-logo="https://www.canlitvizlemeli.com/uploads/kanal/28656ibb-tv-canli.png" group-title="TR : Turkiye",|TR| IBB TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/28
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| ShowMax " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/showmax.png" group-title="TR : Turkiye",|TR| ShowMax 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/30
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 int " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/tv8int.png" group-title="TR : Turkiye",|TR| TV 8 int 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/29
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="|TR| TRT Turk " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/Trtturk.png" group-title="TR : Turkiye",|TR| TRT Turk 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/31
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV Avrupa" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/atvavrupa.png" group-title="TR : Turkiye",|TR| ATV Avrupa
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Euro D" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/eurod.png" group-title="TR : Turkiye",|TR| Euro D
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/34
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Show Turk" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/showturk1.png" group-title="TR : Turkiye",|TR| Show Turk
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/35
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Euro Star " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/eurostar.png" group-title="TR : Turkiye",|TR| Euro Star 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/36
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 7 Avrupa" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/kanal7avrupa.png" group-title="TR : Turkiye",|TR| Kanal 7 Avrupa
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/37
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/trt1hevc.png" group-title="TR : Turkiye HEVC",|TR| TRT 1 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47601
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/atvhevc.png" group-title="TR : Turkiye HEVC",|TR| ATV Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47602
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| Kanal D Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/kanald.png" group-title="TR : Turkiye HEVC",|TR| Kanal D Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47603
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| Show TV Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/showtvhevc.png" group-title="TR : Turkiye HEVC",|TR| Show TV Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47604
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| Star TV Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/startvhevc.png" group-title="TR : Turkiye HEVC",|TR| Star TV Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47605
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| Fox TV Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/foxtvhevc.png" group-title="TR : Turkiye HEVC",|TR| Fox TV Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47610
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/tv8hevc.png" group-title="TR : Turkiye HEVC",|TR| TV 8 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47607
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/tv85hevc.png" group-title="TR : Turkiye HEVC",|TR| TV 8.5 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47609
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| Beyaz TV Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/beyaztvhevc.png" group-title="TR : Turkiye HEVC",|TR| Beyaz TV Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47614
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| Kanal 7 Hevc" tvg-logo="http://148.251.19.24:89/TR-Hevc/kanal7hevc.png" group-title="TR : Turkiye HEVC",|TR| Kanal 7 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47755
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 Hevc" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/a2tv.png" group-title="TR : Turkiye HEVC",|TR| A2 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47616
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| Teve 2 Hevc" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/teve2.png" group-title="TR : Turkiye HEVC",|TR| Teve 2 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47620
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV100 Hevc" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/tv100.png" group-title="TR : Turkiye HEVC",|TR| TV100 Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47756
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 360 TV Hevc" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/360tv.png" group-title="TR : Turkiye HEVC",|TR| 360 TV Hevc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/65618
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Mavi Karadeniz TV" tvg-logo="" group-title="TR : Yerel",|TR| Mavi Karadeniz TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/161
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Ekin TV" tvg-logo="" group-title="TR : Yerel",|TR| Ekin TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/61387
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tempo TV" tvg-logo="" group-title="TR : Yerel",|TR| Tempo TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/61370
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 58" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanal58.png" group-title="TR : Yerel",|TR| Kanal 58
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/44
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Aksu TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/AKSU.TV.png" group-title="TR : Yerel",|TR| Aksu TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/45
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Deha Denizli" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/drtdenizli.png" group-title="TR : Yerel",|TR| Deha Denizli
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/46
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Turkmeneli 4K+" tvg-logo="http://148.251.19.24:89/turkmeneli1.png" group-title="TR : Yerel",|TR| Turkmeneli 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/69085
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanal3.png" group-title="TR : Yerel",|TR| Kanal 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="|TR| Kanal B" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanalb.png" group-title="TR : Yerel",|TR| Kanal B
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/48
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal Urfa" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanalurfa.png" group-title="TR : Yerel",|TR| Kanal Urfa
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/49
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Lalegul TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/LALEGUL.TV.png" group-title="TR : Yerel",|TR| Lalegul TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/42
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Bengu Turk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/BENGU.TURK.png" group-title="TR : Yerel",|TR| Bengu Turk TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/43
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Yildiz En TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/YILDIZ.EN.TV.png" group-title="TR : Yerel",|TR| Yildiz En TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/51
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Pamukkale TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/pamukkale.png" group-title="TR : Yerel",|TR| Pamukkale TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/52
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Firat TV" tvg-logo="http://5.9.108.141:89/kanal-firat.png" group-title="TR : Yerel",|TR| Firat TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/53
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kadirga TV Trabzon" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kadirgatv1.png" group-title="TR : Yerel",|TR| Kadirga TV Trabzon
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/54
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal V" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KANAL.V.png" group-title="TR : Yerel",|TR| Kanal V
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/55
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Ordu Altas TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/ALTAS.TV.png" group-title="TR : Yerel",|TR| Ordu Altas TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/56
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Line TV Bursa" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/LINE.TV.png" group-title="TR : Yerel",|TR| Line TV Bursa
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/57
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Beykent TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/beykenttv1.png" group-title="TR : Yerel",|TR| Beykent TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/58
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Koza TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KOZA.TV.png" group-title="TR : Yerel",|TR| Koza TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/59
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EkoTurk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/ekoturk.png" group-title="TR : Yerel",|TR| EkoTurk TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/60
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tarim Turk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tarimturk.png" group-title="TR : Yerel",|TR| Tarim Turk TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/61
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kon TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kontv.png" group-title="TR : Yerel",|TR| Kon TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/63
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 42 Konya" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/42konyatv-hdtvler-z0rv.png" group-title="TR : Yerel",|TR| Kanal 42 Konya
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/64
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Vizyon 58 Sivas" tvg-logo="https://3.bp.blogspot.com/-jOo4x2W1kmk/XBkkLFgz7qI/AAAAAAAAChE/hrgq9hk4ic0-SDM7ijwPPcUDhwLw9t_zwCLcBGAs/s1600/vizyon-58.png" group-title="TR : Yerel",|TR| Vizyon 58 Sivas
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/65
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Akilli TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/akillitv.png" group-title="TR : Yerel",|TR| Akilli TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/67
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV kayseri" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tvkayseri.png" group-title="TR : Yerel",|TR| TV kayseri
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/70
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV EM" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/emtv.png" group-title="TR : Yerel",|TR| TV EM
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/71
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 52 Ordu" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tv52.png" group-title="TR : Yerel",|TR| TV 52 Ordu
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/72
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 1 HD+" tvg-logo="https://i.pinimg.com/originals/da/2d/b5/da2db58d891220b7de473064de124a12.png" group-title="TR : Yerel",|TR| BRT 1 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/76
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 2 HD+" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/brt2tv-hdtvler-fpcq.png" group-title="TR : Yerel",|TR| BRT 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/77
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kibris Genc" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Kibrisgenc.png" group-title="TR : Yerel",|TR| Kibris Genc
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/78
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Rehber TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/REHBER.TV.png" group-title="TR : Yerel",|TR| Rehber TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/79
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Deha TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Dehatv.png" group-title="TR : Yerel",|TR| Deha TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/81
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Köy TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/KoyTv.png" group-title="TR : Yerel",|TR| Köy TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/82
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kardelen TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Kardelentv.png" group-title="TR : Yerel",|TR| Kardelen TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/83
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Edessa TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/EDESSA.TV.png" group-title="TR : Yerel",|TR| Edessa TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/84
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Es TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/ES.TV.png" group-title="TR : Yerel",|TR| Es TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/85
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal Avrupa TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KANAL.AVRUPA.png" group-title="TR : Yerel",|TR| Kanal Avrupa TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/86
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 15" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 15
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/87
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 23" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 23
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/88
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 26" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 26
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/89
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 32" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 32
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/90
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 33" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 33
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/91
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HRT Akdeniz TV" tvg-logo="" group-title="TR : Yerel",|TR| HRT Akdeniz TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/93
+#EXTINF:-1 tvg-id="" tvg-name="|TR| On4 TV" tvg-logo="https://www.dorukmedia.com/doruk-medya-media-referanslar/on4-tv.png" group-title="TR : Yerel",|TR| On4 TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/94
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kent Turk" tvg-logo="" group-title="TR : Yerel",|TR| Kent Turk
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/96
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Mercan TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/mercantv.png" group-title="TR : Yerel",|TR| Mercan TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/97
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Cay TV " tvg-logo="" group-title="TR : Yerel",|TR| Cay TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/99
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Akit TV " tvg-logo="" group-title="TR : Yerel",|TR| Akit TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/100
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sat-7 Turk" tvg-logo="" group-title="TR : Yerel",|TR| Sat-7 Turk
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/101
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Vuslat TV" tvg-logo="" group-title="TR : Yerel",|TR| Vuslat TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/102
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Cem TV" tvg-logo="" group-title="TR : Yerel",|TR| Cem TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/108
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Meltem TV" tvg-logo="" group-title="TR : Yerel",|TR| Meltem TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/114
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 68" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KANAL.68.png" group-title="TR : Yerel",|TR| Kanal 68
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/38
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Anadolu Dernek" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/ANADOLU.DERNEK.png" group-title="TR : Yerel",|TR| Anadolu Dernek
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/41
+#EXTINF:-1 tvg-id="ucankus.tr" tvg-name="|TR| Ucankus " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Ucankus.png" group-title="TR : Yerel",|TR| Ucankus 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/68
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Semerkand TV 4K+" tvg-logo="" group-title="TR : Yerel",|TR| Semerkand TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/104
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Diyanet TV " tvg-logo="" group-title="TR : Yerel",|TR| Diyanet TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/105
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Mekke TV" tvg-logo="" group-title="TR : Yerel",|TR| Mekke TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/78536
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dost TV" tvg-logo="" group-title="TR : Yerel",|TR| Dost TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/107
+#EXTINF:-1 tvg-id="tv5monde.tr" tvg-name="|TR| TV5" tvg-logo="" group-title="TR : Yerel",|TR| TV5
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/109
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MC EU" tvg-logo="" group-title="TR : Yerel",|TR| MC EU
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/112
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Vatan TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/vatantv.png" group-title="TR : Yerel",|TR| Vatan TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/32
+#EXTINF:-1 tvg-id="" tvg-name="Cici (TR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzB4hGHkW4NGnjhqTSyTj9AbgGO.jpg" group-title="TR - Netflix Filmleri",Cici (TR)
+http://62.182.83.91:80/movie/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/82901.mkv
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="|TR| TRT Haber 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/TRT.HABER.png" group-title="TR : Haber",|TR| TRT Haber 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/116
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="|TR| A Haber 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/A.HABER.png" group-title="TR : Haber",|TR| A Haber 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/117
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="|TR| A Para 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/A.PARA.png" group-title="TR : Haber",|TR| A Para 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/118
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="|TR| CNN Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/CNN.TURK.png" group-title="TR : Haber",|TR| CNN Turk 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/119
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="|TR| Haber Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/HABER.TURK.png" group-title="TR : Haber",|TR| Haber Turk 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/120
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="|TR| NTV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/NTV.png" group-title="TR : Haber",|TR| NTV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/121
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="|TR| TGRT Haber 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/TGRT.HABER.png" group-title="TR : Haber",|TR| TGRT Haber 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/122
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="|TR| Ulke TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/ULKE.TV.png" group-title="TR : Haber",|TR| Ulke TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/123
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV100 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/TV.100.png" group-title="TR : Haber",|TR| TV100 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/124
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="|TR| Bloomberg HT 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/BLOOMBERG.png" group-title="TR : Haber",|TR| Bloomberg HT 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/125
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="|TR| TVNET 4K+ " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/tvnet.png" group-title="TR : Haber",|TR| TVNET 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/126
+#EXTINF:-1 tvg-id="24.tr" tvg-name="|TR|  24 Haber 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/KANAL.24.png" group-title="TR : Haber",|TR|  24 Haber 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/128
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="|TR| TRT World 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/trtworld.png" group-title="TR : Haber",|TR| TRT World 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/129
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="|TR| Haber Global 4K+ " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/HABER.GLOBAL.png" group-title="TR : Haber",|TR| Haber Global 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/127
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 360 TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/ulusal/360.TV.png" group-title="TR : Haber",|TR| 360 TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/137
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="|TR| Flash TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Genel/ulusal/FLASH.TV.png" group-title="TR : Haber",|TR| Flash TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/236
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Halk TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/HALK.TV.png" group-title="TR : Haber",|TR| Halk TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47176
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRT 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/KRT.TV.png" group-title="TR : Haber",|TR| KRT 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/130
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tele 1 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/TELE.1.png" group-title="TR : Haber",|TR| Tele 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47177
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Arti TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/artitv.png" group-title="TR : Haber",|TR| Arti TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/111
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Can TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/cantv.png" group-title="TR : Haber",|TR| Can TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/40
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Yol TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/YOL-TV1.png" group-title="TR : Haber",|TR| Yol TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/39
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="|TR| TRT Haber HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/TRT.HABER.png" group-title="TR : Haber",|TR| TRT Haber HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/41345
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="|TR| A Haber HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/A.HABER.png" group-title="TR : Haber",|TR| A Haber HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/131
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="|TR| Cnn Turk HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/CNN.TURK.png" group-title="TR : Haber",|TR| Cnn Turk HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/132
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="|TR| Haber Turk HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/HABER.TURK.png" group-title="TR : Haber",|TR| Haber Turk HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/133
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Uzay Haber" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/UZAY.HABER.png" group-title="TR : Haber",|TR| Uzay Haber
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/134
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="|TR| TGRT EU" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/TGRT_EU.png" group-title="TR : Haber",|TR| TGRT EU
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/141
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="|TR| Ulusal Kanal" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/ULUSAL.KANAL.png" group-title="TR : Haber",|TR| Ulusal Kanal
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/139
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Halk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/HALK.TV.png" group-title="TR : Haber",|TR| Halk TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/138
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRT" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/KRT.TV.png" group-title="TR : Haber",|TR| KRT
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/47178
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tele 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Haber/haber/TELE.1.png" group-title="TR : Haber",|TR| Tele 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/140
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="|TR| beIN Movies Action 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.png" group-title="TR : Sinema",|TR| beIN Movies Action 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/162
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="|TR| beIN Movies Action 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.2.png" group-title="TR : Sinema",|TR| beIN Movies Action 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/163
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="|TR| beIN Movies Family 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.FAMILY.png" group-title="TR : Sinema",|TR| beIN Movies Family 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/164
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="|TR| beIN Movies Premiere 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.PREMIERE.png" group-title="TR : Sinema",|TR| beIN Movies Premiere 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/165
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="|TR| beIN Movies Premiere 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.PREMIERE.2.png" group-title="TR : Sinema",|TR| beIN Movies Premiere 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/166
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="|TR| beIN Movies Stars 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.STARS.png" group-title="TR : Sinema",|TR| beIN Movies Stars 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/167
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="|TR| beIN Movies Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.TURK.png" group-title="TR : Sinema",|TR| beIN Movies Turk 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/168
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="|TR| beIN Series Comedy 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.COMEDY.png" group-title="TR : Sinema",|TR| beIN Series Comedy 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/169
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="|TR| beIN Series Drama 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/beinseriesdrama1.png" group-title="TR : Sinema",|TR| beIN Series Drama 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/170
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="|TR| beIN Series Sci-Fi 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.SCI.FI.png" group-title="TR : Sinema",|TR| beIN Series Sci-Fi 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/171
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="|TR| beIN Series Vice 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.VICE.png" group-title="TR : Sinema",|TR| beIN Series Vice 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/172
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="|TR| Movie smart Premium 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.PREMIUM.png" group-title="TR : Sinema",|TR| Movie smart Premium 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/177
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="|TR| Movie smart Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.TURK.png" group-title="TR : Sinema",|TR| Movie smart Turk 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/178
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="|TR| Movie smart Cocuk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/moviesmartcocuk.png" group-title="TR : Sinema",|TR| Movie smart Cocuk 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/179
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="|TR| Movie smart Classic 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.CLASSIC.png" group-title="TR : Sinema",|TR| Movie smart Classic 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/192
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dizismart Max 4K+  " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/DIZI.SMART.MAX.png" group-title="TR : Sinema",|TR| Dizismart Max 4K+  
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74844
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="|TR| Dizi Smart Premium 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/DIZI.SMART.PREMIUM.png" group-title="TR : Sinema",|TR| Dizi Smart Premium 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/180
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Yerli 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.YERLI.png" group-title="TR : Sinema",|TR| Sinema Tv Yerli 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74839
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Yerli 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.YERLI.png" group-title="TR : Sinema",|TR| Sinema Tv Yerli 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74840
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Komedi 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.KOMEDI.png" group-title="TR : Sinema",|TR| Sinema Tv Komedi 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74819
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Komedi 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.KOMEDI.png" group-title="TR : Sinema",|TR| Sinema Tv Komedi 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74836
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="|TR| Sinema TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.png" group-title="TR : Sinema",|TR| Sinema TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/182
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="|TR| Sinema TV 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.2.png" group-title="TR : Sinema",|TR| Sinema TV 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/183
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="|TR| Sinema TV 1001 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.1001.png" group-title="TR : Sinema",|TR| Sinema TV 1001 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/184
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="|TR| Sinema TV 1002 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.1002.png" group-title="TR : Sinema",|TR| Sinema TV 1002 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/181
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="|TR| Sinema TV Aile 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AILE.png" group-title="TR : Sinema",|TR| Sinema TV Aile 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/185
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="|TR| Sinema TV Aile 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AILE.png" group-title="TR : Sinema",|TR| Sinema TV Aile 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/49449
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="|TR| Sinema TV Aksiyon 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AKSIYON.png" group-title="TR : Sinema",|TR| Sinema TV Aksiyon 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/186
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Aksiyon 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AKSIYON.png" group-title="TR : Sinema",|TR| Sinema Tv Aksiyon 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74837
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="|TR| Fox Crime 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/FOX.CRIME.png" group-title="TR : Sinema",|TR| Fox Crime 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/188
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="|TR| FX 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/FX.png" group-title="TR : Sinema",|TR| FX 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/196
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="|TR| Bein Box office 1 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.BOX.OFFICE.1.png" group-title="TR : Sinema",|TR| Bein Box office 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/193
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="|TR| Bein Box Office 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.BOX.OFFICE.2.png" group-title="TR : Sinema",|TR| Bein Box Office 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/194
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="|TR| Bein Box Office 3 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/beinboxoffice3.png" group-title="TR : Sinema",|TR| Bein Box Office 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/195
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon1.png" group-title="TR : Sinema",|TR| Salon 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22248
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 2" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon2.png" group-title="TR : Sinema",|TR| Salon 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22242
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon3.png" group-title="TR : Sinema",|TR| Salon 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22235
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22251
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 2" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22250
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22249
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 4K+" tvg-logo="" group-title="TR : Belgesel",|TR| TRT 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/234
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="|TR| TRT Belgesel 4K+" tvg-logo="" group-title="TR : Belgesel",|TR| TRT Belgesel 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/235
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="|TR| Discovery Channel HD+" tvg-logo="" group-title="TR : Belgesel",|TR| Discovery Channel HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/237
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="|TR| Discovery Science HD+" tvg-logo="" group-title="TR : Belgesel",|TR| Discovery Science HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/238
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="|TR| Discovery ID HD+" tvg-logo="https://w7.pngwing.com/pngs/717/149/png-transparent-investigation-discovery-high-definition-television-id-xtra-discovery-hd-others.png" group-title="TR : Belgesel",|TR| Discovery ID HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/239
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="|TR| BBC Earth 4K+" tvg-logo="" group-title="TR : Belgesel",|TR| BBC Earth 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/240
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="|TR| History Channel HD+" tvg-logo="" group-title="TR : Belgesel",|TR| History Channel HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/241
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| Dmax 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png" group-title="TR : Belgesel",|TR| Dmax 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/242
+#EXTINF:-1 tvg-id="docubox.tr" tvg-name="|TR| DocuBox 4K+" tvg-logo="http://5.9.108.141:89/DocuBox_HD_logo.png" group-title="TR : Belgesel",|TR| DocuBox 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/49044
+#EXTINF:-1 tvg-id="360.tr" tvg-name="|TR| Habitat TV 4K+" tvg-logo="http://5.9.108.141:89/habitat.png" group-title="TR : Belgesel",|TR| Habitat TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74818
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Trek TV 4K+ " tvg-logo="http://5.9.108.141:89/Trektv.png" group-title="TR : Belgesel",|TR| Trek TV 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/63846
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Chasse & Pêche 4K+" tvg-logo="http://5.9.108.141:89/Chasse%26P%C3%AAche.png" group-title="TR : Belgesel",|TR| Chasse & Pêche 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/55275
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="|TR| 24Kitchen 4K+" tvg-logo="" group-title="TR : Belgesel",|TR| 24Kitchen 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/254
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="|TR| TLC HD+" tvg-logo="" group-title="TR : Belgesel",|TR| TLC HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/243
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="|TR| Bein IZ TV HD+" tvg-logo="" group-title="TR : Belgesel",|TR| Bein IZ TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/244
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="|TR| National Geographic" tvg-logo="" group-title="TR : Belgesel",|TR| National Geographic
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/245
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="|TR| Nat Geo Wild" tvg-logo="" group-title="TR : Belgesel",|TR| Nat Geo Wild
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/247
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="|TR| TRT Avaz" tvg-logo="" group-title="TR : Belgesel",|TR| TRT Avaz
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/248
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT Belgesel" tvg-logo="" group-title="TR : Belgesel",|TR| TGRT Belgesel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/249
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Ciftci TV" tvg-logo="" group-title="TR : Belgesel",|TR| Ciftci TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/250
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="|TR| Yaban TV" tvg-logo="" group-title="TR : Belgesel",|TR| Yaban TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/251
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="|TR| Da Vinci" tvg-logo="https://www.nicepng.com/png/full/141-1417701_generic-logo-da-vinci-learning-logo.png" group-title="TR : Belgesel",|TR| Da Vinci
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/256
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Love Nature" tvg-logo="" group-title="TR : Belgesel",|TR| Love Nature
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/233
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="|TR| Bein Gurme HD+" tvg-logo="" group-title="TR : Belgesel",|TR| Bein Gurme HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/253
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="|TR| ID HD+" tvg-logo="https://img2.pngio.com/fileinvestigation-discovery-logo-2018svg-wikimedia-commons-investigation-discovery-png-1200_1332.png" group-title="TR : Belgesel",|TR| ID HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/255
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink 4K+" tvg-logo="" group-title="EXYU : Pink",|RS| Pink 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14003
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink 2" tvg-logo="" group-title="EXYU : Pink",|RS| Pink 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14005
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink 3 Info" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/1680ee83c99ceb97a9e8310db1e123aa.png" group-title="EXYU : Pink",|RS| Pink 3 Info
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14007
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Extra" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Extra
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14009
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Plus" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14010
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Kuvar" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Kuvar
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14011
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Zabava" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Zabava
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14012
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Reality" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Reality
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14014
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Pedia" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Pedia
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14015
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink World" tvg-logo="" group-title="EXYU : Pink",|RS| Pink World
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14016
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink HaHa" tvg-logo="" group-title="EXYU : Pink",|RS| Pink HaHa
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14018
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink LOL" tvg-logo="" group-title="EXYU : Pink",|RS| Pink LOL
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14019
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Film" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Film
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14021
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Movies" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Movies
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14022
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Premium" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Premium
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14024
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Action" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Action
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14025
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Comedy" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Comedy
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14027
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Crime & Mystery" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Crime & Mystery
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14031
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Horror" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Horror
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14033
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Romance" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Romance
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14034
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Sci-Fi & Fantasy" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Sci-Fi & Fantasy
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14035
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Thriller" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Thriller
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14036
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Western" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Western
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14037
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Classic" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Classic
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14038
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Serije" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Serije
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14039
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Soap" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Soap
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14040
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Super Kids" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Super Kids
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14051
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Kids" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Kids
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14052
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Style" tvg-logo="" group-title="EXYU : Pink",|RS| Pink Style
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14054
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink World Cinema" tvg-logo="" group-title="EXYU : Pink",|RS| Pink World Cinema
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14055
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinemax 1 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinemax 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13920
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinemax 2 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinemax 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13921
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinestar TV Premiere 1 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinestar TV Premiere 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13922
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinestar TV Premiere 2 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinestar TV Premiere 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13923
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinestar TV" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinestar TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13924
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinestar Action" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinestar Action
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13925
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Kino TV" tvg-logo="" group-title="EXYU : Film",|ExYu| Kino TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13926
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Pickbox" tvg-logo="" group-title="EXYU : Film",|ExYu| Pickbox
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13927
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| TV 1000" tvg-logo="" group-title="EXYU : Film",|ExYu| TV 1000
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13928
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Fox Crime" tvg-logo="" group-title="EXYU : Film",|ExYu| Fox Crime
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13929
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Fox Movies" tvg-logo="" group-title="EXYU : Film",|ExYu| Fox Movies
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13930
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| FilmBox Plus" tvg-logo="" group-title="EXYU : Film",|ExYu| FilmBox Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13931
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| FilmBox Extra 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| FilmBox Extra 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13932
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| HBO 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| HBO 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13933
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| HBO 2 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| HBO 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13934
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| HBO 3 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| HBO 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13935
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| AMC 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| AMC 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13936
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| AXN" tvg-logo="" group-title="EXYU : Film",|ExYu| AXN
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13937
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Diva" tvg-logo="" group-title="EXYU : Film",|ExYu| Diva
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13938
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Klasik TV" tvg-logo="" group-title="EXYU : Film",|ExYu| Klasik TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13939
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| M1 Film" tvg-logo="" group-title="EXYU : Film",|ExYu| M1 Film
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13940
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| SportKlub 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| SportKlub 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13968
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Sportklub 1 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| Sportklub 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13970
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Sportklub 2 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| Sportklub 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13972
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| SportKlub 3 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| SportKlub 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13974
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| SportKlub 4 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| SportKlub 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13979
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| SportKlub 5 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| SportKlub 5 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13980
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| SportKlub 6 4K+" tvg-logo="" group-title="EXYU : Sport",|ExYu| SportKlub 6 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13981
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Arena Sport 1 4K+" tvg-logo="" group-title="EXYU : Sport",|RS| Arena Sport 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13950
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Arena Sport 2 4K+" tvg-logo="" group-title="EXYU : Sport",|RS| Arena Sport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13952
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Arena Sport 3 4K+" tvg-logo="" group-title="EXYU : Sport",|RS| Arena Sport 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13953
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Arena Sport 4 4K+" tvg-logo="" group-title="EXYU : Sport",|RS| Arena Sport 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13954
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Arena Sport 5" tvg-logo="" group-title="EXYU : Sport",|RS| Arena Sport 5
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13956
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Show" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Show
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14050
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Music" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Music
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14049
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Koncert" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Koncert
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14047
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Hits 2" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Hits 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14046
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Hits" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Hits
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14045
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Folk 2" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Folk 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14043
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Pink Folk 1" tvg-logo="" group-title="EXYU : Muzika",|RS| Pink Folk 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/14042
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Yu Planet" tvg-logo="" group-title="EXYU : Muzika",|ExYu| Yu Planet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13919
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Posavina TV" tvg-logo="" group-title="EXYU : Muzika",|BH| Posavina TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13887
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Izvorna TV" tvg-logo="" group-title="EXYU : Muzika",|BH| Izvorna TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13886
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Hayat Folk" tvg-logo="" group-title="EXYU : Muzika",|BH| Hayat Folk
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13885
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Hayat Music" tvg-logo="" group-title="EXYU : Muzika",|BH| Hayat Music
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13884
+#EXTINF:-1 tvg-id="" tvg-name="|BH| BN Music" tvg-logo="" group-title="EXYU : Muzika",|BH| BN Music
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13883
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTV Banovina" tvg-logo="" group-title="EXYU : Muzika",|HR| RTV Banovina
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13882
+#EXTINF:-1 tvg-id="" tvg-name="|HR| MTV" tvg-logo="" group-title="EXYU : Muzika",|HR| MTV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13881
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Jugoton" tvg-logo="" group-title="EXYU : Muzika",|HR| Jugoton
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13880
+#EXTINF:-1 tvg-id="" tvg-name="|HR| CMC TV 4K+" tvg-logo="" group-title="EXYU : Muzika",|HR| CMC TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13879
+#EXTINF:-1 tvg-id="" tvg-name="|RS| IDJTV 4K+" tvg-logo="" group-title="EXYU : Muzika",|RS| IDJTV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13878
+#EXTINF:-1 tvg-id="" tvg-name="|RS| KCN 2" tvg-logo="" group-title="EXYU : Muzika",|RS| KCN 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13877
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Duga Plus" tvg-logo="" group-title="EXYU : Muzika",|RS| Duga Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13876
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Balkanika" tvg-logo="" group-title="EXYU : Muzika",|RS| Balkanika
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13875
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Grand 2" tvg-logo="" group-title="EXYU : Muzika",|RS| Grand 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13874
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Grand TV" tvg-logo="" group-title="EXYU : Muzika",|RS| Grand TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13873
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Sevdah TV 4K+" tvg-logo="" group-title="EXYU : Muzika",|BH| Sevdah TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/986
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Glas Drine" tvg-logo="" group-title="EXYU : Muzika",|BH| Glas Drine
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/985
+#EXTINF:-1 tvg-id="" tvg-name="|RS| DM SAT" tvg-logo="" group-title="EXYU : Muzika",|RS| DM SAT
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/864
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Viasat Nature" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Viasat Nature
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13998
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Viasat History" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Viasat History
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13997
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| TLC" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| TLC
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13995
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Nat Geo Wild" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Nat Geo Wild
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13994
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| National Geographic Channel" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| National Geographic Channel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13993
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| History 2" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| History 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13992
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| History" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| History
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13991
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Discovery ID" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Discovery ID
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13990
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Discovery Channel 4K+" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Discovery Channel 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13989
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Crime & Investigation" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Crime & Investigation
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13987
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Animal Planet" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| Animal Planet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13986
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| 24Kitchen" tvg-logo="" group-title="EXYU : Dokumentarni",|ExYu| 24Kitchen
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13984
+#EXTINF:-1 tvg-id="" tvg-name="|MK| MRT 1" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| MRT 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13837
+#EXTINF:-1 tvg-id="" tvg-name="|MK| MRT 2" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| MRT 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13838
+#EXTINF:-1 tvg-id="" tvg-name="|MK| MRT 3" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| MRT 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13839
+#EXTINF:-1 tvg-id="" tvg-name="|MK| RTV 21 Maqedonia" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| RTV 21 Maqedonia
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13840
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Sitel" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Sitel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13841
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Sitel 2" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Sitel 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13842
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Telma" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Telma
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13843
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Ultra" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Ultra
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13844
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Alsat" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Alsat
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13845
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Alfa TV" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Alfa TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13846
+#EXTINF:-1 tvg-id="" tvg-name="|MK| IN TV" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| IN TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13847
+#EXTINF:-1 tvg-id="" tvg-name="|MK| 24 Vesti" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| 24 Vesti
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13848
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Kanal 5 plus" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Kanal 5 plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13849
+#EXTINF:-1 tvg-id="" tvg-name="|MK| Kanal 5" tvg-logo="" group-title="EXYU : MK SL ME SK",|MK| Kanal 5
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13850
+#EXTINF:-1 tvg-id="" tvg-name="|SL| SLO 1" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| SLO 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13851
+#EXTINF:-1 tvg-id="" tvg-name="|SL| SLO 2" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| SLO 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13852
+#EXTINF:-1 tvg-id="" tvg-name="|SL| SLO 3" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| SLO 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13853
+#EXTINF:-1 tvg-id="" tvg-name="|SL| HBO" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| HBO
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13854
+#EXTINF:-1 tvg-id="" tvg-name="|SL| HBO 2" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| HBO 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13855
+#EXTINF:-1 tvg-id="" tvg-name="|SL| HBO 3" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| HBO 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13856
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Pop OTO" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Pop OTO
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13857
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Sport TV 1 4K+" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Sport TV 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13858
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Sport TV 2 4K+" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Sport TV 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13859
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Sport TV 3 4K+" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Sport TV 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13860
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Sportklub 1 HD+" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Sportklub 1 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13861
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Sportklub 2 HD+" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Sportklub 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13862
+#EXTINF:-1 tvg-id="" tvg-name="|SL| Sportklub 3 HD+" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| Sportklub 3 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13863
+#EXTINF:-1 tvg-id="" tvg-name="|ME| TVCG 1" tvg-logo="" group-title="EXYU : MK SL ME SK",|ME| TVCG 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13864
+#EXTINF:-1 tvg-id="" tvg-name="|ME| TVCG 2" tvg-logo="" group-title="EXYU : MK SL ME SK",|ME| TVCG 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13865
+#EXTINF:-1 tvg-id="" tvg-name="|ME| Nova M" tvg-logo="" group-title="EXYU : MK SL ME SK",|ME| Nova M
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13866
+#EXTINF:-1 tvg-id="" tvg-name="|ME| PRVA TV" tvg-logo="" group-title="EXYU : MK SL ME SK",|ME| PRVA TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13867
+#EXTINF:-1 tvg-id="" tvg-name="|ME| Tv Vijesti" tvg-logo="" group-title="EXYU : MK SL ME SK",|ME| Tv Vijesti
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13868
+#EXTINF:-1 tvg-id="" tvg-name="|ME| PINK M" tvg-logo="" group-title="EXYU : MK SL ME SK",|ME| PINK M
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13869
+#EXTINF:-1 tvg-id="" tvg-name="|SK| Discovery Channel" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| Discovery Channel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33826
+#EXTINF:-1 tvg-id="" tvg-name="|SK| DOMA TV HD" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| DOMA TV HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33827
+#EXTINF:-1 tvg-id="" tvg-name="|SK| NOVA ACTION" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| NOVA ACTION
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33830
+#EXTINF:-1 tvg-id="" tvg-name="|SK| Senzi TV" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| Senzi TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33834
+#EXTINF:-1 tvg-id="" tvg-name="|SK| Tv JOJ Family FHD" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| Tv JOJ Family FHD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33837
+#EXTINF:-1 tvg-id="" tvg-name="|SK| Tv JOJ HD" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| Tv JOJ HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33838
+#EXTINF:-1 tvg-id="" tvg-name="|SK| TV RIK HD" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK| TV RIK HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33843
+#EXTINF:-1 tvg-id="" tvg-name="|SK|  WAU HD" tvg-logo="" group-title="EXYU : MK SL ME SK",|SK|  WAU HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/33845
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Rtsh 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Rtsh 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1008
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH 1 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH 1 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1018
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH 2 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1020
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH 3 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH 3 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1021
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH kovend" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH kovend
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1023
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH Gjirokastra" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH Gjirokastra
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1025
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH 24 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH 24 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1027
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH Film" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH Film
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1028
+#EXTINF:-1 tvg-id="" tvg-name="|AL| T7 HD" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| T7 HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1002
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Stinet" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Stinet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1004
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Star Plus HD" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Star Plus HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1005
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Sky Aksion" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Sky Aksion
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1007
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Stinet" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Stinet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1010
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Fox" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Fox
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1014
+#EXTINF:-1 tvg-id="" tvg-name="|AL| MRTV 2" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| MRTV 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1016
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH Shqip" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH Shqip
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1030
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH Muzike" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH Muzike
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1036
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV 21 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV 21 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1038
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV 21 Popullore 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV 21 Popullore 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1039
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV 21 Plus 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV 21 Plus 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1040
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV 21 Junior 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV 21 Junior 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1041
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV 21 Mix 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV 21 Mix 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1042
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV Pendimi" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV Pendimi
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1044
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV Islam" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV Islam
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1045
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Klan 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Klan 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1047
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Klan Plus 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Klan Plus 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1048
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Top Channel 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Top Channel 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1049
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Channel One" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Channel One
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1050
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Zjarr TV HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Zjarr TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1051
+#EXTINF:-1 tvg-id="" tvg-name="|AL| First TV 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| First TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1052
+#EXTINF:-1 tvg-id="" tvg-name="|AL| KTV 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| KTV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1053
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTK 1 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTK 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1132
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTK 2 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTK 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1054
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTK 3 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTK 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1055
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTK 4 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTK 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1056
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film DY 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film DY 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1057
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film NJE 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film NJE 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1058
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Hits 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Hits 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1059
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Aksion 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Aksion 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1060
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Thriller" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Thriller
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1061
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Drame" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Drame
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1062
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Komedi" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Komedi
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1063
+#EXTINF:-1 tvg-id="" tvg-name="|AL| TV Kopliku" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| TV Kopliku
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1064
+#EXTINF:-1 tvg-id="" tvg-name="|AL| TV Tetova" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| TV Tetova
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1065
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Era TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Era TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1066
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tema TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tema TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1067
+#EXTINF:-1 tvg-id="" tvg-name="|AL| PeaceTV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| PeaceTV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1068
+#EXTINF:-1 tvg-id="" tvg-name="|AL| MRT 2" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| MRT 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1069
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Globi TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Globi TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1070
+#EXTINF:-1 tvg-id="" tvg-name="|AL| First Channel" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| First Channel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1071
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Dukagjini TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Dukagjini TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1072
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Besa" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Besa
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1073
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Apollon News TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Apollon News TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1074
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Alsat M HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Alsat M HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1075
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Digi Gold 1 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Digi Gold 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1076
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film Autor" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film Autor
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1077
+#EXTINF:-1 tvg-id="" tvg-name="|AL| T7 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| T7 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1078
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Vizion Plus 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Vizion Plus 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1079
+#EXTINF:-1 tvg-id="" tvg-name="|AL| ABC News 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| ABC News 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1080
+#EXTINF:-1 tvg-id="" tvg-name="|AL| News 24 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| News 24 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1081
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Top News" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Top News
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1082
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTV Sharri 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTV Sharri 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1083
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Bang Bang" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Bang Bang
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1084
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Cufo" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Cufo
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1085
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Tring" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Tring
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1086
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tip TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tip TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1087
+#EXTINF:-1 tvg-id="" tvg-name="|AL| TV Mitrovica" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| TV Mitrovica
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1088
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Folk Plus" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Folk Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1089
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tirana TV" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tirana TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1090
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Eurosport 2 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Eurosport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1091
+#EXTINF:-1 tvg-id="" tvg-name="|AL| K Sport 1 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| K Sport 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1092
+#EXTINF:-1 tvg-id="" tvg-name="|AL| K Sport 2 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| K Sport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1093
+#EXTINF:-1 tvg-id="" tvg-name="|AL| K Sport 3 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| K Sport 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1151
+#EXTINF:-1 tvg-id="" tvg-name="|AL| K Sport 4 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| K Sport 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1094
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport News" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport News
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1013
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport 1 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1095
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport 2 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1096
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport 3 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1097
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport 4 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1098
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport 5 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport 5 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1099
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Super Sport 6 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Super Sport 6 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1012
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Sport News" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Sport News
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1100
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Sport 1 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Sport 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1101
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Sport 2 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Sport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1102
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Sport 3 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Sport 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1103
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Sport 4 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Sport 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1104
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring 3+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring 3+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1105
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Comedy" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Comedy
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1106
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Fantasy" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Fantasy
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1107
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring History" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring History
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1108
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Life" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Life
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1109
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Action 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Action 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1110
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Planet" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Planet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1111
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Shqip" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Shqip
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1112
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Smile" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Smile
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1113
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring Super 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring Super 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1114
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tring World" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tring World
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1115
+#EXTINF:-1 tvg-id="" tvg-name="|AL| f 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| f 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1116
+#EXTINF:-1 tvg-id="" tvg-name="|AL| National Geographic 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| National Geographic 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1117
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Explorer History" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Explorer History
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1118
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Explorer Natyra" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Explorer Natyra
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1119
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Explorer Shkence" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Explorer Shkence
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1120
+#EXTINF:-1 tvg-id="" tvg-name="|KS| Rrokum TV 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|KS| Rrokum TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1121
+#EXTINF:-1 tvg-id="" tvg-name="|KS| Klan Kosova 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|KS| Klan Kosova 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1127
+#EXTINF:-1 tvg-id="" tvg-name="|KS| Super Sport Kosova 1" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|KS| Super Sport Kosova 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1128
+#EXTINF:-1 tvg-id="" tvg-name="|KS| Super Sport Kosova 2" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|KS| Super Sport Kosova 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1129
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTsh Plus" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTsh Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1130
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Tvsh" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Tvsh
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1131
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Klan Kosova 4K+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Klan Kosova 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1133
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Rrokum TV HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Rrokum TV HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1134
+#EXTINF:-1 tvg-id="" tvg-name="|AL| SYRI VISION" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| SYRI VISION
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1137
+#EXTINF:-1 tvg-id="" tvg-name="|AL| ALB Action" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| ALB Action
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1138
+#EXTINF:-1 tvg-id="" tvg-name="|AL| ALB Humor 1" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| ALB Humor 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1139
+#EXTINF:-1 tvg-id="" tvg-name="|AL| ALB Humor 2" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| ALB Humor 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1140
+#EXTINF:-1 tvg-id="" tvg-name="|AL| ALB Thriller" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| ALB Thriller
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1141
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Art Sport 1 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Art Sport 1 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1143
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Art Sport 2  HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Art Sport 2  HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1144
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Art Sport 3 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Art Sport 3 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1145
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Digi Gold 2 HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Digi Gold 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1146
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Film STINET HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Film STINET HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1149
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Fox Life" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Fox Life
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1150
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Living HD" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Living HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1152
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Muse" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Muse
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1153
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH Femije" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH Femije
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1154
+#EXTINF:-1 tvg-id="" tvg-name="|AL| RTSH Sport HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| RTSH Sport HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1155
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Sky Aksion HD+" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Sky Aksion HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1156
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Sky Komedi" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Sky Komedi
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1157
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Sky Max" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Sky Max
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1158
+#EXTINF:-1 tvg-id="" tvg-name="|AL| Star Plus HD +" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| Star Plus HD +
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1159
+#EXTINF:-1 tvg-id="" tvg-name="|AL| T HD +" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| T HD +
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1160
+#EXTINF:-1 tvg-id="" tvg-name="|AL| TV ART Tetov" tvg-logo="" group-title="AL/KS : Albania/Kosovo",|AL| TV ART Tetov
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/1161
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTS 1 4K+ " tvg-logo="" group-title="RS : Srbija",|RS| RTS 1 4K+ 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/791
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTS 2" tvg-logo="" group-title="RS : Srbija",|RS| RTS 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/792
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTS 3 4K+" tvg-logo="" group-title="RS : Srbija",|RS| RTS 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/793
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTS Svet" tvg-logo="" group-title="RS : Srbija",|RS| RTS Svet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/795
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTRS" tvg-logo="" group-title="RS : Srbija",|RS| RTRS
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/797
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTRS Plus" tvg-logo="https://sport-tv-guide.live/images/stations/a1101.png" group-title="RS : Srbija",|RS| RTRS Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/798
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTV 1 " tvg-logo="" group-title="RS : Srbija",|RS| RTV 1 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/800
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTV 2" tvg-logo="" group-title="RS : Srbija",|RS| RTV 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/808
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva Kick" tvg-logo="" group-title="RS : Srbija",|RS| Prva Kick
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/810
+#EXTINF:-1 tvg-id="" tvg-name="|RS| O2TV " tvg-logo="" group-title="RS : Srbija",|RS| O2TV 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/812
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Happy TV" tvg-logo="" group-title="RS : Srbija",|RS| Happy TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/813
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva 4K+" tvg-logo="" group-title="RS : Srbija",|RS| Prva 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/815
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva Plus" tvg-logo="" group-title="RS : Srbija",|RS| Prva Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/817
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva World" tvg-logo="" group-title="RS : Srbija",|RS| Prva World
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/818
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva Max" tvg-logo="" group-title="RS : Srbija",|RS| Prva Max
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/820
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Nova S 4K+" tvg-logo="" group-title="RS : Srbija",|RS| Nova S 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/821
+#EXTINF:-1 tvg-id="" tvg-name="|RS| KCN 1" tvg-logo="" group-title="RS : Srbija",|RS| KCN 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/823
+#EXTINF:-1 tvg-id="" tvg-name="|RS| KCN 3" tvg-logo="" group-title="RS : Srbija",|RS| KCN 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/825
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Lov i Ribolov" tvg-logo="" group-title="RS : Srbija",|RS| Lov i Ribolov
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/826
+#EXTINF:-1 tvg-id="" tvg-name="|RS| CRNA GORA 1" tvg-logo="" group-title="RS : Srbija",|RS| CRNA GORA 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/856
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Zadruga 1" tvg-logo="" group-title="RS : Srbija",|RS| Zadruga 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/857
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Zadruga 2" tvg-logo="" group-title="RS : Srbija",|RS| Zadruga 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/859
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Zadruga 3" tvg-logo="" group-title="RS : Srbija",|RS| Zadruga 3
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/861
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Zadruga 4" tvg-logo="" group-title="RS : Srbija",|RS| Zadruga 4
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/862
+#EXTINF:-1 tvg-id="" tvg-name="|RS| TV Duga" tvg-logo="" group-title="RS : Srbija",|RS| TV Duga
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/865
+#EXTINF:-1 tvg-id="" tvg-name="|RS| History Channel" tvg-logo="" group-title="RS : Srbija",|RS| History Channel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/866
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Fox Crime" tvg-logo="" group-title="RS : Srbija",|RS| Fox Crime
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/867
+#EXTINF:-1 tvg-id="" tvg-name="|RS| HBO HD+" tvg-logo="" group-title="RS : Srbija",|RS| HBO HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/869
+#EXTINF:-1 tvg-id="" tvg-name="|RS| HBO 2 HD+" tvg-logo="" group-title="RS : Srbija",|RS| HBO 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/870
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinestar TV Premiere 2" tvg-logo="" group-title="RS : Srbija",|RS| Cinestar TV Premiere 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/871
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinestar TV Premiere 1" tvg-logo="" group-title="RS : Srbija",|RS| Cinestar TV Premiere 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/873
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinestar TV Action" tvg-logo="" group-title="RS : Srbija",|RS| Cinestar TV Action
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/875
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinemax 2" tvg-logo="" group-title="RS : Srbija",|RS| Cinemax 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/876
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinemax 1" tvg-logo="" group-title="RS : Srbija",|RS| Cinemax 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/877
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva TV CG 2" tvg-logo="" group-title="RS : Srbija",|RS| Prva TV CG 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/879
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Prva TV CG 1" tvg-logo="" group-title="RS : Srbija",|RS| Prva TV CG 1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/880
+#EXTINF:-1 tvg-id="" tvg-name="|RS| 24 Vijesti" tvg-logo="https://greendays.me/wp-content/uploads/2020/06/TV-Vijesti.png" group-title="RS : Srbija",|RS| 24 Vijesti
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/882
+#EXTINF:-1 tvg-id="" tvg-name="|RS| 24 Kitchen" tvg-logo="" group-title="RS : Srbija",|RS| 24 Kitchen
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/883
+#EXTINF:-1 tvg-id="" tvg-name="|RS| TV 1000" tvg-logo="" group-title="RS : Srbija",|RS| TV 1000
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/885
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Happy Realty" tvg-logo="" group-title="RS : Srbija",|RS| Happy Realty
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/886
+#EXTINF:-1 tvg-id="" tvg-name="|RS| RTV Novi Pazar" tvg-logo="" group-title="RS : Srbija",|RS| RTV Novi Pazar
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/887
+#EXTINF:-1 tvg-id="" tvg-name="|RS| TV Sandzak" tvg-logo="" group-title="RS : Srbija",|RS| TV Sandzak
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/895
+#EXTINF:-1 tvg-id="" tvg-name="|RS| N1 4K+" tvg-logo="" group-title="RS : Srbija",|RS| N1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/900
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Eurosport 1 4K+" tvg-logo="" group-title="RS : Srbija",|RS| Eurosport 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13957
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Eurosport 2 4K+" tvg-logo="" group-title="RS : Srbija",|RS| Eurosport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13958
+#EXTINF:-1 tvg-id="" tvg-name="|RS| SOS Kanal" tvg-logo="" group-title="RS : Srbija",|RS| SOS Kanal
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13959
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Crna Gora 2" tvg-logo="" group-title="RS : Srbija",|RS| Crna Gora 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/790
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 1 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| HRT 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/931
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 2 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| HRT 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/933
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 3 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| HRT 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/935
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 4 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| HRT 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/936
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT Int" tvg-logo="" group-title="HR : Hrvatska",|HR| HRT Int
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/937
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL" tvg-logo="" group-title="HR : Hrvatska",|HR| RTL
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/940
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL 2" tvg-logo="" group-title="HR : Hrvatska",|HR| RTL 2
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/944
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Al Jazeera Balkans" tvg-logo="" group-title="HR : Hrvatska",|HR| Al Jazeera Balkans
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/921
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Slavonska TV" tvg-logo="" group-title="HR : Hrvatska",|HR| Slavonska TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/909
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Discovery Channel" tvg-logo="" group-title="HR : Hrvatska",|HR| Discovery Channel
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/916
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Crime & Investigation" tvg-logo="" group-title="HR : Hrvatska",|HR| Crime & Investigation
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/918
+#EXTINF:-1 tvg-id="" tvg-name="|HR| National Geographic" tvg-logo="" group-title="HR : Hrvatska",|HR| National Geographic
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/911
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Nat Geo Wild" tvg-logo="" group-title="HR : Hrvatska",|HR| Nat Geo Wild
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/912
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Animal Planet" tvg-logo="" group-title="HR : Hrvatska",|HR| Animal Planet
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/919
+#EXTINF:-1 tvg-id="" tvg-name="|HR| History" tvg-logo="" group-title="HR : Hrvatska",|HR| History
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/914
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Viasat History" tvg-logo="" group-title="HR : Hrvatska",|HR| Viasat History
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/905
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Viasat Nature" tvg-logo="" group-title="HR : Hrvatska",|HR| Viasat Nature
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/907
+#EXTINF:-1 tvg-id="" tvg-name="|HR| 24 Kitchen" tvg-logo="" group-title="HR : Hrvatska",|HR| 24 Kitchen
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/923
+#EXTINF:-1 tvg-id="" tvg-name="|HR| TLC" tvg-logo="" group-title="HR : Hrvatska",|HR| TLC
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/924
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HBO 3 HD+" tvg-logo="" group-title="HR : Hrvatska",|HR| HBO 3 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/915
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Klasik TV" tvg-logo="" group-title="HR : Hrvatska",|HR| Klasik TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/926
+#EXTINF:-1 tvg-id="" tvg-name="|HR| OTV Valentino" tvg-logo="" group-title="HR : Hrvatska",|HR| OTV Valentino
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/928
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Posavina TV" tvg-logo="" group-title="HR : Hrvatska",|HR| Posavina TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/930
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Nova TV 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Nova TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/938
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL Living" tvg-logo="" group-title="HR : Hrvatska",|HR| RTL Living
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/945
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL Kockica" tvg-logo="" group-title="HR : Hrvatska",|HR| RTL Kockica
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/946
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL Crime" tvg-logo="" group-title="HR : Hrvatska",|HR| RTL Crime
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/947
+#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL Passion" tvg-logo="" group-title="HR : Hrvatska",|HR| RTL Passion
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/948
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Z1" tvg-logo="" group-title="HR : Hrvatska",|HR| Z1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/949
+#EXTINF:-1 tvg-id="" tvg-name="|HR| N1" tvg-logo="" group-title="HR : Hrvatska",|HR| N1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/950
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Doma TV 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Doma TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/951
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Nickelodeon" tvg-logo="" group-title="HR : Hrvatska",|HR| Nickelodeon
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13870
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Nick Jr." tvg-logo="" group-title="HR : Hrvatska",|HR| Nick Jr.
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13871
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HNTV" tvg-logo="" group-title="HR : Hrvatska",|HR| HNTV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13941
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Arena Sport 1 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Arena Sport 1 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13942
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Arena Sport 2 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Arena Sport 2 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13943
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Arena Sport 3 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Arena Sport 3 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13944
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Arena Sport 4 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Arena Sport 4 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13945
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Arena Sport 5 4K+" tvg-logo="" group-title="HR : Hrvatska",|HR| Arena Sport 5 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13946
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Planet Sport 1 HD+" tvg-logo="" group-title="HR : Hrvatska",|HR| Planet Sport 1 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/904
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Planet Sport 2 HD+" tvg-logo="" group-title="HR : Hrvatska",|HR| Planet Sport 2 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/903
+#EXTINF:-1 tvg-id="" tvg-name="|HR| Planet Sport 3 HD+" tvg-logo="" group-title="HR : Hrvatska",|HR| Planet Sport 3 HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/901
+#EXTINF:-1 tvg-id="" tvg-name="|BH| BHT 4K+" tvg-logo="" group-title="BH : Bosna",|BH| BHT 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/960
+#EXTINF:-1 tvg-id="" tvg-name="|BH| BN 4K+" tvg-logo="" group-title="BH : Bosna",|BH| BN 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/962
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Face TV 4K+" tvg-logo="" group-title="BH : Bosna",|BH| Face TV 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/964
+#EXTINF:-1 tvg-id="" tvg-name="|BH| N1 " tvg-logo="" group-title="BH : Bosna",|BH| N1 
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/84130
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Hayat 4K+" tvg-logo="" group-title="BH : Bosna",|BH| Hayat 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/966
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Hayat Plus" tvg-logo="" group-title="BH : Bosna",|BH| Hayat Plus
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/967
+#EXTINF:-1 tvg-id="" tvg-name="|BH| OBN" tvg-logo="" group-title="BH : Bosna",|BH| OBN
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/968
+#EXTINF:-1 tvg-id="" tvg-name="|BH| O Kanal" tvg-logo="" group-title="BH : Bosna",|BH| O Kanal
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/970
+#EXTINF:-1 tvg-id="" tvg-name="|BH| MTV Igman" tvg-logo="" group-title="BH : Bosna",|BH| MTV Igman
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/972
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Nova BH" tvg-logo="" group-title="BH : Bosna",|BH| Nova BH
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/974
+#EXTINF:-1 tvg-id="" tvg-name="|BH| OTV Valentino" tvg-logo="" group-title="BH : Bosna",|BH| OTV Valentino
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/976
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Al Jazeera Balkans" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajb-sm_1.png" group-title="BH : Bosna",|BH| Al Jazeera Balkans
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/978
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Kanal 6 4K+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kanal6-logo.png" group-title="BH : Bosna",|BH| Kanal 6 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/979
+#EXTINF:-1 tvg-id="" tvg-name="|BH| RTV HB HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Logo_of_TV_Herceg-Bosne.png/220px-Logo_of_TV_Herceg-Bosne.png" group-title="BH : Bosna",|BH| RTV HB HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/980
+#EXTINF:-1 tvg-id="" tvg-name="|BH| TK Tuzla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Logo_of_RTV_TK.png/200px-Logo_of_RTV_TK.png" group-title="BH : Bosna",|BH| TK Tuzla
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/982
+#EXTINF:-1 tvg-id="" tvg-name="|BH| TV Sarajevo 4K+" tvg-logo="" group-title="BH : Bosna",|BH| TV Sarajevo 4K+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/983
+#EXTINF:-1 tvg-id="" tvg-name="|BH| RTV USK HD+" tvg-logo="" group-title="BH : Bosna",|BH| RTV USK HD+
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/988
+#EXTINF:-1 tvg-id="" tvg-name="|BH| TV Sehara HD" tvg-logo="https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-button-round-250.png" group-title="BH : Bosna",|BH| TV Sehara HD
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/989
+#EXTINF:-1 tvg-id="" tvg-name="|BH| TV1" tvg-logo="" group-title="BH : Bosna",|BH| TV1
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/991
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Aurora TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logotip_rebrendirani_ATV.png/220px-Logotip_rebrendirani_ATV.png" group-title="BH : Bosna",|BH| Aurora TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/992
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Hayatovci" tvg-logo="" group-title="BH : Bosna",|BH| Hayatovci
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13872
+#EXTINF:-1 tvg-id="" tvg-name="|BH| Federalna TV" tvg-logo="" group-title="BH : Bosna",|BH| Federalna TV
+http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/84131
