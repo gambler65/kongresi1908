@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="TV",Top Channel
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/1
+#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="TV",Klan HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/35
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="TV",Klan Plus
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/37
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova" tvg-logo="" group-title="TV",Klan Kosova
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/36
+#EXTINF:-1 tvg-id="" tvg-name="Klan Macedonia" tvg-logo="" group-title="TV",Klan Macedonia
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/93
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="TV",Vizion Plus HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/59
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7" tvg-logo="" group-title="TV",Kanali 7
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/33
+#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="TV",Top News
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/2
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="TV",News 24
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/39
+#EXTINF:-1 tvg-id="" tvg-name="RTV Ora" tvg-logo="" group-title="TV",RTV Ora
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/11
+#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="TV",Ora News
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/12
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="TV",ABC News
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/26
+#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="TV",Fax News
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/29
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="TV",Report TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/72
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="TV",Syri TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/46
+#EXTINF:-1 tvg-id="" tvg-name="A2 CNN" tvg-logo="" group-title="TV",A2 CNN
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/61
+#EXTINF:-1 tvg-id="" tvg-name="Scan TV" tvg-logo="" group-title="TV",Scan TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/73
+#EXTINF:-1 tvg-id="" tvg-name="klannews" tvg-logo="" group-title="TV",klannews
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/95
+#EXTINF:-1 tvg-id="" tvg-name="Euronews  Albania" tvg-logo="" group-title="TV",Euronews  Albania
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/22
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="" group-title="TV",Film Nje HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/16
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="" group-title="TV",Film Dy HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/64
+#EXTINF:-1 tvg-id="" tvg-name="Family HD" tvg-logo="" group-title="TV",Family HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/19
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="TV",Film Komedi
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/66
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion HD" tvg-logo="" group-title="TV",Film Aksion HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/18
+#EXTINF:-1 tvg-id="" tvg-name="Film Drame" tvg-logo="" group-title="TV",Film Drame
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/63
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="TV",Film Thriller
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/15
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits HD" tvg-logo="" group-title="TV",Film Hits HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/65
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="TV",Film Autor
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/17
+#EXTINF:-1 tvg-id="" tvg-name="Eurofilm" tvg-logo="" group-title="TV",Eurofilm
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/62
+#EXTINF:-1 tvg-id="" tvg-name="Stinet" tvg-logo="" group-title="TV",Stinet
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/3
+#EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="" group-title="TV",T HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/77
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="TV",Fox
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/67
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="TV",Fox Life
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/68
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="" group-title="TV",Fox Movies
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/69
+#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="TV",Jolly HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/31
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="TV",3 Plus
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/25
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="TV",Kanal D Drama
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/32
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action HD" tvg-logo="" group-title="TV",Tring Action HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/48
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy HD" tvg-logo="" group-title="TV",Tring Fantasy HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/50
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="TV",Tring Comedy
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/49
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super HD" tvg-logo="" group-title="TV",Tring Super HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/56
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="TV",Tring Life
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/52
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="TV",Tring Shqip
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/54
+#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="TV",Living HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/38
+#EXTINF:-1 tvg-id="" tvg-name="Smile" tvg-logo="" group-title="TV",Smile
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/41
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="TV",Tring Planet
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/53
+#EXTINF:-1 tvg-id="" tvg-name="Tring Histori" tvg-logo="" group-title="TV",Tring Histori
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/51
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="TV",Tring World
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/58
+#EXTINF:-1 tvg-id="" tvg-name="EXP Shkence" tvg-logo="" group-title="TV",EXP Shkence
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/20
+#EXTINF:-1 tvg-id="" tvg-name="EXP Natyra" tvg-logo="" group-title="TV",EXP Natyra
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/21
+#EXTINF:-1 tvg-id="" tvg-name="EXP Histori" tvg-logo="" group-title="TV",EXP Histori
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/84
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="TV",Bang Bang
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/24
+#EXTINF:-1 tvg-id="" tvg-name="Cufo TV" tvg-logo="" group-title="TV",Cufo TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/23
+#EXTINF:-1 tvg-id="" tvg-name="Junior TV" tvg-logo="" group-title="TV",Junior TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/14
+#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="TV",Tring Tring
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/57
+#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="TV",Tip TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/47
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="TV",Kids
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/34
+#EXTINF:-1 tvg-id="" tvg-name="Nick Toons" tvg-logo="" group-title="TV",Nick Toons
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/10
+#EXTINF:-1 tvg-id="" tvg-name="BBF" tvg-logo="" group-title="TV",BBF
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/27
+#EXTINF:-1 tvg-id="" tvg-name="Elsrodi" tvg-logo="" group-title="TV",Elsrodi
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/28
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="TV",Folk Plus
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/30
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV" tvg-logo="" group-title="TV",Melody TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/13
+#EXTINF:-1 tvg-id="" tvg-name="My Music" tvg-logo="" group-title="TV",My Music
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/71
+#EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="" group-title="TV",IN TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/70
+#EXTINF:-1 tvg-id="" tvg-name="STV Folk" tvg-logo="" group-title="TV",STV Folk
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/75
+#EXTINF:-1 tvg-id="" tvg-name="SuperSonic TV" tvg-logo="" group-title="TV",SuperSonic TV
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/76
+#EXTINF:-1 tvg-id="" tvg-name="TV 1 Channel" tvg-logo="" group-title="TV",TV 1 Channel
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/78
+#EXTINF:-1 tvg-id="" tvg-name="TV Blue Sky" tvg-logo="" group-title="TV",TV Blue Sky
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/79
+#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku" tvg-logo="" group-title="TV",TV Kopliku
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/80
+#EXTINF:-1 tvg-id="" tvg-name="TV Rozafa" tvg-logo="" group-title="TV",TV Rozafa
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/81
+#EXTINF:-1 tvg-id="" tvg-name="TV Star Plus" tvg-logo="" group-title="TV",TV Star Plus
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/82
+#EXTINF:-1 tvg-id="" tvg-name="Klan Music" tvg-logo="" group-title="TV",Klan Music
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/83
+#EXTINF:-1 tvg-id="" tvg-name="SS-1 HD" tvg-logo="" group-title="TV",SS-1 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/4
+#EXTINF:-1 tvg-id="" tvg-name="SS-2 HD" tvg-logo="" group-title="TV",SS-2 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/5
+#EXTINF:-1 tvg-id="" tvg-name="SS-3 HD" tvg-logo="" group-title="TV",SS-3 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/6
+#EXTINF:-1 tvg-id="" tvg-name="SS-4 HD" tvg-logo="" group-title="TV",SS-4 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/7
+#EXTINF:-1 tvg-id="" tvg-name="SS-5 HD" tvg-logo="" group-title="TV",SS-5 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News" tvg-logo="" group-title="TV",Tring Sport News
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/55
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="" group-title="TV",Sport 1 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/42
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2 HD" tvg-logo="" group-title="TV",Sport 2 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/43
+#EXTINF:-1 tvg-id="" tvg-name="Sport 3 HD" tvg-logo="" group-title="TV",Sport 3 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/44
+#EXTINF:-1 tvg-id="" tvg-name="Sport 4 HD" tvg-logo="" group-title="TV",Sport 4 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/45
+#EXTINF:-1 tvg-id="" tvg-name="RTK" tvg-logo="" group-title="TV",RTK
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/86
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21" tvg-logo="" group-title="TV",RTV 21
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/40
+#EXTINF:-1 tvg-id="" tvg-name="rtsh shkodra" tvg-logo="" group-title="TV",rtsh shkodra
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/96
+#EXTINF:-1 tvg-id="" tvg-name="TV Lezha" tvg-logo="" group-title="TV",TV Lezha
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/198
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sport" tvg-logo="" group-title="TV",Rtsh Sport
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/199
+#EXTINF:-1 tvg-id="" tvg-name="rtsh1" tvg-logo="" group-title="TV",rtsh1
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/200
+#EXTINF:-1 tvg-id="" tvg-name="rtsh2" tvg-logo="" group-title="TV",rtsh2
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/201
+#EXTINF:-1 tvg-id="" tvg-name="rtsh3" tvg-logo="" group-title="TV",rtsh3
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/202
+#EXTINF:-1 tvg-id="" tvg-name="rtsh24" tvg-logo="" group-title="TV",rtsh24
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/203
+#EXTINF:-1 tvg-id="" tvg-name="rtshplus" tvg-logo="" group-title="TV",rtshplus
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/204
+#EXTINF:-1 tvg-id="" tvg-name="rtshshkolle" tvg-logo="" group-title="TV",rtshshkolle
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/205
+#EXTINF:-1 tvg-id="" tvg-name="rtshfemije" tvg-logo="" group-title="TV",rtshfemije
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/206
+#EXTINF:-1 tvg-id="" tvg-name="rtshkukesi" tvg-logo="" group-title="TV",rtshkukesi
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/207
+#EXTINF:-1 tvg-id="" tvg-name="rtshagro" tvg-logo="" group-title="TV",rtshagro
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/208
+#EXTINF:-1 tvg-id="" tvg-name="rtshkuvend" tvg-logo="" group-title="TV",rtshkuvend
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/209
+#EXTINF:-1 tvg-id="" tvg-name="rtshshqip" tvg-logo="" group-title="TV",rtshshqip
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/210
+#EXTINF:-1 tvg-id="" tvg-name="rtshfilm" tvg-logo="" group-title="TV",rtshfilm
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/211
+#EXTINF:-1 tvg-id="" tvg-name="rtshmuzike" tvg-logo="" group-title="TV",rtshmuzike
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/212
+#EXTINF:-1 tvg-id="" tvg-name="Tring Family HD" tvg-logo="" group-title="TV",Tring Family HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/260
+#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="TV",Tring International
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/261
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Thriller FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Thriller FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/527
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Romance FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/528
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix 24 FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Netflix 24 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/529
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Netflix FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/530
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Mister FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/531
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Krim FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Krim FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/532
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Komedi FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/533
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Histori FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Histori FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/534
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantasy FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Fantasy FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/535
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Familjar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Familjar FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/536
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drama FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Drama FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/537
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Biografi FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/538
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventur FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Aventur FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/539
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Animuar FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/540
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="TV",AL: Filma24 Action FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/541
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 6 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Premium 6 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/542
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 5 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Premium 5 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/543
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 4 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Premium 4 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/544
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 3 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Premium 3 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/545
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Premium 2 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/546
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 1 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Premium 1 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/547
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror 24 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Cinema Horror 24 FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/548
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="TV",AL: Falcon Cinema Horror FHD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/549
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Junior HD" tvg-logo="" group-title="TV",AL: RTV 21 Junior HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/600
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 M" tvg-logo="" group-title="TV",AL: RTV 21 M
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/601
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="" group-title="TV",AL: RTV 21 Plus
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/602
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="" group-title="TV",AL: RTV 21 Popullore
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/603
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 1" tvg-logo="" group-title="TV",AL: TELE one 1
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/604
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 2" tvg-logo="" group-title="TV",AL: TELE one 2
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/605
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 3" tvg-logo="" group-title="TV",AL: TELE one 3
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/606
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 4" tvg-logo="" group-title="TV",AL: TELE one 4
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/607
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 5" tvg-logo="" group-title="TV",AL: TELE one 5
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/608
+#EXTINF:-1 tvg-id="" tvg-name="TELE one muzik Shqip" tvg-logo="" group-title="TV",TELE one muzik Shqip
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/609
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Aksion HD" tvg-logo="" group-title="TV",TELE one Aksion HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/610
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Aventure" tvg-logo="" group-title="TV",TELE one Aventure
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/611
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Crime HD" tvg-logo="" group-title="TV",TELE one Crime HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/612
+#EXTINF:-1 tvg-id="" tvg-name="TELE one GOLD Collection HD" tvg-logo="" group-title="TV",TELE one GOLD Collection HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/613
+#EXTINF:-1 tvg-id="" tvg-name="TELE one fantazi HD" tvg-logo="" group-title="TV",TELE one fantazi HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/614
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Thriller HD" tvg-logo="" group-title="TV",TELE one Thriller HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/615
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Drama HD" tvg-logo="" group-title="TV",TELE one Drama HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/616
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Epik HD" tvg-logo="" group-title="TV",TELE one Epik HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/617
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Gags" tvg-logo="" group-title="TV",TELE one Gags
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/618
+#EXTINF:-1 tvg-id="" tvg-name="TELE one muzik hits HD" tvg-logo="" group-title="TV",TELE one muzik hits HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/619
+#EXTINF:-1 tvg-id="" tvg-name="TELE one KURANI ( shqip )" tvg-logo="" group-title="TV",TELE one KURANI ( shqip )
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/620
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ktv HD" tvg-logo="" group-title="TV",AL: Ktv HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/621
+#EXTINF:-1 tvg-id="" tvg-name="alsat" tvg-logo="" group-title="TV",alsat
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/622
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1" tvg-logo="" group-title="TV",AL: Digi Gold 1
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/625
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="" group-title="TV",AL: Digi Gold 2
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/626
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 3" tvg-logo="" group-title="TV",AL: Digi Gold 3
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/627
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 4" tvg-logo="" group-title="TV",AL: Digi Gold 4
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/628
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit" tvg-logo="" group-title="TV",AL: Folklorit
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/629
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova" tvg-logo="" group-title="TV",AL: MTV Kosova
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/630
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD" tvg-logo="" group-title="TV",Sport TV 5 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/366
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 HD" tvg-logo="" group-title="TV",Sport TV 4 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/367
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD" tvg-logo="" group-title="TV",Sport TV 3 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/368
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="TV",Sport TV 2 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/369
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="TV",Sport TV 1 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/370
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6" tvg-logo="" group-title="TV",Sport Klub 6
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/371
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5" tvg-logo="" group-title="TV",Sport Klub 5
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/372
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4" tvg-logo="" group-title="TV",Sport Klub 4
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/373
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3" tvg-logo="" group-title="TV",Sport Klub 3
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/374
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2" tvg-logo="" group-title="TV",Sport Klub 2
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/375
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1" tvg-logo="" group-title="TV",Sport Klub 1
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/376
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 RS" tvg-logo="" group-title="TV",Arena Sport 5 RS
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/377
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HR" tvg-logo="" group-title="TV",Arena Sport 5 HR
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/378
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 RS" tvg-logo="" group-title="TV",Arena Sport 4 RS
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/379
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HR" tvg-logo="" group-title="TV",Arena Sport 4 HR
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/380
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 RS" tvg-logo="" group-title="TV",Arena Sport 3 RS
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/381
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HR" tvg-logo="" group-title="TV",Arena Sport 3 HR
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/382
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 RS" tvg-logo="" group-title="TV",Arena Sport 2 RS
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/383
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HR" tvg-logo="" group-title="TV",Arena Sport 2 HR
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/384
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 RS" tvg-logo="" group-title="TV",Arena Sport 1 RS
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/385
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HR" tvg-logo="" group-title="TV",Arena Sport 1 HR
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/386
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT 1 HD" tvg-logo="" group-title="TV",FR -- BEINSPORT 1 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/387
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT 2 HD" tvg-logo="" group-title="TV",FR -- BEINSPORT 2 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/388
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT 3 HD" tvg-logo="" group-title="TV",FR -- BEINSPORT 3 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/389
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT MAX 4" tvg-logo="" group-title="TV",FR -- BEINSPORT MAX 4
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/390
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT MAX 5" tvg-logo="" group-title="TV",FR -- BEINSPORT MAX 5
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/391
+#EXTINF:-1 tvg-id="" tvg-name="FR --. BEINSPORT MAX 6" tvg-logo="" group-title="TV",FR --. BEINSPORT MAX 6
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/392
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT MAX 7" tvg-logo="" group-title="TV",FR -- BEINSPORT MAX 7
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/393
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT MAX 8" tvg-logo="" group-title="TV",FR -- BEINSPORT MAX 8
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/394
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT MAX 9" tvg-logo="" group-title="TV",FR -- BEINSPORT MAX 9
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/395
+#EXTINF:-1 tvg-id="" tvg-name="FR -- BEINSPORT MAX 10" tvg-logo="" group-title="TV",FR -- BEINSPORT MAX 10
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/396
+#EXTINF:-1 tvg-id="" tvg-name="FR -- AB MOTEURS" tvg-logo="" group-title="TV",FR -- AB MOTEURS
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/397
+#EXTINF:-1 tvg-id="" tvg-name="FR -- CANAL SPORT" tvg-logo="" group-title="TV",FR -- CANAL SPORT
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/398
+#EXTINF:-1 tvg-id="" tvg-name="FR -- EUROSPORT 1 HD" tvg-logo="" group-title="TV",FR -- EUROSPORT 1 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/399
+#EXTINF:-1 tvg-id="" tvg-name="FR -- EUROSPORT 2 HD" tvg-logo="" group-title="TV",FR -- EUROSPORT 2 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/400
+#EXTINF:-1 tvg-id="" tvg-name="FR -- GOLF CHANNEL" tvg-logo="" group-title="TV",FR -- GOLF CHANNEL
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/401
+#EXTINF:-1 tvg-id="" tvg-name="FR -- RMC SPORT 1 HD" tvg-logo="" group-title="TV",FR -- RMC SPORT 1 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/402
+#EXTINF:-1 tvg-id="" tvg-name="FR -- RMC SPORT 2 HD" tvg-logo="" group-title="TV",FR -- RMC SPORT 2 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/403
+#EXTINF:-1 tvg-id="" tvg-name="FR -- RMC SPORT 3 HD" tvg-logo="" group-title="TV",FR -- RMC SPORT 3 HD
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/404
+#EXTINF:-1 tvg-id="" tvg-name="FR -- FOOT  24" tvg-logo="" group-title="TV",FR -- FOOT  24
+http://restream.skyhd-iptv.com:25461/tetova/RVx24j0TWZ/405
