@@ -1,0 +1,849 @@
+#EXTM3U
+#EXTINF:-1,MK: ТВ Хуго 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/1.ts
+#EXTINF:-1,MK: ТВ Хуго 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/2.ts
+#EXTINF:-1,MK: ТВ Хуго 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/3.ts
+#EXTINF:-1,MK: ТВ Хуго 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/4.ts
+#EXTINF:-1,MK: ТВ Хуго 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/5.ts
+#EXTINF:-1,MK: ТВ Хуго 6
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/6.ts
+#EXTINF:-1,MK: ТВ Хуго 7
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/7.ts
+#EXTINF:-1,MK: ТВ Хуго 8
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/8.ts
+#EXTINF:-1,MK: ТВ Хуго 9
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/9.ts
+#EXTINF:-1,MK: ТВ Хуго10
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/10.ts
+#EXTINF:-1,MK: ТВ Прилеп
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/11.ts
+#EXTINF:-1,MK: Канал 21 Велес
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/28.ts
+#EXTINF:-1,MK: Канал 21 2 Велес
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/29.ts
+#EXTINF:-1,MK: ТВ Свет Свети Николе
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/30.ts
+#EXTINF:-1,MK: ТВ Орбис Битола
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/39.ts
+#EXTINF:-1,MK: Канал 8 Кочани
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/31.ts
+#EXTINF:-1,MK: МТМ Скопје
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/41.ts
+#EXTINF:-1,MK: ТВ 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/14.ts
+#EXTINF:-1,MK: Телма
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/15.ts
+#EXTINF:-1,MK: Канал 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/16.ts
+#EXTINF:-1,MK: Сител
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/17.ts
+#EXTINF:-1,MK: Алфа
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/18.ts
+#EXTINF:-1,MK: МРТ 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/32.ts
+#EXTINF:-1,MK: МРТ Сат
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/33.ts
+#EXTINF:-1,MK: МРТ 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/35.ts
+#EXTINF:-1,MK: МРТ Собраниски
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/34.ts
+#EXTINF:-1,MK: МРТ 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/36.ts
+#EXTINF:-1,MK: Тера Битола
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/19.ts
+#EXTINF:-1,MK: ТВ Плус Куманово
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/23.ts
+#EXTINF:-1,MK: ТВ Кисс Тетово
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/45.ts
+#EXTINF:-1,MK: Вис Струмица
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/20.ts
+#EXTINF:-1,MK: Спектра Струга
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/27.ts
+#EXTINF:-1,MK: ТВ Мики Охрид
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/25.ts
+#EXTINF:-1,MK: Здравкин Велес
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/49.ts
+#EXTINF:-1,MK: Канал 3 Прилеп
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/24.ts
+#EXTINF:-1,MK: Нова12 Гевгелија
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/48.ts
+#EXTINF:-1,MK: Наша ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/22.ts
+#EXTINF:-1,MK: ТВ Сонце
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/42.ts
+#EXTINF:-1,MK: Македонско Сонце
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/43.ts
+#EXTINF:-1,MK: М-нет Штип
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/21.ts
+#EXTINF:-1,MK: М-нет Гурман
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/63.ts
+#EXTINF:-1,MK: Едо Скопје
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/26.ts
+#EXTINF:-1,MK: ТВ3 Дебар
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/55.ts
+#EXTINF:-1,MK: Б1 Скопје
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/56.ts
+#EXTINF:-1,MK: СкајФолк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/44.ts
+#EXTINF:-1,MK: Стар Фолк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/46.ts
+#EXTINF:-1,MK: Стар Плус
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/47.ts
+#EXTINF:-1,AU: ИНТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/52.ts
+#EXTINF:-1,AU: ИНТВ 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/53.ts
+#EXTINF:-1,MK: Folk TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/57.ts
+#EXTINF:-1,MK: Love TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/58.ts
+#EXTINF:-1,MK: Cool TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/59.ts
+#EXTINF:-1,MK: Rock TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/60.ts
+#EXTINF:-1,MK: Jazz TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/61.ts
+#EXTINF:-1,RS: Пинк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/169.ts
+#EXTINF:-1,RS: Хепи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/244.ts
+#EXTINF:-1,RS: Хепи Живот
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/245.ts
+#EXTINF:-1,RS: Хепи Земја
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/246.ts
+#EXTINF:-1,RS: Хепи Друштво
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/247.ts
+#EXTINF:-1,RS: B92
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/219.ts
+#EXTINF:-1,RS: Prva
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/218.ts
+#EXTINF:-1,RS: PRVA Plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/217.ts
+#EXTINF:-1,RS: PRVA Max
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/216.ts
+#EXTINF:-1,RS: PRVA Kick
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/215.ts
+#EXTINF:-1,RS: PRVA Life
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/212.ts
+#EXTINF:-1,RS: PRVA Files
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/214.ts
+#EXTINF:-1,RS: PRVA World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/213.ts
+#EXTINF:-1,RS: РТС 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/72.ts
+#EXTINF:-1,RS: РТС 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/73.ts
+#EXTINF:-1,RS: РТС 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/74.ts
+#EXTINF:-1,RS: РТС Свет
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/64.ts
+#EXTINF:-1,RS: РТС Наука
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/65.ts
+#EXTINF:-1,RS: РТС Коло
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/66.ts
+#EXTINF:-1,RS: РТС Драма
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/67.ts
+#EXTINF:-1,RS: РТС Живот
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/68.ts
+#EXTINF:-1,RS: РТС Трезор
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/69.ts
+#EXTINF:-1,RS: РТС Полетарац
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/70.ts
+#EXTINF:-1,RS: РТС Музика
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/71.ts
+#EXTINF:-1,RS: РТВ 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/234.ts
+#EXTINF:-1,RS: Агро ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/76.ts
+#EXTINF:-1,RS: Студио Б
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/230.ts
+#EXTINF:-1,RS: Палма плус
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/239.ts
+#EXTINF:-1,RS: Una
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/228.ts
+#EXTINF:-1,RS: Канал М
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/232.ts
+#EXTINF:-1,RS: Blic TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/211.ts
+#EXTINF:-1,RS: Курир
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/210.ts
+#EXTINF:-1,RS: Мелос
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/238.ts
+#EXTINF:-1,RS: Мир
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/233.ts
+#EXTINF:-1,RS: ТВ Крушевац
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/183.ts
+#EXTINF:-1,RS: Пи Канал
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/184.ts
+#EXTINF:-1,RS: TV Novi Pazar
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/187.ts
+#EXTINF:-1,RS: Insta TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/174.ts
+#EXTINF:-1,RS: Ред
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/173.ts
+#EXTINF:-1,RS: DM sat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/229.ts
+#EXTINF:-1,RS: Altea
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/242.ts
+#EXTINF:-1,RS: Toxic Folk
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/236.ts
+#EXTINF:-1,RS: Toxic
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/235.ts
+#EXTINF:-1,RS: B1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/241.ts
+#EXTINF:-1,RS: Top Sound
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/181.ts
+#EXTINF:-1,RS: Дуга Плус
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/231.ts
+#EXTINF:-1,RS: Храм
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/237.ts
+#EXTINF:-1,AU: Mis
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/182.ts
+#EXTINF:-1,ME: RTCG 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/220.ts
+#EXTINF:-1,ME: RTCG 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/221.ts
+#EXTINF:-1,ME: RTCG 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/222.ts
+#EXTINF:-1,ME: Gradska TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/223.ts
+#EXTINF:-1,ME: Herceg TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/224.ts
+#EXTINF:-1,HR: RTL Adria
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/263.ts
+#EXTINF:-1,HR: RTL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/260.ts
+#EXTINF:-1,HR: RTL 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/261.ts
+#EXTINF:-1,HR: RTL Crime
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/262.ts
+#EXTINF:-1,HR: RTL Living
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/264.ts
+#EXTINF:-1,HR: RTL Passion
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/265.ts
+#EXTINF:-1,HR: RTL World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/268.ts
+#EXTINF:-1,HR: Nova
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/267.ts
+#EXTINF:-1,HR: Doma
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/266.ts
+#EXTINF:-1,HR: Nova Cinema
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/252.ts
+#EXTINF:-1,HR: Nova Family
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/251.ts
+#EXTINF:-1,HR: Nova World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/269.ts
+#EXTINF:-1,HR: HRT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/256.ts
+#EXTINF:-1,HR: HRT 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/257.ts
+#EXTINF:-1,HR: HRT 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/258.ts
+#EXTINF:-1,HR: HRT 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/259.ts
+#EXTINF:-1,HR: Klasik TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/255.ts
+#EXTINF:-1,HR: Jugoton
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/254.ts
+#EXTINF:-1,HR: CMC
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/253.ts
+#EXTINF:-1,HR: Osječka
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/249.ts
+#EXTINF:-1,HR: Slavonska
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/250.ts
+#EXTINF:-1,BA: BN Music
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/371.ts
+#EXTINF:-1,BA: BN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/372.ts
+#EXTINF:-1,BA: Slon
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/360.ts
+#EXTINF:-1,BA: RTRS
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/353.ts
+#EXTINF:-1,BA: RTRS plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/354.ts
+#EXTINF:-1,BA: Alternativna
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/350.ts
+#EXTINF:-1,BA: Federalna
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/351.ts
+#EXTINF:-1,BA: Alfa
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/366.ts
+#EXTINF:-1,BA: OBN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/346.ts
+#EXTINF:-1,BA: BHT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/352.ts
+#EXTINF:-1,BA: Hayat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/361.ts
+#EXTINF:-1,BA: OTV Valentino
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/348.ts
+#EXTINF:-1,BA: TV Zenica
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/365.ts
+#EXTINF:-1,BA: Herceg Bosne
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/347.ts
+#EXTINF:-1,BA: Sehara
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/369.ts
+#EXTINF:-1,BA: Sehara Online
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/370.ts
+#EXTINF:-1,BA: Face
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/367.ts
+#EXTINF:-1,BA: Al Jazzera Balkan
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/359.ts
+#EXTINF:-1,BA: Super TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/349.ts
+#EXTINF:-1,BA: Sandžak TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/358.ts
+#EXTINF:-1,BA: Televizija 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/355.ts
+#EXTINF:-1,BA: Igman
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/356.ts
+#EXTINF:-1,AR: Makkah
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/357.ts
+#EXTINF:-1,Zadruga
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/162.ts
+#EXTINF:-1,PINK Plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/170.ts
+#EXTINF:-1,PINK Music
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/168.ts
+#EXTINF:-1,PINK Folk
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/167.ts
+#EXTINF:-1,PINK Koncert
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/171.ts
+#EXTINF:-1,PINK LOL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/164.ts
+#EXTINF:-1,PINK Zabava
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/163.ts
+#EXTINF:-1,PINK Serije
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/161.ts
+#EXTINF:-1,PINK Film
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/152.ts
+#EXTINF:-1,PINK Family
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/153.ts
+#EXTINF:-1,PINK Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/154.ts
+#EXTINF:-1,PINK Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/155.ts
+#EXTINF:-1,PINK Premium
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/156.ts
+#EXTINF:-1,PINK Thriller
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/157.ts
+#EXTINF:-1,PINK Movies
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/158.ts
+#EXTINF:-1,PINK Romance
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/151.ts
+#EXTINF:-1,PINK Crime&Mystery
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/159.ts
+#EXTINF:-1,PINK SciFi&Fantasy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/149.ts
+#EXTINF:-1,PINK Horror
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/160.ts
+#EXTINF:-1,PINK Western
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/150.ts
+#EXTINF:-1,FOX
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/300.ts
+#EXTINF:-1,FOX Movies
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/297.ts
+#EXTINF:-1,FOX Life
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/298.ts
+#EXTINF:-1,FOX Crime
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/299.ts
+#EXTINF:-1,CINESTAR Premiere 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/291.ts
+#EXTINF:-1,CINESTAR Premiere 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/292.ts
+#EXTINF:-1,CINESTAR Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/293.ts
+#EXTINF:-1,CINESTAR TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/294.ts
+#EXTINF:-1,Cinestar Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/289.ts
+#EXTINF:-1,CINESTAR Fantasy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/290.ts
+#EXTINF:-1,FilmBOX Premium
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/288.ts
+#EXTINF:-1,FilmBOX Extra
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/286.ts
+#EXTINF:-1,FilmBOX Stars
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/287.ts
+#EXTINF:-1,HBO
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/283.ts
+#EXTINF:-1,HBO 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/284.ts
+#EXTINF:-1,HBO 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/285.ts
+#EXTINF:-1,Cinemax
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/281.ts
+#EXTINF:-1,Cinemax 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/282.ts
+#EXTINF:-1,TV 1000
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/277.ts
+#EXTINF:-1,Epic Drama
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/296.ts
+#EXTINF:-1,AXN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/295.ts
+#EXTINF:-1,M1 Film
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/278.ts
+#EXTINF:-1,M1 Gold
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/279.ts
+#EXTINF:-1,M1 Family
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/280.ts
+#EXTINF:-1,Pickbox
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/273.ts
+#EXTINF:-1,Diva
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/276.ts
+#EXTINF:-1,AMC
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/275.ts
+#EXTINF:-1,SciFi
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/274.ts
+#EXTINF:-1,Superstar TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/270.ts
+#EXTINF:-1,Superstar 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/271.ts
+#EXTINF:-1,Film Klub
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/272.ts
+#EXTINF:-1,Карусель
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/441.ts
+#EXTINF:-1,Мульт
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/442.ts
+#EXTINF:-1,Тижи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/443.ts
+#EXTINF:-1,Минимакс
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/444.ts
+#EXTINF:-1,Nick Jr
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/445.ts
+#EXTINF:-1,Nicktoons
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/446.ts
+#EXTINF:-1,Nickelodeon
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/447.ts
+#EXTINF:-1,Hayatovci
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/364.ts
+#EXTINF:-1,SUPER Kids
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/172.ts
+#EXTINF:-1,Cartoon Network
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/448.ts
+#EXTINF:-1,Cartonito
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/449.ts
+#EXTINF:-1,Happy Kids jr
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/439.ts
+#EXTINF:-1,Baby TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/450.ts
+#EXTINF:-1,Da Vinci
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/82.ts
+#EXTINF:-1,Nat Geo
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/83.ts
+#EXTINF:-1,Wild
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/84.ts
+#EXTINF:-1,VIASAT Nature
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/85.ts
+#EXTINF:-1,VIASAT Explore
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/86.ts
+#EXTINF:-1,Viasat History
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/87.ts
+#EXTINF:-1,Animal Planet
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/77.ts
+#EXTINF:-1,Discovery
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/78.ts
+#EXTINF:-1,Discovery Science
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/79.ts
+#EXTINF:-1,Investigation Discovery
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/80.ts
+#EXTINF:-1,Crime Investigation
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/94.ts
+#EXTINF:-1,Docubox
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/90.ts
+#EXTINF:-1,Travel
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/88.ts
+#EXTINF:-1,BBC Earth
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/97.ts
+#EXTINF:-1,24 Kitchen
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/95.ts
+#EXTINF:-1,TLC
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/89.ts
+#EXTINF:-1,History
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/92.ts
+#EXTINF:-1,History 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/93.ts
+#EXTINF:-1,Balkan Trip
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/91.ts
+#EXTINF:-1,PINK Kuvar
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/166.ts
+#EXTINF:-1,PINK Pedia
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/165.ts
+#EXTINF:-1,DOX TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/98.ts
+#EXTINF:-1,CBS Reality
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/96.ts
+#EXTINF:-1,CHASSE & PECHE
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/81.ts
+#EXTINF:-1,RU: RT Д
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/379.ts
+#EXTINF:-1,RT Д
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/378.ts
+#EXTINF:-1,RT
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/377.ts
+#EXTINF:-1,RU: Россия 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/320.ts
+#EXTINF:-1,RU: Россия 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/319.ts
+#EXTINF:-1,RU: Москва 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/331.ts
+#EXTINF:-1,RU: Первый канал
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/308.ts
+#EXTINF:-1,RU: ТВЦ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/323.ts
+#EXTINF:-1,RU: НТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/321.ts
+#EXTINF:-1,RU: СТС
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/322.ts
+#EXTINF:-1,RU: ТНТ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/324.ts
+#EXTINF:-1,RU: РЕН
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/309.ts
+#EXTINF:-1,RU: Пятница
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/310.ts
+#EXTINF:-1,RU: Луганск 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/335.ts
+#EXTINF:-1,RU: Крым 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/333.ts
+#EXTINF:-1,RU: Крым 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/332.ts
+#EXTINF:-1,RU: Новороссия
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/336.ts
+#EXTINF:-1,RU: Беларусь 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/334.ts
+#EXTINF:-1,RU: Евразия ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/337.ts
+#EXTINF:-1,RU: Русская комедия
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/329.ts
+#EXTINF:-1,RU: Русский бестселлер
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/330.ts
+#EXTINF:-1,RU: Русский роман
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/325.ts
+#EXTINF:-1,RU: Русский детектив
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/326.ts
+#EXTINF:-1,RU: Русский иллюзион
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/327.ts
+#EXTINF:-1,RU: Русский экстрим
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/328.ts
+#EXTINF:-1,RU: Наука
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/318.ts
+#EXTINF:-1,RU: История
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/317.ts
+#EXTINF:-1,RU: Моя Планета
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/316.ts
+#EXTINF:-1,RU: Зоопарк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/315.ts
+#EXTINF:-1,RU: Океан
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/314.ts
+#EXTINF:-1,RU: Мин. Идеи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/375.ts
+#EXTINF:-1,RU: РБК
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/376.ts
+#EXTINF:-1,RU: Звезда
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/307.ts
+#EXTINF:-1,RU: Спас
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/373.ts
+#EXTINF:-1,RU: Союз
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/313.ts
+#EXTINF:-1,RU: Сочи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/374.ts
+#EXTINF:-1,RU: РУ.ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/311.ts
+#EXTINF:-1,RU: Муз
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/312.ts
+#EXTINF:-1,GR: Mad Greekz
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/197.ts
+#EXTINF:-1,GR: NRG 91
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/198.ts
+#EXTINF:-1,GR: Αλφα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/204.ts
+#EXTINF:-1,GR: Σκαϊ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/207.ts
+#EXTINF:-1,GR: Σταρ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/208.ts
+#EXTINF:-1,GR: Αντενα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/202.ts
+#EXTINF:-1,GR: Μεγα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/205.ts
+#EXTINF:-1,GR: Open TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/206.ts
+#EXTINF:-1,GR: Μακεδονια
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/203.ts
+#EXTINF:-1,GR: Κοντρα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/194.ts
+#EXTINF:-1,GR: Krith
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/195.ts
+#EXTINF:-1,GR: ERT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/199.ts
+#EXTINF:-1,GR: ERT 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/200.ts
+#EXTINF:-1,GR: ERT 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/201.ts
+#EXTINF:-1,GR: 4E
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/196.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/397.ts
+#EXTINF:-1,TR: ATV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/385.ts
+#EXTINF:-1,TR: 24 TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/387.ts
+#EXTINF:-1,TR: TV 360
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/388.ts
+#EXTINF:-1,TR: Teve 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/386.ts
+#EXTINF:-1,TR: Show
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/392.ts
+#EXTINF:-1,TR: ShowMax
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/393.ts
+#EXTINF:-1,TR: Star
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/394.ts
+#EXTINF:-1,TR: Kanal D
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/389.ts
+#EXTINF:-1,TR: TRT Muzik
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/390.ts
+#EXTINF:-1,TR: Kral Pop
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/391.ts
+#EXTINF:-1,TR: NTV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/398.ts
+#EXTINF:-1,TR: TRT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/395.ts
+#EXTINF:-1,TR: TRT Haber
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/396.ts
+#EXTINF:-1,MK: МРТ 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/37.ts
+#EXTINF:-1,MK: МРТ 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/38.ts
+#EXTINF:-1,MK: RTV 21
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/461.ts
+#EXTINF:-1,MK: Alsat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/462.ts
+#EXTINF:-1,AL: Era
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/469.ts
+#EXTINF:-1,AL: Shenja
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/467.ts
+#EXTINF:-1,AL: Klan
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/466.ts
+#EXTINF:-1,AL: Kaltrina
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/54.ts
+#EXTINF:-1,AL: Uskana
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/468.ts
+#EXTINF:-1,AL: TV Polog
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/472.ts
+#EXTINF:-1,AL: Top Estrada
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/463.ts
+#EXTINF:-1,AL: Festina
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/464.ts
+#EXTINF:-1,AL: Opoja TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/470.ts
+#EXTINF:-1,AL: Vision Plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/465.ts
+#EXTINF:-1,AL: Tring Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/456.ts
+#EXTINF:-1,AL: Tring Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/457.ts
+#EXTINF:-1,AL: Tring Super
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/458.ts
+#EXTINF:-1,AL: Tring Fantasy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/459.ts
+#EXTINF:-1,AL: Tring Series
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/460.ts
+#EXTINF:-1,AL: Tring World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/455.ts
+#EXTINF:-1,AL: Tring Planet
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/454.ts
+#EXTINF:-1,AL: Tring Tring
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/453.ts
+#EXTINF:-1,DE: RT
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/380.ts
+#EXTINF:-1,DE: RTL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/401.ts
+#EXTINF:-1,DE: RTL II
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/402.ts
+#EXTINF:-1,DE: Super RTL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/403.ts
+#EXTINF:-1,DE: ProSieben
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/404.ts
+#EXTINF:-1,DE: Kabel Eins
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/405.ts
+#EXTINF:-1,DE: Sat.1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/406.ts
+#EXTINF:-1,DE: Das Erste
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/407.ts
+#EXTINF:-1,DE: ZDF
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/408.ts
+#EXTINF:-1,DE: Kika
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/409.ts
+#EXTINF:-1,DE: Vox
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/410.ts
+#EXTINF:-1,DE: DW
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/412.ts
+#EXTINF:-1,DE: Welt
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/419.ts
+#EXTINF:-1,DE: WDR
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/411.ts
+#EXTINF:-1,DE: NDR
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/415.ts
+#EXTINF:-1,DE: MDR
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/416.ts
+#EXTINF:-1,DE: rbb Berlin
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/417.ts
+#EXTINF:-1,DE: Servus TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/418.ts
+#EXTINF:-1,DE: 3Sat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/413.ts
+#EXTINF:-1,DE: Arte
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/414.ts
+#EXTINF:-1,DE: Universal
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/428.ts
+#EXTINF:-1,DE: Sky Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/429.ts
+#EXTINF:-1,DE: Sky Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/430.ts
+#EXTINF:-1,AT: ORF 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/431.ts
+#EXTINF:-1,AT: ORF 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/432.ts
+#EXTINF:-1,AT: ATV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/420.ts
+#EXTINF:-1,SK: Joj
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/495.ts
+#EXTINF:-1,SK: Joj plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/496.ts
+#EXTINF:-1,SK: Severka
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/497.ts
+#EXTINF:-1,CZ: Očko
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/493.ts
+#EXTINF:-1,CZ: Očko Star
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/494.ts
+#EXTINF:-1,CZ: Noe TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/492.ts
+#EXTINF:-1,CZ: Šlagr TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/490.ts
+#EXTINF:-1,Si: Golica
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/487.ts
+#EXTINF:-1,Si: Veseljak TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/486.ts
+#EXTINF:-1,RO: Taraf TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/498.ts
+#EXTINF:-1,RO:Favorit TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/499.ts
+#EXTINF:-1,RO: Credo
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/489.ts
+#EXTINF:-1,RO: Trinitas
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/491.ts
+#EXTINF:-1,BG: Балканика
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/180.ts
+#EXTINF:-1,BG: Фен ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/179.ts
+#EXTINF:-1,BG: Планета
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/178.ts
+#EXTINF:-1,BG: Voice
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/176.ts
+#EXTINF:-1,BG: City
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/175.ts
+#EXTINF:-1,МК: М-нет Спорт
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/62.ts
+#EXTINF:-1,Eurosport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/102.ts
+#EXTINF:-1,Eurosport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/103.ts
+#EXTINF:-1,Arena Fight
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/104.ts
+#EXTINF:-1,ArenaPremium 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/105.ts
+#EXTINF:-1,ArenaPremium 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/106.ts
+#EXTINF:-1,ArenaPremium 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/107.ts
+#EXTINF:-1,Arena Sport
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/101.ts
+#EXTINF:-1,ArenaSport 1x2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/100.ts
+#EXTINF:-1,ArenaSport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/108.ts
+#EXTINF:-1,ArenaSport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/109.ts
+#EXTINF:-1,ArenaSport 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/110.ts
+#EXTINF:-1,ArenaSport 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/111.ts
+#EXTINF:-1,ArenaSport 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/112.ts
+#EXTINF:-1,ArenaSport 6
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/113.ts
+#EXTINF:-1,ArenaSport 7
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/114.ts
+#EXTINF:-1,ArenaSport 8
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/115.ts
+#EXTINF:-1,SportKlub 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/116.ts
+#EXTINF:-1,SportKlub 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/117.ts
+#EXTINF:-1,SportKlub 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/118.ts
+#EXTINF:-1,SportKlub 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/119.ts
+#EXTINF:-1,RU: МАТЧ! Футбол 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/304.ts
+#EXTINF:-1,RU: МАТЧ! Футбол 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/305.ts
+#EXTINF:-1,RU: МАТЧ! Футбол 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/306.ts
+#EXTINF:-1,RU: МАТЧ! Арена
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/303.ts
+#EXTINF:-1,RU: МАТЧ! Игра
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/302.ts
+#EXTINF:-1,RU: МАТЧ! Боец
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/301.ts
+#EXTINF:-1,RU: Бокс ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/381.ts
+#EXTINF:-1,Fight Network
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/474.ts
+#EXTINF:-1,Super Tennis
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/473.ts
+#EXTINF:-1,NBA TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/123.ts
+#EXTINF:-1,DE: DAZN 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/424.ts
+#EXTINF:-1,DE: DAZN 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/425.ts
+#EXTINF:-1,DE: SKYSport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/421.ts
+#EXTINF:-1,DE: SKYBundesliga
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/423.ts
+#EXTINF:-1,AT: ORF Sport+
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/433.ts
+#EXTINF:-1,AL: Tring Sport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/451.ts
+#EXTINF:-1,AL: Tring Sport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/452.ts
+#EXTINF:-1,GR: OteSport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/191.ts
+#EXTINF:-1,GR: OteSport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/192.ts
+#EXTINF:-1,TR: A Spor
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/400.ts
+#EXTINF:-1,TR: BeIN Sport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/382.ts
+#EXTINF:-1,TR: BeIN Sport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/383.ts
+#EXTINF:-1,TR: BeIN Sport 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/384.ts
+#EXTINF:-1,Viva
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/477.ts
+#EXTINF:-1,McM
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/478.ts
+#EXTINF:-1,Retro TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/479.ts
+#EXTINF:-1,Krone TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/480.ts
+#EXTINF:-1,DeLuxe Music
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/481.ts
+#EXTINF:-1,Trace Urban
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/482.ts
+#EXTINF:-1,Mezzo
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/476.ts
+#EXTINF:-1,Fashion
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/475.ts
