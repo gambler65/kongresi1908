@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:0,ALB SUPER TV IPTV 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/AL-IPTV
+#EXTINF:0,SS-1HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-1HD
+#EXTINF:0,SS-2HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-2HD
+#EXTINF:0,SS-3HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-3HD
+#EXTINF:0,SS-4HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-4HD
+#EXTINF:0,SS-5HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-5HD
+#EXTINF:0,SS-6HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-6HD
+#EXTINF:0,SS-7HD 
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SS-7HD
+#EXTINF:0,TringSport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/TringSport1HD
+#EXTINF:0,TringSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/TringSport2HD
+#EXTINF:0,OverSport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/OS1
+#EXTINF:0,OverSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/OS2
+#EXTINF:0,OverSport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/OS3
+#EXTINF:0,OverSport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/OS4
+#EXTINF:0,SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SPORT1
+#EXTINF:0,SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SPORT2
+#EXTINF:0,SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SPORT3
+#EXTINF:0,SPORT 4
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SPORT4
+#EXTINF:0,SPORT 5
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SPORT5
+#EXTINF:0,SPORT 6
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/SPORT6
+#EXTINF:0,K-Sport 1
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/K-Sport1
+#EXTINF:0,K-Sport 2
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/K-Sport2
+#EXTINF:0,K-Sport 3
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/K-Sport3
+#EXTINF:0,K-Sport 4
+#EXTVLCOPT:network-caching=1000
+http://31.171.154.21:9898/play/K-Sport4
+#EXTINF:8,Vizion Plus HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02t/index.m3u8
+#EXTINF:0,3PLUS
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02z/index.m3u8
+#EXTINF:0,ABC News HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a04a/index.m3u8
+#EXTINF:8,BBF
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03a/index.m3u8
+#EXTINF:0,Bubble
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a042/index.m3u8
+#EXTINF:0,Click
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a032/index.m3u8
+#EXTINF:0,Club TV
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03d/index.m3u8
+#EXTINF:0,FAX NEWS
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03g/index.m3u8
+#EXTINF:0,Folk +
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03b/index.m3u8
+#EXTINF:0,HITV
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03e/index.m3u8
+#EXTINF:0,Jolly HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02o/index.m3u8
+#EXTINF:0,KIDS
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a036/index.m3u8
+#EXTINF:0,KanalD Drama
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02r/index.m3u8
+#EXTINF:0,Kanali7
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a034/index.m3u8
+#EXTINF:0,Klan Kosova
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a029/index.m3u8
+#EXTINF:0,Living HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a030/index.m3u8
+#EXTINF:0,Muse
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a033/index.m3u8
+#EXTINF:0,News 24
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02b/index.m3u8
+#EXTINF:0,RTSH Sport HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a049/index.m3u8
+#EXTINF:0,Report TV
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a027/index.m3u8
+#EXTINF:0,Smile
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02n/index.m3u8
+#EXTINF:0,Summertime
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02w/index.m3u8
+#EXTINF:0,Syri TV
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a039/index.m3u8
+#EXTINF:0,Teve 1
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a043/index.m3u8
+#EXTINF:0,Tip TV
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02g/index.m3u8
+#EXTINF:0,Tring Action HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02y/index.m3u8
+#EXTINF:0,Tring Classic HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03h/index.m3u8
+#EXTINF:0,Tring Collection HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03s/index.m3u8
+#EXTINF:0,Tring Fantasy
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a035/index.m3u8
+#EXTINF:0,Tring History
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02q/index.m3u8
+#EXTINF:0,Tring International
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03c/index.m3u8
+#EXTINF:0,Tring Life
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02x/index.m3u8
+#EXTINF:0,Tring Novelas
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03m/index.m3u8
+#EXTINF:0,Tring Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03t/index.m3u8
+#EXTINF:0,Tring Original
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a045/index.m3u8
+#EXTINF:0,Tring Planet
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02i/index.m3u8
+#EXTINF:0,Tring Shqip
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a031/index.m3u8
+#EXTINF:0,Tring Sport 5 HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a04b/index.m3u8
+#EXTINF:0,Tring Sport News
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02v/index.m3u8
+#EXTINF:0,Tring Super HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02u/index.m3u8
+#EXTINF:0,Tring Tring
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02h/index.m3u8
+#EXTINF:0,Tring World
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02p/index.m3u8
+#EXTINF:0,TringSport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02m/index.m3u8
+#EXTINF:0,TringSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02k/index.m3u8
+#EXTINF:0,TringSport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02l/index.m3u8
+#EXTINF:0,TringSport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02j/index.m3u8
+#EXTINF:0,Turkish Stories
+#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a048/index.m3u8
