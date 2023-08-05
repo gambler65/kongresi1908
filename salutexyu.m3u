@@ -1,0 +1,640 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 1 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/814.ts
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-name="HRT 2 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 2 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/813.ts
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-name="HRT 3 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 3 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/812.ts
+#EXTINF:-1 tvg-id="HRT4CR" tvg-name="HRT 4 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 4 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/811.ts
+#EXTINF:-1 timeshift="5" tvg-id="novatv.hr" tvg-name="Nova TV (HR) L2" tvg-logo="" group-title="HRVATSKA",Nova TV (HR) L2
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/806.ts
+#EXTINF:-1 timeshift="5" tvg-id="domatv.hr" tvg-name="Doma TV HD (HR)" tvg-logo="" group-title="HRVATSKA",Doma TV HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/805.ts
+#EXTINF:-1 timeshift="5" tvg-id="rtl.hr" tvg-name="RTL Televizija (HR)" tvg-logo="" group-title="HRVATSKA",RTL Televizija (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/810.ts
+#EXTINF:-1 timeshift="5" tvg-id="RTL2" tvg-name="RTL 2 (HR)" tvg-logo="http://mysolutionsbn.xyz:12974/images/7881816a9354690942240f6dbe3a9acb.png" group-title="HRVATSKA",RTL 2 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1232.ts
+#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-name="RTL Crime (HR)" tvg-logo="" group-title="HRVATSKA",RTL Crime (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/807.ts
+#EXTINF:-1 tvg-id="rtlkockica.hr" tvg-name="RTL Kockica (HR)" tvg-logo="" group-title="DJECIJI PROGRAMI",RTL Kockica (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/808.ts
+#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="RTL Passion (HR)" tvg-logo="" group-title="HRVATSKA",RTL Passion (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1213.ts
+#EXTINF:-1 tvg-id="z1.hr" tvg-name="Zagrebacka Televizija - Z1 TV (HR)" tvg-logo="" group-title="HRVATSKA",Zagrebacka Televizija - Z1 TV (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1212.ts
+#EXTINF:-1 tvg-id="TV ŠIBENIK" tvg-name="TV Sibenik (HR)" tvg-logo="" group-title="HRVATSKA",TV Sibenik (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1838.ts
+#EXTINF:-1 tvg-id="jabuka.hr" tvg-name="Jabuka TV (HR)" tvg-logo="" group-title="HRVATSKA",Jabuka TV (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/4941.ts
+#EXTINF:-1 tvg-id="POLJOPRIVREDNA TV" tvg-name="Poljoprivredna TV (HR)" tvg-logo="" group-title="HRVATSKA",Poljoprivredna TV (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/6912.ts
+#EXTINF:-1 tvg-id="citytv.ba" tvg-name="City TV (BiH)" tvg-logo="" group-title="BiH",City TV (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/3453.ts
+#EXTINF:-1 tvg-id="Al Jazeera Balkans HD" tvg-name="Al Jazeera Balkans (BiH)" tvg-logo="" group-title="BiH",Al Jazeera Balkans (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/857.ts
+#EXTINF:-1 timeshift="5" tvg-id="atv.ba" tvg-name="ATV Alternativna televizija Banja Luka (BiH)" tvg-logo="" group-title="BiH",ATV Alternativna televizija Banja Luka (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/867.ts
+#EXTINF:-1 timeshift="5" tvg-id="bht1.ba" tvg-name="BHT ᴴᴰ (BiH)" tvg-logo="" group-title="BiH",BHT ᴴᴰ (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/872.ts
+#EXTINF:-1 timeshift="5" tvg-id="24kitchen.si" tvg-name="BN TV - RTV BN (BiH)" tvg-logo="" group-title="BiH",BN TV - RTV BN (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/866.ts
+#EXTINF:-1 timeshift="5" tvg-id="facetv.ba" tvg-name="Face TV (BiH)" tvg-logo="" group-title="BiH",Face TV (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/863.ts
+#EXTINF:-1 timeshift="5" tvg-id="FTV TV" tvg-name="Federalna TV (BiH)" tvg-logo="" group-title="BiH",Federalna TV (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/869.ts
+#EXTINF:-1 timeshift="5" tvg-id="rtrs.ba" tvg-name="RTRS (BiH)" tvg-logo="" group-title="BiH",RTRS (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/868.ts
+#EXTINF:-1 timeshift="5" tvg-id="rtrsplus.ba" tvg-name="RTRS Plus (BiH)" tvg-logo="" group-title="BiH",RTRS Plus (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1841.ts
+#EXTINF:-1 timeshift="5" tvg-id="OBN" tvg-name="OBN (BiH)" tvg-logo="" group-title="BiH",OBN (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/871.ts
+#EXTINF:-1 timeshift="5" tvg-id="hayat.ba" tvg-name="Hayat HD (BiH)" tvg-logo="" group-title="BiH",Hayat HD (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/859.ts
+#EXTINF:-1 timeshift="5" tvg-id="n1.ba" tvg-name="N1 Televizija (BiH)" tvg-logo="" group-title="BiH",N1 Televizija (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/858.ts
+#EXTINF:-1 tvg-id="tv1.ba" tvg-name="Bosna TV1 | Kanal O (BiH)" tvg-logo="" group-title="BiH",Bosna TV1 | Kanal O (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/864.ts
+#EXTINF:-1 tvg-id="rtvtktuzla.ba" tvg-name="RTV TK - Tuzlanskog Kantona (BiH)" tvg-logo="" group-title="BiH",RTV TK - Tuzlanskog Kantona (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/862.ts
+#EXTINF:-1 tvg-id="RTV USK HD" tvg-name="RTV USK (BiH)" tvg-logo="" group-title="BiH",RTV USK (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/870.ts
+#EXTINF:-1 tvg-id="kanal6.ba" tvg-name="Kanal 6 (BiH)" tvg-logo="" group-title="BiH",Kanal 6 (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1426.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 Islam (BiH)" tvg-logo="" group-title="BiH",TV 5 Islam (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1449.ts
+#EXTINF:-1 tvg-id="tvsarajevo.ba" tvg-name="TV Sarajevo (BiH)" tvg-logo="" group-title="BiH",TV Sarajevo (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1450.ts
+#EXTINF:-1 tvg-id="otvvalentino.ba" tvg-name="OTV Valentino (BiH)" tvg-logo="" group-title="MUZIKA",OTV Valentino (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meka TV (BiH)" tvg-logo="" group-title="BiH",Meka TV (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1866.ts
+#EXTINF:-1 tvg-id="kanalri.hr" tvg-name="Kanal Rijeka (HR)" tvg-logo="" group-title="HRVATSKA",Kanal Rijeka (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/3751.ts
+#EXTINF:-1 tvg-id="RTS 2 HD" tvg-name="RTS 2 (RS)" tvg-logo="" group-title="SRBIJA",RTS 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/834.ts
+#EXTINF:-1 tvg-id="rts3.rs" tvg-name="RTS 3 (RS)" tvg-logo="" group-title="SRBIJA",RTS 3 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1451.ts
+#EXTINF:-1 tvg-id="b92.rs" tvg-name="O2 TV (B92) (RS)" tvg-logo="" group-title="SRBIJA",O2 TV (B92) (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/833.ts
+#EXTINF:-1 timeshift="5" tvg-id="PRVASRB" tvg-name="Prva Srpska TV (RS)" tvg-logo="" group-title="SRBIJA",Prva Srpska TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/823.ts
+#EXTINF:-1 tvg-id="prvaplus.rs" tvg-name="Prva Plus (RS)" tvg-logo="" group-title="SRBIJA",Prva Plus (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/831.ts
+#EXTINF:-1 timeshift="5" tvg-id="prvaworld.rs" tvg-name="Prva World (RS)" tvg-logo="" group-title="SRBIJA",Prva World (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/830.ts
+#EXTINF:-1 tvg-id="prvamax.rs" tvg-name="Prva Max (RS)" tvg-logo="" group-title="SRBIJA",Prva Max (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/832.ts
+#EXTINF:-1 tvg-id="RTV1" tvg-name="RTV Vojvodina 1 (RS)" tvg-logo="" group-title="SRBIJA",RTV Vojvodina 1 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/826.ts
+#EXTINF:-1 tvg-id="RTV 2" tvg-name="RTV Vojvodina 2 (RS)" tvg-logo="" group-title="SRBIJA",RTV Vojvodina 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/827.ts
+#EXTINF:-1 tvg-id="TV NOVI PAZAR (SN)" tvg-name="RTV Novi Pazar (RS)" tvg-logo="" group-title="SRBIJA",RTV Novi Pazar (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/824.ts
+#EXTINF:-1 tvg-id="Sandzak TV" tvg-name="Sandzak TV (RS)" tvg-logo="" group-title="SRBIJA",Sandzak TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1761.ts
+#EXTINF:-1 timeshift="5" tvg-id="happytv.rs" tvg-name="Happy TV (RS)" tvg-logo="" group-title="SRBIJA",Happy TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1047.ts
+#EXTINF:-1 tvg-id="Happy Reality 2" tvg-name="Parovi Live (RS) L1" tvg-logo="" group-title="SRBIJA",Parovi Live (RS) L1
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1046.ts
+#EXTINF:-1 timeshift="5" tvg-id="n1.rs" tvg-name="N1 Televizija (RS)" tvg-logo="" group-title="SRBIJA",N1 Televizija (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/819.ts
+#EXTINF:-1 tvg-id="Studio B" tvg-name="Studio B (RS)" tvg-logo="" group-title="SRBIJA",Studio B (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/829.ts
+#EXTINF:-1 tvg-id="kcn1.rs" tvg-name="KCN (RS)" tvg-logo="" group-title="MUZIKA",KCN (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/906.ts
+#EXTINF:-1 tvg-id="kcn2music.rs" tvg-name="KCN 2 / KCN Music (RS)" tvg-logo="" group-title="MUZIKA",KCN 2 / KCN Music (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/905.ts
+#EXTINF:-1 tvg-id="kcn3svetplus.rs" tvg-name="KCN 3 / KCN Music 2 (RS)" tvg-logo="" group-title="MUZIKA",KCN 3 / KCN Music 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/904.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 3 Prnjavor (BiH)" tvg-logo="" group-title="BiH",Kanal 3 Prnjavor (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1452.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink" tvg-name="Pink 1 (RS)" tvg-logo="" group-title="PINK MEDIA",Pink 1 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/854.ts
+#EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-name="Pink 2 (RED TV) (RS)" tvg-logo="" group-title="PINK MEDIA",Pink 2 (RED TV) (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/853.ts
+#EXTINF:-1 tvg-id="Vesti HD (Pink 3 info)" tvg-name="Pink 3 Info - VESTI (RS)" tvg-logo="" group-title="PINK MEDIA",Pink 3 Info - VESTI (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/852.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Action" tvg-name="Pink Action (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Action (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/849.ts
+#EXTINF:-1 timeshift="5" tvg-id="nova.ba" tvg-name="Nova BH  (BiH)" tvg-logo="" group-title="BiH",Nova BH  (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/851.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Sci-Fi/Fantasy" tvg-name="Pink SciFi Fantasy (RS)" tvg-logo="" group-title="PINK MEDIA",Pink SciFi Fantasy (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/842.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Romance" tvg-name="Pink Romance (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Romance (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/845.ts
+#EXTINF:-1 tvg-id="PINKRLY" tvg-name="Pink Reality (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Reality (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/840.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Premium HD" tvg-name="Pink Premium (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Premium (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/850.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Kuvar" tvg-name="Pink Kuvar (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Kuvar (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/846.ts
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-name="Pink Pedia (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Pedia (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/843.ts
+#EXTINF:-1 tvg-id="Pink Koncert" tvg-name="Pink Koncert (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Koncert (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/841.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Crime & Mystery" tvg-name="Pink Crime&Mystery (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Crime&Mystery (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1204.ts
+#EXTINF:-1 tvg-id="PINKXRA" tvg-name="Pink Extra (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Extra (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1202.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Horror" tvg-name="Pink Horror (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Horror (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1203.ts
+#EXTINF:-1 tvg-id="Nova M" tvg-name="Nova M (MNE)" tvg-logo="" group-title="CRNA GORA",Nova M (MNE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1205.ts
+#EXTINF:-1 timeshift="5" tvg-id="PINKFLM" tvg-name="Pink Film (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Film (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1 (RS)" tvg-logo="" group-title="MUZIKA",Pink Folk 1 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2 (RS)" tvg-logo="" group-title="MUZIKA",Pink Folk 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/837.ts
+#EXTINF:-1 timeshift="5" tvg-id="PINKSER" tvg-name="Pink Serije (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Serije (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1067.ts
+#EXTINF:-1 tvg-id="Pink Show" tvg-name="Pink Show (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Show (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/847.ts
+#EXTINF:-1 tvg-id="Pink Zabava" tvg-name="Pink Zabava (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Zabava (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/848.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Comedy" tvg-name="Pink Comedy (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Comedy (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/856.ts
+#EXTINF:-1 tvg-id="pinkhaha.rs" tvg-name="Pink HaHa (RS)" tvg-logo="" group-title="PINK MEDIA",Pink HaHa (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1461.ts
+#EXTINF:-1 tvg-id="Lol" tvg-name="Pink LoL (RS)" tvg-logo="" group-title="PINK MEDIA",Pink LoL (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1462.ts
+#EXTINF:-1 tvg-id="Pink Plus" tvg-name="Pink Plus (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Plus (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/844.ts
+#EXTINF:-1 timeshift="5" tvg-id="Pink Western" tvg-name="Pink Western (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Western (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1460.ts
+#EXTINF:-1 timeshift="5" tvg-id="tv1000.rs" tvg-name="TV 1000 (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",TV 1000 (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1092.ts
+#EXTINF:-1 tvg-id="DIVA" tvg-name="Diva (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Diva (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1229.ts
+#EXTINF:-1 timeshift="5" tvg-id="axn.rs" tvg-name="Axn Adria (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Axn Adria (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1218.ts
+#EXTINF:-1 timeshift="5" tvg-id="AXN Spin" tvg-name="Axn Spin (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Axn Spin (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1219.ts
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-name="Cinemania (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Cinemania (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1790.ts
+#EXTINF:-1 timeshift="5" tvg-id="cinemax.rs" tvg-name="Cinemax HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Cinemax HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/894.ts
+#EXTINF:-1 timeshift="5" tvg-id="cinemax2.rs" tvg-name="Cinemax 2 HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Cinemax 2 HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/893.ts
+#EXTINF:-1 timeshift="5" tvg-id="cinestarpremiere1.hr" tvg-name="Cinestar Premiere 1 HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Cinestar Premiere 1 HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/889.ts
+#EXTINF:-1 timeshift="5" tvg-id="cinestarpremiere2.hr" tvg-name="Cinestar Premiere 2 HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Cinestar Premiere 2 HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/890.ts
+#EXTINF:-1 timeshift="5" tvg-id="CineStar TV 1 HD (SR)" tvg-name="Cinestar TV (RS)" tvg-logo="" group-title="FILM PREVOD",Cinestar TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/892.ts
+#EXTINF:-1 timeshift="5" tvg-id="cinestaractionandthriller.hr" tvg-name="Cinestar Action HR (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Cinestar Action HR (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/891.ts
+#EXTINF:-1 timeshift="5" tvg-id="HBO" tvg-name="Hbo HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Hbo HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/896.ts
+#EXTINF:-1 timeshift="5" tvg-id="hbo2hd.rs" tvg-name="Hbo 2 HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Hbo 2 HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/895.ts
+#EXTINF:-1 timeshift="5" tvg-id="HBO 3 HD" tvg-name="Hbo 3 HD (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Hbo 3 HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/898.ts
+#EXTINF:-1 tvg-id="FilmBox Extra" tvg-name="Filmbox EXTRA (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Filmbox EXTRA (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1519.ts
+#EXTINF:-1 tvg-id="m1film.hr" tvg-name="M1 Film (HR)" tvg-logo="" group-title="FILM PREVOD",M1 Film (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1095.ts
+#EXTINF:-1 timeshift="5" tvg-id="scifi.rs" tvg-name="SciFi (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",SciFi (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/950.ts
+#EXTINF:-1 tvg-id="Klasik" tvg-name="Klasik TV (Ex-Yu)" tvg-logo="" group-title="FILM PREVOD",Klasik TV (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/887.ts
+#EXTINF:-1 timeshift="5" tvg-id="24kitchen.rs" tvg-name="24 Kitchen (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",24 Kitchen (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/928.ts
+#EXTINF:-1 timeshift="5" tvg-id="History 2 HD" tvg-name="History Channel 2 HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",History Channel 2 HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/930.ts
+#EXTINF:-1 tvg-id="tlc.hr" tvg-name="TLC Balkans (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",TLC Balkans (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1215.ts
+#EXTINF:-1 timeshift="5" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Discovery Channel (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/941.ts
+#EXTINF:-1 timeshift="5" tvg-id="ID" tvg-name="ID Discovery - Investigation Discovery HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",ID Discovery - Investigation Discovery HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/937.ts
+#EXTINF:-1 timeshift="5" tvg-id="CBS Reality" tvg-name="CBS Reality (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",CBS Reality (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1209.ts
+#EXTINF:-1 timeshift="5" tvg-id="historychannelhd.hr" tvg-name="History HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",History HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1216.ts
+#EXTINF:-1 timeshift="5" tvg-id="Lov i Ribolov" tvg-name="Lov I Ribolov (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Lov I Ribolov (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/936.ts
+#EXTINF:-1 timeshift="5" tvg-id="animalplanet.hr" tvg-name="Animal Planet HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Animal Planet HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/927.ts
+#EXTINF:-1 timeshift="5" tvg-id="National Geographic" tvg-name="National Geographic Channel HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",National Geographic Channel HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/929.ts
+#EXTINF:-1 timeshift="5" tvg-id="natgeowild.rs" tvg-name="National Geographic Wild HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",National Geographic Wild HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1211.ts
+#EXTINF:-1 timeshift="5" tvg-id="HISTORY" tvg-name="History Channel HD (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",History Channel HD (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/942.ts
+#EXTINF:-1 timeshift="5" tvg-id="Viasat Explore" tvg-name="Viasat Explorer (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Viasat Explorer (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/939.ts
+#EXTINF:-1 timeshift="5" tvg-id="Viasat History" tvg-name="Viasat History (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Viasat History (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/940.ts
+#EXTINF:-1 timeshift="5" tvg-id="Viasat Nature" tvg-name="Viasat Nature (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Viasat Nature (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/952.ts
+#EXTINF:-1 timeshift="5" tvg-id="EANZ" tvg-name="E! / Entertainment (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",E! / Entertainment (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/935.ts
+#EXTINF:-1 tvg-id="FIGHTBX" tvg-name="Fight Box HD (US)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Fight Box HD (US)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/932.ts
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",BBC Earth (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/934.ts
+#EXTINF:-1 timeshift="5" tvg-id="Crime  Investigation" tvg-name="Crime Investigation (Ex-Yu)" tvg-logo="" group-title="DOKUMENTARNI PREVOD",Crime Investigation (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1210.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV (Ex-Yu)" tvg-logo="" group-title="DJECIJI PROGRAMI",Baby TV (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1089.ts
+#EXTINF:-1 tvg-id="HAYATOVCI" tvg-name="Hayatovci (Ex-Yu)" tvg-logo="" group-title="DJECIJI PROGRAMI",Hayatovci (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1199.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network (Ex-Yu)" tvg-logo="" group-title="DJECIJI PROGRAMI",Cartoon Network (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1090.ts
+#EXTINF:-1 tvg-id="disneychannel.rs" tvg-name="Disney Channel (Ex-Yu)" tvg-logo="" group-title="DJECIJI PROGRAMI",Disney Channel (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/944.ts
+#EXTINF:-1 tvg-id="MINI TV" tvg-name="Mini TV (Ex-Yu)" tvg-logo="" group-title="DJECIJI PROGRAMI",Mini TV (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/948.ts
+#EXTINF:-1 tvg-id="Jim Jam" tvg-name="Jim Jam (Ex-Yu)" tvg-logo="" group-title="DJECIJI PROGRAMI",Jim Jam (Ex-Yu)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1754.ts
+#EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax (RS)" tvg-logo="" group-title="DJECIJI PROGRAMI",Minimax (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/947.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon (RS)" tvg-logo="" group-title="DJECIJI PROGRAMI",Nickelodeon (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/946.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr (HR)" tvg-logo="" group-title="DJECIJI PROGRAMI",Nick Jr (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/949.ts
+#EXTINF:-1 tvg-id="Pink Kids" tvg-name="Pink Kids (RS)" tvg-logo="" group-title="PINK MEDIA",Pink Kids (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/839.ts
+#EXTINF:-1 tvg-id="Pink super kids" tvg-name="Pink Super Kids (RS)" tvg-logo="" group-title="DJECIJI PROGRAMI",Pink Super Kids (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1224.ts
+#EXTINF:-1 tvg-id="orlandokids.hr" tvg-name="TNT Kids (RS)" tvg-logo="" group-title="DJECIJI PROGRAMI",TNT Kids (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1223.ts
+#EXTINF:-1 tvg-id="" tvg-name="BN Music (BiH)" tvg-logo="" group-title="MUZIKA",BN Music (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/907.ts
+#EXTINF:-1 tvg-id="CMC HD" tvg-name="CMC - Croatian Music Channel (HR)" tvg-logo="" group-title="MUZIKA",CMC - Croatian Music Channel (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/924.ts
+#EXTINF:-1 tvg-id="sevdahtv" tvg-name="Sevdah TV (BiH)" tvg-logo="" group-title="MUZIKA",Sevdah TV (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/923.ts
+#EXTINF:-1 tvg-id="JUGOTON" tvg-name="Jugoton TV (HR)" tvg-logo="" group-title="MUZIKA",Jugoton TV (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/925.ts
+#EXTINF:-1 tvg-id="IDJTV" tvg-name="IDJ TV (RS)" tvg-logo="" group-title="MUZIKA",IDJ TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/913.ts
+#EXTINF:-1 tvg-id="mtvadria.hr" tvg-name="MTV Adria" tvg-logo="" group-title="MUZIKA",MTV Adria
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/920.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Folk (BiH)" tvg-logo="" group-title="MUZIKA",Hayat Folk (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/918.ts
+#EXTINF:-1 tvg-id="grand.rs" tvg-name="Grand TV (RS)" tvg-logo="" group-title="MUZIKA",Grand TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/919.ts
+#EXTINF:-1 tvg-id="grand2.rs" tvg-name="Grand TV 2 (RS)" tvg-logo="" group-title="MUZIKA",Grand TV 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1234.ts
+#EXTINF:-1 tvg-id="" tvg-name="DM Sat (RS)" tvg-logo="" group-title="MUZIKA",DM Sat (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/922.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Duga + (RS)" tvg-logo="" group-title="MUZIKA",TV Duga + (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika TV (RS)" tvg-logo="" group-title="MUZIKA",Balkanika TV (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/917.ts
+#EXTINF:-1 tvg-id="Izvorna TV" tvg-name="Izvorna TV (BiH)" tvg-logo="" group-title="MUZIKA",Izvorna TV (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/914.ts
+#EXTINF:-1 timeshift="5" tvg-id="HAYAPBO" tvg-name="HAYAT PLUS (BIH)" tvg-logo="" group-title="BiH",HAYAT PLUS (BIH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/916.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 (Europe)" tvg-logo="" group-title="MUZIKA",VH1 (Europe)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1230.ts
+#EXTINF:-1 tvg-id="vh1classic.hr" tvg-name="VH1 classic (Europe)" tvg-logo="" group-title="MUZIKA",VH1 classic (Europe)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 1 (RS)" tvg-logo="" group-title="MUZIKA",Pink Music 1 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 2 (RS)" tvg-logo="" group-title="MUZIKA",Pink Music 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Music (BiH)" tvg-logo="" group-title="MUZIKA",Hayat Music (BiH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1214.ts
+#EXTINF:-1 tvg-id="MTV Dance International" tvg-name="MTV Club" tvg-logo="" group-title="MUZIKA",MTV Club
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1196.ts
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="" group-title="MUZIKA",MTV Hits
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1197.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90s" tvg-logo="" group-title="MUZIKA",MTV 90s
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1198.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="" group-title="MUZIKA",MTV 80s
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1233.ts
+#EXTINF:-1 tvg-id="SPORTSKA TV" tvg-name="Sportska TV - SPTV (HR)" tvg-logo="" group-title="SPORT EX-YU",Sportska TV - SPTV (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1486.ts
+#EXTINF:-1 tvg-id="HNTV" tvg-name="HNTV (HR)" tvg-logo="" group-title="SPORT EX-YU",HNTV (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1759.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-name="Arena Sport 1 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 1 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1039.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 2 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1038.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-name="Arena Sport 3 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 3 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1037.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 4 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1036.ts
+#EXTINF:-1 timeshift="5" tvg-id="tv-arena-sport-1-hr.sport" tvg-name="Arena Sport 1 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 1 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1034.ts
+#EXTINF:-1 timeshift="5" tvg-id="ArenaSport2hr" tvg-name="Arena Sport 2 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 2 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1033.ts
+#EXTINF:-1 timeshift="5" tvg-id="4565" tvg-name="Arena Sport 3 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 3 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1032.ts
+#EXTINF:-1 tvg-id="4566" tvg-name="Arena Sport 4 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 4 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1031.ts
+#EXTINF:-1 tvg-id="4568" tvg-name="Arena Sport 6 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 6 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1418.ts
+#EXTINF:-1 timeshift="5" tvg-id="sportklubhd.hr" tvg-name="Sport Klub HD" tvg-logo="" group-title="SPORT EX-YU",Sport Klub HD
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1860.ts
+#EXTINF:-1 timeshift="5" tvg-id="Sport Klub 1" tvg-name="Sport Klub 1 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 1 HD (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1419.ts
+#EXTINF:-1 timeshift="5" tvg-id="Sport Klub 2" tvg-name="Sport Klub 2 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 2 HD (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1420.ts
+#EXTINF:-1 timeshift="5" tvg-id="Sport Klub 3" tvg-name="Sport Klub 3 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 3 HD (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1421.ts
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="Sport Klub 4 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 4 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/7104.ts
+#EXTINF:-1 tvg-id="sportklub5.rs" tvg-name="Sport Klub 5 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 5 (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1423.ts
+#EXTINF:-1 timeshift="5" tvg-id="Sport Klub 1" tvg-name="Sport Klub 1 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 1 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1042.ts
+#EXTINF:-1 timeshift="5" tvg-id="SportKlub2" tvg-name="Sport Klub 2 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 2 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1041.ts
+#EXTINF:-1 timeshift="5" tvg-id="sportklub3.hr" tvg-name="Sport Klub 3 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 3 HD (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1040.ts
+#EXTINF:-1 tvg-id="sportklub4.hr" tvg-name="Sport Klub 4 (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 4 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1427.ts
+#EXTINF:-1 tvg-id="sportklub5.hr" tvg-name="Sport Klub 5 (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 5 (HR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1428.ts
+#EXTINF:-1 timeshift="5" tvg-id="Eurosport 1 (SR)" tvg-name="Eurosport 1 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Eurosport 1 HD (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1044.ts
+#EXTINF:-1 timeshift="5" tvg-id="Eurosport 2 (SR)" tvg-name="Eurosport 2 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Eurosport 2 HD (RS)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1043.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="Eurosport 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Eurosport 1 HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1200.ts
+#EXTINF:-1 tvg-id="SKYSNG" tvg-name="SSport News (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport News (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1417.ts
+#EXTINF:-1 tvg-id="SKYSPA" tvg-name="SSport Austria 1 (AT)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Austria 1 (AT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1091.ts
+#EXTINF:-1 tvg-id="Sport TV 1 SI" tvg-name="Sport TV 1 HD (SLO)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 1 HD (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1051.ts
+#EXTINF:-1 tvg-id="Sport TV 2 SI" tvg-name="Sport TV 2 HD (SLO)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 2 HD (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1050.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD (TR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 1 HD (TR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1117.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD (TR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 2 HD (TR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1118.ts
+#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-name="Sport TV+ HD (PT)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV+ HD (PT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD (PT)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 1 HD (PT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1120.ts
+#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="Sport TV 2 HD (PT)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 2 HD (PT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD (PT)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 3 HD (PT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1122.ts
+#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="Sport TV 4 HD (PT)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 4 HD (PT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD (PT)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport TV 5 HD (PT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1124.ts
+#EXTINF:-1 tvg-id="BEINSHD" tvg-name="beIN Sports 1 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sports 1 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1151.ts
+#EXTINF:-1 tvg-id="BEIS2HD" tvg-name="beIN Sports 2 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sports 2 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1153.ts
+#EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-name="beIN Sport 3 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 3 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1154.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 4 HD (AR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1155.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 5 HD (AR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1156.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 6 HD (AR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1157.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 7 HD (AR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1158.ts
+#EXTINF:-1 tvg-id="BEIN9" tvg-name="beIN Sports MAX 9 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sports MAX 9 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1160.ts
+#EXTINF:-1 tvg-id="BTSP1HD" tvg-name="BT Sport 1 HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 1 HD (UK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1149.ts
+#EXTINF:-1 tvg-id="BTSP2HD" tvg-name="BT Sport 2 HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 2 HD (UK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1150.ts
+#EXTINF:-1 tvg-id="BTSP3HD" tvg-name="BT Sport 3 HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 3 HD (UK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1148.ts
+#EXTINF:-1 tvg-id="bt-sport-4k" tvg-name="BT Sport 4 (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 4 (UK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1766.ts
+#EXTINF:-1 tvg-id="RMCP4HD" tvg-name="RMC Sport 4 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",RMC Sport 4 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1183.ts
+#EXTINF:-1 tvg-id="NBCSPO" tvg-name="NBC Sport Network (US)" tvg-logo="" group-title="SPORT INTERNATIONAL",NBC Sport Network (US)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1181.ts
+#EXTINF:-1 tvg-id="NBATV" tvg-name="Nba TV HD (US)" tvg-logo="" group-title="SPORT INTERNATIONAL",Nba TV HD (US)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1188.ts
+#EXTINF:-1 tvg-id="NFLCET" tvg-name="NFL Network (US)" tvg-logo="" group-title="SPORT INTERNATIONAL",NFL Network (US)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1193.ts
+#EXTINF:-1 tvg-id="FS1" tvg-name="Fox Sports 1 (US)" tvg-logo="" group-title="SPORT INTERNATIONAL",Fox Sports 1 (US)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1191.ts
+#EXTINF:-1 tvg-id="FS2" tvg-name="Fox Sports 2 (US)" tvg-logo="" group-title="SPORT INTERNATIONAL",Fox Sports 2 (US)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1192.ts
+#EXTINF:-1 tvg-id="MOVDEPH" tvg-name="Movistar Deportes 1 HD (ES)" tvg-logo="" group-title="SPORT INTERNATIONAL",Movistar Deportes 1 HD (ES)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1792.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar+ Deportes 2 HD (ES)" tvg-logo="" group-title="SPORT INTERNATIONAL",Movistar+ Deportes 2 HD (ES)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1793.ts
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Super Sport 1 HD (AL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Super Sport 1 HD (AL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1431.ts
+#EXTINF:-1 tvg-id="Super Sport 2 AL" tvg-name="Super Sport 2 HD (AL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Super Sport 2 HD (AL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1432.ts
+#EXTINF:-1 tvg-id="Super Sport 3 AL" tvg-name="Super Sport 3 HD (AL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Super Sport 3 HD (AL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1433.ts
+#EXTINF:-1 tvg-id="Super Sport 4 AL" tvg-name="Super Sport 4 HD (AL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Super Sport 4 HD (AL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1434.ts
+#EXTINF:-1 tvg-id="FXSP1NL" tvg-name="Fox Sports 1 (NL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Fox Sports 1 (NL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1201.ts
+#EXTINF:-1 tvg-id="FXSP2NL" tvg-name="Fox Sports 2 International (NL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Fox Sports 2 International (NL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1226.ts
+#EXTINF:-1 tvg-id="FXSP3NL" tvg-name="Fox Sports 3 Eredivisie (NL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Fox Sports 3 Eredivisie (NL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1227.ts
+#EXTINF:-1 tvg-id="FXSP4NL" tvg-name="Fox Sports 4 (NL)" tvg-logo="" group-title="SPORT INTERNATIONAL",Fox Sports 4 (NL)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 (ROM)" tvg-logo="" group-title="SPORT INTERNATIONAL",Digi Sport 3 (ROM)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1436.ts
+#EXTINF:-1 tvg-id="digisport1" tvg-name="Digi Sport 1 (ROM)" tvg-logo="" group-title="SPORT INTERNATIONAL",Digi Sport 1 (ROM)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 (ROM)" tvg-logo="" group-title="SPORT INTERNATIONAL",Digi Sport 2 (ROM)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1145.ts
+#EXTINF:-1 tvg-id="RMCP1HD" tvg-name="RMC Sport 1 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",RMC Sport 1 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1855.ts
+#EXTINF:-1 tvg-id="RMCSP2" tvg-name="RMC Sport 2 HD (FR)" tvg-logo="" group-title="SPORT INTERNATIONAL",RMC Sport 2 HD (FR)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1856.ts
+#EXTINF:-1 tvg-id="Diema Sport 2 BG" tvg-name="Diema Sport 2 (BG)" tvg-logo="" group-title="SPORT INTERNATIONAL",Diema Sport 2 (BG)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1516.ts
+#EXTINF:-1 timeshift="5" tvg-id="ATVAUS" tvg-name="ATV 1 HD (AT)" tvg-logo="" group-title="GERMANY",ATV 1 HD (AT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/3509.ts
+#EXTINF:-1 tvg-id="ATV2AHD" tvg-name="ATV 2 (AT)" tvg-logo="" group-title="GERMANY",ATV 2 (AT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/3510.ts
+#EXTINF:-1 timeshift="5" tvg-id="ORF1HD" tvg-name="ORF 1 HD (AT)" tvg-logo="" group-title="GERMANY",ORF 1 HD (AT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1093.ts
+#EXTINF:-1 timeshift="5" tvg-id="ORF2OSR" tvg-name="ORF 2 HD (AT)" tvg-logo="" group-title="GERMANY",ORF 2 HD (AT)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1094.ts
+#EXTINF:-1 tvg-id="ANPGEHD" tvg-name="Animal Planet HD (DE)" tvg-logo="" group-title="GERMANY",Animal Planet HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1481.ts
+#EXTINF:-1 tvg-id="DSCCKDG" tvg-name="Discovery Channel HD (DE)" tvg-logo="" group-title="GERMANY",Discovery Channel HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1480.ts
+#EXTINF:-1 tvg-id="HSTRYKD" tvg-name="History HD (DE)" tvg-logo="" group-title="GERMANY",History HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1479.ts
+#EXTINF:-1 tvg-id="NATGEOK" tvg-name="National Geographic HD (DE)" tvg-logo="" group-title="GERMANY",National Geographic HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1524.ts
+#EXTINF:-1 tvg-id="DISNG" tvg-name="Disney Channel HD (DE)" tvg-logo="" group-title="DJECIJI PROGRAMI",Disney Channel HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1850.ts
+#EXTINF:-1 tvg-id="TOGPLUS" tvg-name="Toggo Plus HD (DE)" tvg-logo="" group-title="DJECIJI PROGRAMI",Toggo Plus HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1849.ts
+#EXTINF:-1 tvg-id="DISNG" tvg-name="Disney Channel (DE)" tvg-logo="" group-title="DJECIJI PROGRAMI",Disney Channel (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1853.ts
+#EXTINF:-1 tvg-id="DISJSKY" tvg-name="Disney Junior HD (DE)" tvg-logo="" group-title="DJECIJI PROGRAMI",Disney Junior HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1861.ts
+#EXTINF:-1 tvg-id="13STKDG" tvg-name="13TH STREET HD (DE)" tvg-logo="" group-title="GERMANY",13TH STREET HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/987.ts
+#EXTINF:-1 tvg-id="FXHDKD" tvg-name="FOX HD (DE)" tvg-logo="" group-title="GERMANY",FOX HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1084.ts
+#EXTINF:-1 tvg-id="DMAXCH" tvg-name="DMAX HD (DE)" tvg-logo="" group-title="GERMANY",DMAX HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/988.ts
+#EXTINF:-1 tvg-id="kabel-1" tvg-name="KABEL 1 HD (DE)" tvg-logo="" group-title="GERMANY",KABEL 1 HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/989.ts
+#EXTINF:-1 tvg-id="kabel eins Doku DE" tvg-name="KABEL 1 DOKU HD (DE)" tvg-logo="" group-title="GERMANY",KABEL 1 DOKU HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/977.ts
+#EXTINF:-1 timeshift="5" tvg-id="PRO 7" tvg-name="PRO Sieben HD (DE)" tvg-logo="" group-title="GERMANY",PRO Sieben HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/995.ts
+#EXTINF:-1 timeshift="5" tvg-id="SAT1HD" tvg-name="SAT 1 HD (DE)" tvg-logo="" group-title="GERMANY",SAT 1 HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1003.ts
+#EXTINF:-1 timeshift="5" tvg-id="SAT1GKD" tvg-name="SAT 1 GOLD HD (DE)" tvg-logo="" group-title="GERMANY",SAT 1 GOLD HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/997.ts
+#EXTINF:-1 timeshift="5" tvg-id="RTLVFKD" tvg-name="RTL HD (DE)" tvg-logo="" group-title="GERMANY",RTL HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1001.ts
+#EXTINF:-1 timeshift="5" tvg-id="RTL2GRH" tvg-name="RTL 2 HD (DE)" tvg-logo="http://mysolutionsbn.xyz:12974/images/bfde0544f3abfe3bb6c248016cf87a92.png" group-title="GERMANY",RTL 2 HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1000.ts
+#EXTINF:-1 tvg-id="RTLNITCH" tvg-name="RTL NITRO HD (DE)" tvg-logo="" group-title="GERMANY",RTL NITRO HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/999.ts
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="VOX HD (DE)" tvg-logo="" group-title="GERMANY",VOX HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/976.ts
+#EXTINF:-1 tvg-id="SIXX DE" tvg-name="SIXX HD (DE)" tvg-logo="" group-title="GERMANY",SIXX HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/984.ts
+#EXTINF:-1 tvg-id="3SATGEH" tvg-name="3SAT HD (DE)" tvg-logo="" group-title="GERMANY",3SAT HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/996.ts
+#EXTINF:-1 tvg-id="EX YU Melody" tvg-name="Karolina TV" tvg-logo="" group-title="MUZIKA",Karolina TV
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/978.ts
+#EXTINF:-1 tvg-id="PRO7MXCH" tvg-name="PRO 7 MAXX HD (DE)" tvg-logo="" group-title="GERMANY",PRO 7 MAXX HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1447.ts
+#EXTINF:-1 tvg-id="NDRFRN" tvg-name="NDR (DE)" tvg-logo="" group-title="GERMANY",NDR (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/983.ts
+#EXTINF:-1 tvg-id="NGWKDG" tvg-name="NATIONAL GEO WILD HD (DE)" tvg-logo="" group-title="GERMANY",NATIONAL GEO WILD HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/974.ts
+#EXTINF:-1 tvg-id="SERVTVD" tvg-name="SERVUS TV HD (DE)" tvg-logo="" group-title="GERMANY",SERVUS TV HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/981.ts
+#EXTINF:-1 tvg-id="WDRSTAA" tvg-name="WDR HD (DE)" tvg-logo="" group-title="GERMANY",WDR HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1858.ts
+#EXTINF:-1 tvg-id="TAGARD" tvg-name="TAGESSCHAU 24 (DE)" tvg-logo="" group-title="GERMANY",TAGESSCHAU 24 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/975.ts
+#EXTINF:-1 tvg-id="TNTFKDG" tvg-name="TNT FILM HD (DE) Warner TV Film" tvg-logo="" group-title="GERMANY",TNT FILM HD (DE) Warner TV Film
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/991.ts
+#EXTINF:-1 tvg-id="TNTSRKD" tvg-name="TNT SERIE HD (DE) Warner TV Serie" tvg-logo="" group-title="GERMANY",TNT SERIE HD (DE) Warner TV Serie
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/990.ts
+#EXTINF:-1 tvg-id="KABEL1H" tvg-name="Kabel 1 Classica HD (DE)" tvg-logo="" group-title="GERMANY",Kabel 1 Classica HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/964.ts
+#EXTINF:-1 tvg-id="ZDFG" tvg-name="ZDF HD (DE)" tvg-logo="" group-title="GERMANY",ZDF HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/994.ts
+#EXTINF:-1 tvg-id="ZDFNGEH" tvg-name="ZDF Neo HD (DE)" tvg-logo="" group-title="GERMANY",ZDF Neo HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1857.ts
+#EXTINF:-1 tvg-id="UNIDEUT" tvg-name="UNIVERSAL CHANNEL HD (DE)" tvg-logo="" group-title="GERMANY",UNIVERSAL CHANNEL HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/969.ts
+#EXTINF:-1 tvg-id="SYFYDKD" tvg-name="SYFY HD (DE)" tvg-logo="" group-title="GERMANY",SYFY HD (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="S.Cinema Nostalgie  (DE)" tvg-logo="" group-title="GERMANY",S.Cinema Nostalgie  (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/957.ts
+#EXTINF:-1 tvg-id="SKYANKD" tvg-name="S.Cinema Action (DE)" tvg-logo="" group-title="GERMANY",S.Cinema Action (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/960.ts
+#EXTINF:-1 tvg-id="SKYAKDG" tvg-name="S.Atlantic (DE)" tvg-logo="" group-title="GERMANY",S.Atlantic (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/965.ts
+#EXTINF:-1 tvg-id="SKYKKDG" tvg-name="S.Krimi (DE)" tvg-logo="" group-title="GERMANY",S.Krimi (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/966.ts
+#EXTINF:-1 tvg-id="I303.1536.tvguide.co.uk" tvg-name="S.Cinema Hits (DE)" tvg-logo="" group-title="GERMANY",S.Cinema Hits (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/956.ts
+#EXTINF:-1 tvg-id="I114.2306.tvguide.co.uk" tvg-name="S. Comedy (DE)" tvg-logo="" group-title="GERMANY",S. Comedy (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/959.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 1 (DE)" tvg-logo="" group-title="GERMANY",SELECT 1 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1083.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 2 (DE)" tvg-logo="" group-title="GERMANY",SELECT 2 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1082.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 3 (DE)" tvg-logo="" group-title="GERMANY",SELECT 3 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1081.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 4 (DE)" tvg-logo="" group-title="GERMANY",SELECT 4 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 5 (DE)" tvg-logo="" group-title="GERMANY",SELECT 5 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1079.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 6 (DE)" tvg-logo="" group-title="GERMANY",SELECT 6 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1078.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 7 (DE)" tvg-logo="" group-title="GERMANY",SELECT 7 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1077.ts
+#EXTINF:-1 tvg-id="" tvg-name="SELECT 8 (DE)" tvg-logo="" group-title="GERMANY",SELECT 8 (DE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1076.ts
+#EXTINF:-1 tvg-id="TELEZR" tvg-name="TELE ZURI (CH)" tvg-logo="" group-title="GERMANY",TELE ZURI (CH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/4008.ts
+#EXTINF:-1 tvg-id="SRF1" tvg-name="SRF 1 HD (CH)" tvg-logo="" group-title="GERMANY",SRF 1 HD (CH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/2929.ts
+#EXTINF:-1 tvg-id="SFZWEI" tvg-name="SRF 2 HD (CH)" tvg-logo="" group-title="GERMANY",SRF 2 HD (CH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/2930.ts
+#EXTINF:-1 tvg-id="SFINSGH" tvg-name="SRF Info (CH)" tvg-logo="" group-title="GERMANY",SRF Info (CH)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/2931.ts
+#EXTINF:-1 tvg-id="6EREN" tvg-name="6eren (DK)" tvg-logo="" group-title="DENMARK",6eren (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1508.ts
+#EXTINF:-1 tvg-id="DISXSAP" tvg-name="Disney XD (DK)" tvg-logo="" group-title="DENMARK",Disney XD (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1498.ts
+#EXTINF:-1 tvg-id="DR1DK" tvg-name="DR1 (DK)" tvg-logo="" group-title="DENMARK",DR1 (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1511.ts
+#EXTINF:-1 tvg-id="DK4 DK" tvg-name="DK4 (DK)" tvg-logo="" group-title="DENMARK",DK4 (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1499.ts
+#EXTINF:-1 tvg-id="DRK" tvg-name="DR K (DK)" tvg-logo="" group-title="DENMARK",DR K (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1510.ts
+#EXTINF:-1 tvg-id="KANAL5D" tvg-name="Kanal 5 (DK)" tvg-logo="" group-title="DENMARK",Kanal 5 (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1503.ts
+#EXTINF:-1 tvg-id="TV2FRI" tvg-name="TV 2 Fri (DK)" tvg-logo="" group-title="DENMARK",TV 2 Fri (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1505.ts
+#EXTINF:-1 tvg-id="TV2NWS" tvg-name="TV 2 News (DK)" tvg-logo="" group-title="DENMARK",TV 2 News (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1506.ts
+#EXTINF:-1 tvg-id="TV2ZUL" tvg-name="TV 2 Zulu (DK)" tvg-logo="" group-title="DENMARK",TV 2 Zulu (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1507.ts
+#EXTINF:-1 tvg-id="VIAHIST" tvg-name="Viasat History (DK)" tvg-logo="" group-title="DENMARK",Viasat History (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1495.ts
+#EXTINF:-1 tvg-id="VIASERI" tvg-name="Viasat Series (DK)" tvg-logo="" group-title="DENMARK",Viasat Series (DK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1494.ts
+#EXTINF:-1 tvg-id="hbo.si" tvg-name="HBO (SLO)" tvg-logo="" group-title="SLOVENIA",HBO (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1055.ts
+#EXTINF:-1 tvg-id="" tvg-name="POP Kino HD (SLO)" tvg-logo="" group-title="SLOVENIA",POP Kino HD (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1048.ts
+#EXTINF:-1 tvg-id="poptv.si" tvg-name="POP TV (SLO)" tvg-logo="" group-title="SLOVENIA",POP TV (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Slo 1 HD (SLO)" tvg-logo="" group-title="SLOVENIA",Slo 1 HD (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1057.ts
+#EXTINF:-1 tvg-id="tvslovenija2.si" tvg-name="Slo 2 HD (SLO)" tvg-logo="" group-title="SLOVENIA",Slo 2 HD (SLO)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1056.ts
+#EXTINF:-1 tvg-id="RTCG" tvg-name="RTCG 1 (MNE)" tvg-logo="" group-title="CRNA GORA",RTCG 1 (MNE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1488.ts
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-name="RTCG 2 (MNE)" tvg-logo="" group-title="CRNA GORA",RTCG 2 (MNE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1489.ts
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-name="RTCG SAT (MNE)" tvg-logo="" group-title="CRNA GORA",RTCG SAT (MNE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1490.ts
+#EXTINF:-1 tvg-id="TV Vijesti" tvg-name="Vijesti 24h (MNE)" tvg-logo="" group-title="CRNA GORA",Vijesti 24h (MNE)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1487.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Vesti (MK)" tvg-logo="" group-title="MAKEDONIJA",24 Vesti (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 (MK)" tvg-logo="" group-title="MAKEDONIJA",Kanal 5 (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shutel (MK)" tvg-logo="" group-title="MAKEDONIJA",Shutel (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1785.ts
+#EXTINF:-1 tvg-id="" tvg-name="MRT 1 (MK)" tvg-logo="" group-title="MAKEDONIJA",MRT 1 (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/885.ts
+#EXTINF:-1 tvg-id="" tvg-name="MRT 2 (MK)" tvg-logo="" group-title="MAKEDONIJA",MRT 2 (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sitel HD (MK)" tvg-logo="" group-title="MAKEDONIJA",Sitel HD (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alfa TV (MK)" tvg-logo="" group-title="MAKEDONIJA",Alfa TV (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonce TV (MK)" tvg-logo="" group-title="MAKEDONIJA",Sonce TV (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Folk (MK)" tvg-logo="" group-title="MAKEDONIJA",Sky Folk (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hugo TV (MK)" tvg-logo="" group-title="MAKEDONIJA",Hugo TV (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/2915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tera Bitola TV (MK)" tvg-logo="" group-title="MAKEDONIJA",Tera Bitola TV (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/2916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nasha TV (MK)" tvg-logo="" group-title="MAKEDONIJA",Nasha TV (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/2917.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTM Skopje (MK)" tvg-logo="" group-title="MAKEDONIJA",MTM Skopje (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/4013.ts
+#EXTINF:-1 tvg-id="H2 (SN)" tvg-name="Hugo 2 (MK)" tvg-logo="" group-title="MAKEDONIJA",Hugo 2 (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/4138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Plus TV (MK)" tvg-logo="" group-title="MAKEDONIJA",Plus TV (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/4127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telma (MK)" tvg-logo="" group-title="MAKEDONIJA",Telma (MK)
+http://mysolutionsbn.xyz:12974/ante@razmjena/sadadsa3q23dfsvsAFA/1467.ts
