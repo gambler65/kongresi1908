@@ -1,0 +1,845 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MK: ТВ Хуго 1" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO1.png" group-title="MKD",MK: ТВ Хуго 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/1.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 2" tvg-name="MK: ТВ Хуго 2" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO2.png" group-title="MKD",MK: ТВ Хуго 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/2.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 3" tvg-name="MK: ТВ Хуго 3" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO3.png" group-title="MKD",MK: ТВ Хуго 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/3.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 4" tvg-name="MK: ТВ Хуго 4" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO4.png" group-title="MKD",MK: ТВ Хуго 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/4.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 5" tvg-name="MK: ТВ Хуго 5" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO5.png" group-title="MKD",MK: ТВ Хуго 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/5.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 6" tvg-name="MK: ТВ Хуго 6" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO6.png" group-title="MKD",MK: ТВ Хуго 6
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/6.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 7" tvg-name="MK: ТВ Хуго 7" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO7.png" group-title="MKD",MK: ТВ Хуго 7
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/7.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 8" tvg-name="MK: ТВ Хуго 8" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO8.png" group-title="MKD",MK: ТВ Хуго 8
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/8.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго 9" tvg-name="MK: ТВ Хуго 9" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO9.png" group-title="MKD",MK: ТВ Хуго 9
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/9.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Хуго10" tvg-name="MK: ТВ Хуго10" tvg-logo="http://cms.hugo.mk/logos/MK/HUGO10.png" group-title="MKD",MK: ТВ Хуго10
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/10.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Прилеп" tvg-name="MK: ТВ Прилеп" tvg-logo="http://cms.hugo.mk/logos/MK/CPRTP.png" group-title="MKD",MK: ТВ Прилеп
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/11.ts
+#EXTINF:-1 tvg-ID="MK: Канал 21 Велес" tvg-name="MK: Канал 21 Велес" tvg-logo="http://cms.hugo.mk/logos/MK/KANAL21.png" group-title="MKD",MK: Канал 21 Велес
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/28.ts
+#EXTINF:-1 tvg-ID="MK: Канал 21 2" tvg-name="MK: Канал 21 2 Велес" tvg-logo="http://cms.hugo.mk/logos/MK/KANAL212.png" group-title="MKD",MK: Канал 21 2 Велес
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/29.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Свет Свети Николе" tvg-name="MK: ТВ Свет Свети Николе" tvg-logo="http://cms.hugo.mk/logos/MK/TVSVET.png" group-title="MKD",MK: ТВ Свет Свети Николе
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/30.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Орбис Битола" tvg-name="MK: ТВ Орбис Битола" tvg-logo="http://cms.hugo.mk/logos/MK/ORBIS.png" group-title="MKD",MK: ТВ Орбис Битола
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: КТВ Кавадарци" tvg-logo="http://cms.hugo.mk/logos/MK/KTV41.png" group-title="MKD",MK: КТВ Кавадарци
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/45.ts
+#EXTINF:-1 tvg-ID="MK: Канал 8 Кочани" tvg-name="MK: Канал 8 Кочани" tvg-logo="http://cms.hugo.mk/logos/MK/KANAL8.png" group-title="MKD",MK: Канал 8 Кочани
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/31.ts
+#EXTINF:-1 tvg-ID="МТМ" tvg-name="MK: МТМ Скопје" tvg-logo="http://cms.hugo.mk/logos/MK/MTM.png" group-title="MKD",MK: МТМ Скопје
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/41.ts
+#EXTINF:-1 tvg-ID="24 Вести" tvg-name="MK: ТВ 24" tvg-logo="http://cms.hugo.mk/logos/MK/TV24.png" group-title="MKD",MK: ТВ 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/14.ts
+#EXTINF:-1 tvg-ID="Телма" tvg-name="MK: Телма" tvg-logo="http://cms.hugo.mk/logos/MK/TELMA.png" group-title="MKD",MK: Телма
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/15.ts
+#EXTINF:-1 tvg-ID="Канал 5" tvg-name="MK: Канал 5" tvg-logo="http://cms.hugo.mk/logos/MK/KANAL5.png" group-title="MKD",MK: Канал 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/16.ts
+#EXTINF:-1 tvg-ID="Сител" tvg-name="MK: Сител" tvg-logo="http://cms.hugo.mk/logos/MK/SITEL.png" group-title="MKD",MK: Сител
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/17.ts
+#EXTINF:-1 tvg-ID="Алфа ТВ" tvg-name="MK: Алфа" tvg-logo="http://cms.hugo.mk/logos/MK/ALFA.png" group-title="MKD",MK: Алфа
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: МРТ 1" tvg-logo="http://cms.hugo.mk/logos/MK/MRT1.png" group-title="MKD",MK: МРТ 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: МРТ Сат" tvg-logo="http://cms.hugo.mk/logos/MK/MRTSAT.png" group-title="MKD",MK: МРТ Сат
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/33.ts
+#EXTINF:-1 tvg-ID="MTB 3 FHD" tvg-name="MK: МРТ 3" tvg-logo="http://cms.hugo.mk/logos/MK/MRT3.png" group-title="MKD",MK: МРТ 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/35.ts
+#EXTINF:-1 tvg-ID="МТВ Собраниски канал" tvg-name="MK: МРТ Собраниски" tvg-logo="http://cms.hugo.mk/logos/MK/SOBRANISKI.png" group-title="MKD",MK: МРТ Собраниски
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/34.ts
+#EXTINF:-1 tvg-ID="MTB 5" tvg-name="MK: МРТ 5" tvg-logo="http://cms.hugo.mk/logos/MK/MRT5.png" group-title="MKD",MK: МРТ 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/36.ts
+#EXTINF:-1 tvg-ID="Тера ТВ FHD" tvg-name="MK: Тера Битола" tvg-logo="http://cms.hugo.mk/logos/MK/TERA.png" group-title="MKD",MK: Тера Битола
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/19.ts
+#EXTINF:-1 tvg-ID="MK: Ирис Штип" tvg-name="MK: ТВ Плус Куманово" tvg-logo="http://cms.hugo.mk/logos/MK/TVPLUS.png" group-title="MKD",MK: ТВ Плус Куманово
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/23.ts
+#EXTINF:-1 tvg-ID="MK: Ирис Штип" tvg-name="MK: Вис Струмица" tvg-logo="http://cms.hugo.mk/logos/MK/VISS.png" group-title="MKD",MK: Вис Струмица
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: ТВ Кисс Тетово" tvg-logo="http://cms.hugo.mk/logos/MK/KISS.png" group-title="MKD",MK: ТВ Кисс Тетово
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/51.ts
+#EXTINF:-1 tvg-ID="MK: Спектра Струга" tvg-name="MK: Спектра Струга" tvg-logo="http://cms.hugo.mk/logos/MK/SPEKTRA.png" group-title="MKD",MK: Спектра Струга
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/27.ts
+#EXTINF:-1 tvg-ID="MK: ТВ Мики Охрид" tvg-name="MK: ТВ Мики Охрид" tvg-logo="http://cms.hugo.mk/logos/MK/TVM.png" group-title="MKD",MK: ТВ Мики Охрид
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/25.ts
+#EXTINF:-1 tvg-ID="MK: Здравкин Велес" tvg-name="MK: Здравкин Велес" tvg-logo="http://cms.hugo.mk/logos/MK/ZDRAVKIN.png" group-title="MKD",MK: Здравкин Велес
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: Протел Пробиштип" tvg-logo="http://cms.hugo.mk/logos/MK/PROTEL.png" group-title="MKD",MK: Протел Пробиштип
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: Вистел" tvg-logo="http://cms.hugo.mk/logos/MK/VISTEL.png" group-title="MKD",MK: Вистел
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/40.ts
+#EXTINF:-1 tvg-ID="MK: Канал 3 Прилеп" tvg-name="MK: Канал 3 Прилеп" tvg-logo="http://cms.hugo.mk/logos/MK/TRI.png" group-title="MKD",MK: Канал 3 Прилеп
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/24.ts
+#EXTINF:-1 tvg-ID="MK: Нова 12 Гевгелија" tvg-name="MK: Нова12 Гевгелија" tvg-logo="http://cms.hugo.mk/logos/MK/NOVA12.png" group-title="MKD",MK: Нова12 Гевгелија
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/54.ts
+#EXTINF:-1 tvg-ID="Наша ТВ" tvg-name="MK: Наша ТВ" tvg-logo="http://cms.hugo.mk/logos/MK/NASATV.png" group-title="MKD",MK: Наша ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/22.ts
+#EXTINF:-1 tvg-ID="Сонце ТВ" tvg-name="MK: ТВ Сонце" tvg-logo="http://cms.hugo.mk/logos/MK/TVSONCE.png" group-title="MKD",MK: ТВ Сонце
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/42.ts
+#EXTINF:-1 tvg-ID="MK: Македонско Сонце" tvg-name="MK: Македонско Сонце" tvg-logo="http://cms.hugo.mk/logos/MK/MAKSONCE.png" group-title="MKD",MK: Македонско Сонце
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/43.ts
+#EXTINF:-1 tvg-ID="MK: М Нет Штип" tvg-name="MK: М-нет Штип" tvg-logo="http://cms.hugo.mk/logos/MK/MNET.png" group-title="MKD",MK: М-нет Штип
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/21.ts
+#EXTINF:-1 tvg-ID="ЕДО" tvg-name="MK: Едо Скопје" tvg-logo="http://cms.hugo.mk/logos/MK/EDO.png" group-title="MKD",MK: Едо Скопје
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/26.ts
+#EXTINF:-1 tvg-ID="Шутел" tvg-name="MK: Б1 Скопје" tvg-logo="http://cms.hugo.mk/logos/MK/SUTEL.png" group-title="MKD",MK: Б1 Скопје
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/56.ts
+#EXTINF:-1 tvg-ID="MK: ТВ3 Дебар" tvg-name="MK: ТВ3 Дебар" tvg-logo="http://cms.hugo.mk/logos/MK/DEBAR.png" group-title="MKD",MK: ТВ3 Дебар
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/55.ts
+#EXTINF:-1 tvg-ID="Sky Folk HD" tvg-name="MK: СкајФолк" tvg-logo="http://cms.hugo.mk/logos/MK/SKAJFOLK.png" group-title="MKD",MK: СкајФолк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AU: ИНТВ" tvg-logo="http://cms.hugo.mk/logos/MK/INTV.png" group-title="MKD",AU: ИНТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AU: Фолк Клуб" tvg-logo="http://cms.hugo.mk/logos/MK/INAU2.png" group-title="MKD",AU: Фолк Клуб
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: Зона М1 ТВ" tvg-logo="http://cms.hugo.mk/logos/MK/ZONAm1.png" group-title="MKD",MK: Зона М1 ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/530.ts
+#EXTINF:-1 tvg-ID="TV Pink" tvg-name="RS: Пинк" tvg-logo="http://cms.hugo.mk/logos/RS/PINK.png" group-title="PINK",RS: Пинк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/169.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Хепи" tvg-logo="http://cms.hugo.mk/logos/RS/HEPI.png" group-title="SRB",RS: Хепи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Хепи Живот" tvg-logo="http://cms.hugo.mk/logos/RS/HEPIZIVOT.png" group-title="SRB",RS: Хепи Живот
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/182.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Хепи Земја" tvg-logo="http://cms.hugo.mk/logos/RS/HEPIZEMJA.png" group-title="SRB",RS: Хепи Земја
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Хепи Друштво" tvg-logo="http://cms.hugo.mk/logos/RS/HEPIDRUSTVO.png" group-title="SRB",RS: Хепи Друштво
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/184.ts
+#EXTINF:-1 tvg-ID="O2.TV" tvg-name="RS: B92" tvg-logo="http://cms.hugo.mk/logos/RS/B92.png" group-title="SRB",RS: B92
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/186.ts
+#EXTINF:-1 tvg-ID="Prva" tvg-name="RS: Prva" tvg-logo="http://cms.hugo.mk/logos/RS/PRVA.png" group-title="SRB",RS: Prva
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/187.ts
+#EXTINF:-1 tvg-ID="Prva Plus" tvg-name="RS: PRVA Plus" tvg-logo="http://cms.hugo.mk/logos/RS/PRVAPLUS.png" group-title="SRB",RS: PRVA Plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/188.ts
+#EXTINF:-1 tvg-ID="prva-max.sr" tvg-name="RS: PRVA Max" tvg-logo="http://cms.hugo.mk/logos/RS/PRVAMAX.png" group-title="SRB",RS: PRVA Max
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/189.ts
+#EXTINF:-1 tvg-ID="Prva Kick" tvg-name="RS: PRVA Kick" tvg-logo="http://cms.hugo.mk/logos/RS/PRVAKICK.png" group-title="SRB",RS: PRVA Kick
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: PRVA Life" tvg-logo="http://cms.hugo.mk/logos/RS/PRVALIFE.png" group-title="SRB",RS: PRVA Life
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/191.ts
+#EXTINF:-1 tvg-ID="Prva Files" tvg-name="RS: PRVA Files" tvg-logo="http://cms.hugo.mk/logos/RS/PRVAFILES.png" group-title="SRB",RS: PRVA Files
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/192.ts
+#EXTINF:-1 tvg-ID="Prva World" tvg-name="RS: PRVA World" tvg-logo="http://cms.hugo.mk/logos/RS/PRVAWORLD.png" group-title="SRB",RS: PRVA World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/193.ts
+#EXTINF:-1 tvg-ID="RTS 1" tvg-name="RS: РТС 1" tvg-logo="http://cms.hugo.mk/logos/RS/RTS1.png" group-title="SRB",RS: РТС 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/72.ts
+#EXTINF:-1 tvg-ID="RTS 2" tvg-name="RS: РТС 2" tvg-logo="http://cms.hugo.mk/logos/RS/RTS2.png" group-title="SRB",RS: РТС 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/73.ts
+#EXTINF:-1 tvg-ID="RTS 3" tvg-name="RS: РТС 3" tvg-logo="http://cms.hugo.mk/logos/RS/RTS3.png" group-title="SRB",RS: РТС 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: РТС Свет" tvg-logo="http://cms.hugo.mk/logos/RS/RTSSVET.png" group-title="SRB",RS: РТС Свет
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: РТС Наука" tvg-logo="http://cms.hugo.mk/logos/RS/NAUKA2.png" group-title="SRB",RS: РТС Наука
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/76.ts
+#EXTINF:-1 tvg-ID="RTS  Kolo" tvg-name="RS: РТС Коло" tvg-logo="http://cms.hugo.mk/logos/RS/RTSKOLO.png" group-title="SRB",RS: РТС Коло
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/66.ts
+#EXTINF:-1 tvg-ID="RTS Drama" tvg-name="RS: РТС Драма" tvg-logo="http://cms.hugo.mk/logos/RS/RTSDRAMA.png" group-title="SRB",RS: РТС Драма
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/67.ts
+#EXTINF:-1 tvg-ID="RTS Život" tvg-name="RS: РТС Живот" tvg-logo="http://cms.hugo.mk/logos/RS/RTSZIVOT.png" group-title="SRB",RS: РТС Живот
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/68.ts
+#EXTINF:-1 tvg-ID="RTS Trezor" tvg-name="RS: РТС Трезор" tvg-logo="http://cms.hugo.mk/logos/RS/RTSTREZOR.png" group-title="SRB",RS: РТС Трезор
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/69.ts
+#EXTINF:-1 tvg-ID="RTS Poletarac" tvg-name="RS: РТС Полетарац" tvg-logo="http://cms.hugo.mk/logos/RS/RTSPOLETARAC.png" group-title="SRB",RS: РТС Полетарац
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/70.ts
+#EXTINF:-1 tvg-ID="RTS Muzika" tvg-name="RS: РТС Музика" tvg-logo="http://cms.hugo.mk/logos/RS/RTSMUZIKA.png" group-title="SRB",RS: РТС Музика
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: РТВ 1" tvg-logo="http://cms.hugo.mk/logos/RS/RTV1.png" group-title="SRB",RS: РТВ 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Агро ТВ" tvg-logo="http://cms.hugo.mk/logos/RS/AGRO.png" group-title="SRB",RS: Агро ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Gem RTV" tvg-logo="http://cms.hugo.mk/logos/RS/GEM.png" group-title="SRB",RS: Gem RTV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Канал М" tvg-logo="http://cms.hugo.mk/logos/RS/KANALM.png" group-title="SRB",RS: Канал М
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Мир" tvg-logo="http://cms.hugo.mk/logos/RS/MIR.png" group-title="SRB",RS: Мир
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: TV Novi Pazar" tvg-logo="http://cms.hugo.mk/logos/RS/TVNP.png" group-title="SRB",RS: TV Novi Pazar
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Una" tvg-logo="http://cms.hugo.mk/logos/RS/UNA.png" group-title="SRB",RS: Una
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Палма плус" tvg-logo="http://cms.hugo.mk/logos/RS/PALMA.png" group-title="SRB",RS: Палма плус
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Студио Б" tvg-logo="http://cms.hugo.mk/logos/RS/STUDIOB.png" group-title="SRB",RS: Студио Б
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Курир" tvg-logo="http://cms.hugo.mk/logos/RS/KURIR.png" group-title="SRB",RS: Курир
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Blic TV" tvg-logo="http://cms.hugo.mk/logos/RS/BLIC.png" group-title="SRB",RS: Blic TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Informer" tvg-logo="http://cms.hugo.mk/logos/RS/INFORMER.png" group-title="SRB",RS: Informer
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Ред" tvg-logo="http://cms.hugo.mk/logos/RS/REDTV.png" group-title="SRB",RS: Ред
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Altea" tvg-logo="http://cms.hugo.mk/logos/RS/ALTEA.png" group-title="SRB",RS: Altea
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: DM sat" tvg-logo="http://cms.hugo.mk/logos/RS/DMSAT.png" group-title="SRB",RS: DM sat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Дуга Плус" tvg-logo="http://cms.hugo.mk/logos/RS/DUGAPLUS.png" group-title="SRB",RS: Дуга Плус
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Top Sound" tvg-logo="http://cms.hugo.mk/logos/RS/TOPSAUND.png" group-title="SRB",RS: Top Sound
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Toxic Folk" tvg-logo="http://cms.hugo.mk/logos/RS/TFOLK.png" group-title="SRB",RS: Toxic Folk
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Toxic" tvg-logo="http://cms.hugo.mk/logos/RS/TOXIC.png" group-title="SRB",RS: Toxic
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Храм" tvg-logo="http://cms.hugo.mk/logos/RS/HRAM.png" group-title="SRB",RS: Храм
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT: YU Planet" tvg-logo="http://cms.hugo.mk/logos/RS/YUPLANET.png" group-title="SRB",AT: YU Planet
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL Adria" tvg-logo="http://cms.hugo.mk/logos/HR/ADRIA.png" group-title="CRO",HR: RTL Adria
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL" tvg-logo="http://cms.hugo.mk/logos/HR/RTL.png" group-title="CRO",HR: RTL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL 2" tvg-logo="http://cms.hugo.mk/logos/HR/RTL2.png" group-title="CRO",HR: RTL 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL Crime" tvg-logo="http://cms.hugo.mk/logos/HR/CRIME.png" group-title="CRO",HR: RTL Crime
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL Living" tvg-logo="http://cms.hugo.mk/logos/HR/LIVING.png" group-title="CRO",HR: RTL Living
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL Passion" tvg-logo="http://cms.hugo.mk/logos/HR/PASSION.png" group-title="CRO",HR: RTL Passion
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: RTL World" tvg-logo="http://cms.hugo.mk/logos/HR/RTLWORLD.png" group-title="CRO",HR: RTL World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/250.ts
+#EXTINF:-1 tvg-ID="nova.hr" tvg-name="HR: Nova" tvg-logo="http://cms.hugo.mk/logos/HR/NOVA.png" group-title="CRO",HR: Nova
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/254.ts
+#EXTINF:-1 tvg-ID="doma-tv.hr" tvg-name="HR: Doma" tvg-logo="http://cms.hugo.mk/logos/HR/DOMA3.png" group-title="CRO",HR: Doma
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Nova Cinema" tvg-logo="http://cms.hugo.mk/logos/HR/NOVACINEMA.png" group-title="CRO",HR: Nova Cinema
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Nova Family" tvg-logo="http://cms.hugo.mk/logos/HR/NOVAFAMILI.png" group-title="CRO",HR: Nova Family
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Nova World" tvg-logo="http://cms.hugo.mk/logos/HR/NOVAWORLD.png" group-title="CRO",HR: Nova World
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: HRT 1" tvg-logo="http://cms.hugo.mk/logos/HR/HTV1.png" group-title="CRO",HR: HRT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: HRT 2" tvg-logo="http://cms.hugo.mk/logos/HR/HTV2.png" group-title="CRO",HR: HRT 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: HRT 3" tvg-logo="http://cms.hugo.mk/logos/HR/HTV3.png" group-title="CRO",HR: HRT 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: HRT 4" tvg-logo="http://cms.hugo.mk/logos/HR/HTV4.png" group-title="CRO",HR: HRT 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/233.ts
+#EXTINF:-1 tvg-ID="Klasik TV" tvg-name="HR: Klasik TV" tvg-logo="http://cms.hugo.mk/logos/HR/KLASIK.png" group-title="CRO",HR: Klasik TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Jugoton" tvg-logo="http://cms.hugo.mk/logos/HR/JUGOTON.png" group-title="CRO",HR: Jugoton
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: CMC" tvg-logo="http://cms.hugo.mk/logos/HR/CMCTV.png" group-title="CRO",HR: CMC
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: bravo!TV" tvg-logo="http://cms.hugo.mk/logos/SPORT/MAXSPORT1.png" group-title="CRO",HR: bravo!TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Z1" tvg-logo="http://cms.hugo.mk/logos/HR/Z1.png" group-title="CRO",HR: Z1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Plava TV" tvg-logo="http://cms.hugo.mk/logos/HR/PLAVA.png" group-title="CRO",HR: Plava TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: OTV" tvg-logo="http://cms.hugo.mk/logos/HR/OTV.png" group-title="CRO",HR: OTV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Slavonska" tvg-logo="http://cms.hugo.mk/logos/HR/SLAVONSKA.png" group-title="CRO",HR: Slavonska
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Kanal RI" tvg-logo="http://cms.hugo.mk/logos/HR/KANALRI.png" group-title="CRO",HR: Kanal RI
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: DU TV" tvg-logo="http://cms.hugo.mk/logos/HR/DUTV.png" group-title="CRO",HR: DU TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Sibenik" tvg-logo="" group-title="CRO",HR: Sibenik
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Osječka" tvg-logo="http://cms.hugo.mk/logos/HR/OSJECKA.png" group-title="CRO",HR: Osječka
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: BN Music" tvg-logo="http://cms.hugo.mk/logos/BA/BN%20Music.png" group-title="BIH",BA: BN Music
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: BN" tvg-logo="http://cms.hugo.mk/logos/BA/BN%20TV.png" group-title="BIH",BA: BN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Slon" tvg-logo="http://cms.hugo.mk/logos/BA/SLON.png" group-title="BIH",BA: Slon
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: RTRS" tvg-logo="http://cms.hugo.mk/logos/BA/RTRS.png" group-title="BIH",BA: RTRS
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: RTRS plus" tvg-logo="http://cms.hugo.mk/logos/BA/RTRS%20Plus.png" group-title="BIH",BA: RTRS plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Alternativna" tvg-logo="http://cms.hugo.mk/logos/BA/ATV.png" group-title="BIH",BA: Alternativna
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Federalna" tvg-logo="http://cms.hugo.mk/logos/BA/FTV.png" group-title="BIH",BA: Federalna
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: OBN" tvg-logo="http://cms.hugo.mk/logos/BA/OBN.png" group-title="BIH",BA: OBN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: BHT 1" tvg-logo="http://cms.hugo.mk/logos/BA/BHT1.png" group-title="BIH",BA: BHT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: O Kanal" tvg-logo="http://cms.hugo.mk/logos/BA/OKANAL.png" group-title="BIH",BA: O Kanal
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Hayat" tvg-logo="http://cms.hugo.mk/logos/BA/HAYAT.png" group-title="BIH",BA: Hayat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: OTV Valentino" tvg-logo="http://cms.hugo.mk/logos/BA/VALENTINO.png" group-title="BIH",BA: OTV Valentino
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: TV Zenica" tvg-logo="http://cms.hugo.mk/logos/BA/TVZE.png" group-title="BIH",BA: TV Zenica
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Herceg Bosne" tvg-logo="http://cms.hugo.mk/logos/BA/HBTV.png" group-title="BIH",BA: Herceg Bosne
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Sehara" tvg-logo="http://cms.hugo.mk/logos/BA/SEHARA.png" group-title="BIH",BA: Sehara
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/369.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Sehara Online" tvg-logo="http://cms.hugo.mk/logos/BA/SEHARA.png" group-title="BIH",BA: Sehara Online
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Face" tvg-logo="http://cms.hugo.mk/logos/BA/FACETV.png" group-title="BIH",BA: Face
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/367.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Al Jazzera Balkan" tvg-logo="http://cms.hugo.mk/logos/BA/AJB.png" group-title="BIH",BA: Al Jazzera Balkan
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Hit" tvg-logo="http://cms.hugo.mk/logos/BA/HIT.png" group-title="BIH",BA: Hit
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Super TV" tvg-logo="http://cms.hugo.mk/logos/BA/SUPER%20TV.png" group-title="BIH",BA: Super TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Sandžak TV" tvg-logo="http://cms.hugo.mk/logos/BA/STV.png" group-title="BIH",BA: Sandžak TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Televizija 5" tvg-logo="http://cms.hugo.mk/logos/BA/TV%205.png" group-title="BIH",BA: Televizija 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BA: Igman" tvg-logo="http://cms.hugo.mk/logos/BA/IGMAN.png" group-title="BIH",BA: Igman
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Makkah" tvg-logo="http://cms.hugo.mk/logos/BA/MECCA.png" group-title="BIH",AR: Makkah
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/357.ts
+#EXTINF:-1 tvg-ID="Zadruga Live 1" tvg-name="Zadruga" tvg-logo="http://cms.hugo.mk/logos/PINK/ZADRUGA1.png" group-title="PINK",Zadruga
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/162.ts
+#EXTINF:-1 tvg-ID="Pink Plus" tvg-name="PINK Plus" tvg-logo="http://cms.hugo.mk/logos/PINK/PINKPLUS.png" group-title="PINK",PINK Plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/170.ts
+#EXTINF:-1 tvg-ID="Pink Music" tvg-name="PINK Music" tvg-logo="http://cms.hugo.mk/logos/PINK/PINKMUSIC.png" group-title="PINK",PINK Music
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/168.ts
+#EXTINF:-1 tvg-ID="Pink Folk" tvg-name="PINK Folk" tvg-logo="http://cms.hugo.mk/logos/PINK/PINKFOLK.png" group-title="PINK",PINK Folk
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/167.ts
+#EXTINF:-1 tvg-ID="Pink Koncert" tvg-name="PINK Koncert" tvg-logo="http://cms.hugo.mk/logos/PINK/PINKKONCERT.png" group-title="PINK",PINK Koncert
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/171.ts
+#EXTINF:-1 tvg-ID="LOL" tvg-name="PINK Show" tvg-logo="http://cms.hugo.mk/logos/PINK/LOL2.png" group-title="PINK",PINK Show
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/164.ts
+#EXTINF:-1 tvg-ID="Pink Zabava" tvg-name="PINK Zabava" tvg-logo="http://cms.hugo.mk/logos/PINK/ZABAVA.png" group-title="PINK",PINK Zabava
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/163.ts
+#EXTINF:-1 tvg-ID="Pink Serije" tvg-name="PINK Serije" tvg-logo="http://cms.hugo.mk/logos/PINK/SERIJE.png" group-title="PINK",PINK Serije
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/161.ts
+#EXTINF:-1 tvg-ID="Pink Film" tvg-name="PINK Film" tvg-logo="http://cms.hugo.mk/logos/PINK/PINKFILM2.png" group-title="PINK",PINK Film
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/152.ts
+#EXTINF:-1 tvg-ID="Pink Family" tvg-name="PINK Family" tvg-logo="http://cms.hugo.mk/logos/PINK/FAMILY.png" group-title="PINK",PINK Family
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/153.ts
+#EXTINF:-1 tvg-ID="Pink Comedy" tvg-name="PINK Comedy" tvg-logo="http://cms.hugo.mk/logos/PINK/COMEDY.png" group-title="PINK",PINK Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/154.ts
+#EXTINF:-1 tvg-ID="Pink Action" tvg-name="PINK Action" tvg-logo="http://cms.hugo.mk/logos/PINK/ACTION.png" group-title="PINK",PINK Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/155.ts
+#EXTINF:-1 tvg-ID="Pink Premium" tvg-name="PINK Premium" tvg-logo="http://cms.hugo.mk/logos/PINK/PREMIUM.png" group-title="PINK",PINK Premium
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/156.ts
+#EXTINF:-1 tvg-ID="Pink Thriller" tvg-name="PINK Thriller" tvg-logo="http://cms.hugo.mk/logos/PINK/THRILLER.png" group-title="PINK",PINK Thriller
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/157.ts
+#EXTINF:-1 tvg-ID="Pink Movies" tvg-name="PINK Movies" tvg-logo="http://cms.hugo.mk/logos/PINK/MOVIES.png" group-title="PINK",PINK Movies
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/158.ts
+#EXTINF:-1 tvg-ID="Pink Romance" tvg-name="PINK Romance" tvg-logo="http://cms.hugo.mk/logos/PINK/ROMANCE.png" group-title="PINK",PINK Romance
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/151.ts
+#EXTINF:-1 tvg-ID="Pink Crime & Mistery" tvg-name="PINK Crime&Mystery" tvg-logo="http://cms.hugo.mk/logos/PINK/PCRIME.png" group-title="PINK",PINK Crime&Mystery
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/159.ts
+#EXTINF:-1 tvg-ID="Pink SciFi Fantasy" tvg-name="PINK SciFi&Fantasy" tvg-logo="http://cms.hugo.mk/logos/PINK/PFANTA.png" group-title="PINK",PINK SciFi&Fantasy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/149.ts
+#EXTINF:-1 tvg-ID="Pink Horror" tvg-name="PINK Horror" tvg-logo="http://cms.hugo.mk/logos/PINK/HORROR.png" group-title="PINK",PINK Horror
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/160.ts
+#EXTINF:-1 tvg-ID="Pink Western" tvg-name="PINK Western" tvg-logo="http://cms.hugo.mk/logos/PINK/WESHTER.png" group-title="PINK",PINK Western
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/150.ts
+#EXTINF:-1 tvg-ID="Fox" tvg-name="FOX" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FOX.png" group-title="FILM",FOX
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/300.ts
+#EXTINF:-1 tvg-ID="Fox Movies" tvg-name="FOX Movies" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FOXMOVIES.png" group-title="FILM",FOX Movies
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/297.ts
+#EXTINF:-1 tvg-ID="Fox Life" tvg-name="FOX Life" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FOXLIFE.png" group-title="FILM",FOX Life
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/298.ts
+#EXTINF:-1 tvg-ID="Fox Crime" tvg-name="FOX Crime" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FOXCRIME.png" group-title="FILM",FOX Crime
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/299.ts
+#EXTINF:-1 tvg-ID="CineStar TV Premiere 1 HD" tvg-name="CINESTAR Premiere 1" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CINESTARPREMIERE1.png" group-title="FILM",CINESTAR Premiere 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/291.ts
+#EXTINF:-1 tvg-ID="CineStar TV Premiere 2 HD" tvg-name="CINESTAR Premiere 2" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CINESTARPREMIERE2.png" group-title="FILM",CINESTAR Premiere 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/292.ts
+#EXTINF:-1 tvg-ID="CineStar TV Action & Thriller" tvg-name="CINESTAR Action" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CINESTARACTION.png" group-title="FILM",CINESTAR Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/293.ts
+#EXTINF:-1 tvg-ID="CineStar TV" tvg-name="CINESTAR TV" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CINESTARTV.png" group-title="FILM",CINESTAR TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/294.ts
+#EXTINF:-1 tvg-ID="CineStar TV Comedy" tvg-name="Cinestar Comedy" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CINESTARKOMEDI.png" group-title="FILM",Cinestar Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/289.ts
+#EXTINF:-1 tvg-ID="Cinestar Fantasy" tvg-name="CINESTAR Fantasy" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CINESTARFANTAZI.png" group-title="FILM",CINESTAR Fantasy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FilmBOX Premium" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FILMBOXPREMIUM.png" group-title="FILM",FilmBOX Premium
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/288.ts
+#EXTINF:-1 tvg-ID="FilmBox Extra FHD" tvg-name="FilmBOX Extra" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FILMBOXEXTRA.png" group-title="FILM",FilmBOX Extra
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/286.ts
+#EXTINF:-1 tvg-ID="filmbox-plus.movie" tvg-name="FilmBOX Stars" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FILMBOXSTARS.png" group-title="FILM",FilmBOX Stars
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/287.ts
+#EXTINF:-1 tvg-ID="HBO FHD RS/HR/SLO/MK" tvg-name="HBO" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/HBO%201.png" group-title="FILM",HBO
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/283.ts
+#EXTINF:-1 tvg-ID="HBO 2 FHD RS/HR/SLO/MK" tvg-name="HBO 2" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/HBO%202.png" group-title="FILM",HBO 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/284.ts
+#EXTINF:-1 tvg-ID="HBO 3 FHD RS/HR/SLO/MK" tvg-name="HBO 3" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/HBO%203.png" group-title="FILM",HBO 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CMAX.png" group-title="FILM",Cinemax
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax 2" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/CMAX2.png" group-title="FILM",Cinemax 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/282.ts
+#EXTINF:-1 tvg-ID="TV 1000" tvg-name="TV 1000" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/TV1000.png" group-title="FILM",TV 1000
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/277.ts
+#EXTINF:-1 tvg-ID="Epic Drama FHD RS/HR/MK" tvg-name="Epic Drama" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/EPICDRAMA.png" group-title="FILM",Epic Drama
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/296.ts
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/AXN.png" group-title="FILM",AXN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN Spin" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/AXNSPIN.png" group-title="FILM",AXN Spin
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/269.ts
+#EXTINF:-1 tvg-ID="M1 Film MK" tvg-name="M1 Film" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/M1FILM.png" group-title="FILM",M1 Film
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/278.ts
+#EXTINF:-1 tvg-ID="M1GOLDMK" tvg-name="M1 Gold" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/M1GOLD.png" group-title="FILM",M1 Gold
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/279.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M1 Family" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/M1FAM.png" group-title="FILM",M1 Family
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pickbox" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/PICKBOX.png" group-title="FILM",Pickbox
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/273.ts
+#EXTINF:-1 tvg-ID="DIVA" tvg-name="Diva" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/DIVA.png" group-title="FILM",Diva
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/276.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/AMCTV.png" group-title="FILM",AMC
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/275.ts
+#EXTINF:-1 tvg-ID="SciFi FHD" tvg-name="SciFi" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/SCIFI.png" group-title="FILM",SciFi
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/274.ts
+#EXTINF:-1 tvg-ID="Superstar TV" tvg-name="Superstar TV" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/SUPERSTARTV.png" group-title="FILM",Superstar TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/270.ts
+#EXTINF:-1 tvg-ID="superstar-tv" tvg-name="Superstar 2" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/SUPERSTARTV2.png" group-title="FILM",Superstar 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/271.ts
+#EXTINF:-1 tvg-ID="Film Klub" tvg-name="Film Klub" tvg-logo="http://cms.hugo.mk/logos/FILMSKI/FILMKLUB.png" group-title="FILM",Film Klub
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Карусель" tvg-logo="http://cms.hugo.mk/logos/DETSKI/KARUSEL.png" group-title="CRTAN",Карусель
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Мульт" tvg-logo="http://cms.hugo.mk/logos/DETSKI/MULT.png" group-title="CRTAN",Мульт
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Тижи" tvg-logo="http://cms.hugo.mk/logos/DETSKI/TIZI.png" group-title="CRTAN",Тижи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Минимакс" tvg-logo="http://cms.hugo.mk/logos/DETSKI/MINIMAKS.png" group-title="CRTAN",Минимакс
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr" tvg-logo="http://cms.hugo.mk/logos/DETSKI/NIKJR.png" group-title="CRTAN",Nick Jr
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nicktoons" tvg-logo="http://cms.hugo.mk/logos/DETSKI/NIKTUNS.png" group-title="CRTAN",Nicktoons
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="http://cms.hugo.mk/logos/DETSKI/NIKELODEON.png" group-title="CRTAN",Nickelodeon
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="http://cms.hugo.mk/logos/DETSKI/CARTONNETWORK.png" group-title="CRTAN",Cartoon Network
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartonito" tvg-logo="http://cms.hugo.mk/logos/DETSKI/CARTONITO.png" group-title="CRTAN",Cartonito
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="http://cms.hugo.mk/logos/DETSKI/BEJBITV.png" group-title="CRTAN",Baby TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/265.ts
+#EXTINF:-1 tvg-ID="Hayatovci" tvg-name="Hayatovci" tvg-logo="http://cms.hugo.mk/logos/DETSKI/HAYATOVCI.png" group-title="CRTAN",Hayatovci
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL Kockica" tvg-logo="http://cms.hugo.mk/logos/DETSKI/KOCKICA.png" group-title="CRO",RTL Kockica
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUPER Kids" tvg-logo="http://cms.hugo.mk/logos/PINK/SUPERKIDS.png" group-title="PINK",SUPER Kids
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Happy Kids jr" tvg-logo="http://cms.hugo.mk/logos/DETSKI/HEPIKIDS.png" group-title="CRTAN",Happy Kids jr
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/266.ts
+#EXTINF:-1 tvg-ID="Da Vinci Learning" tvg-name="Da Vinci" tvg-logo="http://cms.hugo.mk/logos/DOQ/DAVINCI.png" group-title="DOQ",Da Vinci
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/82.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Nat Geo" tvg-logo="http://cms.hugo.mk/logos/DOQ/NATGEO.png" group-title="DOQ",Nat Geo
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/83.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="Wild" tvg-logo="http://cms.hugo.mk/logos/DOQ/WILD.png" group-title="DOQ",Wild
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/84.ts
+#EXTINF:-1 tvg-ID="Viasat Nature" tvg-name="VIASAT Nature" tvg-logo="http://cms.hugo.mk/logos/DOQ/VNATURE.png" group-title="DOQ",VIASAT Nature
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/85.ts
+#EXTINF:-1 tvg-ID="Viasat Explore FHD RS/HR/MK" tvg-name="VIASAT Explore" tvg-logo="http://cms.hugo.mk/logos/DOQ/VEXPLORE.png" group-title="DOQ",VIASAT Explore
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/86.ts
+#EXTINF:-1 tvg-ID="Viasat History" tvg-name="Viasat History" tvg-logo="http://cms.hugo.mk/logos/DOQ/VHISTORY.png" group-title="DOQ",Viasat History
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/87.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://cms.hugo.mk/logos/DOQ/ANIMALPLANET.png" group-title="DOQ",Animal Planet
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/77.ts
+#EXTINF:-1 tvg-ID="Discovery Channel FHD RS/HR/SLO/MK" tvg-name="Discovery" tvg-logo="http://cms.hugo.mk/logos/DOQ/DISKOVERI.png" group-title="DOQ",Discovery
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/78.ts
+#EXTINF:-1 tvg-ID="Discovery Science GR" tvg-name="Discovery Science" tvg-logo="http://cms.hugo.mk/logos/DOQ/SCIENCE.png" group-title="DOQ",Discovery Science
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/79.ts
+#EXTINF:-1 tvg-ID="Discovery ID" tvg-name="Investigation Discovery" tvg-logo="http://cms.hugo.mk/logos/DOQ/ID.png" group-title="DOQ",Investigation Discovery
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/80.ts
+#EXTINF:-1 tvg-ID="Crime & Investigation" tvg-name="Crime Investigation" tvg-logo="http://cms.hugo.mk/logos/DOQ/CRIMEINV.png" group-title="DOQ",Crime Investigation
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Travel" tvg-logo="http://cms.hugo.mk/logos/DOQ/TRAVEL.png" group-title="DOQ",Travel
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Earth" tvg-logo="http://cms.hugo.mk/logos/DOQ/BBCEARTH.png" group-title="DOQ",BBC Earth
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24 Kitchen" tvg-logo="http://cms.hugo.mk/logos/DOQ/24KUJNA.png" group-title="DOQ",24 Kitchen
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/95.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="http://cms.hugo.mk/logos/DOQ/TLC.png" group-title="DOQ",TLC
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/89.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="http://cms.hugo.mk/logos/DOQ/HISTORI.png" group-title="DOQ",History
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/92.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="History 2" tvg-logo="http://cms.hugo.mk/logos/DOQ/HISTORI2.png" group-title="DOQ",History 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/93.ts
+#EXTINF:-1 tvg-ID="Balkan Trip" tvg-name="Balkan Trip" tvg-logo="http://cms.hugo.mk/logos/DOQ/BT.png" group-title="DOQ",Balkan Trip
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/91.ts
+#EXTINF:-1 tvg-ID="Pink Kuvar" tvg-name="PINK Kuvar" tvg-logo="http://cms.hugo.mk/logos/PINK/KUVAR.png" group-title="PINK",PINK Kuvar
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/166.ts
+#EXTINF:-1 tvg-ID="Pink Pedia" tvg-name="PINK Pedia" tvg-logo="http://cms.hugo.mk/logos/PINK/PEDIA.png" group-title="PINK",PINK Pedia
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/165.ts
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://cms.hugo.mk/logos/DOQ/CBSREALITI.png" group-title="DOQ",CBS Reality
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE & PECHE" tvg-logo="http://cms.hugo.mk/logos/DOQ/CHASSEPECHE.png" group-title="DOQ",CHASSE & PECHE
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: RT Д" tvg-logo="http://cms.hugo.mk/logos/RU/RTDRU.png" group-title="RUS",RU: RT Д
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT Д" tvg-logo="http://cms.hugo.mk/logos/RU/RTD.png" group-title="RUS",RT Д
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT" tvg-logo="http://cms.hugo.mk/logos/RU/RT.png" group-title="RUS",RT
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Россия 1" tvg-logo="http://cms.hugo.mk/logos/RU/RU1.png" group-title="RUS",RU: Россия 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Россия 24" tvg-logo="http://cms.hugo.mk/logos/RU/RU24.png" group-title="RUS",RU: Россия 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Москва 24" tvg-logo="http://cms.hugo.mk/logos/RU/MOSKVA24.png" group-title="RUS",RU: Москва 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/331.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Первый канал" tvg-logo="http://cms.hugo.mk/logos/RU/PERVI.png" group-title="RUS",RU: Первый канал
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: ТВЦ" tvg-logo="http://cms.hugo.mk/logos/RU/TVC.png" group-title="RUS",RU: ТВЦ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: НТВ" tvg-logo="http://cms.hugo.mk/logos/RU/NTV.png" group-title="RUS",RU: НТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: СТС" tvg-logo="http://cms.hugo.mk/logos/RU/STS.png" group-title="RUS",RU: СТС
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/322.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: ТНТ" tvg-logo="http://cms.hugo.mk/logos/RU/TNT.png" group-title="RUS",RU: ТНТ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: РЕН" tvg-logo="http://cms.hugo.mk/logos/RU/REN.png" group-title="RUS",RU: РЕН
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Пятница" tvg-logo="http://cms.hugo.mk/logos/RU/PIATNICA.png" group-title="RUS",RU: Пятница
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Беларусь 24" tvg-logo="http://cms.hugo.mk/logos/RU/BELARUS24.png" group-title="RUS",RU: Беларусь 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/334.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Луганск 24" tvg-logo="http://cms.hugo.mk/logos/RU/GLAS.png" group-title="RUS",RU: Луганск 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Крым 1" tvg-logo="http://cms.hugo.mk/logos/RU/KRIM1.png" group-title="RUS",RU: Крым 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/333.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Крым 24" tvg-logo="http://cms.hugo.mk/logos/RU/KRIM24.png" group-title="RUS",RU: Крым 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/332.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Новороссия" tvg-logo="http://cms.hugo.mk/logos/RU/NOVORUSIA.png" group-title="RUS",RU: Новороссия
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Евразия ТВ" tvg-logo="http://cms.hugo.mk/logos/RU/EVRAZIA.png" group-title="RUS",RU: Евразия ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: ТВ БРИКС" tvg-logo="http://cms.hugo.mk/logos/RU/BRICS.png" group-title="RUS",RU: ТВ БРИКС
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Русская комедия" tvg-logo="http://cms.hugo.mk/logos/RU/KOMEDIA.png" group-title="RUS",RU: Русская комедия
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/329.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Русский бестселлер" tvg-logo="http://cms.hugo.mk/logos/RU/BESTSELER.png" group-title="RUS",RU: Русский бестселлер
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/330.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Русский роман" tvg-logo="http://cms.hugo.mk/logos/RU/ROMAN.png" group-title="RUS",RU: Русский роман
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/325.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Русский детектив" tvg-logo="http://cms.hugo.mk/logos/RU/DETEKTIV.png" group-title="RUS",RU: Русский детектив
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/326.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Русский иллюзион" tvg-logo="http://cms.hugo.mk/logos/RU/ILUZION.png" group-title="RUS",RU: Русский иллюзион
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/327.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Русский экстрим" tvg-logo="http://cms.hugo.mk/logos/RU/REX.png" group-title="RUS",RU: Русский экстрим
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/328.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Наука" tvg-logo="http://cms.hugo.mk/logos/RU/NAUKA.png" group-title="RUS",RU: Наука
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: История" tvg-logo="http://cms.hugo.mk/logos/RU/ISTORIA.png" group-title="RUS",RU: История
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Моя Планета" tvg-logo="http://cms.hugo.mk/logos/RU/MPLANETA.png" group-title="RUS",RU: Моя Планета
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Зоопарк" tvg-logo="http://cms.hugo.mk/logos/RU/ZOO.png" group-title="RUS",RU: Зоопарк
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Океан" tvg-logo="http://cms.hugo.mk/logos/RU/OKEAN.png" group-title="RUS",RU: Океан
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: РБК" tvg-logo="http://cms.hugo.mk/logos/RU/RBK.png" group-title="RUS",RU: РБК
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Звезда" tvg-logo="http://cms.hugo.mk/logos/RU/RZVEZDA.png" group-title="RUS",RU: Звезда
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Спас" tvg-logo="http://cms.hugo.mk/logos/RU/SPAS.png" group-title="RUS",RU: Спас
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Союз" tvg-logo="http://cms.hugo.mk/logos/RU/SOJUZ.png" group-title="RUS",RU: Союз
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Сочи" tvg-logo="http://cms.hugo.mk/logos/RU/SOCI.png" group-title="RUS",RU: Сочи
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: РУ.ТВ" tvg-logo="http://cms.hugo.mk/logos/RU/RUTV.png" group-title="RUS",RU: РУ.ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Муз" tvg-logo="http://cms.hugo.mk/logos/RU/MUZ.png" group-title="RUS",RU: Муз
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Mad Greekz" tvg-logo="http://cms.hugo.mk/logos/GR/MAD.png" group-title="GRC",GR: Mad Greekz
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NRG 91" tvg-logo="http://cms.hugo.mk/logos/GR/NRG.png" group-title="GRC",GR: NRG 91
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Αλφα" tvg-logo="http://cms.hugo.mk/logos/GR/ALPHA.png" group-title="GRC",GR: Αλφα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Σκαϊ" tvg-logo="http://cms.hugo.mk/logos/GR/SKAI.png" group-title="GRC",GR: Σκαϊ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Σταρ" tvg-logo="http://cms.hugo.mk/logos/GR/STAR.png" group-title="GRC",GR: Σταρ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Αντενα" tvg-logo="http://cms.hugo.mk/logos/GR/ANT.png" group-title="GRC",GR: Αντενα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Μεγα" tvg-logo="http://cms.hugo.mk/logos/GR/MEGA.png" group-title="GRC",GR: Μεγα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Open TV" tvg-logo="http://cms.hugo.mk/logos/GR/OPEN.png" group-title="GRC",GR: Open TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Μακεδονια" tvg-logo="http://cms.hugo.mk/logos/GR/MAKTV.png" group-title="GRC",GR: Μακεδονια
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Κοντρα" tvg-logo="http://cms.hugo.mk/logos/GR/KONTRA.png" group-title="GRC",GR: Κοντρα
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Action 24" tvg-logo="http://cms.hugo.mk/logos/GR/ACTION24.png" group-title="GRC",GR: Action 24
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Krith" tvg-logo="http://cms.hugo.mk/logos/GR/KRITH.png" group-title="GRC",GR: Krith
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: ERT 1" tvg-logo="http://cms.hugo.mk/logos/GR/ERT1.png" group-title="GRC",GR: ERT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: ERT 2" tvg-logo="http://cms.hugo.mk/logos/GR/ERT2.png" group-title="GRC",GR: ERT 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: ERT 3" tvg-logo="http://cms.hugo.mk/logos/GR/ERT3.png" group-title="GRC",GR: ERT 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: 4E" tvg-logo="http://cms.hugo.mk/logos/GR/4E.png" group-title="GRC",GR: 4E
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Cocuk" tvg-logo="http://cms.hugo.mk/logos/TR/COCUK.png" group-title="TUR",TR: TRT Cocuk
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV" tvg-logo="http://cms.hugo.mk/logos/TR/ATVTR.png" group-title="TUR",TR: ATV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: 24 TV" tvg-logo="http://cms.hugo.mk/logos/TR/24TR.png" group-title="TUR",TR: 24 TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 360" tvg-logo="http://cms.hugo.mk/logos/TR/360TR.png" group-title="TUR",TR: TV 360
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Teve 2" tvg-logo="http://cms.hugo.mk/logos/TR/TEVE2.png" group-title="TUR",TR: Teve 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Show" tvg-logo="http://cms.hugo.mk/logos/TR/SHOW.png" group-title="TUR",TR: Show
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ShowMax" tvg-logo="http://cms.hugo.mk/logos/TR/SHOWMAX.png" group-title="TUR",TR: ShowMax
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D" tvg-logo="http://cms.hugo.mk/logos/TR/KANALD.png" group-title="TUR",TR: Kanal D
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Star" tvg-logo="http://cms.hugo.mk/logos/TR/STARTR.png" group-title="TUR",TR: Star
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Muzik" tvg-logo="http://cms.hugo.mk/logos/TR/TRTMUZIK.png" group-title="TUR",TR: TRT Muzik
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/394.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kral" tvg-logo="http://cms.hugo.mk/logos/TR/KRALPOP.png" group-title="TUR",TR: Kral
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: NTV" tvg-logo="http://cms.hugo.mk/logos/TR/NTVTR.png" group-title="TUR",TR: NTV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1" tvg-logo="http://cms.hugo.mk/logos/TR/TRT1.png" group-title="TUR",TR: TRT 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Haber" tvg-logo="http://cms.hugo.mk/logos/TR/HABER.png" group-title="TUR",TR: TRT Haber
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: МРТ 4" tvg-logo="http://cms.hugo.mk/logos/MK/MRT4.png" group-title="TUR",MK: МРТ 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: МРТ 2" tvg-logo="http://cms.hugo.mk/logos/MK/MRT2.png" group-title="ALB",MK: МРТ 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: RTV 21" tvg-logo="" group-title="ALB",MK: RTV 21
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/461.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK: Alsat" tvg-logo="" group-title="ALB",MK: Alsat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/462.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Era" tvg-logo="" group-title="ALB",AL: Era
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Shenja" tvg-logo="" group-title="ALB",AL: Shenja
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Klan" tvg-logo="" group-title="ALB",AL: Klan
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/466.ts
+#EXTINF:-1 tvg-ID="MK: Kaltrina Struga" tvg-name="AL: Kaltrina" tvg-logo="http://cms.hugo.mk/logos/MK/KALTRINA.png" group-title="ALB",AL: Kaltrina
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Uskana" tvg-logo="" group-title="ALB",AL: Uskana
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: TV Polog" tvg-logo="" group-title="ALB",AL: TV Polog
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Top Estrada" tvg-logo="" group-title="ALB",AL: Top Estrada
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/463.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Festina" tvg-logo="" group-title="ALB",AL: Festina
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Opoja TV" tvg-logo="" group-title="ALB",AL: Opoja TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Vision Plus" tvg-logo="" group-title="ALB",AL: Vision Plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Action" tvg-logo="" group-title="ALB",AL: Tring Action
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="ALB",AL: Tring Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/457.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Super" tvg-logo="" group-title="ALB",AL: Tring Super
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="ALB",AL: Tring Fantasy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Series" tvg-logo="" group-title="ALB",AL: Tring Series
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/460.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring History" tvg-logo="" group-title="ALB",AL: Tring History
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Planet" tvg-logo="" group-title="ALB",AL: Tring Planet
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Tring" tvg-logo="" group-title="ALB",AL: Tring Tring
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/453.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RT" tvg-logo="http://cms.hugo.mk/logos/DE/RTDE.png" group-title="INT",DE: RT
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL" tvg-logo="http://cms.hugo.mk/logos/DE/RTLHD.png" group-title="INT",DE: RTL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL II" tvg-logo="http://cms.hugo.mk/logos/DE/RTLZWEI.png" group-title="INT",DE: RTL II
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Super RTL" tvg-logo="http://cms.hugo.mk/logos/DE/SRTL.png" group-title="INT",DE: Super RTL
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Pro7 FUN" tvg-logo="http://cms.hugo.mk/logos/DE/PRO7FUN.png" group-title="INT",DE: Pro7 FUN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ProSieben" tvg-logo="http://cms.hugo.mk/logos/DE/PRO7.png" group-title="INT",DE: ProSieben
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kabel Eins" tvg-logo="http://cms.hugo.mk/logos/DE/KABEL1.png" group-title="INT",DE: Kabel Eins
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sat.1" tvg-logo="http://cms.hugo.mk/logos/DE/SAT1.png" group-title="INT",DE: Sat.1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Vox" tvg-logo="http://cms.hugo.mk/logos/DE/VOX.png" group-title="INT",DE: Vox
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Das Erste" tvg-logo="http://cms.hugo.mk/logos/DE/DASERSTE.png" group-title="INT",DE: Das Erste
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZDF" tvg-logo="http://cms.hugo.mk/logos/DE/ZDF.png" group-title="INT",DE: ZDF
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kika" tvg-logo="http://cms.hugo.mk/logos/DE/KIKA.png" group-title="INT",DE: Kika
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DW" tvg-logo="http://cms.hugo.mk/logos/DE/DW.png" group-title="INT",DE: DW
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/412.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Welt" tvg-logo="http://cms.hugo.mk/logos/DE/WELT.png" group-title="INT",DE: Welt
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WDR" tvg-logo="http://cms.hugo.mk/logos/DE/WDR.png" group-title="INT",DE: WDR
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NDR" tvg-logo="http://cms.hugo.mk/logos/DE/NDR.png" group-title="INT",DE: NDR
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MDR" tvg-logo="http://cms.hugo.mk/logos/DE/MDR.png" group-title="INT",DE: MDR
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: rbb Berlin" tvg-logo="http://cms.hugo.mk/logos/DE/RBB.png" group-title="INT",DE: rbb Berlin
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 3Sat" tvg-logo="http://cms.hugo.mk/logos/DE/3SAT.png" group-title="INT",DE: 3Sat
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Arte" tvg-logo="http://cms.hugo.mk/logos/DE/ARTE.png" group-title="INT",DE: Arte
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 13th Street" tvg-logo="http://cms.hugo.mk/logos/DE/13STREET.png" group-title="",DE: 13th Street
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Universal" tvg-logo="http://cms.hugo.mk/logos/DE/UNIVERSAL.png" group-title="INT",DE: Universal
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TNT Comedy" tvg-logo="http://cms.hugo.mk/logos/DE/SKYCINE.png" group-title="INT",DE: TNT Comedy
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TNT Film" tvg-logo="http://cms.hugo.mk/logos/DE/SKYCINE.png" group-title="INT",DE: TNT Film
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/445.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF 1" tvg-logo="http://cms.hugo.mk/logos/DE/ORF1.png" group-title="INT",AT: ORF 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF 2" tvg-logo="http://cms.hugo.mk/logos/DE/ORF2.png" group-title="INT",AT: ORF 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ATV" tvg-logo="http://cms.hugo.mk/logos/DE/ATV.png" group-title="INT",AT: ATV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SK: Joj" tvg-logo="http://cms.hugo.mk/logos/INT/JOJ.png" group-title="INT",SK: Joj
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SK: Joj plus" tvg-logo="http://cms.hugo.mk/logos/INT/JOJPLUS.png" group-title="INT",SK: Joj plus
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CZ: Očko" tvg-logo="http://cms.hugo.mk/logos/INT/OCKO.png" group-title="INT",CZ: Očko
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CZ: Očko Star" tvg-logo="http://cms.hugo.mk/logos/INT/OCKOSTAR.png" group-title="INT",CZ: Očko Star
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CZ: Noe TV" tvg-logo="http://cms.hugo.mk/logos/INT/NOE.png" group-title="INT",CZ: Noe TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Si: Veseljak TV" tvg-logo="http://cms.hugo.mk/logos/INT/VESELJAK.png" group-title="INT",Si: Veseljak TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO: Taraf TV" tvg-logo="http://cms.hugo.mk/logos/INT/TARAF.png" group-title="INT",RO: Taraf TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO: Favorit TV" tvg-logo="http://cms.hugo.mk/logos/INT/FAVORIT.png" group-title="INT",RO: Favorit TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO: Trinitas" tvg-logo="http://cms.hugo.mk/logos/INT/TRINITAS.png" group-title="INT",RO: Trinitas
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CGTN" tvg-logo="http://cms.hugo.mk/logos/INT/CGTN.png" group-title="INT",CN: CGTN
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CGTN Doc" tvg-logo="http://cms.hugo.mk/logos/INT/CGTND.png" group-title="INT",CN: CGTN Doc
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Балканика" tvg-logo="http://cms.hugo.mk/logos/BG/BALKANIKA.png" group-title="MUZIKA",BG: Балканика
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Фен ТВ" tvg-logo="http://cms.hugo.mk/logos/BG/FENTV.png" group-title="MUZIKA",BG: Фен ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Планета" tvg-logo="http://cms.hugo.mk/logos/BG/PLANETA.png" group-title="MUZIKA",BG: Планета
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Voice" tvg-logo="http://cms.hugo.mk/logos/BG/VOICE.png" group-title="MUZIKA",BG: Voice
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BG: City" tvg-logo="http://cms.hugo.mk/logos/BG/SITI.png" group-title="MUZIKA",BG: City
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="МК: М-нет Спорт" tvg-logo="http://cms.hugo.mk/logos/SPORT/MNETSPORT.png" group-title="SPORT",МК: М-нет Спорт
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/ESP1.png" group-title="SPORT",Eurosport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/ESP2.png" group-title="SPORT",Eurosport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Fight" tvg-logo="http://cms.hugo.mk/logos/SPORT/ARENAFIGHT.png" group-title="SPORT",Arena Fight
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaPremium 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/AP1.png" group-title="SPORT",ArenaPremium 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaPremium 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/AP2.png" group-title="SPORT",ArenaPremium 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaPremium 3" tvg-logo="http://cms.hugo.mk/logos/SPORT/AP03.png" group-title="SPORT",ArenaPremium 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS0.png" group-title="SPORT",Arena Sport
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaSport 1x2" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS1x2.png" group-title="SPORT",ArenaSport 1x2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/100.ts
+#EXTINF:-1 tvg-ID="Arena Sport 1 HD" tvg-name="ArenaSport 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS1.png" group-title="SPORT",ArenaSport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/108.ts
+#EXTINF:-1 tvg-ID="Arena Sport 2 HD" tvg-name="ArenaSport 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS2.png" group-title="SPORT",ArenaSport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/109.ts
+#EXTINF:-1 tvg-ID="Arena Sport 3 HD" tvg-name="ArenaSport 3" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS3.png" group-title="SPORT",ArenaSport 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/110.ts
+#EXTINF:-1 tvg-ID="Arena Sport 4 HD" tvg-name="ArenaSport 4" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS4.png" group-title="SPORT",ArenaSport 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/111.ts
+#EXTINF:-1 tvg-ID="Arena Sport 5 HD" tvg-name="ArenaSport 5" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS5.png" group-title="SPORT",ArenaSport 5
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaSport 6" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS6.png" group-title="SPORT",ArenaSport 6
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaSport 7" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS7.png" group-title="SPORT",ArenaSport 7
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArenaSport 8" tvg-logo="http://cms.hugo.mk/logos/SPORT/AS8.png" group-title="SPORT",ArenaSport 8
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/115.ts
+#EXTINF:-1 tvg-ID="SK1 RS HD" tvg-name="SportKlub 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/SK1.png" group-title="SPORT",SportKlub 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/116.ts
+#EXTINF:-1 tvg-ID="SK2 RS HD" tvg-name="SportKlub 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/SK2.png" group-title="SPORT",SportKlub 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/117.ts
+#EXTINF:-1 tvg-ID="SK3 RS HD" tvg-name="SportKlub 3" tvg-logo="http://cms.hugo.mk/logos/SPORT/SK3.png" group-title="SPORT",SportKlub 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/118.ts
+#EXTINF:-1 tvg-ID="Sport Klub 4" tvg-name="SportKlub 4" tvg-logo="http://cms.hugo.mk/logos/SPORT/SK4.png" group-title="SPORT",SportKlub 4
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Футбол 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/MF1.png" group-title="SPORT",RU: МАТЧ! Футбол 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Футбол 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/MF2.png" group-title="SPORT",RU: МАТЧ! Футбол 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Футбол 3" tvg-logo="http://cms.hugo.mk/logos/SPORT/MF3.png" group-title="SPORT",RU: МАТЧ! Футбол 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Арена" tvg-logo="http://cms.hugo.mk/logos/SPORT/MARENA.png" group-title="SPORT",RU: МАТЧ! Арена
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Игра" tvg-logo="http://cms.hugo.mk/logos/SPORT/MIGRA.png" group-title="SPORT",RU: МАТЧ! Игра
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Боец" tvg-logo="http://cms.hugo.mk/logos/SPORT/BOEC.png" group-title="SPORT",RU: МАТЧ! Боец
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Бокс ТВ" tvg-logo="http://cms.hugo.mk/logos/RU/BOKS.png" group-title="RUS",RU: Бокс ТВ
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Network" tvg-logo="http://cms.hugo.mk/logos/SPORT/FN.png" group-title="SPORT",Fight Network
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/474.ts
+#EXTINF:-1 tvg-ID="DAZN 1 Bar DE" tvg-name="DE: DAZN 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/DAZN1.png" group-title="SPORT",DE: DAZN 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/435.ts
+#EXTINF:-1 tvg-ID="DAZN 2 Bar DE" tvg-name="DE: DAZN 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/DAZN2.png" group-title="SPORT",DE: DAZN 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/436.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sport 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/SS1.png" group-title="SPORT",DE: Sport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/437.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Bundesliga" tvg-logo="http://cms.hugo.mk/logos/SPORT/SB1.png" group-title="SPORT",DE: Bundesliga
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF Sport+" tvg-logo="http://cms.hugo.mk/logos/SPORT/ORFSPORT.png" group-title="SPORT",AT: ORF Sport+
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 1" tvg-logo="" group-title="ALB",AL: Tring Sport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/451.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 2" tvg-logo="" group-title="ALB",AL: Tring Sport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/452.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Sport 1" tvg-logo="" group-title="SPORT",K Sport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Sport 2" tvg-logo="" group-title="SPORT",K Sport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/450.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor" tvg-logo="http://cms.hugo.mk/logos/SPORT/ASPOR.png" group-title="SPORT",TR: A Spor
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BeIN Sport 1" tvg-logo="http://cms.hugo.mk/logos/SPORT/BEIN1.png" group-title="SPORT",TR: BeIN Sport 1
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BeIN Sport 2" tvg-logo="http://cms.hugo.mk/logos/SPORT/BEIN2.png" group-title="SPORT",TR: BeIN Sport 2
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BeIN Sport 3" tvg-logo="http://cms.hugo.mk/logos/SPORT/BEIN3.png" group-title="SPORT",TR: BeIN Sport 3
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Viva" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/VIVA.png" group-title="MUZIKA",Viva
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="McM" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/MCM.png" group-title="MUZIKA",McM
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/478.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Retro TV" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/RETRO.png" group-title="MUZIKA",Retro TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Krone TV" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/KRONE.png" group-title="MUZIKA",Krone TV
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DeLuxe Music" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/DELUKS.png" group-title="MUZIKA",DeLuxe Music
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Urban" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/TRACE.png" group-title="MUZIKA",Trace Urban
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JEKA" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/JEKAMUZ.png" group-title="MUZIKA",JEKA
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOBA" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/MOBA.png" group-title="MUZIKA",MOBA
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FLASHBACK" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/FLESBEK.png" group-title="MUZIKA",FLASHBACK
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUZZIK" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/MUZZIK.png" group-title="MUZIKA",MUZZIK
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mezzo" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/MEZZO.png" group-title="MUZIKA",Mezzo
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion" tvg-logo="http://cms.hugo.mk/logos/MUZIKA/FASHION.png" group-title="MUZIKA",Fashion
+http://hugo.dth.mk:1050/live/zdravevski.aleksandar/26avg18/475.ts
