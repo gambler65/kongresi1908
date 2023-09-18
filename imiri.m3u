@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="www.dobratv.com" tvg-name="DOBRA HD" tvg-logo="https://static.wixstatic.com/media/0e5f34_0744f0ac88594af1b5ed238a4b6dbfd1~mv2.png" group-title="DOBRA / GOOD / BUENA TV",DOBRA HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/3
+#EXTINF:-1 tvg-id="www.dobratv.com" tvg-name="DOBRA BALKANSKA" tvg-logo="http://ott.dobratv.net:25461/images/964e653944ce7d902ed9fce82aaf8749.png" group-title="DOBRA / GOOD / BUENA TV",DOBRA BALKANSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA ISLAMSKA" tvg-logo="http://ott.dobratv.net:25461/images/e19559e47b5e7e50f976e066e466ec70.png" group-title="DOBRA / GOOD / BUENA TV",DOBRA ISLAMSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA CINEMA" tvg-logo="http://ott.dobratv.net:25461/images/5fe06e32590f44d35fc215f2984429dd.png" group-title="DOBRA / GOOD / BUENA TV",DOBRA CINEMA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA EXCLUSIVE" tvg-logo="http://ott.dobratv.net:25461/images/df8141c3f75d2dfc98c98b3ae37e2633.png" group-title="DOBRA / GOOD / BUENA TV",DOBRA EXCLUSIVE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/22
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA MUZICKA" tvg-logo="http://ott.dobratv.net:25461/images/522e35cfc4802068bc58377c0dc89118.png" group-title="DOBRA / GOOD / BUENA TV",DOBRA MUZICKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/16
+#EXTINF:-1 tvg-id="" tvg-name="E MIRE SHQIPTARE" tvg-logo="http://ott.dobratv.net:25461/images/aefa94365c0090a95b034419662fea94.png" group-title="DOBRA / GOOD / BUENA TV",E MIRE SHQIPTARE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/20
+#EXTINF:-1 tvg-id="" tvg-name="GOOD INTERNATIONAL" tvg-logo="http://ott.dobratv.net:25461/images/d4a8f0f7c01d21e50b749602a0cf1367.png" group-title="DOBRA / GOOD / BUENA TV",GOOD INTERNATIONAL
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/13
+#EXTINF:-1 tvg-id="" tvg-name="BNV TV" tvg-logo="https://lh3.googleusercontent.com/proxy/3QTdPIckQEe7cJJSivb6oWKNbVYNCYlnnRX-nS3SwPV3suZldiZ578K7oxAkUmdBx_wEMyKszJUOM7cOqdn1sHbvS-ZhvQ" group-title="SANDŽAK / SANJAK",BNV TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/33
+#EXTINF:-1 tvg-id="13902" tvg-name="FACE HD" tvg-logo="http://ott.dobratv.net:25461/images/8004bd565d0d1b97249b7d8619a33c14.png" group-title="BIH / BOSNIA",FACE HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6877
+#EXTINF:-1 tvg-id="7873" tvg-name="GLAS DRINE" tvg-logo="" group-title="BIH / BOSNIA",GLAS DRINE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/124
+#EXTINF:-1 tvg-id="" tvg-name="HERCEG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Logo_of_Herceg_TV.png" group-title="BIH / BOSNIA",HERCEG TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7145
+#EXTINF:-1 tvg-id="" tvg-name="MARRY TV MEDJUGORJE" tvg-logo="https://sj0292nqbq42lklxrpimpr5b-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/weblogo_sm_1.0.png" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",MARRY TV MEDJUGORJE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6577
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TV EUROPA HD" tvg-logo="https://www.supertelevizija.com/wp-content/uploads/2020/01/SUPER-MEDIA-TV-9-mala.png" group-title="BIH / BOSNIA",SUPER TV EUROPA HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/40
+#EXTINF:-1 tvg-id="" tvg-name="NTV IC KAKANJ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ntv-ic-logo.png" group-title="BIH / BOSNIA",NTV IC KAKANJ
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6897
+#EXTINF:-1 tvg-id="7873" tvg-name="RTV NOVI PAZAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9jZCH8DJuddnDV3xPluajbf-yk3UjHgCo5FqjwGLYETpre6wU&usqp=CAU" group-title="SANDŽAK / SANJAK",RTV NOVI PAZAR
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6938
+#EXTINF:-1 tvg-id="" tvg-name="TV PODRINJE" tvg-logo="https://lh6.googleusercontent.com/proxy/ft4u7_Dr69NOsSApRIi38V6EDnqRx-ElVzlfy_RstHHUIIAR9diHjYN4TbTsIm5N5038Cx0tWEq3x2u6LAC0co4DBBwHY4ry3xrugGpDsyhzSDRF" group-title="BIH / BOSNIA",TV PODRINJE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/121
+#EXTINF:-1 tvg-id="13919" tvg-name="RTV SLON HD" tvg-logo="http://ott.dobratv.net:25461/images/f19ffc22ad9ddb09f810484106ead22f.png" group-title="BIH / BOSNIA",RTV SLON HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2223
+#EXTINF:-1 tvg-id="7873" tvg-name="RTV USK" tvg-logo="http://ott.dobratv.net:25461/images/fe0670962c34a22de4e232e435ed3eb7.png" group-title="BIH / BOSNIA",RTV USK
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/26
+#EXTINF:-1 tvg-id="5801" tvg-name="SB TV" tvg-logo="http://ott.dobratv.net:25461/images/0318029cb2d87113948c363c653a5340.jpg" group-title="HRVATSKA / CROATIA / CROACIA",SB TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6856
+#EXTINF:-1 tvg-id="" tvg-name="SEHARA TV" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",SEHARA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/37
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",SEMERKAND HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6639
+#EXTINF:-1 tvg-id="" tvg-name="SEZAM TV" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",SEZAM TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6584
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK MAKEDONIJA" tvg-logo="http://okteve.com/wp-content/uploads/media/69c2f1622f652fe90bd68207e7e621a6.jpeg" group-title="MAKEDONIJA / MACEDONIA",SKY FOLK MAKEDONIJA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/66
+#EXTINF:-1 tvg-id="" tvg-name="TOP SOUND TV" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",TOP SOUND TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/68
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 TUZLA" tvg-logo="http://ott.dobratv.net:25461/images/25d71890d77d66c30224f6f4b21ed6da.jpg" group-title="BIH / BOSNIA",TV 7 TUZLA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/100
+#EXTINF:-1 tvg-id="" tvg-name="TV ISTOK" tvg-logo="https://yt3.ggpht.com/-DZ-psqqoFpI/AAAAAAAAAAI/AAAAAAAAAAA/HttdaRZHIvA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SRBIJA / SERBIA",TV ISTOK
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6953
+#EXTINF:-1 tvg-id="7873" tvg-name="TV SARAJEVO" tvg-logo="http://ott.dobratv.net:25461/images/f68f251fb32c8b5a5beee7078b2a1b76.png" group-title="BIH / BOSNIA",TV SARAJEVO
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/126
+#EXTINF:-1 tvg-id="" tvg-name="TV USKANA" tvg-logo="https://tvmak.com/img/tv/tvuskana.png" group-title="MAKEDONIJA / MACEDONIA",TV USKANA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6475
+#EXTINF:-1 tvg-id="noEPGMain" tvg-name="ZDRAVA TV" tvg-logo="https://pbs.twimg.com/profile_images/522300135435300864/DBKSoD0U_400x400.jpeg" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",ZDRAVA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2129
+#EXTINF:-1 tvg-id="TK" tvg-name="RTV TK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png" group-title="BIH / BOSNIA",RTV TK
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6892
+#EXTINF:-1 tvg-id="" tvg-name="B1 TV GRADACAC HD" tvg-logo="https://www.b1tv.ba/wp-content/uploads/2018/12/pozadina-web-stranica.png" group-title="BIH / BOSNIA",B1 TV GRADACAC HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6896
+#EXTINF:-1 tvg-id="" tvg-name="BUJRUM TV" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",BUJRUM TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7181
+#EXTINF:-1 tvg-id="" tvg-name="KATOLICKA TV" tvg-logo="" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",KATOLICKA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7293
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA - TELEVIZIJA SRPSKE DIJASPORE" tvg-logo="http://ott.dobratv.net:25461/images/aa80a07b8f4f7b603287862057075b9c.png" group-title="SRBIJA / SERBIA",DOBRA - TELEVIZIJA SRPSKE DIJASPORE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7442
+#EXTINF:-1 tvg-id="" tvg-name="NEON TV" tvg-logo="" group-title="BIH / BOSNIA",NEON TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7447
+#EXTINF:-1 tvg-id="13900" tvg-name="TK TUZLA" tvg-logo="" group-title="BIH / BOSNIA",TK TUZLA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7453
+#EXTINF:-1 tvg-id="14931" tvg-name="SANDZAK TV HD" tvg-logo="" group-title="SANDŽAK / SANJAK",SANDZAK TV HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/13216
+#EXTINF:-1 tvg-id="" tvg-name="TV BIR" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2020/04/20/thumbs_b_c_68e1b25a194bd27ba77b073c86aa908b.jpg?v=164212" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",TV BIR
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7375
+#EXTINF:-1 tvg-id="" tvg-name="ISLAM MONTENEGRO" tvg-logo="http://ott.dobratv.net:25461/images/4738d08334a4525fa8b69c39acfba6f3.jpg" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",ISLAM MONTENEGRO
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/25
+#EXTINF:-1 tvg-id="TV 5 ISLAM" tvg-name="TELEVIZIJA 5" tvg-logo="http://ott.dobratv.net:25461/images/e8df1c8672a82625f97619951e4e2f0b.png" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",TELEVIZIJA 5
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/85
+#EXTINF:-1 tvg-id="7873" tvg-name="RTV BOR" tvg-logo="http://ott.dobratv.net:25461/images/9f265a018aa0fd42609bf88a0af33864.jpg" group-title="SRBIJA / SERBIA",RTV BOR
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6932
+#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-logo="http://ott.dobratv.net:25461/images/8fabfe59ff57e843c848aafb49eb6e9d.png" group-title="HRVATSKA / CROATIA / CROACIA",STV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7449
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve" tvg-logo="https://www.diosteve.org/img/p/360-240/1.jpg" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",Dios Te Ve
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2425
+#EXTINF:-1 tvg-id="13908" tvg-name="AL JAZEERA BALKANS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="BIH / BOSNIA",AL JAZEERA BALKANS HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6878
+#EXTINF:-1 tvg-id="" tvg-name="ALFA TELEVIZIJA HD" tvg-logo="http://ott.dobratv.net:25461/images/1e6960055f3c429ef7271bab37f1d695.png" group-title="BIH / BOSNIA",ALFA TELEVIZIJA HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/44
+#EXTINF:-1 tvg-id="19697" tvg-name="BHT 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BHT1_logo.png" group-title="BIH / BOSNIA",BHT 1
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6870
+#EXTINF:-1 tvg-id="" tvg-name="RTV VOGOŠĆA" tvg-logo="" group-title="BIH / BOSNIA",RTV VOGOŠĆA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/13240
+#EXTINF:-1 tvg-id="" tvg-name="KRISTAL TV" tvg-logo="" group-title="SRBIJA / SERBIA",KRISTAL TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/13314
+#EXTINF:-1 tvg-id="" tvg-name="HIT BRCKO TV" tvg-logo="https://www.rtvhit.com/wp-content/uploads/2015/02/hitlogofinal.png" group-title="BIH / BOSNIA",HIT BRCKO TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6887
+#EXTINF:-1 tvg-id="" tvg-name="Albanian TV Chicago" tvg-logo="http://ott.dobratv.net:25461/images/034adc0b1d39b808026c038473b48d65.jpg" group-title="SHQIP / ALBANIAN / ALBANES",Albanian TV Chicago
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7336
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA BOŠNJAČKA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA BOŠNJAČKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14140
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA SPORTSKA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA SPORTSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14141
+#EXTINF:-1 tvg-id="" tvg-name="BUENA ESPANOLA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",BUENA ESPANOLA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14143
+#EXTINF:-1 tvg-id="" tvg-name="MONTELUX TV" tvg-logo="" group-title="CRNA GORA / MONTENEGRO",MONTELUX TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14144
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA TRAVEL" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA TRAVEL
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14145
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA DJEČIJA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA DJEČIJA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14147
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA PLUS" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA PLUS
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14149
+#EXTINF:-1 tvg-id="" tvg-name="IYI TURK" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",IYI TURK
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14150
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA SVADBA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA SVADBA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14151
+#EXTINF:-1 tvg-id="" tvg-name="BNN TV" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",BNN TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14152
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA SRPSKA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA SRPSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14153
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA CRNOGORSKA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA CRNOGORSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14154
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA HRVATSKA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA HRVATSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14157
+#EXTINF:-1 tvg-id="" tvg-name="FEDERALNA TV HD" tvg-logo="" group-title="BIH / BOSNIA",FEDERALNA TV HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14185
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA MAKEDONSKA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA MAKEDONSKA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14186
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA INFO" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA INFO
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14233
+#EXTINF:-1 tvg-id="" tvg-name="BUENA LATINA" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",BUENA LATINA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14234
+#EXTINF:-1 tvg-id="" tvg-name="TV 101 PRIJEDOR" tvg-logo="" group-title="BIH / BOSNIA",TV 101 PRIJEDOR
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14235
+#EXTINF:-1 tvg-id="" tvg-name="RED TV MAQEDONI" tvg-logo="" group-title="SHQIP / ALBANIAN / ALBANES",RED TV MAQEDONI
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14240
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA SERIJE" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",DOBRA SERIJE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14241
+#EXTINF:-1 tvg-id="" tvg-name="ILLYRICUM TV LIVE" tvg-logo="" group-title="DOBRA / GOOD / BUENA TV",ILLYRICUM TV LIVE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14242
+#EXTINF:-1 tvg-id="" tvg-name="25 GODINA OD POGIBIJE MAJORA ZAME" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",25 GODINA OD POGIBIJE MAJORA ZAME
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABDULAH SIDRAN I NASER ORIC" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",ABDULAH SIDRAN I NASER ORIC
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAJBAGA - HEROJ BEZ ORDENJA " tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",BAJBAGA - HEROJ BEZ ORDENJA 
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BITKA ZA TENKOVE NA DUJMOVSKIM BRDIMA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",BITKA ZA TENKOVE NA DUJMOVSKIM BRDIMA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BOSANSKI DAN - SLUCAJ DOBROVOLJACKA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",BOSANSKI DAN - SLUCAJ DOBROVOLJACKA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BOŠNJACI, GENOCID U KONTINUITETU" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",BOŠNJACI, GENOCID U KONTINUITETU
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CRNA GORA I ZLOCIN NAD BOSNJACIMA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",CRNA GORA I ZLOCIN NAD BOSNJACIMA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOBRINJA, OPSADA U OPSADI " tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",DOBRINJA, OPSADA U OPSADI 
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="11 PLAVIH - BITKA ZA CIVILE GRBAVICE" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",11 PLAVIH - BITKA ZA CIVILE GRBAVICE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GLOGOVA - NEISPRICANA PRICA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",GLOGOVA - NEISPRICANA PRICA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUNAK UMIRE JEDNOM" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",JUNAK UMIRE JEDNOM
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGENDA O ZAMI – SMRT ZA ZIVOT " tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",LEGENDA O ZAMI – SMRT ZA ZIVOT 
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OSMAN ef. RASTODER - OSLOBADJANJE ZABORAVA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",OSMAN ef. RASTODER - OSLOBADJANJE ZABORAVA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SARAJEVSKI VITEZOVI - POZDRAV DOMOVINI" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",SARAJEVSKI VITEZOVI - POZDRAV DOMOVINI
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DZENAZA ENVERA ŠEHOVICA, SARAJEVO 29. JULI 1993. " tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",DZENAZA ENVERA ŠEHOVICA, SARAJEVO 29. JULI 1993. 
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FOCA CRNA KUTIJA ZLA (FOCA - A BLACK BOX OF EVIL)" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",FOCA CRNA KUTIJA ZLA (FOCA - A BLACK BOX OF EVIL)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HADZICI - GODINE AGRESIJE" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",HADZICI - GODINE AGRESIJE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HASIM A PATH TO REMEMBRANCED (1080p_25fps_H264-128kbit_AAC)" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",HASIM A PATH TO REMEMBRANCED (1080p_25fps_H264-128kbit_AAC)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HASIM - PUT U NEZABORAV" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",HASIM - PUT U NEZABORAV
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ISMET HADZIC MUTEVELIJA O PORAZU SRPSKE VOJSKE 2 MAJA 1992" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",ISMET HADZIC MUTEVELIJA O PORAZU SRPSKE VOJSKE 2 MAJA 1992
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KONCERT PATRIOTSKIH PJESAMA U SARAJEVU" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",KONCERT PATRIOTSKIH PJESAMA U SARAJEVU
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAZI O SRPSKOM SVATU KAO RAZLOGU ZA AGRESIJU NA BOSNU" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",LAZI O SRPSKOM SVATU KAO RAZLOGU ZA AGRESIJU NA BOSNU
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MOZDANE OPNE" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",MOZDANE OPNE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NASELJE HEROJA - BITKE ZA SOKOLJE" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",NASELJE HEROJA - BITKE ZA SOKOLJE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DZEVAD TOPIC TOPA O ODBRANI SARAJEVA 2 MAJA 1992" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",DZEVAD TOPIC TOPA O ODBRANI SARAJEVA 2 MAJA 1992
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prof.dr. SENADIN LAVIC - BOSNJACI i PREPOROD" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",Prof.dr. SENADIN LAVIC - BOSNJACI i PREPOROD
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SARAJEVSKA 101 - OSVAJACI SLOBODE" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",SARAJEVSKA 101 - OSVAJACI SLOBODE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAJNA AUTOBUSA SMRTI" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",TAJNA AUTOBUSA SMRTI
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOMAŠICA, PRIJEDOR GROBNICA FUDBALERA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",TOMAŠICA, PRIJEDOR GROBNICA FUDBALERA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICE MAGAZIN - OPSADA SARAJEVA" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",TV JUSTICE MAGAZIN - OPSADA SARAJEVA
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BOSNA ILI SMRT" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",BOSNA ILI SMRT
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KRVAVI PLES PO SEHERU" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",KRVAVI PLES PO SEHERU
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="USPORENI GENOCID - STO NO NEMA OD DRINE VEDRINE" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",USPORENI GENOCID - STO NO NEMA OD DRINE VEDRINE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VISEGRAD - ABDULAH SIDRAN NA OTKRIVANJU SPOMEN PLOCE HASANU TUFEKCICU" tvg-logo="http://ott.dobratv.net:25461/images/4467f3717463cdbf09dbd436d3b50eaa.jpg" group-title="Dokumentarci",VISEGRAD - ABDULAH SIDRAN NA OTKRIVANJU SPOMEN PLOCE HASANU TUFEKCICU
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RTV KRAJINA" tvg-logo="" group-title="BIH / BOSNIA",RTV KRAJINA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14475
+#EXTINF:-1 tvg-id="7873" tvg-name="MTV IGMAN" tvg-logo="http://ott.dobratv.net:25461/images/e7d74968f25a063e9ddc6c555d62fe31.png" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",MTV IGMAN
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7268
+#EXTINF:-1 tvg-id="7873" tvg-name="HRAM TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/rs-tv-hra-3775.jpg" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",HRAM TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6936
+#EXTINF:-1 tvg-id="" tvg-name="MEKKA TV" tvg-logo="" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",MEKKA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14158
+#EXTINF:-1 tvg-id="" tvg-name="BLIC TV" tvg-logo="" group-title="CRNA GORA / MONTENEGRO",BLIC TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14236
+#EXTINF:-1 tvg-id="" tvg-name="GRADSKA TV" tvg-logo="" group-title="CRNA GORA / MONTENEGRO",GRADSKA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14237
+#EXTINF:-1 tvg-id="" tvg-name="SANDZACKA RTV MREZA" tvg-logo="" group-title="SANDŽAK / SANJAK",SANDZACKA RTV MREZA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/14239
+#EXTINF:-1 tvg-id="" tvg-name="EMIN - Originalni naziv (Ameen) - (2015)" tvg-logo="http://ott.dobratv.net:25461/images/9354710f57ccf431ff59f4a516d2831d.jpg" group-title="Akcioni / Action",EMIN - Originalni naziv (Ameen) - (2015)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muhammed, Allahov Poslanik (2015)" tvg-logo="https://media.tehrantimes.com/d/t/2022/10/12/4/4304831.jpg?ts=1665587590179" group-title="Istorijski / History",Muhammed, Allahov Poslanik (2015)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SIHR (Crna Magija) - Lažni iscjeljitelj (2020)" tvg-logo="http://ott.dobratv.net:25461/images/202cb962ac59075b964b07152d234b70.jpg" group-title="Akcioni / Action",SIHR (Crna Magija) - Lažni iscjeljitelj (2020)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tjelohranitelj (Bodyguard) (2016)" tvg-logo="http://ott.dobratv.net:25461/images/f70ee407d83ebdd32b4ab82972ffeb47.jpg" group-title="Akcioni / Action",Tjelohranitelj (Bodyguard) (2016)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zavjera / Echelon Conspiracy (2009)" tvg-logo="http://ott.dobratv.net:25461/images/bff03a0fd0190460f97b05ecc9a214a3.jpg" group-title="Akcioni / Action",Zavjera / Echelon Conspiracy (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ulični borac / Street Fighter: The Legend of Chun-Li (2009)" tvg-logo="http://ott.dobratv.net:25461/images/e674a48b717fb6e553c389b1b7cd0d71.jpg" group-title="Akcioni / Action",Ulični borac / Street Fighter: The Legend of Chun-Li (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Savrseni profesor / The Perfect Teacher (2010)" tvg-logo="http://ott.dobratv.net:25461/images/59b13aa6a74d28cadaa9792cb64d5b3b.jpg" group-title="Akcioni / Action",Savrseni profesor / The Perfect Teacher (2010)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ukrstene sudbine / Powder Blue (2009)" tvg-logo="http://ott.dobratv.net:25461/images/e1a32e6395a3e50705f3f3561a18df48.jpg" group-title="Akcioni / Action",Ukrstene sudbine / Powder Blue (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ukradeni životi / Stolen (2009)" tvg-logo="http://ott.dobratv.net:25461/images/68d21307a00b524ac403a36000cce8f2.jpg" group-title="Akcioni / Action",Ukradeni životi / Stolen (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pistolji, djevojke i kockanje / Guns, Girls and Gambling (2012)" tvg-logo="http://ott.dobratv.net:25461/images/f082d91e484c8ea78ba47c40e46c6228.jpg" group-title="Akcioni / Action",Pistolji, djevojke i kockanje / Guns, Girls and Gambling (2012)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penelope (2006)" tvg-logo="http://ott.dobratv.net:25461/images/280b523a825e6de523ed2843fbfc2fc7.jpg" group-title="Akcioni / Action",Penelope (2006)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Accused at 17 (2009)" tvg-logo="http://ott.dobratv.net:25461/images/280b523a825e6de523ed2843fbfc2fc7.jpg" group-title="Akcioni / Action",Accused at 17 (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porodična tajna / My Family's Secret (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXmSfBbcjdAH9Y63Y6vofsF1cPsl5T7EXUiqkr39IwZ5DIITG" group-title="Akcioni / Action",Porodična tajna / My Family's Secret (2010)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After.Life (2009)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXmSfBbcjdAH9Y63Y6vofsF1cPsl5T7EXUiqkr39IwZ5DIITG" group-title="Akcioni / Action",After.Life (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="http://ott.dobratv.net:25461/images/4c68aa5efe1eb4a6e910fb06b42f09c4.jpg" group-title="Akcioni / Action",Alice (2022)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ArcticBlast" tvg-logo="http://ott.dobratv.net:25461/images/4c68aa5efe1eb4a6e910fb06b42f09c4.jpg" group-title="Akcioni / Action",ArcticBlast
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ASistersSecret" tvg-logo="http://ott.dobratv.net:25461/images/4c68aa5efe1eb4a6e910fb06b42f09c4.jpg" group-title="Akcioni / Action",ASistersSecret
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asylum (2008)" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",Asylum (2008)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BangkokAdrenaline" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",BangkokAdrenaline
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BeneathTheBlue" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",BeneathTheBlue
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BetrayedAt17" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",BetrayedAt17
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BirdsOfAmerica" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",BirdsOfAmerica
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BramStockersDraculasGuest" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",BramStockersDraculasGuest
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CelicnaZamka-SteelTrap" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",CelicnaZamka-SteelTrap
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ChaosTheory" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",ChaosTheory
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ChristiesRevenge" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",ChristiesRevenge
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="District9" tvg-logo="http://ott.dobratv.net:25461/images/2b40099eb86167851bcb8c3f8721d497.jpg" group-title="Akcioni / Action",District9
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flashbacks of a Fool (2008)" tvg-logo="http://ott.dobratv.net:25461/images/9dbd6b1be8510d2ef8b16c34cb45ddde.jpg" group-title="Akcioni / Action",Flashbacks of a Fool (2008)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FromPradaToNada" tvg-logo="http://ott.dobratv.net:25461/images/9dbd6b1be8510d2ef8b16c34cb45ddde.jpg" group-title="Akcioni / Action",FromPradaToNada
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godspeed (2009)" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",Godspeed (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grobnica-EdgarAlanPoesLigeia" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",Grobnica-EdgarAlanPoesLigeia
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GunsGirlsandGambling" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",GunsGirlsandGambling
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HacksawRidge" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",HacksawRidge
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ilovetropoja" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",Ilovetropoja
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Izgubljeni-TheLost" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",Izgubljeni-TheLost
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LastExitToBrooklyn" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",LastExitToBrooklyn
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LikeMotherLikeDaughter" tvg-logo="http://ott.dobratv.net:25461/images/4e80ad4586f55353d09819f85383ac18.jpg" group-title="Akcioni / Action",LikeMotherLikeDaughter
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lovebirds (2020)" tvg-logo="http://ott.dobratv.net:25461/images/3469f62f272aca6f2556d42d9d40bb4c.jpg" group-title="Akcioni / Action",The Lovebirds (2020)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monsters (2010)" tvg-logo="http://ott.dobratv.net:25461/images/d3da8b24143352c4f5098cb728575821.jpg" group-title="Akcioni / Action",Monsters (2010)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MyNannysSecret" tvg-logo="http://ott.dobratv.net:25461/images/d3da8b24143352c4f5098cb728575821.jpg" group-title="Akcioni / Action",MyNannysSecret
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NearingGrace" tvg-logo="http://ott.dobratv.net:25461/images/d3da8b24143352c4f5098cb728575821.jpg" group-title="Akcioni / Action",NearingGrace
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noc od 30 dana (30 Days Of Night)" tvg-logo="http://ott.dobratv.net:25461/images/d3da8b24143352c4f5098cb728575821.jpg" group-title="Akcioni / Action",Noc od 30 dana (30 Days Of Night)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Od Prade do bez nade (From Prada To Nada)" tvg-logo="http://ott.dobratv.net:25461/images/d3da8b24143352c4f5098cb728575821.jpg" group-title="Akcioni / Action",Od Prade do bez nade (From Prada To Nada)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pametni ljudi (Smart People)" tvg-logo="http://ott.dobratv.net:25461/images/d3da8b24143352c4f5098cb728575821.jpg" group-title="Akcioni / Action",Pametni ljudi (Smart People)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penelope (2006)" tvg-logo="http://ott.dobratv.net:25461/images/280b523a825e6de523ed2843fbfc2fc7.jpg" group-title="Akcioni / Action",Penelope (2006)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PetNaJednu-FiveAcrossTheEyes" tvg-logo="http://ott.dobratv.net:25461/images/280b523a825e6de523ed2843fbfc2fc7.jpg" group-title="Akcioni / Action",PetNaJednu-FiveAcrossTheEyes
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PodzemljeMoskve-MoscowZero" tvg-logo="http://ott.dobratv.net:25461/images/280b523a825e6de523ed2843fbfc2fc7.jpg" group-title="Akcioni / Action",PodzemljeMoskve-MoscowZero
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Possession (1981)" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",Possession (1981)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PowderBlue" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",PowderBlue
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prethodnici-Vanguard" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",Prethodnici-Vanguard
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psihoza-Psychosis" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",Psihoza-Psychosis
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RedHill" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",RedHill
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ResurrectingTheChamp" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",ResurrectingTheChamp
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SamuraiAvengerTheBlindWolf" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",SamuraiAvengerTheBlindWolf
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Savrsena asistentkinja (The Perfect Assistant)" tvg-logo="http://ott.dobratv.net:25461/images/72ac9a4fae9e48f50eb83336d4d14e8b.jpg" group-title="Akcioni / Action",Savrsena asistentkinja (The Perfect Assistant)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenderness (2009)" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",Tenderness (2009)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheAccused" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheAccused
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheAstronautFarmer" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheAstronautFarmer
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheBoySheMetOnline" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheBoySheMetOnline
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheCityOfYourFinalDestination" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheCityOfYourFinalDestination
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheGirlInThePark" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheGirlInThePark
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheNines" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheNines
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ThePerfectMarriage" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",ThePerfectMarriage
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ThePerfectRoommate" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",ThePerfectRoommate
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ThePerfectTeacher" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",ThePerfectTeacher
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheRival" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheRival
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheShortcut" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheShortcut
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheSpirit" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheSpirit
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TheWifeHeMetOnline" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TheWifeHeMetOnline
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TilLiesDoUsPart" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",TilLiesDoUsPart
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tompsonovi-TheThompsons" tvg-logo="http://ott.dobratv.net:25461/images/0a74e4c0c02356912eda5ec456701e1d.jpg" group-title="Akcioni / Action",Tompsonovi-TheThompsons
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trade (2007)" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",Trade (2007)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UpoznajteBila-MeetBill" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",UpoznajteBila-MeetBill
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VatreniObracun-TheGundown" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",VatreniObracun-TheGundown
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VelikaZbrka-KettleOfFish" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",VelikaZbrka-KettleOfFish
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VeneraIVegas-VenusAndVegas" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",VeneraIVegas-VenusAndVegas
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VjencanjeNaSlijepo-WeddingDaze" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",VjencanjeNaSlijepo-WeddingDaze
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VjerenikUbica-EngagedToKill" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",VjerenikUbica-EngagedToKill
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WhatDoesntKillYou" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",WhatDoesntKillYou
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WhereTheRedFernGrows" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",WhereTheRedFernGrows
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ZabranjenoKraljevstvo-ForbiddenKingdom" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",ZabranjenoKraljevstvo-ForbiddenKingdom
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ZavjeraEsalon-EchelonConspiracy" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",ZavjeraEsalon-EchelonConspiracy
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zazidani-WalledIn" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",Zazidani-WalledIn
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ZiviIMrtvi-TheLivingAndTheDead" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",ZiviIMrtvi-TheLivingAndTheDead
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ZiviLes-SmashCut" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",ZiviLes-SmashCut
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ZiviSahranjeni-BuriedAlive" tvg-logo="http://ott.dobratv.net:25461/images/a1b3e14283727f04e72276f0410fdc14.jpg" group-title="Akcioni / Action",ZiviSahranjeni-BuriedAlive
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammed s.a.v.s. / The Message (1976)" tvg-logo="http://ott.dobratv.net:25461/images/ee8878047266cec8508390f2f2d6115e.jpg" group-title="Istorijski / History",Muhammed s.a.v.s. / The Message (1976)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isa a.s." tvg-logo="http://ott.dobratv.net:25461/images/ee8878047266cec8508390f2f2d6115e.jpg" group-title="Istorijski / History",Isa a.s.
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kraljevstvo Poslanija Sulejmana a.s. (Solomon)" tvg-logo="http://ott.dobratv.net:25461/images/ee8878047266cec8508390f2f2d6115e.jpg" group-title="Istorijski / History",Kraljevstvo Poslanija Sulejmana a.s. (Solomon)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ONI VJECNO ZIVE" tvg-logo="http://ott.dobratv.net:25461/images/ee8878047266cec8508390f2f2d6115e.jpg" group-title="Akcioni / Action",ONI VJECNO ZIVE
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proredjivanje 2 - Novi svjetski poredak" tvg-logo="http://ott.dobratv.net:25461/images/ee8878047266cec8508390f2f2d6115e.jpg" group-title="Dokumentarci",Proredjivanje 2 - Novi svjetski poredak
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Rabia: Prva hanuma Evlija (1973)" tvg-logo="http://ott.dobratv.net:25461/images/244be329948152f7e3318a1de009688f.jpg" group-title="Istorijski / History",Hz. Rabia: Prva hanuma Evlija (1973)
+http://ott.dobratv.net:25461/movie/Gh1Robi861a/RFFgMdbeEY/14457.mp4
+#EXTINF:-1 tvg-id="13899" tvg-name="FEDERALNA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/FederalnaTV_logo.png" group-title="BIH / BOSNIA",FEDERALNA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6871
+#EXTINF:-1 tvg-id="13906" tvg-name="HAYAT HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hayat-hd_logo.png" group-title="BIH / BOSNIA",HAYAT HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/104
+#EXTINF:-1 tvg-id="HAYAT PLUS" tvg-name="HAYAT PLUS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hayatplus_logo.png" group-title="BIH / BOSNIA",HAYAT PLUS
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6874
+#EXTINF:-1 tvg-id="13901" tvg-name="OBN" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/OBN-logo.png" group-title="BIH / BOSNIA",OBN
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6873
+#EXTINF:-1 tvg-id="7633" tvg-name="PINK BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_BH_logo.png" group-title="BIH / BOSNIA",PINK BIH
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/159
+#EXTINF:-1 tvg-id="13912" tvg-name="BN HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bn_televizija_zemaljski.jpg" group-title="BIH / BOSNIA",BN HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6883
+#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtrs-logo.png" group-title="BIH / BOSNIA",RTRS
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6884
+#EXTINF:-1 tvg-id="RTRS PLUS" tvg-name="RTRS PLUS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTRS_PLUS_logo.png" group-title="BIH / BOSNIA",RTRS PLUS
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2039
+#EXTINF:-1 tvg-id="RTV HERCEG BOSNE" tvg-name="RTV HERCEG BOSNE" tvg-logo="http://balkans.aljazeera.net/sites/default/files/styles/d8/public/herceg-bosna.jpg" group-title="BIH / BOSNIA",RTV HERCEG BOSNE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6879
+#EXTINF:-1 tvg-id="7873" tvg-name="O KANAL HD" tvg-logo="http://ott.dobratv.net:25461/images/d8d2d1da47cb7820cd56ecc4eb1204bc.png" group-title="BIH / BOSNIA",O KANAL HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6882
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://totaltv.tv/oec/images/tv_channels/213a031ce88f91a5484fbbd57a21d831.png" group-title="BIH / BOSNIA",CITY TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6881
+#EXTINF:-1 tvg-id="POSAVINA TV" tvg-name="TV POSAVINA" tvg-logo="https://www.slusaj-radio.com/medias/thumbnail/95/200-radio-posavina.jpg" group-title="BIH / BOSNIA",TV POSAVINA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6885
+#EXTINF:-1 tvg-id="TV ZENICA" tvg-name="RTV ZENICA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv-ze-logo.png" group-title="BIH / BOSNIA",RTV ZENICA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6893
+#EXTINF:-1 tvg-id="" tvg-name="TATABRADA TV" tvg-logo="https://www.tatabrada.tv/wp-content/uploads/2019/07/TATABRADA-LOGO-NOVI-okt-2018-copy.png" group-title="BIH / BOSNIA",TATABRADA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6898
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 6 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kanal6-logo.png" group-title="BIH / BOSNIA",KANAL 6 HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6905
+#EXTINF:-1 tvg-id="14207" tvg-name="RTCG 1" tvg-logo="http://ott.dobratv.net:25461/images/88866d231f4073981baf1ebb58eae457.jpg" group-title="CRNA GORA / MONTENEGRO",RTCG 1
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/161
+#EXTINF:-1 tvg-id="14208" tvg-name="RTCG 2" tvg-logo="http://ott.dobratv.net:25461/images/a638a2d80f2219833eab9653ece12946.jpg" group-title="CRNA GORA / MONTENEGRO",RTCG 2
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/162
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="PRVA CG" tvg-logo="http://ott.dobratv.net:25461/images/0be06175f7a44c7b281da9aeada8a2a4.jpg" group-title="CRNA GORA / MONTENEGRO",PRVA CG
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/163
+#EXTINF:-1 tvg-id="TV VIJESTI (CG)" tvg-name="TV VIJESTI" tvg-logo="http://ott.dobratv.net:25461/images/9fb86f07c5c157cec5265e5708c3bdc9.jpg" group-title="CRNA GORA / MONTENEGRO",TV VIJESTI
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/164
+#EXTINF:-1 tvg-id="OTV VALENTINO ETNO" tvg-name="OTV VALENTINO MUSIC" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",OTV VALENTINO MUSIC
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/174
+#EXTINF:-1 tvg-id="POLJOPRIVREDNA TV" tvg-name="POLJOPRIVREDNA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA / CROATIA / CROACIA",POLJOPRIVREDNA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2121
+#EXTINF:-1 tvg-id="RTS 1 ex-Yu" tvg-name="RTS 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/RTS1_logo.png" group-title="SRBIJA / SERBIA",RTS 1 
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2143
+#EXTINF:-1 tvg-id="RTS 2 ex-Yu" tvg-name="RTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0vci0c6l56n8k5TDyeLdaik_OazRhjxF8FoIoSJ8gmcpnlFXy&usqp=CAU" group-title="SRBIJA / SERBIA",RTS 2 HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2144
+#EXTINF:-1 tvg-id="RTV 1 ex-Yu" tvg-name="RTV 1" tvg-logo="https://www.ion.tv/canada/img/logoch/balkan22.jpg" group-title="SRBIJA / SERBIA",RTV 1
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2154
+#EXTINF:-1 tvg-id="7873" tvg-name="RTV 2" tvg-logo="http://ott.dobratv.net:25461/images/e6d13b7ade8ce4e44f9a6d6fef37ce54.jpg" group-title="SRBIJA / SERBIA",RTV 2
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2155
+#EXTINF:-1 tvg-id="O2 TV (RS)" tvg-name="B92 TV" tvg-logo="https://www.b92.net/news/pics/2020/03/01/4660219225e5bf8a63d1f3355840670_v4big.jpg" group-title="SRBIJA / SERBIA",B92 TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2156
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="JEFIMIJA TV" tvg-logo="https://jefimija.tv/wp-content/uploads/2016/09/logo21.png" group-title="SRBIJA / SERBIA",JEFIMIJA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2177
+#EXTINF:-1 tvg-id="" tvg-name="RTV PENDIMI" tvg-logo="https://tvmak.com/img/tv/rtvpendimi.png" group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",RTV PENDIMI
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/2430
+#EXTINF:-1 tvg-id="MPT 1 HD (MK)" tvg-name="MRT " tvg-logo="https://ekipa.mk/wp-content/uploads/2020/04/mrt.jpg" group-title="MAKEDONIJA / MACEDONIA",MRT 
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6504
+#EXTINF:-1 tvg-id="SITEL HD (MK)" tvg-name="SITEL" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sitel-logo.png" group-title="MAKEDONIJA / MACEDONIA",SITEL
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6505
+#EXTINF:-1 tvg-id="7873" tvg-name="ALFA MKD" tvg-logo="http://ott.dobratv.net:25461/images/6c0c484e448503fa02a6e11a87a57b40.png" group-title="MAKEDONIJA / MACEDONIA",ALFA MKD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6506
+#EXTINF:-1 tvg-id="24 VESTI HD (MK)" tvg-name="24 VESTI" tvg-logo="https://24.mk/images/vesti24_logo.png" group-title="MAKEDONIJA / MACEDONIA",24 VESTI
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6507
+#EXTINF:-1 tvg-id="TELMA HD (MK)" tvg-name="TELMA" tvg-logo="https://w0.pngwave.com/png/605/900/skopje-tv-telma-television-channel-sitel-others-png-clip-art.png" group-title="MAKEDONIJA / MACEDONIA",TELMA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6508
+#EXTINF:-1 tvg-id="DAS ERSTE (DE)" tvg-name="DAS ERSTE HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",DAS ERSTE HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6590
+#EXTINF:-1 tvg-id="7873" tvg-name="ZDF HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",ZDF HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6591
+#EXTINF:-1 tvg-id="7873" tvg-name="3SAT HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",3SAT HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6592
+#EXTINF:-1 tvg-id="7873" tvg-name="N-TV (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",N-TV (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6600
+#EXTINF:-1 tvg-id="" tvg-name="TAGESSCHAU 24 HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",TAGESSCHAU 24 HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6601
+#EXTINF:-1 tvg-id="7873" tvg-name="ARTE HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",ARTE HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6603
+#EXTINF:-1 tvg-id="PHOENIX (DE)" tvg-name="PHOENIX (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",PHOENIX (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6604
+#EXTINF:-1 tvg-id="" tvg-name="ZDF NEO (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",ZDF NEO (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6605
+#EXTINF:-1 tvg-id="ZDF INFO (DE)" tvg-name="ZDF INFO (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",ZDF INFO (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6606
+#EXTINF:-1 tvg-id="7873" tvg-name="N24 HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",N24 HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6607
+#EXTINF:-1 tvg-id="" tvg-name="RBB BERLIN TV (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",RBB BERLIN TV (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6620
+#EXTINF:-1 tvg-id="" tvg-name="HR FERNSEHEN HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",HR FERNSEHEN HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6619
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="TELE 5 HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",TELE 5 HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6622
+#EXTINF:-1 tvg-id="7873" tvg-name="NDR FERNSEHEN HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",NDR FERNSEHEN HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6623
+#EXTINF:-1 tvg-id="7873" tvg-name="WDR HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",WDR HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6624
+#EXTINF:-1 tvg-id="" tvg-name="MDR HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",MDR HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6625
+#EXTINF:-1 tvg-id="7873" tvg-name="WELT HD (DE)" tvg-logo="" group-title="NJEMAČKI / GERMAN / ALEMANIA",WELT HD (DE)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6626
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD (TR)" tvg-logo="https://seeklogo.com/images/T/trt-1-logo-31D17FC8D3-seeklogo.com.gif" group-title="TURSKI / TURKISH / TURQUIA",TRT 1 HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6629
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",TRT HABER HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6630
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",TRT AVAZ HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6632
+#EXTINF:-1 tvg-id="" tvg-name="TRT T" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",TRT T
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6633
+#EXTINF:-1 tvg-id="" tvg-name="HABER TURK (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",HABER TURK (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6638
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",TV 8 (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6640
+#EXTINF:-1 tvg-id="" tvg-name="24 TV (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",24 TV (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6641
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",KANAL D HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6637
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",A HABER HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6642
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",ATV HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6643
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",CNN TURK (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6644
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",SHOW TV (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6648
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",STAR TV HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6650
+#EXTINF:-1 tvg-id="" tvg-name="TV8.5 HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",TV8.5 HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6652
+#EXTINF:-1 tvg-id="" tvg-name="NTV HABER HD (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",NTV HABER HD (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6653
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK (TR)" tvg-logo="" group-title="TURSKI / TURKISH / TURQUIA",TRT COCUK (TR)
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6663
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png" group-title="SHQIP / ALBANIAN / ALBANES",ABC News
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6735
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24 " tvg-logo="http://ott.dobratv.net:25461/images/3f3aa6c0a49b7e1de7401abe64e63004.png" group-title="SHQIP / ALBANIAN / ALBANES",RTSH 24 
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6742
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1 " tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="SHQIP / ALBANIAN / ALBANES",RTSH 1 
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6752
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Report TV" tvg-logo="http://ott.dobratv.net:25461/images/9c562151700a79df1303a9423bb00955.png" group-title="SHQIP / ALBANIAN / ALBANES",Report TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6760
+#EXTINF:-1 tvg-id="7873" tvg-name="HRT INT. HD" tvg-logo="http://ott.dobratv.net:25461/images/11f0e48260bb6360824ea71cf8865636.png" group-title="HRVATSKA / CROATIA / CROACIA",HRT INT. HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6836
+#EXTINF:-1 tvg-id="7873" tvg-name="JABUKA TV" tvg-logo="http://ott.dobratv.net:25461/images/9cdd1b3500c23fe2dd9a6a8f8d33d531.png" group-title="HRVATSKA / CROATIA / CROACIA",JABUKA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6854
+#EXTINF:-1 tvg-id="7873" tvg-name="VINKOVACKA TV" tvg-logo="http://ott.dobratv.net:25461/images/f5f508431d09b06a6815c98530e7cf4a.png" group-title="HRVATSKA / CROATIA / CROACIA",VINKOVACKA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6858
+#EXTINF:-1 tvg-id="7873" tvg-name="OSJECKA TV" tvg-logo="http://ott.dobratv.net:25461/images/be07d5dfbbe65e2e822c9097d8b24d5e.png" group-title="HRVATSKA / CROATIA / CROACIA",OSJECKA TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6859
+#EXTINF:-1 tvg-id="7873" tvg-name="TV BANOVINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQetWSEr2gqQDSE5AbN42jJsEa5N0AN587bNadt0EkpJYmcyH_C&usqp=CAU" group-title="HRVATSKA / CROATIA / CROACIA",TV BANOVINA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6861
+#EXTINF:-1 tvg-id="" tvg-name="MREZA SPLIT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MrezaST_logo.png" group-title="HRVATSKA / CROATIA / CROACIA",MREZA SPLIT
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6864
+#EXTINF:-1 tvg-id="7873" tvg-name="TV JADRAN" tvg-logo="http://ott.dobratv.net:25461/images/ef0863867f6af29a3ce5f20663482eaf.png" group-title="HRVATSKA / CROATIA / CROACIA",TV JADRAN
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6865
+#EXTINF:-1 tvg-id="7873" tvg-name="TREND TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA / CROATIA / CROACIA",TREND TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6869
+#EXTINF:-1 tvg-id="7873" tvg-name="OTV VALENTINO" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",OTV VALENTINO
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6899
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Radio-Televizija-Srbije-Logo.svg/1200px-Radio-Televizija-Srbije-Logo.svg.png" group-title="SRBIJA / SERBIA",RTS HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6909
+#EXTINF:-1 tvg-id="RTS 3 ex-Yu" tvg-name="RTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/1280px-RTS_3_logo.svg.png" group-title="SRBIJA / SERBIA",RTS 3 HD
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6910
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="RTS DRAMA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Drama_logo.png" group-title="SRBIJA / SERBIA",RTS DRAMA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6911
+#EXTINF:-1 tvg-id="" tvg-name="RTS TREZOR" tvg-logo="http://ott.dobratv.net:25461/images/e76ddd9fb6cfc07585f56196f07328dc.png" group-title="SRBIJA / SERBIA",RTS TREZOR
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6912
+#EXTINF:-1 tvg-id="7873" tvg-name="RTS SVET" tvg-logo="http://ott.dobratv.net:25461/images/ea89f20d9052ac65ab9e1486f35134ee.png" group-title="SRBIJA / SERBIA",RTS SVET
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6913
+#EXTINF:-1 tvg-id="7873" tvg-name="RTS ZIVOT" tvg-logo="http://ott.dobratv.net:25461/images/736cc4d13ad8450ce25abe2222913dcb.png" group-title="SRBIJA / SERBIA",RTS ZIVOT
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6914
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="PRVA" tvg-logo="http://ott.dobratv.net:25461/images/e6ed7839aecee415180cf95383de5e6c.jpeg" group-title="SRBIJA / SERBIA",PRVA
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6916
+#EXTINF:-1 tvg-id="7873" tvg-name="BELLE AMIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Tv-belle-amie-logo.png" group-title="SRBIJA / SERBIA",BELLE AMIE
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6922
+#EXTINF:-1 tvg-id="Happy TV ex-Yu" tvg-name="HAPPY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/HappyTV_Logo.png" group-title="SRBIJA / SERBIA",HAPPY TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6925
+#EXTINF:-1 tvg-id="7873" tvg-name="HAPPY PAROVI 7/24" tvg-logo="http://ott.dobratv.net:25461/images/a32b5313acb811a143b935be0f7976e9.jpeg" group-title="SRBIJA / SERBIA",HAPPY PAROVI 7/24
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6926
+#EXTINF:-1 tvg-id="Studio B ex-Yu" tvg-name="STUDIO B" tvg-logo="https://serbia.mom-rsf.org/typo3temp/_processed_/0/3/csm_5023-835_import_73528b3fcd.png" group-title="SRBIJA / SERBIA",STUDIO B
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6927
+#EXTINF:-1 tvg-id="" tvg-name="PALMA PLUS" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFqsyEU4KEQAA/company-logo_200_200/0?e=2159024400&v=beta&t=4o5IDjsmSmclOqOejykZa0TNq1z_a5cig7q3CWG8I-I" group-title="SRBIJA / SERBIA",PALMA PLUS
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/6931
+#EXTINF:-1 tvg-id="7873" tvg-name="BN MUSIC" tvg-logo="" group-title="MUZIČKI / MUSIC / MUSICAL",BN MUSIC
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7093
+#EXTINF:-1 tvg-id="MFM" tvg-name="ALBUK TV" tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png" group-title="SHQIP / ALBANIAN / ALBANES",ALBUK TV
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7161
+#EXTINF:-1 tvg-id="" tvg-name="MRT 2" tvg-logo="http://46.101.142.56/wp-content/uploads/2018/05/TEMA-LLOGO-60x60-TIK.png" group-title="SHQIP / ALBANIAN / ALBANES",MRT 2
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7208
+#EXTINF:-1 tvg-id="7873" tvg-name="MRT 1" tvg-logo="http://ott.dobratv.net:25461/images/392cf321385870748982c92ffc4ed595.png" group-title="MAKEDONIJA / MACEDONIA",MRT 1
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7344
+#EXTINF:-1 tvg-id="14209" tvg-name="RTCG SAT" tvg-logo="http://ott.dobratv.net:25461/images/63ec27f47450b2d8fcaedc98070767f5.jpg" group-title="CRNA GORA / MONTENEGRO",RTCG SAT
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7377
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://ott.dobratv.net:25461/images/f8de9d0f6fac4729144e070efbe049be.png" group-title="SHQIP / ALBANIAN / ALBANES",Klan Plus
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7401
+#EXTINF:-1 tvg-id="KTV AL" tvg-name="KTV AL" tvg-logo="http://ott.dobratv.net:25461/images/df258346190b74f635855394c65fd7c1.png" group-title="SHQIP / ALBANIAN / ALBANES",KTV AL
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7402
+#EXTINF:-1 tvg-id="RTV 21 MK" tvg-name="RTV 21 MK" tvg-logo="http://ott.dobratv.net:25461/images/ebcc0a43d78319922e3b6c85a4dd8c6d.png" group-title="SHQIP / ALBANIAN / ALBANES",RTV 21 MK
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7403
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip" tvg-logo="http://ott.dobratv.net:25461/images/cfc426e866901dfe84c5bd5a82312add.png" group-title="SHQIP / ALBANIAN / ALBANES",RTSH Shqip
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/7424
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel" tvg-logo="data:image/jpeg;base64,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" group-title="SHQIP / ALBANIAN / ALBANES",Turbo Channel
+http://ott.dobratv.net:25461/Gh1Robi861a/RFFgMdbeEY/13205
