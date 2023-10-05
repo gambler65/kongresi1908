@@ -1,0 +1,671 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BHT 1-EXYU" tvg-name="BHT" tvg-logo="http://tz1.topten70.net:29001/logo_channels/bht-1-ba.png" group-title="BiH",BHT
+http://tz1.topten70.net:29001/live?cId=227&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="BHT 1-EXYU" tvg-name="BHT HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/bnt_bg_hd.png" group-title="BiH",BHT HD
+http://tz1.topten70.net:29001/live?cId=94&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Federalna" tvg-name="FTV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/ftv_ba.png" group-title="BiH",FTV
+http://tz1.topten70.net:29001/live?cId=28&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Alfa" tvg-name="ALFA TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/alfa-tv-ba.png" group-title="BiH",ALFA TV
+http://tz1.topten70.net:29001/live?cId=35&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://tz1.topten70.net:29001/logo_channels/obn_ba.png" group-title="BiH",OBN
+http://tz1.topten70.net:29001/live?cId=30&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Hayat-EXYU" tvg-name="HAYAT HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hayat_ba.png" group-title="BiH",HAYAT HD
+http://tz1.topten70.net:29001/live?cId=78&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Face TV-EXYU" tvg-name="FACE TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/face_tv_ba.png" group-title="BiH",FACE TV
+http://tz1.topten70.net:29001/live?cId=80&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA BIH HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/novatvhd.png" group-title="BiH",NOVA BIH HD
+http://tz1.topten70.net:29001/live?cId=118&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Al Jazeera-EXYU" tvg-name="ALJAZEERA HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/al_jazeera_balkans.png" group-title="BiH",ALJAZEERA HD
+http://tz1.topten70.net:29001/live?cId=96&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL-EXYU" tvg-name="RTL HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl2_ch.png" group-title="Hrvatski",RTL HR
+http://tz1.topten70.net:29001/live?cId=153&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="BN TV-EXYU" tvg-name="BN TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/bvn_tv_us.png" group-title="BiH",BN TV
+http://tz1.topten70.net:29001/live?cId=50&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="BN 2" tvg-logo="" group-title="BiH",BN 2
+http://tz1.topten70.net:29001/live?cId=2456&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="N1-EXYU" tvg-name="N1 INFO" tvg-logo="http://tz1.topten70.net:29001/logo_channels/news_18_in.png" group-title="BiH",N1 INFO
+http://tz1.topten70.net:29001/live?cId=82&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="TV1-EXYU" tvg-name="O KANAL HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tv1_ba.png" group-title="BiH",O KANAL HD
+http://tz1.topten70.net:29001/live?cId=184&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL 2-EXYU" tvg-name="RTL 2 HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl2_hr.png" group-title="Hrvatski",RTL 2 HR
+http://tz1.topten70.net:29001/live?cId=155&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nova TV-EXYU" tvg-name="NOVA TV Hr" tvg-logo="" group-title="Hrvatski",NOVA TV Hr
+http://tz1.topten70.net:29001/live?cId=1862&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nova TV-EXYU" tvg-name="NOVA TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/novatv.png" group-title="Hrvatski",NOVA TV
+http://tz1.topten70.net:29001/live?cId=151&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Doma TV-EXYU" tvg-name="DOMA TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/doma.png" group-title="Hrvatski",DOMA TV
+http://tz1.topten70.net:29001/live?cId=152&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="N 1 HR" tvg-logo="" group-title="Hrvatski",N 1 HR
+http://tz1.topten70.net:29001/live?cId=2409&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL Living-EXYU" tvg-name="RTL LIVING" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtlliving.png" group-title="Hrvatski",RTL LIVING
+http://tz1.topten70.net:29001/live?cId=32&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HRT 1-EXYU" tvg-name="HRT 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hrt1.png" group-title="Hrvatski",HRT 1
+http://tz1.topten70.net:29001/live?cId=67&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HRT 2-EXYU" tvg-name="HRT 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hrt2.png" group-title="Hrvatski",HRT 2
+http://tz1.topten70.net:29001/live?cId=68&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HRT 3-EXYU" tvg-name="HRT 3" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hrt3.png" group-title="Hrvatski",HRT 3
+http://tz1.topten70.net:29001/live?cId=69&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HRT 4-EXYU" tvg-name="HRT 4" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hrt4.png" group-title="Hrvatski",HRT 4
+http://tz1.topten70.net:29001/live?cId=70&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HRT 5-EXYU" tvg-name="HRT 5" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hrt5.png" group-title="Hrvatski",HRT 5
+http://tz1.topten70.net:29001/live?cId=71&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTS 1-EXYU" tvg-name="RTS 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rts_rs_1.png" group-title="Srbijanski",RTS 1
+http://tz1.topten70.net:29001/live?cId=129&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTS 2-EXYU" tvg-name="RTS 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rts_rs_2.png" group-title="Srbijanski",RTS 2
+http://tz1.topten70.net:29001/live?cId=130&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTS 3-EXYU" tvg-name="RTS 3" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtv_slo3.png" group-title="Srbijanski",RTS 3
+http://tz1.topten70.net:29001/live?cId=165&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTS" tvg-name="RTS DRAMA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rt_d_ru.png" group-title="Srbijanski",RTS DRAMA
+http://tz1.topten70.net:29001/live?cId=169&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="B92-EXYU" tvg-name="TV B 92" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hbo2.png" group-title="Srbijanski",TV B 92
+http://tz1.topten70.net:29001/live?cId=76&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nova HD-EXYU" tvg-name="NOVA RS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/novatv.png" group-title="Srbijanski",NOVA RS
+http://tz1.topten70.net:29001/live?cId=236&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Prva" tvg-name="PRVA TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/prva_rs.png" group-title="Srbijanski",PRVA TV
+http://tz1.topten70.net:29001/live?cId=131&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Prva plus-EXYU" tvg-name="PRVA PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/prva_rs_plus.png" group-title="Srbijanski",PRVA PLUS
+http://tz1.topten70.net:29001/live?cId=27&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Prva srpska televizija-EXYU" tvg-name="PRVA KICK" tvg-logo="http://tz1.topten70.net:29001/logo_channels/prva-kick-rs.png" group-title="Srbijanski",PRVA KICK
+http://tz1.topten70.net:29001/live?cId=26&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Prva MAX-EXYU" tvg-name="PRVA MAX" tvg-logo="http://tz1.topten70.net:29001/logo_channels/mtv3_max.png" group-title="Srbijanski",PRVA MAX
+http://tz1.topten70.net:29001/live?cId=164&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Prva World-EXYU" tvg-name="PRVA WORLD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/prva_rs_world.png" group-title="Srbijanski",PRVA WORLD
+http://tz1.topten70.net:29001/live?cId=144&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="POSAVINA TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/posavina_tv_ba.png" group-title="BiH",POSAVINA TV
+http://tz1.topten70.net:29001/live?cId=34&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/atv_hu.png" group-title="BiH",ATV
+http://tz1.topten70.net:29001/live?cId=29&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Jugoton" tvg-name="TV BUGOJNO" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tv2_humor_no.png" group-title="BiH",TV BUGOJNO
+http://tz1.topten70.net:29001/live?cId=73&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="TV" tvg-name="TV TK" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tvi_pt.png" group-title="BiH",TV TK
+http://tz1.topten70.net:29001/live?cId=182&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTV PODRINJE HD" tvg-logo="" group-title="BiH",RTV PODRINJE HD
+http://tz1.topten70.net:29001/live?cId=2372&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SLO" tvg-name="TV SLON HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtv_slo2.png" group-title="BiH",TV SLON HD
+http://tz1.topten70.net:29001/live?cId=111&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nasha" tvg-name="RTV HB" tvg-logo="http://tz1.topten70.net:29001/logo_channels/nasa_tv_us.png" group-title="BiH",RTV HB
+http://tz1.topten70.net:29001/live?cId=255&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VINKOVACKA TV" tvg-logo="" group-title="Hrvatski",VINKOVACKA TV
+http://tz1.topten70.net:29001/live?cId=1933&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SOS" tvg-name="SLAVONSKA TV" tvg-logo="" group-title="Hrvatski",SLAVONSKA TV
+http://tz1.topten70.net:29001/live?cId=1934&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="OSJECKA TV" tvg-logo="" group-title="Hrvatski",OSJECKA TV
+http://tz1.topten70.net:29001/live?cId=1935&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VTV VARAZDIN" tvg-logo="" group-title="Hrvatski",VTV VARAZDIN
+http://tz1.topten70.net:29001/live?cId=1936&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTV" tvg-name="NARODNA TV" tvg-logo="" group-title="Hrvatski",NARODNA TV
+http://tz1.topten70.net:29001/live?cId=1937&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIVA" tvg-name="TV BANOVINA" tvg-logo="" group-title="Hrvatski",TV BANOVINA
+http://tz1.topten70.net:29001/live?cId=1938&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="JABUKA TV" tvg-logo="" group-title="Hrvatski",JABUKA TV
+http://tz1.topten70.net:29001/live?cId=1939&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="TV" tvg-name="SB TV" tvg-logo="" group-title="Hrvatski",SB TV
+http://tz1.topten70.net:29001/live?cId=1940&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTV" tvg-name="SRCE TV" tvg-logo="" group-title="Hrvatski",SRCE TV
+http://tz1.topten70.net:29001/live?cId=1941&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV 7" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tv7_fi.png" group-title="BiH",RTV 7
+http://tz1.topten70.net:29001/live?cId=298&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL Crime-EXYU" tvg-name="RTL CRIME HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl_crime_hr.png" group-title="Hrvatski",RTL CRIME HR
+http://tz1.topten70.net:29001/live?cId=351&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL PASSION HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl_passion_hr.png" group-title="Hrvatski",RTL PASSION HR
+http://tz1.topten70.net:29001/live?cId=352&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="TV ZENICA" tvg-logo="" group-title="BiH",TV ZENICA
+http://tz1.topten70.net:29001/live?cId=2361&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTV HIT BRCKO" tvg-logo="" group-title="BiH",RTV HIT BRCKO
+http://tz1.topten70.net:29001/live?cId=2406&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CineStar" tvg-name="CRIME INVESTIGATION" tvg-logo="http://tz1.topten70.net:29001/logo_channels/crimeinvestigation.png" group-title="DOKUMENTARNI",CRIME INVESTIGATION
+http://tz1.topten70.net:29001/live?cId=360&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rts_rs.png" group-title="BiH",RTRS
+http://tz1.topten70.net:29001/live?cId=213&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/prva_rs_plus.png" group-title="BiH",RTRS PLUS
+http://tz1.topten70.net:29001/live?cId=214&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="TV VISOKO" tvg-logo="" group-title="BiH",TV VISOKO
+http://tz1.topten70.net:29001/live?cId=2363&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="" group-title="BiH",BIR TV
+http://tz1.topten70.net:29001/live?cId=2422&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTV BPK" tvg-logo="" group-title="BiH",RTV BPK
+http://tz1.topten70.net:29001/live?cId=2425&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Z1-EXYU" tvg-name="Z 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/z1.png" group-title="Hrvatski",Z 1
+http://tz1.topten70.net:29001/live?cId=46&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Telma" tvg-name="TELEVIZIJA 5" tvg-logo="http://tz1.topten70.net:29001/logo_channels/television_x.png" group-title="BiH",TELEVIZIJA 5
+http://tz1.topten70.net:29001/live?cId=253&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cmc.png" group-title="Muzicki",CMC
+http://tz1.topten70.net:29001/live?cId=87&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIVA" tvg-name="TV IGMAN" tvg-logo="http://tz1.topten70.net:29001/logo_channels/latvia7.png" group-title="BiH",TV IGMAN
+http://tz1.topten70.net:29001/live?cId=74&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="IDJTV HD-EXYU" tvg-name="MIRTV HD" tvg-logo="" group-title="BiH",MIRTV HD
+http://tz1.topten70.net:29001/live?cId=1943&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTV USK-EXYU" tvg-name="DOBRA TV ISLAMSKA" tvg-logo="" group-title="BiH",DOBRA TV ISLAMSKA
+http://tz1.topten70.net:29001/live?cId=1944&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="MEKA TV" tvg-logo="" group-title="BiH",MEKA TV
+http://tz1.topten70.net:29001/live?cId=1945&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="IDJTV HD-EXYU" tvg-name="KANAL 6 HD" tvg-logo="" group-title="BiH",KANAL 6 HD
+http://tz1.topten70.net:29001/live?cId=1946&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="EDO" tvg-name="MEDJUGORJE" tvg-logo="" group-title="Hrvatski",MEDJUGORJE
+http://tz1.topten70.net:29001/live?cId=1848&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTCG SAT-EXYU" tvg-name="TELEVIZIJA CRNE GORE SAT" tvg-logo="" group-title="BiH",TELEVIZIJA CRNE GORE SAT
+http://tz1.topten70.net:29001/live?cId=1822&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTCG1 HD" tvg-logo="" group-title="BiH",RTCG1 HD
+http://tz1.topten70.net:29001/live?cId=2364&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTCG2 HD" tvg-logo="" group-title="BiH",RTCG2 HD
+http://tz1.topten70.net:29001/live?cId=2365&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="NOVA M" tvg-logo="" group-title="BiH",NOVA M
+http://tz1.topten70.net:29001/live?cId=2366&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="VIJESTI CG" tvg-logo="" group-title="BiH",VIJESTI CG
+http://tz1.topten70.net:29001/live?cId=2367&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="PRVA TV CG" tvg-logo="" group-title="BiH",PRVA TV CG
+http://tz1.topten70.net:29001/live?cId=2368&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 CG" tvg-logo="" group-title="BiH",TV 7 CG
+http://tz1.topten70.net:29001/live?cId=2369&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Laudato TV-EXYU" tvg-name="LAUDATO" tvg-logo="http://tz1.topten70.net:29001/logo_channels/glas_ua.png" group-title="Hrvatski",LAUDATO
+http://tz1.topten70.net:29001/live?cId=83&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="truTV" tvg-name="CITY TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/city_al_tv.png" group-title="BiH",CITY TV
+http://tz1.topten70.net:29001/live?cId=79&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="PINK M-EXYU" tvg-name="PINK M" tvg-logo="" group-title="Pink",PINK M
+http://tz1.topten70.net:29001/live?cId=1821&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Bravo" tvg-name="TV SARAJEVO HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tvr_hd.png" group-title="BiH",TV SARAJEVO HD
+http://tz1.topten70.net:29001/live?cId=273&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTV USK-EXYU" tvg-name="RTV USK" tvg-logo="" group-title="BiH",RTV USK
+http://tz1.topten70.net:29001/live?cId=1836&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTV Novi Pazar-EXYU" tvg-name="NOVI PAZAR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tv_novi_pazar.png" group-title="Srbijanski",NOVI PAZAR
+http://tz1.topten70.net:29001/live?cId=306&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="SANDZAK TV" tvg-logo="" group-title="Srbijanski",SANDZAK TV
+http://tz1.topten70.net:29001/live?cId=2103&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Hayat Plus-EXYU" tvg-name="HAYAT PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hayat_ba_plus.png" group-title="BiH",HAYAT PLUS
+http://tz1.topten70.net:29001/live?cId=295&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="BN Music-EXYU" tvg-name="BN MUSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/bn_music.png" group-title="Muzicki",BN MUSIC
+http://tz1.topten70.net:29001/live?cId=53&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Planet" tvg-name="GLAS DRINE HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tv-glas-drine-ba.png" group-title="Muzicki",GLAS DRINE HD
+http://tz1.topten70.net:29001/live?cId=126&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Hayat Folk-EXYU" tvg-name="HAYAT FOLK" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hayat_ba_folk.png" group-title="Muzicki",HAYAT FOLK
+http://tz1.topten70.net:29001/live?cId=260&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Hayat Music-EXYU" tvg-name="HAYAT MUSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hayat_ba_music.png" group-title="Muzicki",HAYAT MUSIC
+http://tz1.topten70.net:29001/live?cId=37&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="3sat" tvg-name="DM SAT" tvg-logo="http://tz1.topten70.net:29001/logo_channels/dm_sat_rs.png" group-title="Muzicki",DM SAT
+http://tz1.topten70.net:29001/live?cId=115&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="BALKAN MUSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/balkanika.png" group-title="Muzicki",BALKAN MUSIC
+http://tz1.topten70.net:29001/live?cId=91&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nautical" tvg-name="K::CN 1 MUSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/k_cn1_rs.png" group-title="Muzicki",K::CN 1 MUSIC
+http://tz1.topten70.net:29001/live?cId=197&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nautical" tvg-name="K::CN 2 MUSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/k_cn2_rs.png" group-title="Muzicki",K::CN 2 MUSIC
+http://tz1.topten70.net:29001/live?cId=215&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nautical" tvg-name="K::CN 3 MUSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/k_cn3_rs.png" group-title="Muzicki",K::CN 3 MUSIC
+http://tz1.topten70.net:29001/live?cId=216&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV ADRIA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/mtv_am_ru.png" group-title="Muzicki",MTV ADRIA
+http://tz1.topten70.net:29001/live?cId=297&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIVA" tvg-name="IZVORNA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/izvorna_tv_ba.png" group-title="Muzicki",IZVORNA
+http://tz1.topten70.net:29001/live?cId=296&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Grand TV-EXYU" tvg-name="GRAND 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/grand_tv_rs.png" group-title="Muzicki",GRAND 1
+http://tz1.topten70.net:29001/live?cId=337&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Grand TV-EXYU" tvg-name="GRAND 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/grand_tv_rs.png" group-title="Muzicki",GRAND 2
+http://tz1.topten70.net:29001/live?cId=254&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZADRUGA 1" tvg-logo="" group-title="Pink",ZADRUGA 1
+http://tz1.topten70.net:29001/live?cId=2096&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZADRUGA 2" tvg-logo="" group-title="Pink",ZADRUGA 2
+http://tz1.topten70.net:29001/live?cId=1992&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZADRUGA 3" tvg-logo="" group-title="Pink",ZADRUGA 3
+http://tz1.topten70.net:29001/live?cId=1991&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA 4" tvg-logo="" group-title="Pink",ZADRUGA 4
+http://tz1.topten70.net:29001/live?cId=2362&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Reality-EXYU" tvg-name="PINK REALITY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkreality.png" group-title="Pink",PINK REALITY
+http://tz1.topten70.net:29001/live?cId=49&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="OTV Valentino-EXYU" tvg-name="OTV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/om_tv.png" group-title="Muzicki",OTV
+http://tz1.topten70.net:29001/live?cId=313&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Happy TV-EXYU" tvg-name="HAPPY TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/happy_tv_rs.png" group-title="Srbijanski",HAPPY TV
+http://tz1.topten70.net:29001/live?cId=189&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink-EXYU" tvg-name="PINK 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink1.png" group-title="Pink",PINK 1
+http://tz1.topten70.net:29001/live?cId=201&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink 2-EXYU" tvg-name="PINK 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink2.png" group-title="Pink",PINK 2
+http://tz1.topten70.net:29001/live?cId=219&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink 3 Info-EXYU" tvg-name="PINK 3" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink3.png" group-title="Pink",PINK 3
+http://tz1.topten70.net:29001/live?cId=220&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Plus-EXYU" tvg-name="PINK BIH" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink_bh.png" group-title="BiH",PINK BIH
+http://tz1.topten70.net:29001/live?cId=320&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Serije-EXYU" tvg-name="PINK SERIJE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkserije.png" group-title="Pink",PINK SERIJE
+http://tz1.topten70.net:29001/live?cId=240&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Crime & Mystery-EXYU" tvg-name="PINK CRIME" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkcrimeandmistery.png" group-title="Pink",PINK CRIME
+http://tz1.topten70.net:29001/live?cId=222&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Horror-EXYU" tvg-name="PINK HOROR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkhorror.png" group-title="Pink",PINK HOROR
+http://tz1.topten70.net:29001/live?cId=233&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Hits 1-EXYU" tvg-name="PINK HITS 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkhits2.png" group-title="Pink",PINK HITS 1
+http://tz1.topten70.net:29001/live?cId=244&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Hits 1-EXYU" tvg-name="PINK HITS 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkhits2.png" group-title="Pink",PINK HITS 2
+http://tz1.topten70.net:29001/live?cId=245&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="PINK Folk 1-EXYU" tvg-name="PINK FOLK 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink_folk1.png" group-title="Pink",PINK FOLK 1
+http://tz1.topten70.net:29001/live?cId=247&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Folk 2-EXYU" tvg-name="PINK FOLK 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink_folk2.png" group-title="Pink",PINK FOLK 2
+http://tz1.topten70.net:29001/live?cId=248&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Music-EXYU" tvg-name="PINK MUSIC 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkmusic.png" group-title="Pink",PINK MUSIC 1
+http://tz1.topten70.net:29001/live?cId=249&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Music 2-EXYU" tvg-name="PINK MUSIC 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkmusic.png" group-title="Pink",PINK MUSIC 2
+http://tz1.topten70.net:29001/live?cId=250&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Premium-EXYU" tvg-name="PINK PREMIUM" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkpremium.png" group-title="Pink",PINK PREMIUM
+http://tz1.topten70.net:29001/live?cId=225&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Movies-EXYU" tvg-name="PINK THRILER" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkthriller.png" group-title="Pink",PINK THRILER
+http://tz1.topten70.net:29001/live?cId=228&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Film-EXYU" tvg-name="PINK FILM" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkfilm.png" group-title="Pink",PINK FILM
+http://tz1.topten70.net:29001/live?cId=232&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink World Cinema-EXYU" tvg-name="PINK WORLD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkworld.png" group-title="Pink",PINK WORLD
+http://tz1.topten70.net:29001/live?cId=238&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy-EXYU" tvg-name="PINK SCI FI" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkfilm.png" group-title="Pink",PINK SCI FI
+http://tz1.topten70.net:29001/live?cId=242&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Action-EXYU" tvg-name="PINK ACTION" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkaction.png" group-title="Pink",PINK ACTION
+http://tz1.topten70.net:29001/live?cId=221&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink World Cinema-EXYU" tvg-name="PINK WORLD CINEMA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkworld.png" group-title="Pink",PINK WORLD CINEMA
+http://tz1.topten70.net:29001/live?cId=239&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Hits 1-EXYU" tvg-name="PINK & ROLL" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink_n_roll.png" group-title="Pink",PINK & ROLL
+http://tz1.topten70.net:29001/live?cId=243&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Zabava-EXYU" tvg-name="PINK ZABAVA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkzabava.png" group-title="Pink",PINK ZABAVA
+http://tz1.topten70.net:29001/live?cId=246&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Family-EXYU" tvg-name="PINK FAMILY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink_family.png" group-title="Pink",PINK FAMILY
+http://tz1.topten70.net:29001/live?cId=231&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Comedy-EXYU" tvg-name="PINK COMEDY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkcomedy.png" group-title="Pink",PINK COMEDY
+http://tz1.topten70.net:29001/live?cId=230&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Pedia-EXYU" tvg-name="PINK PEDIA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkpedia.png" group-title="DOKUMENTARNI",PINK PEDIA
+http://tz1.topten70.net:29001/live?cId=234&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Premium-EXYU" tvg-name="PINK WESTERN" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkwestern.png" group-title="Pink",PINK WESTERN
+http://tz1.topten70.net:29001/live?cId=237&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Romance-EXYU" tvg-name="PINK ROMANCE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkromance.png" group-title="Pink",PINK ROMANCE
+http://tz1.topten70.net:29001/live?cId=241&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Movies-EXYU" tvg-name="PINK MOVIES" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pink_movies.png" group-title="Pink",PINK MOVIES
+http://tz1.topten70.net:29001/live?cId=223&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Classic-EXYU" tvg-name="PINK CLASSIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkclassic.png" group-title="Pink",PINK CLASSIC
+http://tz1.topten70.net:29001/live?cId=229&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pink Plus-EXYU" tvg-name="PINK PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pinkplus.png" group-title="Pink",PINK PLUS
+http://tz1.topten70.net:29001/live?cId=224&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Happy" tvg-name="HAPPY REALTY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/happy_tv_rs.png" group-title="Srbijanski",HAPPY REALTY
+http://tz1.topten70.net:29001/live?cId=331&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Klasik" tvg-name="KLASIK TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/klasiktv.png" group-title="FILM",KLASIK TV
+http://tz1.topten70.net:29001/live?cId=333&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="DUGA TV" tvg-logo="" group-title="Srbijanski",DUGA TV
+http://tz1.topten70.net:29001/live?cId=377&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Jugoton" tvg-name="JUGOTON" tvg-logo="http://tz1.topten70.net:29001/logo_channels/jugoton.png" group-title="Muzicki",JUGOTON
+http://tz1.topten70.net:29001/live?cId=338&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Kitchen" tvg-name="24 KITCHEN" tvg-logo="http://tz1.topten70.net:29001/logo_channels/24kitchen.png" group-title="DOKUMENTARNI",24 KITCHEN
+http://tz1.topten70.net:29001/live?cId=339&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="AXN-EXYU" tvg-name="AXN" tvg-logo="http://tz1.topten70.net:29001/logo_channels/axn.png" group-title="FILM",AXN
+http://tz1.topten70.net:29001/live?cId=190&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CineStar" tvg-name="CINESTAR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cinestartv.png" group-title="FILM",CINESTAR
+http://tz1.topten70.net:29001/live?cId=168&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR 2 HD" tvg-logo="" group-title="FILM",CINESTAR 2 HD
+http://tz1.topten70.net:29001/live?cId=2380&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CineStar" tvg-name="CINESTAR ACTION" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cinestaraction.png" group-title="FILM",CINESTAR ACTION
+http://tz1.topten70.net:29001/live?cId=188&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CineStar" tvg-name="CINESTAR FANTASY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cinestarfantasy.png" group-title="FILM",CINESTAR FANTASY
+http://tz1.topten70.net:29001/live?cId=185&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Cinestar Premiere 1 HD-EXYU" tvg-name="CINESTAR PREMIERE 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cinestarpremiere1.png" group-title="FILM",CINESTAR PREMIERE 1
+http://tz1.topten70.net:29001/live?cId=157&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Cinestar Premiere 2 HD-EXYU" tvg-name="CINESTAR PREMIERE 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cine_star_hr_premiere2.png" group-title="FILM",CINESTAR PREMIERE 2
+http://tz1.topten70.net:29001/live?cId=156&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO-EXYU" tvg-name="HBO" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hbo.png" group-title="FILM",HBO
+http://tz1.topten70.net:29001/live?cId=158&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO 2-EXYU" tvg-name="HBO 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hbo2.png" group-title="FILM",HBO 2
+http://tz1.topten70.net:29001/live?cId=159&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO 3-EXYU" tvg-name="HBO 3" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hbo3.png" group-title="FILM",HBO 3
+http://tz1.topten70.net:29001/live?cId=160&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIASAT TV1000-EXYU" tvg-name="TV 1000" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tv1000.png" group-title="FILM",TV 1000
+http://tz1.topten70.net:29001/live?cId=120&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="" group-title="FILM",CINEMANIA
+http://tz1.topten70.net:29001/live?cId=2348&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSTAR TV" tvg-logo="" group-title="FILM",SUPERSTAR TV
+http://tz1.topten70.net:29001/live?cId=2452&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="FOX-EXYU" tvg-name="FOX" tvg-logo="http://tz1.topten70.net:29001/logo_channels/fox.png" group-title="FILM",FOX
+http://tz1.topten70.net:29001/live?cId=145&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="FOX Crime-EXYU" tvg-name="FOX CRIME HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/foxcrime.png" group-title="FILM",FOX CRIME HD
+http://tz1.topten70.net:29001/live?cId=334&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="FOX Life-EXYU" tvg-name="FOX LIFE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/foxlife.png" group-title="FILM",FOX LIFE
+http://tz1.topten70.net:29001/live?cId=335&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="FOX Movies-EXYU" tvg-name="FOX MOVIES" tvg-logo="http://tz1.topten70.net:29001/logo_channels/foxmovies.png" group-title="FILM",FOX MOVIES
+http://tz1.topten70.net:29001/live?cId=336&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Cinemax 1 HD-EXYU" tvg-name="CINEMAX 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cinemax.png" group-title="FILM",CINEMAX 1
+http://tz1.topten70.net:29001/live?cId=342&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Cinemax 2-EXYU" tvg-name="CINEMAX 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cinemax2.png" group-title="FILM",CINEMAX 2
+http://tz1.topten70.net:29001/live?cId=343&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="FILMBOX EXTRA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/filmboxextra.png" group-title="FILM",FILMBOX EXTRA
+http://tz1.topten70.net:29001/live?cId=349&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Filmbox Plus-EXYU" tvg-name="FILMBOX PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/filmboxplus.png" group-title="FILM",FILMBOX PLUS
+http://tz1.topten70.net:29001/live?cId=348&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="PICKBOX TV" tvg-logo="" group-title="FILM",PICKBOX TV
+http://tz1.topten70.net:29001/live?cId=2419&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="FILM KLUB" tvg-logo="" group-title="FILM",FILM KLUB
+http://tz1.topten70.net:29001/live?cId=2358&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL Passion-EXYU" tvg-name="CINEMATIC WAR" tvg-logo="" group-title="FILM",CINEMATIC WAR
+http://tz1.topten70.net:29001/live?cId=1908&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO Comedy HD-EXYU" tvg-name="CINEMATIC WESTERN" tvg-logo="" group-title="FILM",CINEMATIC WESTERN
+http://tz1.topten70.net:29001/live?cId=1909&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 02" tvg-logo="" group-title="FILM",MAXX SELECT 02
+http://tz1.topten70.net:29001/live?cId=1910&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 03" tvg-logo="" group-title="FILM",MAXX SELECT 03
+http://tz1.topten70.net:29001/live?cId=1911&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 04" tvg-logo="" group-title="FILM",MAXX SELECT 04
+http://tz1.topten70.net:29001/live?cId=1912&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 05" tvg-logo="" group-title="FILM",MAXX SELECT 05
+http://tz1.topten70.net:29001/live?cId=1913&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 07" tvg-logo="" group-title="FILM",MAXX SELECT 07
+http://tz1.topten70.net:29001/live?cId=1914&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 08" tvg-logo="" group-title="FILM",MAXX SELECT 08
+http://tz1.topten70.net:29001/live?cId=1915&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAXX SELECT 09" tvg-logo="" group-title="FILM",MAXX SELECT 09
+http://tz1.topten70.net:29001/live?cId=1916&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIASAT TV1000-EXYU" tvg-name="MAXX SELECT 10" tvg-logo="" group-title="FILM",MAXX SELECT 10
+http://tz1.topten70.net:29001/live?cId=1917&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO Comedy HD-EXYU" tvg-name="CINEMATIC ACTION" tvg-logo="" group-title="FILM",CINEMATIC ACTION
+http://tz1.topten70.net:29001/live?cId=1918&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO Comedy HD-EXYU" tvg-name="CINEMATIC COMEDY" tvg-logo="" group-title="FILM",CINEMATIC COMEDY
+http://tz1.topten70.net:29001/live?cId=1919&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="HBO Comedy HD-EXYU" tvg-name="CINEMATIC CRIME" tvg-logo="" group-title="FILM",CINEMATIC CRIME
+http://tz1.topten70.net:29001/live?cId=1920&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL Passion-EXYU" tvg-name="CINEMATIC DRAMA" tvg-logo="" group-title="FILM",CINEMATIC DRAMA
+http://tz1.topten70.net:29001/live?cId=1921&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SK 1 HD-EXYU" tvg-name="CINEMATIC THRILLER" tvg-logo="" group-title="FILM",CINEMATIC THRILLER
+http://tz1.topten70.net:29001/live?cId=1922&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SK 1 HD-EXYU" tvg-name="MAXX SELECT 01" tvg-logo="" group-title="FILM",MAXX SELECT 01
+http://tz1.topten70.net:29001/live?cId=1931&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELEDEON" tvg-logo="http://tz1.topten70.net:29001/logo_channels/nickelodeon_us.png" group-title="KIDS",NICKELEDEON
+http://tz1.topten70.net:29001/live?cId=31&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL Kockica-EXYU" tvg-name="RTL KOCKICA" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtlkockica.png" group-title="KIDS",RTL KOCKICA
+http://tz1.topten70.net:29001/live?cId=48&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Hayatovci" tvg-name="HAYATOVCI" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hayatovci.png" group-title="KIDS",HAYATOVCI
+http://tz1.topten70.net:29001/live?cId=36&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://tz1.topten70.net:29001/logo_channels/boomerang.png" group-title="KIDS",BOOMERANG
+http://tz1.topten70.net:29001/live?cId=256&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="MINI TV" tvg-logo="" group-title="KIDS",MINI TV
+http://tz1.topten70.net:29001/live?cId=2420&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Minimax" tvg-name="MINIMAX" tvg-logo="http://tz1.topten70.net:29001/logo_channels/minimax.png" group-title="KIDS",MINIMAX
+http://tz1.topten70.net:29001/live?cId=116&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="PIKABO" tvg-logo="" group-title="KIDS",PIKABO
+http://tz1.topten70.net:29001/live?cId=2351&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nickelodeon HD-EXYU" tvg-name="NICK JUNIOR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/niki-junior-ua.png" group-title="KIDS",NICK JUNIOR
+http://tz1.topten70.net:29001/live?cId=113&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ARENA BH" tvg-logo="" group-title="SPORT",ARENA BH
+http://tz1.topten70.net:29001/live?cId=2465&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIASAT TV1000-EXYU" tvg-name="NOVA SPORT BIH" tvg-logo="" group-title="SPORT",NOVA SPORT BIH
+http://tz1.topten70.net:29001/live?cId=2115&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ARENA 1 PREMIUM HD" tvg-logo="" group-title="SPORT",ARENA 1 PREMIUM HD
+http://tz1.topten70.net:29001/live?cId=2466&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ARENA 2 PREMIUM HD" tvg-logo="" group-title="SPORT",ARENA 2 PREMIUM HD
+http://tz1.topten70.net:29001/live?cId=2467&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ARENA 3 PREMIUM HD" tvg-logo="" group-title="SPORT",ARENA 3 PREMIUM HD
+http://tz1.topten70.net:29001/live?cId=2468&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 1-EXYU" tvg-name="ARENA 1 HD HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arena_sport_hr_1.png" group-title="SPORT",ARENA 1 HD HR
+http://tz1.topten70.net:29001/live?cId=47&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 2-EXYU" tvg-name="ARENA 2 HD HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport2.png" group-title="SPORT",ARENA 2 HD HR
+http://tz1.topten70.net:29001/live?cId=54&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena" tvg-name="ARENA 3 HD HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport3.png" group-title="SPORT",ARENA 3 HD HR
+http://tz1.topten70.net:29001/live?cId=72&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 4-EXYU" tvg-name="ARENA 4 HD HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport4.png" group-title="SPORT",ARENA 4 HD HR
+http://tz1.topten70.net:29001/live?cId=314&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 5-EXYU" tvg-name="ARENA 5 HD HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport5.png" group-title="SPORT",ARENA 5 HD HR
+http://tz1.topten70.net:29001/live?cId=315&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena" tvg-name="ARENA 6 HD HR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport6.png" group-title="SPORT",ARENA 6 HD HR
+http://tz1.topten70.net:29001/live?cId=316&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 1-EXYU" tvg-name="ARENA 1 HD SR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport1.png" group-title="SPORT",ARENA 1 HD SR
+http://tz1.topten70.net:29001/live?cId=85&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 2-EXYU" tvg-name="ARENA 2 HD SR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport2.png" group-title="SPORT",ARENA 2 HD SR
+http://tz1.topten70.net:29001/live?cId=89&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arena Sport 3-EXYU" tvg-name="ARENA 3 HD SR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/arenasport3.png" group-title="SPORT",ARENA 3 HD SR
+http://tz1.topten70.net:29001/live?cId=191&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ARENA 4 HD SR" tvg-logo="" group-title="SPORT",ARENA 4 HD SR
+http://tz1.topten70.net:29001/live?cId=2341&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB  HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs_hd.png" group-title="SPORT",SPORT KLUB  HD
+http://tz1.topten70.net:29001/live?cId=257&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport1" tvg-name="SPORT KLUB 1 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs_1.png" group-title="SPORT",SPORT KLUB 1 HD
+http://tz1.topten70.net:29001/live?cId=84&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 2 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs_2.png" group-title="SPORT",SPORT KLUB 2 HD
+http://tz1.topten70.net:29001/live?cId=81&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 3 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs_3.png" group-title="SPORT",SPORT KLUB 3 HD
+http://tz1.topten70.net:29001/live?cId=77&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 4" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 4
+http://tz1.topten70.net:29001/live?cId=38&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 5" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 5
+http://tz1.topten70.net:29001/live?cId=39&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 7" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 7
+http://tz1.topten70.net:29001/live?cId=41&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 6" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 6
+http://tz1.topten70.net:29001/live?cId=40&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 8" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 8
+http://tz1.topten70.net:29001/live?cId=42&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SPORT KLUB 9" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 9
+http://tz1.topten70.net:29001/live?cId=43&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport1" tvg-name="SPORT KLUB 10" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport_klub_rs.png" group-title="SPORT",SPORT KLUB 10
+http://tz1.topten70.net:29001/live?cId=86&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="BHT" tvg-name="PREMIER LIGA BIH" tvg-logo="" group-title="SPORT",PREMIER LIGA BIH
+http://tz1.topten70.net:29001/live?cId=363&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/eurosport_fr_1.png" group-title="SPORT",EUROSPORT 1
+http://tz1.topten70.net:29001/live?cId=75&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Eurosport 2-EXYU" tvg-name="EUROSPORT 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/eurosport_fr_2.png" group-title="SPORT",EUROSPORT 2
+http://tz1.topten70.net:29001/live?cId=90&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Planet" tvg-name="PLANET  SPORT 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/planeta_tv.png" group-title="SPORT",PLANET  SPORT 1
+http://tz1.topten70.net:29001/live?cId=325&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Planet" tvg-name="PLANET  SPORT 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/planeta_tv.png" group-title="SPORT",PLANET  SPORT 2
+http://tz1.topten70.net:29001/live?cId=326&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Planet" tvg-name="PLANET  SPORT 3" tvg-logo="http://tz1.topten70.net:29001/logo_channels/planeta_tv.png" group-title="SPORT",PLANET  SPORT 3
+http://tz1.topten70.net:29001/live?cId=327&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport1" tvg-name="BEIN SPORT 1 HD TR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/be_in_mena_sports_01.png" group-title="SPORT",BEIN SPORT 1 HD TR
+http://tz1.topten70.net:29001/live?cId=328&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="BEIN SPORT 2 HD TR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/be_in_mena_sports_02.png" group-title="SPORT",BEIN SPORT 2 HD TR
+http://tz1.topten70.net:29001/live?cId=329&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="BEIN SPORT 3 HD TR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/be_in_mena_sports_03.png" group-title="SPORT",BEIN SPORT 3 HD TR
+http://tz1.topten70.net:29001/live?cId=330&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="SKY BUNDESLIGA HD 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_uk_insider_hd.png" group-title="SPORT",SKY BUNDESLIGA HD 1
+http://tz1.topten70.net:29001/live?cId=218&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="SKY BUNDESLIGA HD 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",SKY BUNDESLIGA HD 2
+http://tz1.topten70.net:29001/live?cId=299&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="SKY BUNDESLIGA HD 3" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",SKY BUNDESLIGA HD 3
+http://tz1.topten70.net:29001/live?cId=300&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="SKY BUNDESLIGA HD 4" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",SKY BUNDESLIGA HD 4
+http://tz1.topten70.net:29001/live?cId=301&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="SKY BUNDESLIGA HD 5" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",SKY BUNDESLIGA HD 5
+http://tz1.topten70.net:29001/live?cId=302&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SK 1 HD-EXYU" tvg-name="DAZN SPORT 1 HD DE" tvg-logo="" group-title="SPORT",DAZN SPORT 1 HD DE
+http://tz1.topten70.net:29001/live?cId=385&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SK 2 HD-EXYU" tvg-name="DAZN SPORT 2 HD DE" tvg-logo="" group-title="SPORT",DAZN SPORT 2 HD DE
+http://tz1.topten70.net:29001/live?cId=386&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="SKY SPORT 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport.png" group-title="SPORT",SKY SPORT 1
+http://tz1.topten70.net:29001/live?cId=173&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="SKY SPORT 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_it_sport_2_hd.png" group-title="SPORT",SKY SPORT 2
+http://tz1.topten70.net:29001/live?cId=174&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport" tvg-name="SKY SPORT 4" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport.png" group-title="SPORT",SKY SPORT 4
+http://tz1.topten70.net:29001/live?cId=304&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="SKY SPORT AUT" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_sport_austria.png" group-title="SPORT",SKY SPORT AUT
+http://tz1.topten70.net:29001/live?cId=142&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CANAL+" tvg-name="FIGHT CHANNEL" tvg-logo="" group-title="SPORT",FIGHT CHANNEL
+http://tz1.topten70.net:29001/live?cId=2097&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="TV" tvg-name="HNTV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hntv_hr.png" group-title="SPORT",HNTV
+http://tz1.topten70.net:29001/live?cId=340&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="SPTV" tvg-logo="" group-title="SPORT",SPTV
+http://tz1.topten70.net:29001/live?cId=2417&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1" tvg-logo="" group-title="SPORT",SKY SPORT F1
+http://tz1.topten70.net:29001/live?cId=2405&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ORF" tvg-name="ORF SPORT+ HD" tvg-logo="" group-title="SPORT",ORF SPORT+ HD
+http://tz1.topten70.net:29001/live?cId=2098&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sport1" tvg-name="SPORT 1 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sport1_de.png" group-title="SPORT",SPORT 1 HD
+http://tz1.topten70.net:29001/live?cId=205&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CANAL+" tvg-name="CANAL+ SPORT" tvg-logo="http://tz1.topten70.net:29001/logo_channels/canalplus_fr_sport.png" group-title="SPORT",CANAL+ SPORT
+http://tz1.topten70.net:29001/live?cId=350&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1 DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/eurosport_fr_1.png" group-title="SPORT",EUROSPORT 1 DE
+http://tz1.topten70.net:29001/live?cId=357&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="EUROSPORT 2 DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/eurosport_fr_2.png" group-title="SPORT",EUROSPORT 2 DE
+http://tz1.topten70.net:29001/live?cId=358&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SOS Kanal Plus-EXYU" tvg-name="SOS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/somos_tv.png" group-title="SPORT",SOS
+http://tz1.topten70.net:29001/live?cId=235&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl_de.png" group-title="DEUTSCH",RTL DE
+http://tz1.topten70.net:29001/live?cId=103&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl2.png" group-title="DEUTSCH",RTL 2 DE
+http://tz1.topten70.net:29001/live?cId=104&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ORF" tvg-name="ORF 1" tvg-logo="http://tz1.topten70.net:29001/logo_channels/drf_1_de.png" group-title="DEUTSCH",ORF 1
+http://tz1.topten70.net:29001/live?cId=109&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ORF" tvg-name="ORF 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/srf_2_ch.png" group-title="DEUTSCH",ORF 2
+http://tz1.topten70.net:29001/live?cId=100&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ORF" tvg-name="ORF 3" tvg-logo="" group-title="DEUTSCH",ORF 3
+http://tz1.topten70.net:29001/live?cId=2099&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Super" tvg-name="SUPER RTL DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/super_rtl_de.png" group-title="DEUTSCH",SUPER RTL DE
+http://tz1.topten70.net:29001/live?cId=105&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VOX" tvg-name="VOX" tvg-logo="http://tz1.topten70.net:29001/logo_channels/vox_de.png" group-title="DEUTSCH",VOX
+http://tz1.topten70.net:29001/live?cId=106&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV AT" tvg-logo="http://tz1.topten70.net:29001/logo_channels/startv-alt.png" group-title="DEUTSCH",ATV AT
+http://tz1.topten70.net:29001/live?cId=108&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="PULS 4" tvg-logo="" group-title="DEUTSCH",PULS 4
+http://tz1.topten70.net:29001/live?cId=2147&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Arte" tvg-name="DAS ERSTE DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/ard_das_erste.png" group-title="DEUTSCH",DAS ERSTE DE
+http://tz1.topten70.net:29001/live?cId=344&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="KINOWELT" tvg-logo="http://tz1.topten70.net:29001/logo_channels/kinowelt_tv.png" group-title="DEUTSCH",KINOWELT
+http://tz1.topten70.net:29001/live?cId=141&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Disney" tvg-name="SKY DE DISNEY JUNIOR" tvg-logo="http://tz1.topten70.net:29001/logo_channels/disney_junior_us.png" group-title="DEUTSCH",SKY DE DISNEY JUNIOR
+http://tz1.topten70.net:29001/live?cId=359&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="SKY COMEDY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_cinema_comedy.png" group-title="DEUTSCH",SKY COMEDY
+http://tz1.topten70.net:29001/live?cId=140&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="SKY ACTION DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_cinema_action.png" group-title="DEUTSCH",SKY ACTION DE
+http://tz1.topten70.net:29001/live?cId=347&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="SKY CINEMA DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_uk_cinema.png" group-title="DEUTSCH",SKY CINEMA DE
+http://tz1.topten70.net:29001/live?cId=353&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="SKY CINEMA +24 DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_cinema_plus24.png" group-title="DEUTSCH",SKY CINEMA +24 DE
+http://tz1.topten70.net:29001/live?cId=354&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="SKY HITS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_cinema_hits.png" group-title="DEUTSCH",SKY HITS
+http://tz1.topten70.net:29001/live?cId=307&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="SKY ATLANTIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky-atlantic-uk.png" group-title="DEUTSCH",SKY ATLANTIC
+http://tz1.topten70.net:29001/live?cId=259&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="SKY ROMANCE TV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/romance_tv_de.png" group-title="DEUTSCH",SKY ROMANCE TV
+http://tz1.topten70.net:29001/live?cId=193&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="13th" tvg-name="13th STREET" tvg-logo="http://tz1.topten70.net:29001/logo_channels/13th_street_de.png" group-title="DEUTSCH",13th STREET
+http://tz1.topten70.net:29001/live?cId=282&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="SKY NOSTALGIE DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_cinema_nostalgie.png" group-title="DEUTSCH",SKY NOSTALGIE DE
+http://tz1.topten70.net:29001/live?cId=356&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="SKY CINEMA EMOTION" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_cinema_emotion.png" group-title="DEUTSCH",SKY CINEMA EMOTION
+http://tz1.topten70.net:29001/live?cId=107&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyFamily.de" tvg-name="SKY FAMILY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_it_cinema_family.png" group-title="DEUTSCH",SKY FAMILY
+http://tz1.topten70.net:29001/live?cId=139&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ZEEONE" tvg-logo="" group-title="DEUTSCH",ZEEONE
+http://tz1.topten70.net:29001/live?cId=2373&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="SYFY DE" tvg-logo="" group-title="DEUTSCH",SYFY DE
+http://tz1.topten70.net:29001/live?cId=2374&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="History.de" tvg-name="SKYDE HISTORY CHANNEL HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/discoverychannel.png" group-title="DEUTSCH",SKYDE HISTORY CHANNEL HD
+http://tz1.topten70.net:29001/live?cId=280&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/discoverychannel.png" group-title="DEUTSCH",DISCOVERY DE
+http://tz1.topten70.net:29001/live?cId=281&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD DE" tvg-logo="" group-title="DEUTSCH",NG WILD DE
+http://tz1.topten70.net:29001/live?cId=2371&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET DE" tvg-logo="" group-title="DEUTSCH",ANIMAL PLANET DE
+http://tz1.topten70.net:29001/live?cId=2379&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="NG DE" tvg-logo="" group-title="DEUTSCH",NG DE
+http://tz1.topten70.net:29001/live?cId=2370&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="SKYDE SELECT 1 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_store.png" group-title="DEUTSCH",SKYDE SELECT 1 HD
+http://tz1.topten70.net:29001/live?cId=308&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="SKYDE SELECT 2 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_store.png" group-title="DEUTSCH",SKYDE SELECT 2 HD
+http://tz1.topten70.net:29001/live?cId=309&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="SKYDE SELECT 3 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_store.png" group-title="DEUTSCH",SKYDE SELECT 3 HD
+http://tz1.topten70.net:29001/live?cId=310&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="SKYDE SELECT 4 HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sky_de_store.png" group-title="DEUTSCH",SKYDE SELECT 4 HD
+http://tz1.topten70.net:29001/live?cId=311&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL NITRO" tvg-logo="http://tz1.topten70.net:29001/logo_channels/nitro_de.png" group-title="DEUTSCH",RTL NITRO
+http://tz1.topten70.net:29001/live?cId=172&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sixx.png" group-title="DEUTSCH",SIXX HD
+http://tz1.topten70.net:29001/live?cId=176&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/zdf_de.png" group-title="DEUTSCH",ZDF HD
+http://tz1.topten70.net:29001/live?cId=345&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTS" tvg-name="RTL PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtl_plus_hu.png" group-title="DEUTSCH",RTL PLUS
+http://tz1.topten70.net:29001/live?cId=180&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="PRO 7" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pro-tv-ro.png" group-title="DEUTSCH",PRO 7
+http://tz1.topten70.net:29001/live?cId=177&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SATEINS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/sat1_de_nrw.png" group-title="DEUTSCH",SATEINS
+http://tz1.topten70.net:29001/live?cId=171&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SK 1 HD-EXYU" tvg-name="SAT 1. GOLD" tvg-logo="" group-title="DEUTSCH",SAT 1. GOLD
+http://tz1.topten70.net:29001/live?cId=1907&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="KABEL EINS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/kabel_eins_ch.png" group-title="DEUTSCH",KABEL EINS
+http://tz1.topten70.net:29001/live?cId=181&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="N 24" tvg-logo="http://tz1.topten70.net:29001/logo_channels/n24_de.png" group-title="DEUTSCH",N 24
+http://tz1.topten70.net:29001/live?cId=175&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://tz1.topten70.net:29001/logo_channels/dmax_us.png" group-title="DEUTSCH",DMAX
+http://tz1.topten70.net:29001/live?cId=179&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="PRO 7 MAX" tvg-logo="http://tz1.topten70.net:29001/logo_channels/pro_sieben_maxx_at.png" group-title="DEUTSCH",PRO 7 MAX
+http://tz1.topten70.net:29001/live?cId=178&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="TOP" tvg-name="TOGGO PLUS" tvg-logo="http://tz1.topten70.net:29001/logo_channels/toggo_plus_de.png" group-title="DEUTSCH",TOGGO PLUS
+http://tz1.topten70.net:29001/live?cId=194&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="CARTOON NETWORK DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/cartoon_network_global.png" group-title="DEUTSCH",CARTOON NETWORK DE
+http://tz1.topten70.net:29001/live?cId=341&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON DE" tvg-logo="" group-title="DEUTSCH",NICKELODEON DE
+http://tz1.topten70.net:29001/live?cId=361&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="E! HD-EXYU" tvg-name="BOOMERANG DE" tvg-logo="" group-title="DEUTSCH",BOOMERANG DE
+http://tz1.topten70.net:29001/live?cId=372&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="KIKA HD" tvg-logo="" group-title="DEUTSCH",KIKA HD
+http://tz1.topten70.net:29001/live?cId=2346&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Disney" tvg-name="DISNEY CINEMAGIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/disney_cinemagic_de.png" group-title="DEUTSCH",DISNEY CINEMAGIC
+http://tz1.topten70.net:29001/live?cId=206&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL PASSION DE HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/rtlpassion.png" group-title="DEUTSCH",RTL PASSION DE HD
+http://tz1.topten70.net:29001/live?cId=346&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Inter" tvg-name="N-TV DE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/n-tv-de.png" group-title="DEUTSCH",N-TV DE
+http://tz1.topten70.net:29001/live?cId=203&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Telma" tvg-name="TELE 5" tvg-logo="http://tz1.topten70.net:29001/logo_channels/tele5_pl.png" group-title="DEUTSCH",TELE 5
+http://tz1.topten70.net:29001/live?cId=204&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/discoverychannel.png" group-title="DOKUMENTARNI",DISCOVERY
+http://tz1.topten70.net:29001/live?cId=133&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCI HD" tvg-logo="" group-title="DOKUMENTARNI",DISCOVERY SCI HD
+http://tz1.topten70.net:29001/live?cId=2352&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Animal" tvg-name="ANIMAL PLANET" tvg-logo="http://tz1.topten70.net:29001/logo_channels/animalplanet.png" group-title="DOKUMENTARNI",ANIMAL PLANET
+http://tz1.topten70.net:29001/live?cId=134&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY HD 2" tvg-logo="http://tz1.topten70.net:29001/logo_channels/history2.png" group-title="DOKUMENTARNI",HISTORY HD 2
+http://tz1.topten70.net:29001/live?cId=186&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="ATV" tvg-name="POLJOPRIVREDNA TV" tvg-logo="" group-title="DOKUMENTARNI",POLJOPRIVREDNA TV
+http://tz1.topten70.net:29001/live?cId=1854&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="" group-title="DOKUMENTARNI",AGRO TV
+http://tz1.topten70.net:29001/live?cId=2343&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY HD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/history.png" group-title="DOKUMENTARNI",HISTORY HD
+http://tz1.topten70.net:29001/live?cId=95&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="National Geographic HD-EXYU" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://tz1.topten70.net:29001/logo_channels/nationalgeographic.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC
+http://tz1.topten70.net:29001/live?cId=183&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="DOCU BOX" tvg-logo="" group-title="DOKUMENTARNI",DOCU BOX
+http://tz1.topten70.net:29001/live?cId=2356&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="OYO" tvg-name="HOBY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/hobby_tv_bg.png" group-title="DOKUMENTARNI",HOBY
+http://tz1.topten70.net:29001/live?cId=167&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Lov i Ribolov-EXYU" tvg-name="LOV I RIBOLOV" tvg-logo="http://tz1.topten70.net:29001/logo_channels/ohotnik_i_rybolov.png" group-title="DOKUMENTARNI",LOV I RIBOLOV
+http://tz1.topten70.net:29001/live?cId=33&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="Viasat Nature-EXYU" tvg-name="VIASAT NATURE" tvg-logo="http://tz1.topten70.net:29001/logo_channels/viasatnature.png" group-title="DOKUMENTARNI",VIASAT NATURE
+http://tz1.topten70.net:29001/live?cId=166&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="National Geographic Wild HD-EXYU" tvg-name="NG WILD" tvg-logo="http://tz1.topten70.net:29001/logo_channels/nat_geo_wild_us.png" group-title="DOKUMENTARNI",NG WILD
+http://tz1.topten70.net:29001/live?cId=187&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="VIASAT TV1000-EXYU" tvg-name="VIASAT EXPLORER" tvg-logo="" group-title="DOKUMENTARNI",VIASAT EXPLORER
+http://tz1.topten70.net:29001/live?cId=382&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="History" tvg-name="VIASAT HISTORY" tvg-logo="http://tz1.topten70.net:29001/logo_channels/viasathistory.png" group-title="DOKUMENTARNI",VIASAT HISTORY
+http://tz1.topten70.net:29001/live?cId=132&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="TV UNA HD" tvg-logo="" group-title="BiH",TV UNA HD
+http://tz1.topten70.net:29001/live?cId=2470&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY FOLK" tvg-logo="" group-title="Muzicki",BALKAN SKY FOLK
+http://tz1.topten70.net:29001/live?cId=2471&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY SELO VESELO" tvg-logo="" group-title="Muzicki",BALKAN SKY SELO VESELO
+http://tz1.topten70.net:29001/live?cId=2472&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="" group-title="Muzicki",TOP TV
+http://tz1.topten70.net:29001/live?cId=2473&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="SEVDAH TV" tvg-logo="" group-title="Muzicki",SEVDAH TV
+http://tz1.topten70.net:29001/live?cId=2474&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="NOVA DOCUMENTARY" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOCUMENTARY
+http://tz1.topten70.net:29001/live?cId=2486&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="NOVA DOCUMENTARY 2" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOCUMENTARY 2
+http://tz1.topten70.net:29001/live?cId=2487&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SERIES" tvg-logo="" group-title="Srbijanski",NOVA SERIES
+http://tz1.topten70.net:29001/live?cId=2488&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1 NL" tvg-logo="" group-title="SPORT",ESPN SPORTS 1 NL
+http://tz1.topten70.net:29001/live?cId=2489&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2 NL" tvg-logo="" group-title="SPORT",ESPN SPORTS 2 NL
+http://tz1.topten70.net:29001/live?cId=2490&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3 NL" tvg-logo="" group-title="SPORT",ESPN SPORTS 3 NL
+http://tz1.topten70.net:29001/live?cId=2491&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 4 NL" tvg-logo="" group-title="SPORT",ESPN SPORTS 4 NL
+http://tz1.topten70.net:29001/live?cId=2492&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 1" tvg-logo="" group-title="SPORT",MNE SPORT 1
+http://tz1.topten70.net:29001/live?cId=2493&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 2" tvg-logo="" group-title="SPORT",MNE SPORT 2
+http://tz1.topten70.net:29001/live?cId=2494&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 3" tvg-logo="" group-title="SPORT",MNE SPORT 3
+http://tz1.topten70.net:29001/live?cId=2495&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="UNA TV SR" tvg-logo="" group-title="Srbijanski",UNA TV SR
+http://tz1.topten70.net:29001/live?cId=2496&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="ALBANSKI",RTK 1
+http://tz1.topten70.net:29001/live?cId=2497&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="ALBANSKI",RTK 2
+http://tz1.topten70.net:29001/live?cId=2498&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="" group-title="ALBANSKI",RTK 3
+http://tz1.topten70.net:29001/live?cId=2499&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="" group-title="ALBANSKI",RTK 4
+http://tz1.topten70.net:29001/live?cId=2500&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7" tvg-logo="" group-title="ALBANSKI",Kanali 7
+http://tz1.topten70.net:29001/live?cId=2501&uid=1937&deviceUser=kalTMlETSVH&devicePass=crniL0neP4JAhIL
