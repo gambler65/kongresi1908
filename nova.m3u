@@ -1,0 +1,2551 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Channels",BHT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/592
+#EXTINF:0 tvg-id="RTRS.rs" group-title="Channels",RTRS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/523
+#EXTINF:0 tvg-id="RTRSPlus.ba" group-title="Channels",RTRS Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7274
+#EXTINF:0 tvg-id="AlJazeeraBalkans.hr" group-title="Channels",Al Jazeera Balkans HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/600
+#EXTINF:0 tvg-id="OBN.svn" group-title="Channels",OBN
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/541
+#EXTINF:0 tvg-id="ext" group-title="Channels",OBN HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9237
+#EXTINF:0 tvg-id="facetv.ba" group-title="Channels",Face Tv HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/573
+#EXTINF:0 tvg-id="HAYATTVBIH.hr" group-title="Channels",Hayat HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/566
+#EXTINF:0 tvg-id="hayat-plus.ba" group-title="Channels",Hayat Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/563
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA BH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9279
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA BH.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9280
+#EXTINF:0 tvg-id="N1Croatia.hr" group-title="Channels",N1 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9273
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/597
+#EXTINF:0 tvg-id="BNTV.svn" group-title="Channels",BN TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/590
+#EXTINF:0 tvg-id="BNTV.svn" group-title="Channels",BN TV.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8847
+#EXTINF:0 tvg-id="ext" group-title="Channels",BN 2 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10233
+#EXTINF:0 tvg-id="ext" group-title="Channels",O Kanal
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/508
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNA TV BH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12464
+#EXTINF:0 tvg-id="ext" group-title="Channels",K3 Prnjavor
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/509
+#EXTINF:0 tvg-id="ext" group-title="Channels",HIT
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5749
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELTA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8849
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELTA 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8850
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tok TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13001
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV IS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12391
+#EXTINF:0 tvg-id="ext" group-title="Channels",Neon TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9192
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bosansko Posavska TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9065
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV HB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6762
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Cazin
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6901
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Sana
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8661
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Podrinje
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7467
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Vogosca
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5748
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Krajina
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9066
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sarajevo HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/511
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRVA HERCEGOVACKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10250
+#EXTINF:0 tvg-id="Super!.it" group-title="Channels",SUPER TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10251
+#EXTINF:0 tvg-id="6eren.dk" group-title="Channels",KANAL 6 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10252
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Channels",CITY TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10253
+#EXTINF:0 tvg-id="ext" group-title="Channels",NTV 101
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10264
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Lukavac
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10265
+#EXTINF:0 tvg-id="alfatv.ba" group-title="Channels",Alfa TV Sarajevo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5600
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",TV TK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3687
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 7 Tuzla
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8901
+#EXTINF:0 tvg-id="ext" group-title="Channels",USK HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/506
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bugojno TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7429
+#EXTINF:0 tvg-id="ext" group-title="Channels",Glas Drine
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5596
+#EXTINF:0 tvg-id="ext" group-title="Channels",B1 Gradacac
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6736
+#EXTINF:0 tvg-id="NTV.tr" group-title="Channels",NTV IC Kakanj
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5603
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Zenica
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5598
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Slon Extra
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/510
+#EXTINF:0 tvg-id="ext" group-title="Channels",MIR TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6457
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Igman
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3795
+#EXTINF:0 tvg-id="Vikom.svn" group-title="Channels",VIKOM
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8852
+#EXTINF:0 tvg-id="ext" group-title="Channels",HEMA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5660
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 5 HD Islam
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5477
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mekka TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5602
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIR TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8899
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sandzak TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6026
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sehara TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5366
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Visoko
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/395
+#EXTINF:0 tvg-id="ext" group-title="Channels",TATABRADA TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10267
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/560
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6049
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/558
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/557
+#EXTINF:0 tvg-id="HRTTV1.hr" group-title="Channels",HRT 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6858
+#EXTINF:0 tvg-id="HRTTV2.hr" group-title="Channels",HRT 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/559
+#EXTINF:0 tvg-id="HRT3.hr" group-title="Channels",HRT 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6859
+#EXTINF:0 tvg-id="HRT4.hr" group-title="Channels",HRT 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6860
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/556
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 1 HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12097
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 2 HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12100
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 3 HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12098
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 4 HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12099
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl Croatia World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10165
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL Adria
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8629
+#EXTINF:0 tvg-id="RTLTelevizija.hr" group-title="Channels",RTL HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7516
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL HR HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8220
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL HR HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12092
+#EXTINF:0 tvg-id="rtl2.hr" group-title="Channels",RTL 2 HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7519
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2 HR HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8298
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2 HR HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12093
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL Passion
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7518
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL Passion FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8281
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7517
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8299
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL Living
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8001
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL Living FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8301
+#EXTINF:0 tvg-id="N1Croatia.hr" group-title="Channels",N1 HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9272
+#EXTINF:0 tvg-id="NovaTV.hr" group-title="Channels",NOVA TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9270
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9278
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA TV HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12090
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12617
+#EXTINF:0 tvg-id="NovaCinema.cz" group-title="Channels",Nova Cinema
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12618
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Family
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12619
+#EXTINF:0 tvg-id="DomaTV.hr" group-title="Channels",DOMA TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9286
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOMA TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9287
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOMA TV HD (Hevc)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12091
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNA TV HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12463
+#EXTINF:0 tvg-id="Z1.cz" group-title="Channels",Z1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/499
+#EXTINF:0 tvg-id="LaudatoTV.hr" group-title="Channels",Laudato TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/553
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mreza Zagreb
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8041
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mreza Split
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8042
+#EXTINF:0 tvg-id="ext" group-title="Channels",Banovina TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/593
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prigorska TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8863
+#EXTINF:0 tvg-id="OsječkaTV.hr" group-title="Channels",Osjecka TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/554
+#EXTINF:0 tvg-id="VinkovačkaTV.hr" group-title="Channels",Vinkovacka TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5845
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SIBENIK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8855
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV KARLOVAC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8856
+#EXTINF:0 tvg-id="PosavinaTV.hr" group-title="Channels",Posavina TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/397
+#EXTINF:0 tvg-id="ext" group-title="Channels",Slavonska Televizija
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/555
+#EXTINF:0 tvg-id="JabukaTV.svn" group-title="Channels",Jabuka TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6331
+#EXTINF:0 tvg-id="ext" group-title="Channels",KanalR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6330
+#EXTINF:0 tvg-id="ext" group-title="Channels",Libertas TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6329
+#EXTINF:0 tvg-id="PoljoprivrednaTV.hr" group-title="Channels",Poljoprivredna TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6328
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6326
+#EXTINF:0 tvg-id="SrceTV.hr" group-title="Channels",Srce TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6324
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Dubrovnik
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6323
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubrovacka Televizija
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6322
+#EXTINF:0 tvg-id="TVIstra.svn" group-title="Channels",TV Istra
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6321
+#EXTINF:0 tvg-id="TVJadran.svn" group-title="Channels",TV Jadran
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6320
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Channels",Capital TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6502
+#EXTINF:0 tvg-id="ZdravaTV.svn" group-title="Channels",Zdrava TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8886
+#EXTINF:0 tvg-id="ext" group-title="Channels",Klape i Tambure
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10237
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10245
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV TREND KARLOVAC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10246
+#EXTINF:0 tvg-id="ext" group-title="Channels",MARY TV MEDJUGORJE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10247
+#EXTINF:0 tvg-id="ext" group-title="Channels",MARS TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10248
+#EXTINF:0 tvg-id="o-tv" group-title="Channels",OTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10249
+#EXTINF:0 tvg-id="ext" group-title="Channels",CRO TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10497
+#EXTINF:0 tvg-id="RTSUn.ch" group-title="Channels",RTS 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/521
+#EXTINF:0 tvg-id="RTSDeux.ch" group-title="Channels",RTS 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/520
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/519
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6886
+#EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",RTS 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9353
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS Svet HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/516
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS Nauka
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12552
+#EXTINF:0 tvg-id="RTSDrama.rs" group-title="Channels",RTS Drama
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/518
+#EXTINF:0 tvg-id="RTSZivot.rs" group-title="Channels",RTS Zivot
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/517
+#EXTINF:0 tvg-id="RTSKolo.rs" group-title="Channels",RTS Kolo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6399
+#EXTINF:0 tvg-id="RTSMuzika.rs" group-title="Channels",RTS Muzika
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6398
+#EXTINF:0 tvg-id="RTSTrezor.rs" group-title="Channels",RTS Trezor
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6400
+#EXTINF:0 tvg-id="RTSPoletarac.rs" group-title="Channels",RTS Poletarac
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12340
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS Klasika
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12525
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kurir TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9305
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blic TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12703
+#EXTINF:0 tvg-id="N1.rs" group-title="Channels",N1 SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9271
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro News Srb
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6524
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tanjug HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12524
+#EXTINF:0 tvg-id="ext" group-title="Channels",Informer TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13010
+#EXTINF:0 tvg-id="k1" group-title="Channels",K1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10263
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV DR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12551
+#EXTINF:0 tvg-id="B92.rs" group-title="Channels",B92 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8022
+#EXTINF:0 tvg-id="ext" group-title="Channels",B92 TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/594
+#EXTINF:0 tvg-id="ext" group-title="Channels",B92 TV HD.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12345
+#EXTINF:0 tvg-id="NovaS.rs" group-title="Channels",NOVA S
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9274
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Series HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12973
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA Max HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12748
+#EXTINF:0 tvg-id="happytv.sr" group-title="Channels",Happy TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/567
+#EXTINF:0 tvg-id="ext" group-title="Channels",Happy Zivot
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12705
+#EXTINF:0 tvg-id="ext" group-title="Channels",Happy Drustvo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12704
+#EXTINF:0 tvg-id="ext" group-title="Channels",Happy Zemlja
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12800
+#EXTINF:0 tvg-id="ext" group-title="Channels",Happy Muzika
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12706
+#EXTINF:0 tvg-id="Prva.hr" group-title="Channels",Prva TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8021
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prva HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/539
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRVA HD.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12346
+#EXTINF:0 tvg-id="PrvaMAX.rs" group-title="Channels",Prva Max
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/538
+#EXTINF:0 tvg-id="PrvaPlus.rs" group-title="Channels",Prva Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/537
+#EXTINF:0 tvg-id="PrvaKick.rs" group-title="Channels",Prva Kick
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3649
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prva Life
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12556
+#EXTINF:0 tvg-id="PrvaWorld.rs" group-title="Channels",Prva World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/536
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prva Files
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/545
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insta TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12728
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hype TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12578
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg Adria
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12611
+#EXTINF:0 tvg-id="ext" group-title="Channels",K::CN 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/400
+#EXTINF:0 tvg-id="ext" group-title="Channels",K::CN 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/399
+#EXTINF:0 tvg-id="ext" group-title="Channels",K::CN 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/398
+#EXTINF:0 tvg-id="agro-tv" group-title="Channels",Agro TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8865
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super Sat HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12101
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Vojvodina
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/513
+#EXTINF:0 tvg-id="studio-b-yu.sr" group-title="Channels",Studio B
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3650
+#EXTINF:0 tvg-id="PalmaPlus.hr" group-title="Channels",Palma Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3666
+#EXTINF:0 tvg-id="ext" group-title="Channels",BELLE AMIE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3665
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insajder TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/515
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hram TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8227
+#EXTINF:0 tvg-id="RTVNoviPazar.rs" group-title="Channels",RTV Novi Pazar
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/512
+#EXTINF:0 tvg-id="ext" group-title="Channels",HAPPY PAROVI 24 SATA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/568
+#EXTINF:0 tvg-id="ext" group-title="Channels",Elita Live 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6334
+#EXTINF:0 tvg-id="ext" group-title="Channels",Elita Live 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8217
+#EXTINF:0 tvg-id="ext" group-title="Channels",Elita Live 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8218
+#EXTINF:0 tvg-id="ext" group-title="Channels",Elita Live 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8501
+#EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Channels",RTCG 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/534
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTCG 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/533
+#EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Channels",RTCG Sat
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/535
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prva TV CG
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/532
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vijesti 24
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/531
+#EXTINF:0 tvg-id="PinkM.rs" group-title="Channels",PINK M
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6429
+#EXTINF:0 tvg-id="NovaM.hr" group-title="Channels",NOVA M
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9281
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA PREMIUM HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8219
+#EXTINF:0 tvg-id="HBO1.nl" group-title="Channels",HBO 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/419
+#EXTINF:0 tvg-id="HBO1.nl" group-title="Channels",HBO 1 HD.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12809
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/418
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12810
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/417
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3 HD.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12811
+#EXTINF:0 tvg-id="CinemaxHD.pl" group-title="Channels",Cinemax 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/435
+#EXTINF:0 tvg-id="Cinemax2.cz" group-title="Channels",Cinemax 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/434
+#EXTINF:0 tvg-id="CinestarPremiere1.hr" group-title="Channels",CineStar Premiere 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6543
+#EXTINF:0 tvg-id="CinestarPremiere2.hr" group-title="Channels",CineStar Premiere 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6542
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar Premiere 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/431
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar Premiere 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/430
+#EXTINF:0 tvg-id="CinestarTV.hr" group-title="Channels",CineStar TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/429
+#EXTINF:0 tvg-id="CineStarTV2.sr" group-title="Channels",CineStar TV 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8304
+#EXTINF:0 tvg-id="CinestarFantasy.svn" group-title="Channels",CineStar Fantasy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/432
+#EXTINF:0 tvg-id="CinestarAction.hr" group-title="Channels",Cinestar Action
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/433
+#EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels",Cinestar Comedy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10320
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemania HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9284
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/423
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/422
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX Life
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/421
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/420
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6305
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",FOX LIFE HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6307
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX CRIME HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6306
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels",FOX MOVIES HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6308
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER STAR TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6270
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER STAR 2 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6748
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Premium HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12802
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Extra HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/424
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Stars
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5510
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/408
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/599
+#EXTINF:0 tvg-id="epic-drama" group-title="Channels",Epic Drama
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6656
+#EXTINF:0 tvg-id="Diva.svn" group-title="Channels",Diva
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/576
+#EXTINF:0 tvg-id="Dizi.pl" group-title="Channels",Dizi
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9342
+#EXTINF:0 tvg-id="axn" group-title="Channels",SciFi
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/409
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/596
+#EXTINF:0 tvg-id="axn" group-title="Channels",AXN Spin
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/595
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",Comedy Central Extra
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/586
+#EXTINF:0 tvg-id="KlasikTV.hr" group-title="Channels",Klasik Tv
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/415
+#EXTINF:0 tvg-id="FilmKlub.rs" group-title="Channels",Film Klub
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8303
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Klub Extra
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12801
+#EXTINF:0 tvg-id="kino-tv" group-title="Channels",Kino TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/416
+#EXTINF:0 tvg-id="m1.hu" group-title="Channels",M1 Film
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/414
+#EXTINF:0 tvg-id="ext" group-title="Channels",M1 Gold
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8900
+#EXTINF:0 tvg-id="ext" group-title="Channels",M1 Family
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12861
+#EXTINF:0 tvg-id="ext" group-title="Channels",PickBox TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8563
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Cinema 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12842
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Cinema 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12843
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Cinema 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12844
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Cinema 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12845
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prijatelji 24/7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12337
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mucke 24/7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12339
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dva i po muskarca 24/7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12870
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Family.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12084
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Balkan 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9343
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX KINO HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6274
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6273
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gora Premiere HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3799
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gora Select 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5467
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/426
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5468
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5469
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5470
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5471
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 6 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5472
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 7 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5473
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 8 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5474
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX Select 9 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5475
+#EXTINF:0 tvg-id="PINKBH.hr" group-title="Channels",Pink BH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3647
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",PINK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/376
+#EXTINF:0 tvg-id="ext" group-title="Channels",PINK HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7466
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/375
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Vesti
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/374
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Action HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/373
+#EXTINF:0 tvg-id="PinkComedy.hr" group-title="Channels",Pink Comedy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/371
+#EXTINF:0 tvg-id="PinkCrime.rs" group-title="Channels",Pink Crime & Mystery
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/370
+#EXTINF:0 tvg-id="PinkFilm.rs" group-title="Channels",Pink Film
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/369
+#EXTINF:0 tvg-id="PinkFolk1.rs" group-title="Channels",Pink Folk 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/368
+#EXTINF:0 tvg-id="PinkFolk2.rs" group-title="Channels",Pink Folk 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/367
+#EXTINF:0 tvg-id="ext" group-title="Channels",PINK HA HA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/366
+#EXTINF:0 tvg-id="PinkHorror.hr" group-title="Channels",Pink Horror
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/356
+#EXTINF:0 tvg-id="PINKKids.rs" group-title="Channels",Pink Kids
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/365
+#EXTINF:0 tvg-id="PinkMovies.rs" group-title="Channels",Pink Movies
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/363
+#EXTINF:0 tvg-id="PinkMusic1.rs" group-title="Channels",Pink Music 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/362
+#EXTINF:0 tvg-id="PinkMusic2.rs" group-title="Channels",Pink Music 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/361
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink & Roll
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6640
+#EXTINF:0 tvg-id="PinkPlus.se" group-title="Channels",Pink Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/360
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/359
+#EXTINF:0 tvg-id="PinkReality.rs" group-title="Channels",Pink Reality
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/358
+#EXTINF:0 tvg-id="PinkRomance.rs" group-title="Channels",Pink Romance
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/357
+#EXTINF:0 tvg-id="PinkSciFiFantasy.rs" group-title="Channels",Pink Sci Fi & Fantasy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/355
+#EXTINF:0 tvg-id="PinkSerije.rs" group-title="Channels",Pink Serije
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/353
+#EXTINF:0 tvg-id="PinkShow.rs" group-title="Channels",Pink Show
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/352
+#EXTINF:0 tvg-id="PinkSoap.rs" group-title="Channels",PINK SOAP
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/351
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Thriler
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/354
+#EXTINF:0 tvg-id="PinkClassic.rs" group-title="Channels",Pink Classic
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5665
+#EXTINF:0 tvg-id="PinkFamily.hr" group-title="Channels",Pink Family
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5666
+#EXTINF:0 tvg-id="PinkKuvar.rs" group-title="Channels",Pink Kuvar
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5664
+#EXTINF:0 tvg-id="PinkExtra.svn" group-title="Channels",Pink Extra
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12557
+#EXTINF:0 tvg-id="PinkKoncert.rs" group-title="Channels",Pink Koncert
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12558
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink LOL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5663
+#EXTINF:0 tvg-id="PinkWorld.rs" group-title="Channels",Pink World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5667
+#EXTINF:0 tvg-id="PinkPedia.rs" group-title="Channels",Pink Pedia
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/350
+#EXTINF:0 tvg-id="PinkWestern.rs" group-title="Channels",Pink Western
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/349
+#EXTINF:0 tvg-id="PinkWorldCinema.rs" group-title="Channels",Pink World Cinema
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/348
+#EXTINF:0 tvg-id="PinkZabava.rs" group-title="Channels",Pink Zabava
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/347
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA DOKU
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10319
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6303
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/546
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/598
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8848
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/547
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/583
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/581
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7275
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",Discovery TLC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12942
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",DTX
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/578
+#EXTINF:0 tvg-id="ext" group-title="Channels",Entertaimment +
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3664
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/589
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",Crime & Investigation
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/585
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Da Vinci Learning
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/584
+#EXTINF:0 tvg-id="explorer" group-title="Channels",Viasat Explore HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/503
+#EXTINF:0 tvg-id="history" group-title="Channels",Viasat History HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/502
+#EXTINF:0 tvg-id="viasat-nature" group-title="Channels",Viasat Nature
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/501
+#EXTINF:0 tvg-id="ext" group-title="Channels",Balkan Trip
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10270
+#EXTINF:0 tvg-id="DrFit.svn" group-title="Channels",DR FIT
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/524
+#EXTINF:0 tvg-id="ext" group-title="Channels",Woman TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8866
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turizam +
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8867
+#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6298
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3651
+#EXTINF:0 tvg-id="TravelXP.in" group-title="Channels",Travel XP
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/587
+#EXTINF:0 tvg-id="PlanetEarth.hr" group-title="Channels",Planet Earth
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5389
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC Earth HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12803
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC Earth
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5677
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOKU TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5673
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOX TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12588
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",Docu Box HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/577
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/561
+#EXTINF:0 tvg-id="ext" group-title="Channels",History Channel 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/569
+#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",Food Network
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6314
+#EXTINF:0 tvg-id="24Kitchen.svn" group-title="Channels",24 Kitchen
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/601
+#EXTINF:0 tvg-id="english-club" group-title="Channels",English Club
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12804
+#EXTINF:0 tvg-id="Minimax.rs" group-title="Channels",MINIMAX
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/384
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/382
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6864
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr.
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/383
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",Nicktoons
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8861
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12559
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",Disney Junior
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12560
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12561
+#EXTINF:0 tvg-id="MiniTV.hr" group-title="Channels",Mini TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9282
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Kids
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12389
+#EXTINF:0 tvg-id="Pikaboo.svn" group-title="Channels",Pikaboo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9285
+#EXTINF:0 tvg-id="RTLKockica.hr" group-title="Channels",RTL KOCKICA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7520
+#EXTINF:0 tvg-id="Hayatovci.hr" group-title="Channels",Hayatovci
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/562
+#EXTINF:0 tvg-id="PinkSuperKids.rs" group-title="Channels",Pink Super Kids
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8048
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dexy TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10269
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kazbuka
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12550
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/388
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/389
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",Cartoonito
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/387
+#EXTINF:0 tvg-id="Vavoom.hr" group-title="Channels",VAVOOM
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10255
+#EXTINF:0 tvg-id="duck" group-title="Channels",DUCK TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10256
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Kids
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12085
+#EXTINF:0 tvg-id="ext" group-title="Channels",GORA KIDS HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10259
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX SELECT KIDS HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10257
+#EXTINF:0 tvg-id="ext" group-title="Channels",CROMAX SELECT KIDS 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10258
+#EXTINF:0 tvg-id="Ginx.svn" group-title="Channels",Ginx TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10268
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Panter TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8232
+#EXTINF:0 tvg-id="ext" group-title="Channels",Grizzy & the Lemmings
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8233
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tom and Jerry
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8046
+#EXTINF:0 tvg-id="ext" group-title="Channels",PEPA PRASE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10029
+#EXTINF:0 tvg-id="ext" group-title="Channels",MASA I MEDVJED
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5671
+#EXTINF:0 tvg-id="MaxSport1.bg" group-title="Channels",MAX SPORT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12540
+#EXTINF:0 tvg-id="MaxSport2.bg" group-title="Channels",MAX SPORT 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12986
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 Premium HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12342
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 Premium HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12343
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 Premium HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12344
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 Premium
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12362
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 Premium
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12363
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 Premium
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12392
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 Premium BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13011
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 Premium BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13012
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 Premium BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13013
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12166
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13002
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13003
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 4 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13004
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 5 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13005
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 6 BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13006
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 HD BIH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6776
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/490
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12051
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12050
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 4 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12049
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 5 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/491
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 6 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13068
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 7 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13069
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 8 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13070
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 9 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13071
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 10 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13072
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/486
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",Arena Sport 2 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/485
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Channels",Arena Sport 3 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12052
+#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="Channels",Arena Sport 4 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12053
+#EXTINF:0 tvg-id="ArenaSport5.hr" group-title="Channels",Arena Sport 5 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/482
+#EXTINF:0 tvg-id="ArenaSport6.hr" group-title="Channels",Arena Sport 6 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/481
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 7 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12106
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 8 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12107
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 9 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12108
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 10 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12109
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1x2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12533
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Fight
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12554
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Esport
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12555
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/495
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",Arena Sport 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12045
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Channels",Arena Sport 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12046
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="Channels",Arena Sport 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12047
+#EXTINF:0 tvg-id="SportKlub.pl" group-title="Channels",Sport Klub HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9301
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 1 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12037
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 2 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12038
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 3 HD SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12039
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 4 SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12040
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 5 SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9293
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 6 SRB
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12001
+#EXTINF:0 tvg-id="SportKlub1.hr" group-title="Channels",Sport Klub 1 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12041
+#EXTINF:0 tvg-id="SportKlub2.hr" group-title="Channels",Sport Klub 2 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12042
+#EXTINF:0 tvg-id="SportKlub3.hr" group-title="Channels",Sport Klub 3 HD HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12043
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 4 HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12044
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 5 HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9299
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 6 HR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9300
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12239
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 8
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12236
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 9
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12237
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 10
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12238
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 4K
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12569
+#EXTINF:0 tvg-id="SportKlubGolf.rs" group-title="Channels",Sport Klub Golf
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9303
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub Esport
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9302
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub Fight
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12770
+#EXTINF:0 tvg-id="NovaSport.cz" group-title="Channels",Nova Sport HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9288
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuvo TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12514
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6540
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/467
+#EXTINF:0 tvg-id="ext" group-title="Channels",GP 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12589
+#EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT CHANNEL HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9277
+#EXTINF:0 tvg-id="FightBoxHD.blt" group-title="Channels",Fight Box HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5509
+#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10478
+#EXTINF:0 tvg-id="SOS.hr" group-title="Channels",SOS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/438
+#EXTINF:0 tvg-id="ext" group-title="Channels",Partizan TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5508
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zvezda TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8302
+#EXTINF:0 tvg-id="SportskaTV.hr" group-title="Channels",Sportska TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/439
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moja TV Premier Liga BiH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/480
+#EXTINF:0 tvg-id="HNTV.hr" group-title="Channels",HNTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/464
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kreator TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/463
+#EXTINF:0 tvg-id="LoviRibolov.rs" group-title="Channels",Lov i Ribolov
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9304
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",Sky Sport 1 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12055
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",Sky Sport 2 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12056
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 3 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12057
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 4 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12058
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 5 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12059
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 6 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12060
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 7 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12061
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 8 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12062
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 9 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12063
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 10 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12064
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Channels",Sky Bundesliga 1 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12065
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Bundesliga 2 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12066
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Bundesliga 3 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12067
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Bundesliga 4 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12068
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Bundesliga 5 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12069
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Bundesliga 6 HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12070
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY Sport News HD (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12054
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Premier DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13027
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Austria 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12075
+#EXTINF:0 tvg-id="SkySportAustria2.at" group-title="Channels",Sky Sport Austria 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13028
+#EXTINF:0 tvg-id="SkySportAustria3.at" group-title="Channels",Sky Sport Austria 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13029
+#EXTINF:0 tvg-id="SkySportAustria4.at" group-title="Channels",Sky Sport Austria 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13030
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Austria 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13031
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Austira 6
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13032
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport F1 (DE)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12078
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport F1 (ENG)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12251
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Tenis
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13052
+#EXTINF:0 tvg-id="SkySportGolf.it" group-title="Channels",Sky Sport Golf
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13053
+#EXTINF:0 tvg-id="TNTSport1.uk" group-title="Channels",BT Sport 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12071
+#EXTINF:0 tvg-id="TNTSport2.uk" group-title="Channels",BT Sport 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12072
+#EXTINF:0 tvg-id="TNTSport3.uk" group-title="Channels",BT Sport 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12073
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 HD SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12074
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/214
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 HD SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/213
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SP 1 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5764
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SP 2 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5765
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SP 3 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5766
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 1 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6296
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Channels",EUROSPORT 2 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6297
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bayern TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6103
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sport Digital HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/461
+#EXTINF:0 tvg-id="Motorvision.svn" group-title="Channels",Motorvision HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/327
+#EXTINF:0 tvg-id="AutoMotoSport.cz" group-title="Channels",Auto Motor Sport
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/340
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/466
+#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",Sport1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/440
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",FOX Sports 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/471
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",FOX Sports 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/470
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sports 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9255
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sports 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9256
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sports 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9257
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sports 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9258
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sports 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9259
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein Sports 6
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9260
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",Bein Sports 7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9261
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",Bein Sports 8
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9262
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",Bein Sports 9
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9263
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",Bein Sports 10
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9264
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9064
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic Folk HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12846
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic Rap HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12847
+#EXTINF:0 tvg-id="Balkanika.bg" group-title="Channels",Balkanika TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/391
+#EXTINF:0 tvg-id="MTVAdria.rs" group-title="Channels",MTV Adria
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/551
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",MTV 80s
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/394
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",MTV Music
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/392
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",MTV Base
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10260
+#EXTINF:0 tvg-id="mtv-rocks" group-title="Channels",MTV 90s
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10261
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",MTV 00s
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/504
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12526
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik Rock HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12527
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik World HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12528
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik Jeka HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12529
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik Riviera HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12530
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik HipHop HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12531
+#EXTINF:0 tvg-id="ext" group-title="Channels",Muzzik OKK HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12532
+#EXTINF:0 tvg-id="CMC.hr" group-title="Channels",CMC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/588
+#EXTINF:0 tvg-id="ext" group-title="Channels",BN Music HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/591
+#EXTINF:0 tvg-id="ext" group-title="Channels",IDJ TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9283
+#EXTINF:0 tvg-id="GrandNarodna.rs" group-title="Channels",Grand
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9275
+#EXTINF:0 tvg-id="ext" group-title="Channels",Grand 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9276
+#EXTINF:0 tvg-id="DMSat.bg" group-title="Channels",DM Sat
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/406
+#EXTINF:0 tvg-id="ext" group-title="Channels",ExYu Melody
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9038
+#EXTINF:0 tvg-id="ext" group-title="Channels",Top Sound
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8864
+#EXTINF:0 tvg-id="Duga.ba" group-title="Channels",Duga TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5416
+#EXTINF:0 tvg-id="ext" group-title="Channels",Izvorna TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/402
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amari
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12390
+#EXTINF:0 tvg-id="Jugoton.svn" group-title="Channels",Jugoton TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/401
+#EXTINF:0 tvg-id="NarodnaTV.svn" group-title="Channels",Narodna TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/393
+#EXTINF:0 tvg-id="OTVValentino.ba" group-title="Channels",OTV Valentino
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/540
+#EXTINF:0 tvg-id="HayatMusic.ba" group-title="Channels",Hayat Music
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/564
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sevdah TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/396
+#EXTINF:0 tvg-id="HayatFolk.hr" group-title="Channels",Hayat Folk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/565
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA BALKANSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8576
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA BOSNJACKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8577
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA CINEMA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8578
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA CRNOGORSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8579
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA DJECIJA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8580
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA DUHOVNOST
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8581
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA EXCLUSIVE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8582
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8583
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA HRVATSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8584
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA ISLAMSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8586
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA MUZICKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8587
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA NASHEED
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8588
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA PLUS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8589
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA PRAVOSLAVNA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8590
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA RUSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8591
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA S. MAKEDONSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8592
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA SEVDAH
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8593
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA SPORTSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8594
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA SRPSKA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8595
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA SVADBA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8596
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA TRAVEL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8597
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOBRA WORLD MUSIC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8598
+#EXTINF:0 tvg-id="Slo1.svn" group-title="Channels",SLO 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/217
+#EXTINF:0 tvg-id="Slo2.svn" group-title="Channels",SLO 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/216
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 1 SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/226
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/225
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 3 SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/224
+#EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels",POP Brio
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/221
+#EXTINF:0 tvg-id="POPKino.svn" group-title="Channels",POP Kino
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/219
+#EXTINF:0 tvg-id="POPOTO.svn" group-title="Channels",POP Oto
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/218
+#EXTINF:0 tvg-id="PopTV.svn" group-title="Channels",POP TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/220
+#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels",Planet TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/222
+#EXTINF:0 tvg-id="KanalA.tr" group-title="Channels",Kanal A
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/223
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLICA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/209
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planet SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8035
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planet Plus SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8038
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planet Plus SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8036
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova 24 SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8037
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Crime SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8040
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Life SLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8039
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",13th Street DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/344
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3Sat DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/345
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",DMAX DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/334
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",Kabel Eins DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/330
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel 1 Doku
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/331
+#EXTINF:0 tvg-id="n24.de" group-title="Channels",N24 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/326
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",ARTE HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6106
+#EXTINF:0 tvg-id="ORF1.at" group-title="Channels",ORF 1 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/323
+#EXTINF:0 tvg-id="ORF2.at" group-title="Channels",ORF 2 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/322
+#EXTINF:0 tvg-id="ORF3.at" group-title="Channels",ORF 3 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13051
+#EXTINF:0 tvg-id="ORFSport.at" group-title="Channels",ORF Sport+ HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6740
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7521
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7522
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",Pro7 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/321
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Channels",TOGGO Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7527
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",Pro7 Maxx DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/320
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",Romance TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6701
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13036
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD alpha HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13050
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",Sat 1 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/311
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",Sat 1 Gold DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/310
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",Sixx DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/309
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/267
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",ZDF Info DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13037
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",ZDF Neo DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13038
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7525
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL Passion DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7530
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",RTL Nitro DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7529
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7528
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL LIVING DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7524
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",Super RTL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7526
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",ARD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/341
+#EXTINF:0 tvg-id="ZeeOne.de" group-title="Channels",Zee one DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/266
+#EXTINF:0 tvg-id="SRF1.ch" group-title="Channels",SRF 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/269
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10434
+#EXTINF:0 tvg-id="History.de" group-title="Channels",History Channel DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/332
+#EXTINF:0 tvg-id="NatGeo.de" group-title="Channels",National Geographic DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/325
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",Nat Geo Wild DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/324
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",Boomerang DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/339
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",Cartoon Network DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/335
+#EXTINF:0 tvg-id="NickComedy.de" group-title="Channels",Nickelodeon DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6047
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="Channels",Discovery Channel DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/338
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",Animal Planet DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/343
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime +
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13033
+#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",Nick Jr DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13034
+#EXTINF:0 tvg-id="Nicktoons.de" group-title="Channels",Nicktoons DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13035
+#EXTINF:0 tvg-id="DisneyCinemagic.de" group-title="Channels",Disney Cinemagic DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/337
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Jr. DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/336
+#EXTINF:0 tvg-id="Kika.de" group-title="Channels",KiKa DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/329
+#EXTINF:0 tvg-id="Fox.de" group-title="Channels",FOX DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/333
+#EXTINF:0 tvg-id="AXN.de" group-title="Channels",AXN DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/342
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Universal DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/271
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",Syfy DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/270
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",Tele 5 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/268
+#EXTINF:0 tvg-id="TNTGlitz.de" group-title="Channels",TNT Comedy DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/306
+#EXTINF:0 tvg-id="TNTFilm.de" group-title="Channels",TNT Film DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/307
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="Channels",TNT Serie DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/308
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",KINOWELT.TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/328
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Showcase DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13039
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky One DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13040
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",Sky Family DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13041
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",Sky Atlantic HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13042
+#EXTINF:0 tvg-id="SkyCrime.de" group-title="Channels",Sky Crime HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13043
+#EXTINF:0 tvg-id="SkyPremieren.de" group-title="Channels",Sky Cinema Premieren HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13044
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Channels",Sky Cinema Best Of
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13045
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="Channels",Sky Cinema Thriller HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13046
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="Channels",Sky Cinema Special HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13047
+#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="Channels",Sky Cinema Fun HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13048
+#EXTINF:0 tvg-id="SkyCinemaClassic.it" group-title="Channels",Sky Cinema Classics HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/13049
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",Sky Action DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/305
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",Sky Atlantic DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/304
+#EXTINF:0 tvg-id="SkyCinemaPlus1.de" group-title="Channels",Sky Cinema  24 DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/302
+#EXTINF:0 tvg-id="SkyCinema.de" group-title="Channels",Sky Cinema DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/303
+#EXTINF:0 tvg-id="SkyComedy.de" group-title="Channels",Sky Comedy DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/301
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="Channels",Sky Hits DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/298
+#EXTINF:0 tvg-id="SkyKrimi.de" group-title="Channels",Sky Krimi DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/297
+#EXTINF:0 tvg-id="SkyNostalgie.de" group-title="Channels",Sky Nostalgie DE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/300
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="Channels",Sky Select 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/295
+#EXTINF:0 tvg-id="SkyMusic.it" group-title="Channels",Sky Select 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/294
+#EXTINF:0 tvg-id="SkyMusic.it" group-title="Channels",Sky Select 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/293
+#EXTINF:0 tvg-id="SkyMusic.it" group-title="Channels",Sky Select 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3689
+#EXTINF:0 tvg-id="SkyMusic.it" group-title="Channels",Sky Select 5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/292
+#EXTINF:0 tvg-id="SkyMusic.it" group-title="Channels",Sky Select 6 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3690
+#EXTINF:0 tvg-id="ORF1.at" group-title="Channels",AT: ORF 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9409
+#EXTINF:0 tvg-id="ORF2.at" group-title="Channels",AT: ORF 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9410
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: RTL PLUS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9394
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: W24 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9396
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: SIXX AUSTRIA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9397
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: SchauTV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9398
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: Sport 1+ HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9399
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: oe24 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9400
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: SERVUS TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9401
+#EXTINF:0 tvg-id="ATV.de" group-title="Channels",AT: ATV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9402
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: Plus 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9403
+#EXTINF:0 tvg-id="ORFSport.at" group-title="Channels",AT: ORF Sport+ HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9404
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT: AUSTRIA 24 TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9405
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT:ORF 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9406
+#EXTINF:0 tvg-id="ATV2.at" group-title="Channels",AT: ATV 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9407
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: SRF 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6836
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: SRF 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6835
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: 3sat HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6852
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: 4+
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6840
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: SAT. 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6839
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: SRF zwei HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6838
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: SIXX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6837
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: Royal TV  HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6832
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: Tele Zuri HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6831
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: Tele Basel HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6830
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: TeleM1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6829
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: TELECLUB SPORT 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6828
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: RTS UN HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6823
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWISS: 3+ HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6822
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",IT: Rai 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9988
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",IT: Rai 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9989
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",IT: Rai 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9990
+#EXTINF:0 tvg-id="Rai4.it" group-title="Channels",IT: Rai 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9991
+#EXTINF:0 tvg-id="Rai5.it" group-title="Channels",IT: Rai 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9992
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",IT: Rai 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9993
+#EXTINF:0 tvg-id="La7.it" group-title="Channels",IT: LA7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9994
+#EXTINF:0 tvg-id="Italia1.it" group-title="Channels",IT: Italia 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9995
+#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Channels",IT: Mediaset EXTRA HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10000
+#EXTINF:0 tvg-id="Fox.it" group-title="Channels",IT: FOX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9947
+#EXTINF:0 tvg-id="Tv8.it" group-title="Channels",IT: TV 8
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9948
+#EXTINF:0 tvg-id="Super!.it" group-title="Channels",IT: Super!
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9950
+#EXTINF:0 tvg-id="Rete4.it" group-title="Channels",IT: Rete4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9953
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Canale Italia
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9954
+#EXTINF:0 tvg-id="RealTime.it" group-title="Channels",IT: Real Time
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9955
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Channels",IT: Rai Yoyo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9956
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="Channels",IT: Rai Storia
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9957
+#EXTINF:0 tvg-id="RaiSport2.it" group-title="Channels",IT: Rai Sport 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9958
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="Channels",IT: Rai Scuola
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9959
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="Channels",IT: Rai Premium
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9960
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Media Set Extra
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9961
+#EXTINF:0 tvg-id="LA5.it" group-title="Channels",IT: La5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9962
+#EXTINF:0 tvg-id="Primafila4.it" group-title="Channels",IT: Primafila 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9963
+#EXTINF:0 tvg-id="Primafila3.it" group-title="Channels",IT: Primafila 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9964
+#EXTINF:0 tvg-id="Primafila2.it" group-title="Channels",IT: Primafila 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9965
+#EXTINF:0 tvg-id="Primafila1.it" group-title="Channels",IT: Primafila 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9966
+#EXTINF:0 tvg-id="Italia2.it" group-title="Channels",IT: Mediaset Italia 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9967
+#EXTINF:0 tvg-id="Iris.it" group-title="Channels",IT: Iris
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9968
+#EXTINF:0 tvg-id="Giallo.it" group-title="Channels",IT: Giallo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9969
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: CSTAR HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9970
+#EXTINF:0 tvg-id="Focus.it" group-title="Channels",IT: Focus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9971
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: DMAX Italia
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9972
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: History Lab
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9973
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Channels",IT: Cartoonito
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9974
+#EXTINF:0 tvg-id="Boing.it" group-title="Channels",IT: Boing
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9975
+#EXTINF:0 tvg-id="PremiumCinemaPlus24.it" group-title="Channels",IT: Premium Cinema 24
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9976
+#EXTINF:0 tvg-id="DisneyXD.it" group-title="Channels",IT: Disney XD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9977
+#EXTINF:0 tvg-id="DMAX.it" group-title="Channels",IT: DMAX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9978
+#EXTINF:0 tvg-id="Giallo.it" group-title="Channels",IT: GIALLO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9979
+#EXTINF:0 tvg-id="Cielo.it" group-title="Channels",IT: Cielo HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9980
+#EXTINF:0 tvg-id="RSILa2.ch" group-title="Channels",IT: RSI LA 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9981
+#EXTINF:0 tvg-id="RSILa1.ch" group-title="Channels",IT: RSI LA 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9982
+#EXTINF:0 tvg-id="Rete4.it" group-title="Channels",IT: Rete 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9983
+#EXTINF:0 tvg-id="RaiSport1.it" group-title="Channels",IT: Rai Sport 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9984
+#EXTINF:0 tvg-id="RaiNews.it" group-title="Channels",IT: Rai News 24
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9985
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Channels",IT: Rai Movie Hd
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9986
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Channels",IT: Rai Gulp
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9987
+#EXTINF:0 tvg-id="History.it" group-title="Channels",IT: History
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9996
+#EXTINF:0 tvg-id="Cielo.it" group-title="Channels",IT: cielo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9997
+#EXTINF:0 tvg-id="Canale5.it" group-title="Channels",IT: Canale 5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9999
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: Canal + Serial HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7531
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",PL: Polsat 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7533
+#EXTINF:0 tvg-id="TV4.pl" group-title="Channels",PL: TV 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7539
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",PL: TVN HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7534
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: TVP Info HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7536
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: TVP Historia HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7535
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="Channels",PL: TVP KULTURA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7537
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: Eleven Sports 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7532
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",PL: HBO 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7544
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Channels",PL: Polsat Sport Extra HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7541
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="Channels",PL: Polsat Sport HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7542
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",PL: POLSAT FILM
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7540
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",PL: Polsat
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7538
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: Canal+ Sport FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7543
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: JimJam HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7555
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" group-title="Channels",PL: Nat Geo Wild
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7554
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: HBO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7545
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",PL: HBO 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7546
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="Channels",PL: Filmbox Premium HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7547
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: Comedy Central HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7548
+#EXTINF:0 tvg-id="DisneyXD.pl" group-title="Channels",PL: Disney XD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7556
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: CANAL+  DISCOVERY FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7553
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",PL: AXN HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7551
+#EXTINF:0 tvg-id="CinemaxHD.pl" group-title="Channels",PL: Cinemax HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7552
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BNT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8396
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: EuroSport 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8400
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: F PLUS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8401
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: HBO 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8403
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nat Geo Wild HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8404
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: National Geographic
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8405
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Planeta
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8407
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Baby TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8410
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BNT World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8412
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Box TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8413
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: bTV Action
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8415
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: bTV Comedy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8416
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BiT
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8417
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: 24 Kitchen
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8418
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: KinoNova
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8419
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Diema Family
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8420
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: MAX Sport 1 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8424
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: MAX Sport 2 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8425
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Eurosport 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8426
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fox HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8427
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fox Crime FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8428
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fox Life
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8429
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: TV1000
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8430
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: AXN FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8431
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Action Plus HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8432
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Cinema Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8433
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV Cinema  HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8434
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Cinemax 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8435
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: bTV Comedy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8436
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Food Network FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8437
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: FILMBOX EXTRA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8438
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: TV Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8439
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Movie Star HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8440
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Kanal 3 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8441
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Alfa TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8442
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nickelodeon
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8443
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Jim Jam
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8444
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Cartoon Network
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8445
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Duck TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8446
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Planeta TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8448
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Planeta Folk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8449
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: FEN TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8450
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Balkanika
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8451
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Bulgaria 24
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8452
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Animal Planet
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8453
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Music Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8454
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: CINEMAX1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8455
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: City TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8456
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: DSTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8457
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Folklor TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8458
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Magic TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8459
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Ring HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8460
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Balkanika HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8461
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Viasat Nature SD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8462
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: TV Evropa
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8463
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Tiankov Folk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8465
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Travel Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8466
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: EKids SD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8467
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Discovery Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8468
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Disney Junior HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8469
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Bulgaria On Air
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8470
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Kino Nova HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8471
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: History Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8472
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: TLC HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8473
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Hobby TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8474
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Travel TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8475
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nat Geo Wild FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8476
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : BNT 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8477
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : BNT 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8478
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : bTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8479
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : Nova TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8480
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : HBO 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8482
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : HBO 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8483
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG : HBO 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8484
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: DISCOVERY CHANNEL HD FR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9512
+#EXTINF:0 tvg-id="TFX.fr" group-title="Channels",FR: TFX
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9513
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="Channels",FR: TF1 Séries Films
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9514
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TOUTE L'HISTOIRE FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9515
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",FR: RTL 9 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9516
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",FR: LCI
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9518
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: L'equipe 21 TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9519
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: CANAL + HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9520
+#EXTINF:0 tvg-id="CStar.fr" group-title="Channels",FR: CSTAR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9522
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",FR: CNEWS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9523
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: DISNEY JUNIOR HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9524
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",FR: DISNEY CINEMA HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9525
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",FR: Boomerang FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9526
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",FR: Serie club HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9527
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: ARTE HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9528
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",FR: LCI HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9529
+#EXTINF:0 tvg-id="MCM.fr" group-title="Channels",FR: MCM HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9530
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV5Monde
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9531
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: TMC HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9532
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1 series films HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9533
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",FR: 13eme rue HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9534
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9535
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",FR: NRj 12
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9537
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9538
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: Action HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9539
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TFX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9540
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",FR: Gulli
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9541
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: France 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9542
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: France 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9543
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: France 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9544
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: France 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9545
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",FR: France 24
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9546
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",FR: France O
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9547
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",FR: France Info
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9548
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: EuroNews
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9549
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",FR: Cherie 25 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9550
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: CANAL + HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9552
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9553
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6ter
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9555
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] 24 VESTI
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3655
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] ALFA TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3658
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] KANAL 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3660
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] MRT 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3656
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] MRT 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3657
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] MRT 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10187
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] MRT 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10191
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] MRT 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10190
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Hugo TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6469
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Hugo 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8860
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Hugo 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10192
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Cineplex HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/10193
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Cinestar TV Premiere 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6897
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] MEGA BITOLA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3654
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] SITEL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3662
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] SITEL 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3661
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] NASA TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6657
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] SONCE TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3653
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] TELMA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3659
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] SUTEL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3652
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] TERA TV Bitola
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6527
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Cinestar TV Premiere 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8868
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Folk HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6525
+#EXTINF:0 tvg-id="ext" group-title="Channels",[MK] Sky Folk HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/6526
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Klan Plus HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9556
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: Klan Kosova
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9557
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Channels",AL: Klan FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9559
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9561
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:  Kino Premiere 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9562
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9563
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Channels",AL: Junior TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9564
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Channels",AL: Jolly HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9565
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Channels",AL: Film Thriller
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9573
+#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Channels",AL: Film Nje HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9574
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Channels",AL: Film Komedi
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9576
+#EXTINF:0 tvg-id="FilmHits.al" group-title="Channels",AL: Film Hits
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9577
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Channels",AL: Film Dy HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9578
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",AL: Film Aksion
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9587
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Family FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9590
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Doku Box
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9600
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Channels",AL: Çufo TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9602
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Club TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9603
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Bujanoci RTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9607
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Sport 3 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9612
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Sport 2 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9613
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Sport 1 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9614
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Kino 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9615
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Kino 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9616
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Doku 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9617
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Art Doku 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9618
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: A1 Islam
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9629
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9631
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MTV Kosova
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9643
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:  Sole TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9655
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Channels",AL: RTV 21 Popullore
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9669
+#EXTINF:0 tvg-id="RTV21Plus.al" group-title="Channels",AL: RTV 21 Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9671
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV 21 Mix
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9677
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV 21 Junior
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9678
+#EXTINF:0 tvg-id="RTV21.al" group-title="Channels",AL: RTV 21
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9680
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9682
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9683
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9684
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK EST
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9685
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9687
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9688
+#EXTINF:0 tvg-id="RrokumHD.al" group-title="Channels",AL: Rrokum HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9690
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 6 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9701
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9703
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9705
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9707
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9709
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Channels",AL: Super Sport 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9710
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Channels",AL: Tring Super
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9735
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Channels",AL: Tring Sport 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9738
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Channels",AL: Tring Sport 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9740
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Channels",AL: Tring Sport 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9742
+#EXTINF:0 tvg-id="TringLife.al" group-title="Channels",AL: Tring Life
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9747
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Kids
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9748
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tv Tetova
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9758
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9776
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9777
+#EXTINF:0 tvg-id="KTV.al" group-title="Channels",AL: KTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9778
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: Klan Kosova
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9782
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Channels",AL: Klan TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9788
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",AL: Vizion Plus HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9790
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH Plus
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9794
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 24 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9795
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH Film
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9797
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MRT 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9799
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Tema
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9801
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Vali
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9803
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Mitrovica
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9804
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV BESA
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9807
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Prizreni
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9808
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Kopliku
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9822
+#EXTINF:0 tvg-id="RrokumTV.al" group-title="Channels",AL: Rrokum TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9823
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Koha
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9824
+#EXTINF:0 tvg-id="OraNews.al" group-title="Channels",AL: Ora News
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9831
+#EXTINF:0 tvg-id="Stinet.al" group-title="Channels",AL: Stinet
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9837
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Channels",AL: Cufo
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9848
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sofia HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9853
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Channels",AL: Tring Comedy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9876
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Channels",AL: Tring Fantasy
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9878
+#EXTINF:0 tvg-id="Smile.al" group-title="Channels",AL: Tring Smile
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9879
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky 7HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9880
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Channels",AL: Tring World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9891
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Channels",AL: Tring Planet
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9892
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Channels",AL: Tring History
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9893
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9938
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9939
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9940
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9941
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB: Humor HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12308
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB: Humor 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12310
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB: Humor 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12309
+#EXTINF:0 tvg-id="SVT1.se" group-title="Channels",SE: SVT1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3772
+#EXTINF:0 tvg-id="SVT2.se" group-title="Channels",SE: SVT2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3778
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: SVT24/B
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3777
+#EXTINF:0 tvg-id="TLCsverige.se" group-title="Channels",SE: TLC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3731
+#EXTINF:0 tvg-id="TV3.se" group-title="Channels",SE: TV 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3775
+#EXTINF:0 tvg-id="TV10.se" group-title="Channels",SE: TV10
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3763
+#EXTINF:0 tvg-id="TV12.se" group-title="Channels",SE: TV12
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3760
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3770
+#EXTINF:0 tvg-id="TV4Film.se" group-title="Channels",SE: TV4 Film
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3767
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV4 GULD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3769
+#EXTINF:0 tvg-id="TV6.se" group-title="Channels",SE: TV6
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3765
+#EXTINF:0 tvg-id="TV8.se" group-title="Channels",SE: TV8
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3764
+#EXTINF:0 tvg-id="TV11.se" group-title="Channels",SE: KANAL 11
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3761
+#EXTINF:0 tvg-id="Kanal5.se" group-title="Channels",SE: Kanal 5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3754
+#EXTINF:0 tvg-id="Kanal9.se" group-title="Channels",SE: Kanal 9 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3753
+#EXTINF:0 tvg-id="CMoreFirst.se" group-title="Channels",SE: C More First HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3758
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C More Fotboll
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3726
+#EXTINF:0 tvg-id="CMoreHits.se" group-title="Channels",SE: C More Hits
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3720
+#EXTINF:0 tvg-id="CMoreLive2.se" group-title="Channels",SE: C More Live 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3716
+#EXTINF:0 tvg-id="CMoreLive3.se" group-title="Channels",SE: C More Live 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3715
+#EXTINF:0 tvg-id="CMoreLive.se" group-title="Channels",SE: C More Live HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3718
+#EXTINF:0 tvg-id="CMoreFirst.se" group-title="Channels",C More First FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3722
+#EXTINF:0 tvg-id="CMoreStars.se" group-title="Channels",SE: C More Stars HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3723
+#EXTINF:0 tvg-id="DiscoveryChannel.se" group-title="Channels",SE: Discovery Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3728
+#EXTINF:0 tvg-id="DisneyChannel.se" group-title="Channels",SE: Disney Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3748
+#EXTINF:0 tvg-id="DisneyJr.se" group-title="Channels",SE: Disney Junior
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3747
+#EXTINF:0 tvg-id="ViasatMotor.se" group-title="Channels",SE: Viasat Motor HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3738
+#EXTINF:0 tvg-id="HistoryHD.no" group-title="Channels",SE: History HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3736
+#EXTINF:0 tvg-id="NatGeo.se" group-title="Channels",SE: National Geographic
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3733
+#EXTINF:0 tvg-id="NickJr.se" group-title="Channels",SE: Nick Jr
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3746
+#EXTINF:0 tvg-id="Nickelodeon.se" group-title="Channels",SE: Nickelodeon
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3745
+#EXTINF:0 tvg-id="AnimalPlanet.se" group-title="Channels",SE: Animal Planet
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3742
+#EXTINF:0 tvg-id="ViasatFilmPremiere.se" group-title="Channels",SE: Viasat Film Premiere
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3708
+#EXTINF:0 tvg-id="ViasatFilmAction.se" group-title="Channels",SE: Viasat Film Action HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3713
+#EXTINF:0 tvg-id="ViasatFilmAction.se" group-title="Channels",SE: Viasat Film Action HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3711
+#EXTINF:0 tvg-id="ViasatSportPremium.se" group-title="Channels",SE: Viasat Sport Premium
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3712
+#EXTINF:0 tvg-id="ViasatSeries.se" group-title="Channels",SE: VIASAT SERIES
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3705
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] NAT GEOGRAPHIC FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3681
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3672
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV3 SPORT 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3677
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV3 SPORT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3684
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] EUROSPORT 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3679
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] EUROSPORT 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3678
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV 2 SPORT HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3757
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV 3 HD PULS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/3670
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV3 Puls HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8728
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8729
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 Zulu HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8730
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 FYN
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8731
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 Nord HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8732
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 News HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8733
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 Lorry HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8734
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 Fri HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8736
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 Charlie HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8737
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 Bornholm HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8738
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] TV2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8739
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] Nickelodeon
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8742
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] COMEDY CENTRAL NORDIC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8745
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK]ANIMAL PLANET HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8748
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] DR Ramasjang
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8751
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] Disney XD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8755
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK]  NICKELODEON HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8756
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] Disney Channel HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8757
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] Discovery Channel FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8758
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] Cartoon Network
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8759
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] CANAL 9 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8760
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] 6 EREN HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8761
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] Kanall 5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8762
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] KANAL 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8763
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK]DR K HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8764
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] DK 4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8765
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK]TV 3 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8766
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] DR 2 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8767
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DK] DR 1 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8768
+#EXTINF:0 tvg-id="NPO1.nl" group-title="Channels",NL: NPO 1 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8306
+#EXTINF:0 tvg-id="NPO2.nl" group-title="Channels",NL: NPO 2 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8307
+#EXTINF:0 tvg-id="NPO3.nl" group-title="Channels",NL: NPO 3 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8308
+#EXTINF:0 tvg-id="RTL4.nl" group-title="Channels",NL: RTL 4 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8309
+#EXTINF:0 tvg-id="RTL5.nl" group-title="Channels",NL: RTL 5 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8310
+#EXTINF:0 tvg-id="SBS6.nl" group-title="Channels",NL: SBS 6 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8311
+#EXTINF:0 tvg-id="RTL7.nl" group-title="Channels",NL: RTL 7 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8312
+#EXTINF:0 tvg-id="RTL8.nl" group-title="Channels",NL: RTL 8 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8313
+#EXTINF:0 tvg-id="SBS9.nl" group-title="Channels",NL: SBS 9 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8314
+#EXTINF:0 tvg-id="NET5.nl" group-title="Channels",NL: NET 5 FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8315
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: VERONICA/DISNEYXD FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8316
+#EXTINF:0 tvg-id="RTLZ.nl" group-title="Channels",NL: RTL Z FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8317
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: NPO 1 Extra HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8318
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: NPO Politiek HD NL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8319
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Omroep West HD NL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8320
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Baby TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8321
+#EXTINF:0 tvg-id="DisneyChannel.nl" group-title="Channels",NL: Disney Channel FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8322
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Nick Junior HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8323
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Nick Toons HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8324
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Nickelodeon FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8325
+#EXTINF:0 tvg-id="Viceland.be" group-title="Channels",NL: VICELAND FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8326
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="Channels",NL: 24 Kitchen HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8327
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: XITE HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8328
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: 100% NL TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8329
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Slam HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8330
+#EXTINF:0 tvg-id="mtv.nl" group-title="Channels",NL: MTV FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8331
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: MTV 24 Music HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8332
+#EXTINF:0 tvg-id="192tv.nl" group-title="Channels",NL: 192TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8333
+#EXTINF:0 tvg-id="FOX.nl" group-title="Channels",NL: FOX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8335
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: ONS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8336
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: E! ENTERTAINMENT HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8337
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: TV ORANJE HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8338
+#EXTINF:0 tvg-id="Film1Premiere.nl" group-title="Channels",NL: Film1 Premiere FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8340
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Film1 Family HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8342
+#EXTINF:0 tvg-id="Film1Plus1.nl" group-title="Channels",NL: Film1 Drama FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8343
+#EXTINF:0 tvg-id="Film1Plus1.nl" group-title="Channels",NL: Film1 Drama HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8344
+#EXTINF:0 tvg-id="Film1Action.nl" group-title="Channels",NL: Film1 Action HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8346
+#EXTINF:0 tvg-id="NatGeo.nl" group-title="Channels",NL: National Geographic FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8347
+#EXTINF:0 tvg-id="NatGeo.nl" group-title="Channels",NL: National Geographic HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8348
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: National Geographic Wild HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8349
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Discovery ID FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8350
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Discovery Channel FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8351
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Discovery Science FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8352
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Discovery World FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8353
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Comedy Central HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8354
+#EXTINF:0 tvg-id="AnimalPlanet.nl" group-title="Channels",NL: Animal Planet HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8355
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: BBC FIRST FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8356
+#EXTINF:0 tvg-id="ext" group-title="Channels",NL: Boomerang HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8357
+#EXTINF:0 tvg-id="DiscoveryID.nl" group-title="Channels",NL: Investigation Discovery
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8358
+#EXTINF:0 tvg-id="Spike.nl" group-title="Channels",NL: SPIKE FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8360
+#EXTINF:0 tvg-id="TLC.nl" group-title="Channels",NL: TLC FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8361
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="Channels",TR: ULKE TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5715
+#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",TR: TV 8
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5691
+#EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="Channels",TR: TRT World
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5743
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="Channels",TR: TRT Turk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5742
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Channels",TR: TRT MUZIK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5738
+#EXTINF:0 tvg-id="TRT1HD.tr" group-title="Channels",TR: TRT HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5745
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Channels",TR: TRT HABER HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5734
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Channels",TR: TRT Avaz
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5739
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Arabia
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5735
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Channels",TR: TRT 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5744
+#EXTINF:0 tvg-id="CNBC-E.tr" group-title="Channels",TR: TLC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5684
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TELE 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5733
+#EXTINF:0 tvg-id="StarHD.tr" group-title="Channels",TR: Star HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5731
+#EXTINF:0 tvg-id="StarHD.tr" group-title="Channels",TR: STAR FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5685
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",TR: SHOW TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5718
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ON 4 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5717
+#EXTINF:0 tvg-id="NTV.tr" group-title="Channels",TR: NTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5727
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: National Geographic Turk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5681
+#EXTINF:0 tvg-id="NatGeoWild.tr" group-title="Channels",TR: NatGeo Wild Turk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5680
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Channels",TR: MINICA GO
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5683
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",TR: Kanal D HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5730
+#EXTINF:0 tvg-id="KanalB.tr" group-title="Channels",TR: Kanal B
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5724
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",TR: Kanal 7
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5725
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Channels",TR: HABER TURK HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5723
+#EXTINF:0 tvg-id="Fox.tr" group-title="Channels",TR: FOX TV FHD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5716
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="Channels",TR: Dream Turk
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5720
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: DISNEY JR
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5682
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Channels",TR: CNN TURK HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5722
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",TR: ATV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/5732
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: RUSSIA 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7585
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: RT Documentary
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7587
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: RT HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7590
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: HTB HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7582
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: TV 1000 Mega Hit HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7583
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: VIASAT EXPLORER HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7584
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: TV1000
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7592
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: TV1000 ACTION HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7591
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: AMEDIA 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7593
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: FOX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7589
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: DISNEY CHANNEL HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7588
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: NTV FOOTBALL 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7586
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: Aris 24 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7594
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: NAT GEO HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7598
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: MATCH! FOOTBALL 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7600
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: MATCH! FOOTBALL 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7601
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: MTV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7597
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUS: DISCOVERY CHANNEL HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/7596
+#EXTINF:0 tvg-id="m1.hu" group-title="Channels",HU: M1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8263
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: M
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8264
+#EXTINF:0 tvg-id="m2.hu" group-title="Channels",HU: M2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8262
+#EXTINF:0 tvg-id="M4Sport.hu" group-title="Channels",HU: M4 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8261
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: M5 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8260
+#EXTINF:0 tvg-id="VIASAT6.hu" group-title="Channels",HU: Viasat6
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8235
+#EXTINF:0 tvg-id="Viasat3.hu" group-title="Channels",HU: Viasat3
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8236
+#EXTINF:0 tvg-id="ViasatNature.hu" group-title="Channels",HU: Viasat Nature
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8237
+#EXTINF:0 tvg-id="ViasatHistory.hu" group-title="Channels",HU: Viasat History
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8238
+#EXTINF:0 tvg-id="ViasatExplorer.hu" group-title="Channels",HU: Viasat Explore
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8239
+#EXTINF:0 tvg-id="TV4.hu" group-title="Channels",HU: TV4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8240
+#EXTINF:0 tvg-id="tv2.hu" group-title="Channels",HU: TV2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8241
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: TV Paprika HU
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8242
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: TV 1000
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8243
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: Travel Channel HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8244
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: TLC HU
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8245
+#EXTINF:0 tvg-id="SuperTV2.hu" group-title="Channels",HU: SuperTV2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8246
+#EXTINF:0 tvg-id="STORY4.hu" group-title="Channels",HU: STORY5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8247
+#EXTINF:0 tvg-id="SpilerTV.hu" group-title="Channels",HU: Spiler TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8248
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: Spektrum HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8249
+#EXTINF:0 tvg-id="RTLKetto.hu" group-title="Channels",HU: RTL2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8250
+#EXTINF:0 tvg-id="RTLSpike.hu" group-title="Channels",HU: RTL Spike
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8251
+#EXTINF:0 tvg-id="RTL.hu" group-title="Channels",HU: RTL Klub HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8252
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: RTL II HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8253
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: RTL GOLD HU
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8254
+#EXTINF:0 tvg-id="Rtl.hu" group-title="Channels",HU: RTL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8255
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: Nickelodeon Europe
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8256
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: Nick Jr
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8257
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: National Geo HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8258
+#EXTINF:0 tvg-id="NatGeoWildHD.hu" group-title="Channels",HU: Nat Geo Wild HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8259
+#EXTINF:0 tvg-id="Historyhd.hu" group-title="Channels",HU: HISTORY HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8265
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: HBO2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8266
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: HBO HD (HU)
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8267
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: HBO 3 HU
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8268
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: The Fishing & Hunting HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8269
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: M3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8270
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: DunaWorld
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8271
+#EXTINF:0 tvg-id="Duna.hu" group-title="Channels",HU: Duna HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8272
+#EXTINF:0 tvg-id="DiscoveryChannel.hu" group-title="Channels",HU: Discovery Channel
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8273
+#EXTINF:0 tvg-id="Sorozat+.hu" group-title="Channels",HU: Sorozat+
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8274
+#EXTINF:0 tvg-id="ext" group-title="Channels",HU: Sorozat
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8275
+#EXTINF:0 tvg-id="FilmNow.hu" group-title="Channels",HU: DIGI Film HU
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8277
+#EXTINF:0 tvg-id="Animalplanethd.hu" group-title="Channels",HU: Animal Planet HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8278
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTLUX
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8494
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTLUX 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8495
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: DISCOVERY SCIENCE
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9415
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CRIME & INVERSTIGATION
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9416
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: INVESTIGATION DISCOVERY
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9417
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CBS ACTION JUSTICE HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9419
+#EXTINF:0 tvg-id="SkyCinemaAction.uk" group-title="Channels",UK: MOVIES ACTION HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9420
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MOVIES COMEDY HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9421
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9448
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: DISCOVERY
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9462
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Channels",UK: TRAVEL CHANNEL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9463
+#EXTINF:0 tvg-id="FOXNews.uk" group-title="Channels",UK: Fox News HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9464
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: NAT GEO WILD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9465
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9466
+#EXTINF:0 tvg-id="UTV.uk" group-title="Channels",UK: UTV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9467
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9468
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK:ITV 3 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9469
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9470
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC  News
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9473
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC 2 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9474
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1 HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9475
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CINEMAX ACTION
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9476
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOOD NETWORK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9477
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA : DISCOVERY
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9478
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA:  ANIMAL PLANET
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9479
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: HISTORY
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9480
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA:  COMEDY CENTRAL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9481
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: DISNEY CHANNEL
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9482
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CARTOON NETWORK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9483
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: AMC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9484
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TNT
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9485
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TBS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9486
+#EXTINF:0 tvg-id="E.us" group-title="Channels",USA: E!
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9487
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",USA: FX HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9489
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9490
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL NETWORK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9491
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NHL NETWORK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9492
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9493
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SEC NETWORK
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9494
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN U
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9495
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Channel 5
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9496
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Channel 4
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9497
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9498
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CBSN
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9499
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CBSN News International
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9500
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9501
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 2
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9502
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Blomberg US
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9503
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CNBC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/12620
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 1
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9504
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Channels",USA: FOX NEWS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9505
+#EXTINF:0 tvg-id="CNN.us" group-title="Channels",USA: CNN
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9506
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: MSNBC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9507
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",USA: NBC
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9508
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ABC News
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9509
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ABC News International
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9510
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CBS
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/9511
+#EXTINF:0 tvg-id="ext" group-title="Channels",IE: Virgin Media One
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8904
+#EXTINF:0 tvg-id="ext" group-title="Channels",IE: Virgin Media Two
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8905
