@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="? Albania [AL] ?" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",? Albania [AL] ?
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/16544
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
@@ -90,7 +91,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/9452
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/17183
 #EXTINF:-1 tvg-id="" tvg-name="RTV Fontana FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvfontanaal.jpg" group-title="Live: Albania",RTV Fontana FHD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/24860
-#EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Çifteli HD AL
+#EXTINF:-1 tvg-id="" tvg-name="X Ã‡ifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Ã‡ifteli HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/22802
 #EXTINF:-1 tvg-id="" tvg-name="X music hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg" group-title="Live: Albania",X music hits HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/22800
@@ -156,7 +157,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/3821
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/3803
 #EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Live: Albania",Film Thriller AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/4193
-#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë AL" tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg" group-title="Live: Albania",Film Dramë AL
+#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film DramÃ« AL" tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg" group-title="Live: Albania",Film DramÃ« AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/4194
 #EXTINF:-1 tvg-id="" tvg-name="Euro Channel AL" tvg-logo="https://picon-13398.kxcdn.com/eurochannelal.jpg" group-title="Live: Albania",Euro Channel AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/20180
@@ -172,7 +173,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/9134
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/8774
 #EXTINF:-1 tvg-id="RTSHFilm.al" tvg-name="RTSH film AL" tvg-logo="https://picon-13398.kxcdn.com/rtshfilmal.jpg" group-title="Live: Albania",RTSH film AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/17168
-#EXTINF:-1 tvg-id="" tvg-name="Stinët AL" tvg-logo="https://picon-13398.kxcdn.com/stinetal.jpg" group-title="Live: Albania",Stinët AL
+#EXTINF:-1 tvg-id="" tvg-name="StinÃ«t AL" tvg-logo="https://picon-13398.kxcdn.com/stinetal.jpg" group-title="Live: Albania",StinÃ«t AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/17171
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="T HD AL" tvg-logo="https://picon-13398.kxcdn.com/tal.jpg" group-title="Live: Albania",T HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/7055
@@ -238,7 +239,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/20189
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/3814
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="Bang Bang AL" tvg-logo="https://picon-13398.kxcdn.com/bangbang.jpg" group-title="Live: Albania",Bang Bang AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/7062
-#EXTINF:-1 tvg-id="0" tvg-name="Çufo AL" tvg-logo="https://picon-13398.kxcdn.com/cufo.jpg" group-title="Live: Albania",Çufo AL
+#EXTINF:-1 tvg-id="0" tvg-name="Ã‡ufo AL" tvg-logo="https://picon-13398.kxcdn.com/cufo.jpg" group-title="Live: Albania",Ã‡ufo AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/4208
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV AL" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Albania",Baby TV AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/8410
@@ -268,7 +269,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/7072
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/28178
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD AL" tvg-logo="https://picon-13398.kxcdn.com/discoveryhd.jpg" group-title="Live: Albania",Discovery HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/11291
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="Exp Shkencë AL" tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg" group-title="Live: Albania",Exp Shkencë AL
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="Exp ShkencÃ« AL" tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg" group-title="Live: Albania",Exp ShkencÃ« AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/4203
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="Exp Natyra AL" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg" group-title="Live: Albania",Exp Natyra AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/4202
@@ -394,7 +395,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/97792
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/97793
 #EXTINF:-1 tvg-id="" tvg-name="Over Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 4 HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/97794
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg" group-title="Live: Albania",Tëvë 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="TÃ«vÃ« 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg" group-title="Live: Albania",TÃ«vÃ« 1 HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/99872
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport7al.jpg" group-title="Live: Albania",SuperSport 7 FHD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/22813
@@ -416,13 +417,13 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/115138
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/115139
 #EXTINF:-1 tvg-id="" tvg-name="Dark Popullore HD AL" tvg-logo="https://picon-13398.kxcdn.com/darkpopulloreal.jpg" group-title="Live: Albania",Dark Popullore HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/115140
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Doku 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tevedoku1al.jpg" group-title="Live: Albania",Tëvë Doku 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="TÃ«vÃ« Doku 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tevedoku1al.jpg" group-title="Live: Albania",TÃ«vÃ« Doku 1 HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/116968
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Doku 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tevedoku2al.jpg" group-title="Live: Albania",Tëvë Doku 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="TÃ«vÃ« Doku 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tevedoku2al.jpg" group-title="Live: Albania",TÃ«vÃ« Doku 2 HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/116969
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Novela HD AL" tvg-logo="https://picon-13398.kxcdn.com/tevenovelaal.jpg" group-title="Live: Albania",Tëvë Novela HD AL
+#EXTINF:-1 tvg-id="" tvg-name="TÃ«vÃ« Novela HD AL" tvg-logo="https://picon-13398.kxcdn.com/tevenovelaal.jpg" group-title="Live: Albania",TÃ«vÃ« Novela HD AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/116971
-#EXTINF:-1 tvg-id="RTSHKorca.al" tvg-name="RTSH Korça AL" tvg-logo="https://picon-13398.kxcdn.com/rtshal.jpg" group-title="Live: Albania",RTSH Korça AL
+#EXTINF:-1 tvg-id="RTSHKorca.al" tvg-name="RTSH KorÃ§a AL" tvg-logo="https://picon-13398.kxcdn.com/rtshal.jpg" group-title="Live: Albania",RTSH KorÃ§a AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/20169
 #EXTINF:-1 tvg-id="" tvg-name="A2 CNN AL" tvg-logo="https://picon-13398.kxcdn.com/a2cnnal.jpg" group-title="Live: Albania",A2 CNN AL
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/126048
@@ -1248,7 +1249,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/28892
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/28998
 #EXTINF:-1 tvg-id="" tvg-name="Uskana TV MK" tvg-logo="https://picon-13398.kxcdn.com/uskana.jpg" group-title="Live: Macedonia",Uskana TV MK
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/52768
-#EXTINF:-1 tvg-id="" tvg-name="? Turkey [TR]  ?" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="Live: Turkey",? Turkey [TR]  ?
+#EXTINF:-1 tvg-id="" tvg-name="? Turkey [TR] Â ?" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="Live: Turkey",? Turkey [TR] Â ?
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/16513
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TRT 4K TR" tvg-logo="https://picon-13398.kxcdn.com/trt4ktr.jpg" group-title="Live: Turkey",TRT 4K TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/22852
@@ -1310,11 +1311,11 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/5145
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/17297
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World TR" tvg-logo="https://picon-13398.kxcdn.com/trtworld.jpg" group-title="Live: Turkey",TRT World TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/27537
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="Live: Turkey",TRT Çocuk TR
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Ã‡ocuk TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="Live: Turkey",TRT Ã‡ocuk TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5123
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="Live: Turkey",TRT Çocuk FHD TR
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Ã‡ocuk FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="Live: Turkey",TRT Ã‡ocuk FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/116744
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik TR" tvg-logo="https://picon-13398.kxcdn.com/trtmusziktr.jpg" group-title="Live: Turkey",TRT Müzik TR
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT MÃ¼zik TR" tvg-logo="https://picon-13398.kxcdn.com/trtmusziktr.jpg" group-title="Live: Turkey",TRT MÃ¼zik TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5171
 #EXTINF:-1 tvg-id="" tvg-name="TRT EBA TV Ilkokul TR" tvg-logo="https://picon-13398.kxcdn.com/ebatvilkokultr.jpg" group-title="Live: Turkey",TRT EBA TV Ilkokul TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37387
@@ -1334,7 +1335,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/27123
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/27122
 #EXTINF:-1 tvg-id="TRTDiyanet.tr" tvg-name="TRT Diyanet TV TR" tvg-logo="https://picon-13398.kxcdn.com/trtdiyanettr.jpg" group-title="Live: Turkey",TRT Diyanet TV TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5156
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk TR" tvg-logo="https://picon-13398.kxcdn.com/trtturk.jpg" group-title="Live: Turkey",TRT Türk TR
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT TÃ¼rk TR" tvg-logo="https://picon-13398.kxcdn.com/trtturk.jpg" group-title="Live: Turkey",TRT TÃ¼rk TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/17321
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Live: Turkey",TRT Spor FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14241
@@ -1366,17 +1367,17 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/18265
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14232
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="Live: Turkey",A Haber TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5150
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Habertürk HD TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="Live: Turkey",Habertürk HD TR
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HabertÃ¼rk HD TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="Live: Turkey",HabertÃ¼rk HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14235
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK HD TR" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="Live: Turkey",CNN TÜRK HD TR
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÃœRK HD TR" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="Live: Turkey",CNN TÃœRK HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14234
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK TR" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="Live: Turkey",CNN TÜRK TR
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÃœRK TR" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="Live: Turkey",CNN TÃœRK TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5149
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="Live: Turkey",TV 100 HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/28201
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="Live: Turkey",Ülke TV FHD TR
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ãœlke TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="Live: Turkey",Ãœlke TV FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14237
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="Live: Turkey",Ülke TV HD TR
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ãœlke TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="Live: Turkey",Ãœlke TV HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5144
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="Live: Turkey",NTV FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14233
@@ -1464,13 +1465,13 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/5210
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/15727
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="Live: Turkey",GS TV HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/15729
-#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Power Türk HD TR" tvg-logo="https://picon-13398.kxcdn.com/powerturkhdtr.jpg" group-title="Live: Turkey",Power Türk HD TR
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Power TÃ¼rk HD TR" tvg-logo="https://picon-13398.kxcdn.com/powerturkhdtr.jpg" group-title="Live: Turkey",Power TÃ¼rk HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/14242
 #EXTINF:-1 tvg-id="" tvg-name="KRAL TR" tvg-logo="https://picon-13398.kxcdn.com/kraltv.jpg" group-title="Live: Turkey",KRAL TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5112
 #EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="KRAL POP TR" tvg-logo="https://picon-13398.kxcdn.com/kralpoptvtr.jpg" group-title="Live: Turkey",KRAL POP TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5113
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Türk HD TR" tvg-logo="https://picon-13398.kxcdn.com/dreamturktr.jpg" group-title="Live: Turkey",Dream Türk HD TR
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream TÃ¼rk HD TR" tvg-logo="https://picon-13398.kxcdn.com/dreamturktr.jpg" group-title="Live: Turkey",Dream TÃ¼rk HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5142
 #EXTINF:-1 tvg-id="" tvg-name="Number One HD TR" tvg-logo="https://picon-13398.kxcdn.com/numberonetr.jpg" group-title="Live: Turkey",Number One HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/12758
@@ -1480,7 +1481,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/14246
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/12743
 #EXTINF:-1 tvg-id="24.tr" tvg-name="MovieSmart Premium HD TR" tvg-logo="https://picon-13398.kxcdn.com/moviesmartpremium.jpg" group-title="Live: Turkey",MovieSmart Premium HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/12753
-#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart Türk HD TR" tvg-logo="https://picon-13398.kxcdn.com/moviesmartturktr.jpg" group-title="Live: Turkey",MovieSmart Türk HD TR
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart TÃ¼rk HD TR" tvg-logo="https://picon-13398.kxcdn.com/moviesmartturktr.jpg" group-title="Live: Turkey",MovieSmart TÃ¼rk HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/19566
 #EXTINF:-1 tvg-id="" tvg-name="SALON 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/salon1tr.jpg" group-title="Live: Turkey",SALON 1 HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5118
@@ -1528,7 +1529,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/10011
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/5162
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="Live: Turkey",KRT HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/26885
-#EXTINF:-1 tvg-id="" tvg-name="Lâlegül TV TR" tvg-logo="https://picon-13398.kxcdn.com/lalegultvtr.jpg" group-title="Live: Turkey",Lâlegül TV TR
+#EXTINF:-1 tvg-id="" tvg-name="LÃ¢legÃ¼l TV TR" tvg-logo="https://picon-13398.kxcdn.com/lalegultvtr.jpg" group-title="Live: Turkey",LÃ¢legÃ¼l TV TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/16263
 #EXTINF:-1 tvg-id="" tvg-name="Rumeli TV TR" tvg-logo="https://picon-13398.kxcdn.com/rumelitvtr.jpg" group-title="Live: Turkey",Rumeli TV TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/19135
@@ -1556,7 +1557,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/34786
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37127
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC HD TR" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Turkey",TLC HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37128
-#EXTINF:-1 tvg-id="" tvg-name="UçanKus TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/ucankustvtr.jpg" group-title="Live: Turkey",UçanKus TV HD TR
+#EXTINF:-1 tvg-id="" tvg-name="UÃ§anKus TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/ucankustvtr.jpg" group-title="Live: Turkey",UÃ§anKus TV HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37129
 #EXTINF:-1 tvg-id="" tvg-name="A News HD TR" tvg-logo="https://picon-13398.kxcdn.com/anewstr.jpg" group-title="Live: Turkey",A News HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37369
@@ -1572,7 +1573,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/37373
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37374
 #EXTINF:-1 tvg-id="" tvg-name="DRT Denizli TR" tvg-logo="https://picon-13398.kxcdn.com/drtdenizlitr.jpg" group-title="Live: Turkey",DRT Denizli TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37375
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekotürk TR" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg" group-title="Live: Turkey",Ekotürk TR
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="EkotÃ¼rk TR" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg" group-title="Live: Turkey",EkotÃ¼rk TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37376
 #EXTINF:-1 tvg-id="" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg" group-title="Live: Turkey",EuroStar TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37377
@@ -1588,7 +1589,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/37381
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37382
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/taytvtr.jpg" group-title="Live: Turkey",TAY TV FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37383
-#EXTINF:-1 tvg-id="" tvg-name="Tarim Türk TR" tvg-logo="https://picon-13398.kxcdn.com/tarimturktr.jpg" group-title="Live: Turkey",Tarim Türk TR
+#EXTINF:-1 tvg-id="" tvg-name="Tarim TÃ¼rk TR" tvg-logo="https://picon-13398.kxcdn.com/tarimturktr.jpg" group-title="Live: Turkey",Tarim TÃ¼rk TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37384
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel TR" tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" group-title="Live: Turkey",TGRT Belgesel TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/37385
@@ -1642,7 +1643,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/113760
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/113761
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global HD TR" tvg-logo="https://picon-13398.kxcdn.com/haberglobaltr.jpg" group-title="Live: Turkey",Haber Global HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/113922
-#EXTINF:-1 tvg-id="" tvg-name="Çocuk Smart FHD TR" tvg-logo="https://picon-13398.kxcdn.com/cocuksmarttr.jpg" group-title="Live: Turkey",Çocuk Smart FHD TR
+#EXTINF:-1 tvg-id="" tvg-name="Ã‡ocuk Smart FHD TR" tvg-logo="https://picon-13398.kxcdn.com/cocuksmarttr.jpg" group-title="Live: Turkey",Ã‡ocuk Smart FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/116855
 #EXTINF:-1 tvg-id="FilmBox.tr" tvg-name="FilmBox FHD TR" tvg-logo="https://picon-13398.kxcdn.com/filmbox.jpg" group-title="Live: Turkey",FilmBox FHD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/116856
@@ -1654,7 +1655,7 @@ http://45.12.1.14:80/NehatIPTV/bqbFgX023/116859
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/118077
 #EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Live: Turkey",Tivibu Spor 4 HD TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/118267
-#EXTINF:-1 tvg-id="" tvg-name="Türkmeneli TV TR" tvg-logo="https://picon-13398.kxcdn.com/turkmenelitvtr.jpg" group-title="Live: Turkey",Türkmeneli TV TR
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¼rkmeneli TV TR" tvg-logo="https://picon-13398.kxcdn.com/turkmenelitvtr.jpg" group-title="Live: Turkey",TÃ¼rkmeneli TV TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/122173
 #EXTINF:-1 tvg-id="" tvg-name="SZC TR" tvg-logo="https://picon-13398.kxcdn.com/szctr.jpg" group-title="Live: Turkey",SZC TR
 http://45.12.1.14:80/NehatIPTV/bqbFgX023/125012
