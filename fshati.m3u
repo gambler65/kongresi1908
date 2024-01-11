@@ -1,0 +1,916 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="http://nextgen-iptv.com/newlogo/HRT1-logo.png" group-title="Hrvatska",HRT 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1261.ts
+#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="http://nextgen-iptv.com/newlogo/Htv2-logo.png" group-title="Hrvatska",HRT 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1260.ts
+#EXTINF:-1 tvg-id="HTV3" tvg-name="HRT 3" tvg-logo="" group-title="Hrvatska",HRT 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1259.ts
+#EXTINF:-1 tvg-id="HTV4" tvg-name="HRT 4" tvg-logo="" group-title="Hrvatska",HRT 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1258.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT int" tvg-logo="http://nextgen-iptv.com/newlogo/HRT5-logo.png" group-title="Hrvatska",HRT int
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1257.ts
+#EXTINF:-1 tvg-id="NOVATV" tvg-name="Nova TV" tvg-logo="" group-title="Hrvatska",Nova TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1256.ts
+#EXTINF:-1 tvg-id="DOMATV" tvg-name="Doma TV" tvg-logo="" group-title="Hrvatska",Doma TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1255.ts
+#EXTINF:-1 tvg-id="DOMATV" tvg-name="Doma TV HD" tvg-logo="https://ssc.a1.hr/documents/10307706/46958889/doma-nova-hd.png" group-title="Hrvatska",Doma TV HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7263.ts
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="https://www.i-on.tv/america/img/logoch/rtl.jpg" group-title="Hrvatska",RTL
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1254.ts
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-logo="http://tvprofil.net/img/kanali-logo/RTL2-logo.png" group-title="Hrvatska",RTL 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1252.ts
+#EXTINF:-1 tvg-id="RTLCrime" tvg-name="RTL Crime" tvg-logo="http://4.bp.blogspot.com/-DhB-0XAlLEA/VQNIcJQvguI/AAAAAAAAATM/ueyQ56S_WgI/s1600/RTL-Crime1.png" group-title="Hrvatska",RTL Crime
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1251.ts
+#EXTINF:-1 tvg-id="RTLLiving" tvg-name="RTL Living" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/rtlliving/logo/rtlliving_ox__W1000xh0.jpg" group-title="Hrvatska",RTL Living
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1250.ts
+#EXTINF:-1 tvg-id="RTLPassion" tvg-name="RTL Passion" tvg-logo="https://tvprofil.com/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL Passion
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1249.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL Adria" tvg-logo="" group-title="Hrvatska",RTL Adria
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12682.ts
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Hr" tvg-logo="" group-title="Hrvatska",N1 Hr
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4538.ts
+#EXTINF:-1 tvg-id="Z1" tvg-name="Z1" tvg-logo="" group-title="Hrvatska",Z1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1245.ts
+#EXTINF:-1 tvg-id="OsjeckaTV" tvg-name="Osjecka TV" tvg-logo="http://nextgen-iptv.com/logo/OsjeckaTV_HR.png" group-title="Hrvatska",Osjecka TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1248.ts
+#EXTINF:-1 tvg-id="SlavonskaTV" tvg-name="Slavonska TV" tvg-logo="" group-title="Hrvatska",Slavonska TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1247.ts
+#EXTINF:-1 tvg-id="VinkovackaTV" tvg-name="Plava Vinkovacka" tvg-logo="http://nextgen-iptv.com/logo/VinkovackaTV_HR.png" group-title="Hrvatska",Plava Vinkovacka
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1246.ts
+#EXTINF:-1 tvg-id="VarazdinskaTV" tvg-name="VTV Varazdinska" tvg-logo="" group-title="Hrvatska",VTV Varazdinska
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8356.ts
+#EXTINF:-1 tvg-id="laudatotv" tvg-name="Laudato TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b1/LaudatoTV.png" group-title="Hrvatska",Laudato TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3635.ts
+#EXTINF:-1 tvg-id="rtbtv" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="Hrvatska",Banovina TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1244.ts
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Libertas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" group-title="Hrvatska",Libertas TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11781.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUTV" tvg-logo="https://dubrovackiportal.hr/wp-content/uploads/2017/10/DUTV-logo-plavi-mali-e1535651225538.png" group-title="Hrvatska",DUTV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11782.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV JADRAN" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" group-title="Hrvatska",TV JADRAN
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11785.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1" tvg-logo="http://nextgen-iptv.com/logo/BHT1_BiH.png" group-title="BiH",BHT 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1339.ts
+#EXTINF:-1 tvg-id="FTV" tvg-name="Federalna TV" tvg-logo="http://nextgen-iptv.com/logo/FederalnaTV_BiH.png" group-title="BiH",Federalna TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1338.ts
+#EXTINF:-1 tvg-id="tvsarajevo" tvg-name="TV Sarajevo" tvg-logo="http://nextgen-iptv.com/logo/tv_sarajevo.png" group-title="BiH",TV Sarajevo
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1337.ts
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera Balkans" tvg-logo="http://nextgen-iptv.com/logo/AlJazeeraBalkans_BA.png" group-title="BiH",Al Jazeera Balkans
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1336.ts
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/logo/ATV_BiH.png" group-title="BiH",ATV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1335.ts
+#EXTINF:-1 tvg-id="FaceTV" tvg-name="Face TV" tvg-logo="http://nextgen-iptv.com/logo/FaceTV_BiH.png" group-title="BiH",Face TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1334.ts
+#EXTINF:-1 tvg-id="novabh" tvg-name="Nova BH" tvg-logo="" group-title="BiH",Nova BH
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8380.ts
+#EXTINF:-1 tvg-id="tktuzla" tvg-name="TK Tuzla" tvg-logo="http://nextgen-iptv.com/logo/RTVTK_BiH.png" group-title="BiH",TK Tuzla
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1333.ts
+#EXTINF:-1 tvg-id="Hayat" tvg-name="Hayat TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/hayat_ba.png" group-title="BiH",Hayat TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1332.ts
+#EXTINF:-1 tvg-id="HayatPlus" tvg-name="Hayat Plus" tvg-logo="http://nextgen-iptv.com/logo/HayatPLUS_BiH.png" group-title="BiH",Hayat Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1331.ts
+#EXTINF:-1 tvg-id="N1" tvg-name="N1 BiH" tvg-logo="" group-title="BiH",N1 BiH
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1330.ts
+#EXTINF:-1 tvg-id="OBN" tvg-name="OBN" tvg-logo="" group-title="BiH",OBN
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1329.ts
+#EXTINF:-1 tvg-id="TV1" tvg-name="Bosna TV 1" tvg-logo="http://teve.ba/img/articles/2461.jpg?TV1_u_ponudi_BosnaTV_IPTV" group-title="BiH",Bosna TV 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1313.ts
+#EXTINF:-1 tvg-id="otvvalentino" tvg-name="Valentino TV" tvg-logo="" group-title="BiH",Valentino TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1328.ts
+#EXTINF:-1 tvg-id="mtvigman" tvg-name="MTV Igman" tvg-logo="http://nextgen-iptv.com/logo/MTV_Igman_Logo.png" group-title="BiH",MTV Igman
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1327.ts
+#EXTINF:-1 tvg-id="bntv" tvg-name="BN" tvg-logo="" group-title="BiH",BN
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1326.ts
+#EXTINF:-1 tvg-id="rtvzenica" tvg-name="RTV Zenica" tvg-logo="http://nextgen-iptv.com/logo/RTV_Zenica.png" group-title="BiH",RTV Zenica
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1325.ts
+#EXTINF:-1 tvg-id="" tvg-name="Posavina Tv" tvg-logo="http://www.frocus.net/images/logotv/original/Posavina-TV.jpg" group-title="BiH",Posavina Tv
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moja TV" tvg-logo="" group-title="BiH",Moja TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/2688.ts
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://nextgen-iptv.com/logo/RTRS_BiH.png" group-title="BiH",RTRS
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1317.ts
+#EXTINF:-1 tvg-id="rtrsplus" tvg-name="RTRS Plus" tvg-logo="" group-title="BiH",RTRS Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7102.ts
+#EXTINF:-1 tvg-id="TVAlfaSarajevo" tvg-name="Alfa TV Sarajevo" tvg-logo="" group-title="BiH",Alfa TV Sarajevo
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7464.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Herceg Bosna" tvg-logo="" group-title="BiH",RTV Herceg Bosna
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11955.ts
+#EXTINF:-1 tvg-id="RTS1" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_1.png" group-title="Srbija",RTS 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1310.ts
+#EXTINF:-1 tvg-id="RTS2" tvg-name="RTS 2" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_2.png" group-title="Srbija",RTS 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1309.ts
+#EXTINF:-1 tvg-id="rts3" tvg-name="RTS 3" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_hd.png" group-title="Srbija",RTS 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1308.ts
+#EXTINF:-1 tvg-id="RTS1" tvg-name="RTS 1 HD" tvg-logo="" group-title="Srbija",RTS 1 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7260.ts
+#EXTINF:-1 tvg-id="rtsdrama" tvg-name="RTS Drama" tvg-logo="" group-title="Srbija",RTS Drama
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7258.ts
+#EXTINF:-1 tvg-id="rtszivot" tvg-name="RTS Zivot" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_Zivot_logo.png" group-title="Srbija",RTS Zivot
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7256.ts
+#EXTINF:-1 tvg-id="RTV1" tvg-name="RTV 1" tvg-logo="http://i.imgur.com/gAFXYVp.jpg" group-title="Srbija",RTV 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1307.ts
+#EXTINF:-1 tvg-id="o2tv" tvg-name="O2TV" tvg-logo="http://nextgen-iptv.com/Logos/srb/b92_rs_tv.png" group-title="Srbija",O2TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1306.ts
+#EXTINF:-1 tvg-id="PRVASrpskaTelevizija" tvg-name="Prva" tvg-logo="" group-title="Srbija",Prva
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1303.ts
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/Logos/srb/prva_plus_rs.png" group-title="Srbija",Prva Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1302.ts
+#EXTINF:-1 tvg-id="prvaworld" tvg-name="Prva World" tvg-logo="http://www.advertiser-serbia.com/advertiser/wp-content/uploads/2016/12/prva-world-logo.jpg" group-title="Srbija",Prva World
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1301.ts
+#EXTINF:-1 tvg-id="prvamax" tvg-name="Prva Max" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/e/e2/Prva_max_logo.png" group-title="Srbija",Prva Max
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1300.ts
+#EXTINF:-1 tvg-id="prva-kick" tvg-name="Prva Kick" tvg-logo="" group-title="Srbija",Prva Kick
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4556.ts
+#EXTINF:-1 tvg-id="HappyTV" tvg-name="Happy TV" tvg-logo="http://www.novosti.rs/upload/images/2015//04/02/happy1.jpg" group-title="Srbija",Happy TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1299.ts
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 Sr" tvg-logo="" group-title="Srbija",N1 Sr
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova S" tvg-logo="" group-title="Srbija",Nova S
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1304.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Novi Pazar" tvg-logo="" group-title="Srbija",RTV Novi Pazar
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7475.ts
+#EXTINF:-1 tvg-id="rtcg2" tvg-name="RTCG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/RTCG_logo.svg/1200px-RTCG_logo.svg.png" group-title="Srbija",RTCG 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4535.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="" group-title="Srbija",KCN 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1292.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="http://www.striminghost.com/upload/televizija/kcn-2.jpg" group-title="Srbija",KCN 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1291.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 3" tvg-logo="http://i.imgur.com/ikPk6Mv.jpg" group-title="Srbija",KCN 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1290.ts
+#EXTINF:-1 tvg-id="MRT1" tvg-name="MRT 1" tvg-logo="" group-title="Makedonija",MRT 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1286.ts
+#EXTINF:-1 tvg-id="MRT2" tvg-name="MRT 2" tvg-logo="" group-title="Makedonija",MRT 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1285.ts
+#EXTINF:-1 tvg-id="MRT3" tvg-name="MRT 3" tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/04/1200px-Macedonian_Television_2012_logo.svg_-324x160.png" group-title="Makedonija",MRT 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1284.ts
+#EXTINF:-1 tvg-id="Kanal5" tvg-name="Kanal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Kanal5_mk_logo.jpg/250px-Kanal5_mk_logo.jpg" group-title="Makedonija",Kanal 5
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1283.ts
+#EXTINF:-1 tvg-id="Sitel" tvg-name="Sitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/1200px-Logo_of_Sitel.svg.png" group-title="Makedonija",Sitel
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1282.ts
+#EXTINF:-1 tvg-id="Telma" tvg-name="Telma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Telma_logo_%28official%29.png/250px-Telma_logo_%28official%29.png" group-title="Makedonija",Telma
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1280.ts
+#EXTINF:-1 tvg-id="ALSAT-M" tvg-name="Alsat M" tvg-logo="http://i.imgur.com/5udojF5.jpg" group-title="Makedonija",Alsat M
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1279.ts
+#EXTINF:-1 tvg-id="ALFATV" tvg-name="Alfa TV MK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Alfa_TV_%28Bulgaria%29_logo.png" group-title="Makedonija",Alfa TV MK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Roma TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mk-tv-sutel-2200.jpg" group-title="Makedonija",Roma TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1275.ts
+#EXTINF:-1 tvg-id="suteltv" tvg-name="Sutel TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mk-tv-sutel-2200.jpg" group-title="Makedonija",Sutel TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1276.ts
+#EXTINF:-1 tvg-id="24vesti" tvg-name="24 Vesti" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/24-vesti-large.png" group-title="Makedonija",24 Vesti
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1277.ts
+#EXTINF:-1 tvg-id="SLO1" tvg-name="SLO 1" tvg-logo="" group-title="Slovenija",SLO 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1272.ts
+#EXTINF:-1 tvg-id="SLO2" tvg-name="SLO 2" tvg-logo="" group-title="Slovenija",SLO 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1271.ts
+#EXTINF:-1 tvg-id="SLO3" tvg-name="SLO 3" tvg-logo="https://img.rtvslo.si/_up/ava/archive2/Content/channel_logos/SLO3.jpg" group-title="Slovenija",SLO 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3660.ts
+#EXTINF:-1 tvg-id="KanalA" tvg-name="A kanal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Kanal_A.png/220px-Kanal_A.png" group-title="Slovenija",A kanal
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1268.ts
+#EXTINF:-1 tvg-id="PopTV" tvg-name="POP TV" tvg-logo="https://2.bp.blogspot.com/-BR_0qni3ofk/WEcn7XdDhVI/AAAAAAAAAME/F2emBd_97q4VKL_YmR4UT4ZuK_Nt7qmogCLcB/s320/Pop%2BTV.png" group-title="Slovenija",POP TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1270.ts
+#EXTINF:-1 tvg-id="PopKino" tvg-name="POP Kino" tvg-logo="https://static.wirtualnemedia.pl/media/top/KinoTVlogotyp-655.jpg" group-title="Slovenija",POP Kino
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1269.ts
+#EXTINF:-1 tvg-id="PopBrio" tvg-name="POP Brio" tvg-logo="" group-title="Slovenija",POP Brio
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3643.ts
+#EXTINF:-1 tvg-id="POpOto" tvg-name="POP Oto" tvg-logo="https://3.bp.blogspot.com/-TPdjUNWctXM/Vdxc01QGNuI/AAAAAAAAAZw/HdjDtEiUUvs/s1600/popotouzivo-gletv.png" group-title="Slovenija",POP Oto
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3642.ts
+#EXTINF:-1 tvg-id="PlanetTv" tvg-name="Planet TV SLO" tvg-logo="https://vimg.siol.tv/sioltv/epg/999/PLANETTV/20/5/0/509159.jpg" group-title="Slovenija",Planet TV SLO
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3719.ts
+#EXTINF:-1 tvg-id="Pink" tvg-name="Pink" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_1_rs.png" group-title="Pink",Pink
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1363.ts
+#EXTINF:-1 tvg-id="PinkPlus" tvg-name="Pink Plus" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_plus.png" group-title="Pink",Pink Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1361.ts
+#EXTINF:-1 tvg-id="pink2" tvg-name="Pink 2 / Red TV" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_2_rs.png" group-title="Pink",Pink 2 / Red TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1360.ts
+#EXTINF:-1 tvg-id="pink3" tvg-name="Pink 3" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_3_info_rs.png" group-title="Pink",Pink 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1359.ts
+#EXTINF:-1 tvg-id="PinkM" tvg-name="Pink M" tvg-logo="" group-title="Pink",Pink M
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1358.ts
+#EXTINF:-1 tvg-id="PINKBH" tvg-name="Pink Media BH" tvg-logo="https://telemach.ba/Picture/72892/jpeg/Pink_Media_BH.JPG" group-title="Pink",Pink Media BH
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8375.ts
+#EXTINF:-1 tvg-id="PinkAction" tvg-name="Pink Action" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_action.png" group-title="Pink",Pink Action
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1356.ts
+#EXTINF:-1 tvg-id="PinkPremium" tvg-name="Pink Premium" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkPremium.png" group-title="Pink",Pink Premium
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1354.ts
+#EXTINF:-1 tvg-id="PinkComedy" tvg-name="Pink Comedy" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_comedy_rs.png" group-title="Pink",Pink Comedy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1353.ts
+#EXTINF:-1 tvg-id="PinkSciFiFantasy" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_SciFi_Fantasy_logo.png" group-title="Pink",Pink Sci Fi & Fantasy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1347.ts
+#EXTINF:-1 tvg-id="PinkCrimeMystery" tvg-name="Pink Crime & Mystery" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Crime_Mistery_logo.png" group-title="Pink",Pink Crime & Mystery
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1350.ts
+#EXTINF:-1 tvg-id="PinkThriller" tvg-name="Pink Thriller" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Thriller_logo.png" group-title="Pink",Pink Thriller
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1346.ts
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkWorldCinema_logo.png" group-title="Pink",Pink World Cinema
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7103.ts
+#EXTINF:-1 tvg-id="PinkMovies" tvg-name="Pink Movies" tvg-logo="" group-title="Pink",Pink Movies
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1351.ts
+#EXTINF:-1 tvg-id="PinkHorror" tvg-name="Pink Horror" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pinkHorror.png" group-title="Pink",Pink Horror
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1352.ts
+#EXTINF:-1 tvg-id="PinkFilm" tvg-name="Pink Film" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_film.png" group-title="Pink",Pink Film
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1355.ts
+#EXTINF:-1 tvg-id="PinkWestern" tvg-name="Pink Western" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink-western-logo.png" group-title="Pink",Pink Western
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1348.ts
+#EXTINF:-1 tvg-id="PinkClassic" tvg-name="Pink Classic" tvg-logo="" group-title="Pink",Pink Classic
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1344.ts
+#EXTINF:-1 tvg-id="PinkRomance" tvg-name="Pink Romance" tvg-logo="" group-title="Pink",Pink Romance
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1342.ts
+#EXTINF:-1 tvg-id="PinkSoap" tvg-name="Pink Soap" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_soap_rs.png" group-title="Pink",Pink Soap
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1357.ts
+#EXTINF:-1 tvg-id="PinkSerije" tvg-name="Pink Serije" tvg-logo="http://i.imgur.com/Uwe5uUB.png" group-title="Pink",Pink Serije
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1345.ts
+#EXTINF:-1 tvg-id="PinkReality" tvg-name="Pink Reality" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_reality_rs.png" group-title="Pink",Pink Reality
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1341.ts
+#EXTINF:-1 tvg-id="PinkWorld" tvg-name="Pink World" tvg-logo="" group-title="Pink",Pink World
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1349.ts
+#EXTINF:-1 tvg-id="PinkZabava" tvg-name="Pink Zabava" tvg-logo="" group-title="Pink",Pink Zabava
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1343.ts
+#EXTINF:-1 tvg-id="pinkextra" tvg-name="Pink Extra" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkExtra.png" group-title="Pink",Pink Extra
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink HAHA" tvg-logo="https://tvprofil.com/img/kanali-logo/HaHa.png" group-title="Pink",Pink HAHA
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3654.ts
+#EXTINF:-1 tvg-id="pinklol" tvg-name="Pink LOL" tvg-logo="https://tvprofil.com/img/kanali-logo/LOL.png" group-title="Pink",Pink LOL
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3653.ts
+#EXTINF:-1 tvg-id="PinkKuvar" tvg-name="Pink Kuvar" tvg-logo="http://i.imgur.com/VgHSj45.jpg" group-title="Pink",Pink Kuvar
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1340.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 1" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c5/Zadruga_reality_logo.png" group-title="Pink",Zadruga Live 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 2" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c5/Zadruga_reality_logo.png" group-title="Pink",Zadruga Live 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11801.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 3" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c5/Zadruga_reality_logo.png" group-title="Pink",Zadruga Live 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 4" tvg-logo="" group-title="Pink",Zadruga Live 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11803.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Adria" tvg-logo="" group-title="Film & serije",HBO Adria
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1385.ts
+#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Film & serije",HBO 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1384.ts
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="" group-title="Film & serije",HBO 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1383.ts
+#EXTINF:-1 tvg-id="CinestarTV" tvg-name="CineStar TV" tvg-logo="" group-title="Film & serije",CineStar TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1382.ts
+#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-name="CineStar Premiere" tvg-logo="https://tvprofil.com/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film & serije",CineStar Premiere
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1381.ts
+#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-name="CineStar Premiere 2" tvg-logo="" group-title="Film & serije",CineStar Premiere 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1380.ts
+#EXTINF:-1 tvg-id="CineStarAT" tvg-name="CineStar Action & Thriller" tvg-logo="" group-title="Film & serije",CineStar Action & Thriller
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1379.ts
+#EXTINF:-1 tvg-id="CinestarFantasy" tvg-name="Cinestar Fantasy" tvg-logo="" group-title="Film & serije",Cinestar Fantasy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1378.ts
+#EXTINF:-1 tvg-id="cinestarcomedy" tvg-name="Cinestar Comedy" tvg-logo="" group-title="Film & serije",Cinestar Comedy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8374.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax 1" tvg-logo="" group-title="Film & serije",Cinemax 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1377.ts
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax 2" tvg-logo="" group-title="Film & serije",Cinemax 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1376.ts
+#EXTINF:-1 tvg-id="FOXYU" tvg-name="Star" tvg-logo="" group-title="Film & serije",Star
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1368.ts
+#EXTINF:-1 tvg-id="FoxMovies" tvg-name="Star Movies" tvg-logo="" group-title="Film & serije",Star Movies
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1367.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Star Life" tvg-logo="" group-title="Film & serije",Star Life
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1366.ts
+#EXTINF:-1 tvg-id="FoxCrime" tvg-name="Star Crime" tvg-logo="" group-title="Film & serije",Star Crime
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1365.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="Film & serije",AXN
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1369.ts
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="" group-title="Film & serije",AXN Spin
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7114.ts
+#EXTINF:-1 tvg-id="M1FILM" tvg-name="M1 Film" tvg-logo="" group-title="Film & serije",M1 Film
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1375.ts
+#EXTINF:-1 tvg-id="KinoTV" tvg-name="Kino TV" tvg-logo="" group-title="Film & serije",Kino TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1374.ts
+#EXTINF:-1 tvg-id="filmbox-plus" tvg-name="FilmBox Plus" tvg-logo="" group-title="Film & serije",FilmBox Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1372.ts
+#EXTINF:-1 tvg-id="filmbox-hd" tvg-name="FilmBox Extra" tvg-logo="" group-title="Film & serije",FilmBox Extra
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1373.ts
+#EXTINF:-1 tvg-id="KlasikTV" tvg-name="Klasik TV" tvg-logo="" group-title="Film & serije",Klasik TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1371.ts
+#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="" group-title="Film & serije",Cinemania
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7252.ts
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva" tvg-logo="" group-title="Film & serije",Diva
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7251.ts
+#EXTINF:-1 tvg-id="TV1000" tvg-name="TV 1000" tvg-logo="" group-title="Film & serije",TV 1000
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1370.ts
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="" group-title="Film & serije",AMC
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7267.ts
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic" tvg-logo="" group-title="Doku & Style",National Geographic
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1404.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="" group-title="Doku & Style",Discovery Channel
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1403.ts
+#EXTINF:-1 tvg-id="DiscoveryScienceHR" tvg-name="Discovery Science" tvg-logo="" group-title="Doku & Style",Discovery Science
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7249.ts
+#EXTINF:-1 tvg-id="HistoryChannel" tvg-name="History Channel" tvg-logo="" group-title="Doku & Style",History Channel
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1402.ts
+#EXTINF:-1 tvg-id="History2" tvg-name="History Channel 2" tvg-logo="" group-title="Doku & Style",History Channel 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1401.ts
+#EXTINF:-1 tvg-id="ViasatExplore" tvg-name="Viasat Explore" tvg-logo="" group-title="Doku & Style",Viasat Explore
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1400.ts
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="Viasat History" tvg-logo="" group-title="Doku & Style",Viasat History
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1399.ts
+#EXTINF:-1 tvg-id="dokutv" tvg-name="Doku TV" tvg-logo="" group-title="Doku & Style",Doku TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8326.ts
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="Viasat Nature" tvg-logo="" group-title="Doku & Style",Viasat Nature
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1396.ts
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeo Wild" tvg-logo="" group-title="Doku & Style",NatGeo Wild
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1395.ts
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="" group-title="Doku & Style",Animal Planet
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1394.ts
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" tvg-logo="" group-title="Doku & Style",BBC Earth
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/3639.ts
+#EXTINF:-1 tvg-id="PlanetEarth" tvg-name="Planet Earth" tvg-logo="" group-title="Doku & Style",Planet Earth
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8603.ts
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="Travel Channel" tvg-logo="" group-title="Doku & Style",Travel Channel
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1398.ts
+#EXTINF:-1 tvg-id="crimeinvestigation" tvg-name="Crime Investigation" tvg-logo="" group-title="Doku & Style",Crime Investigation
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1393.ts
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Investigation Discovery" tvg-logo="" group-title="Doku & Style",Investigation Discovery
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1392.ts
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Doku & Style",Da Vinci Learning
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4537.ts
+#EXTINF:-1 tvg-id="PinkPedia" tvg-name="Pink Pedia" tvg-logo="" group-title="Doku & Style",Pink Pedia
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1397.ts
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox" tvg-logo="" group-title="Doku & Style",DocuBox
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4540.ts
+#EXTINF:-1 tvg-id="" tvg-name="E Entertainment" tvg-logo="" group-title="Doku & Style",E Entertainment
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1390.ts
+#EXTINF:-1 tvg-id="DiscoveryTLC" tvg-name="TLC" tvg-logo="" group-title="Doku & Style",TLC
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1389.ts
+#EXTINF:-1 tvg-id="LovRibolov" tvg-name="Lov i Ribolov" tvg-logo="" group-title="Doku & Style",Lov i Ribolov
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1386.ts
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="24 Kitchen" tvg-logo="" group-title="Doku & Style",24 Kitchen
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1387.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! (Test)" tvg-logo="" group-title="Deutsch",E! (Test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11159.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Adria" tvg-logo="" group-title="Music",MTV Adria
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1428.ts
+#EXTINF:-1 tvg-id="MTVBase" tvg-name="MTV Base" tvg-logo="" group-title="Music",MTV Base
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1422.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1425.ts
+#EXTINF:-1 tvg-id="MTVDance" tvg-name="MTV Dance" tvg-logo="" group-title="Music",MTV Dance
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1423.ts
+#EXTINF:-1 tvg-id="MTVHITS" tvg-name="MTV Hits" tvg-logo="" group-title="Music",MTV Hits
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1426.ts
+#EXTINF:-1 tvg-id="MTVMUSIC" tvg-name="MTV Music" tvg-logo="http://nextgen-iptv.com/logo/MTVDance_EU.png" group-title="Music",MTV Music
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1427.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s" tvg-logo="http://nextgen-iptv.com/logo/VH1_EU.png" group-title="Music",MTV 00s
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1421.ts
+#EXTINF:-1 tvg-id="pinknroll" tvg-name="Pink n Roll" tvg-logo="" group-title="Music",Pink n Roll
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1411.ts
+#EXTINF:-1 tvg-id="JugotonTV" tvg-name="Jugoton TV" tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png" group-title="Music",Jugoton TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1419.ts
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-logo="http://nextgen-iptv.com/logo/cmc.png" group-title="Music",CMC
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1420.ts
+#EXTINF:-1 tvg-id="PinkFolk" tvg-name="Pink Folk 1" tvg-logo="http://i.imgur.com/73SFnlN.jpg" group-title="Music",Pink Folk 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1409.ts
+#EXTINF:-1 tvg-id="PinkFolk2" tvg-name="Pink Folk 2" tvg-logo="http://i.imgur.com/YmfACQy.jpg" group-title="Music",Pink Folk 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1408.ts
+#EXTINF:-1 tvg-id="pinkmusic" tvg-name="Pink Music" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_music.png" group-title="Music",Pink Music
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1410.ts
+#EXTINF:-1 tvg-id="GrandNarodnaTV" tvg-name="Grand Narodna TV" tvg-logo="" group-title="Music",Grand Narodna TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="https://4.bp.blogspot.com/-hsRI6ekV32s/VzCzKQjpM2I/AAAAAAAAEkw/SVKZ7EJEqL4P7ZO5dJHMrYhdxDRxFebyQCLcB/s1600/GRAND%2B2%2B1.PNG" group-title="Music",Grand 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1416.ts
+#EXTINF:-1 tvg-id="HayatFolk" tvg-name="Hayat Folk" tvg-logo="http://nextgen-iptv.com/logo/HayatFolk_BiH.png" group-title="Music",Hayat Folk
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1413.ts
+#EXTINF:-1 tvg-id="HayatMusic" tvg-name="Hayat Music" tvg-logo="http://nextgen-iptv.com/logo/Hayat_BiH.png" group-title="Music",Hayat Music
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1414.ts
+#EXTINF:-1 tvg-id="BNMusic" tvg-name="BN Music" tvg-logo="http://nextgen-iptv.com/logo/BNMusic_BiH.png" group-title="Music",BN Music
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1418.ts
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="http://rem.rs/uploads/attachment/pruzalac/1385/idjtv_k.png" group-title="Music",IDJ TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/2536.ts
+#EXTINF:-1 tvg-id="DMSAT" tvg-name="DM Sat" tvg-logo="" group-title="Music",DM Sat
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1415.ts
+#EXTINF:-1 tvg-id="sevdahtv" tvg-name="Sevdah TV" tvg-logo="" group-title="Music",Sevdah TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1405.ts
+#EXTINF:-1 tvg-id="izvornatv" tvg-name="Izvorna TV" tvg-logo="http://nextgen-iptv.com/logo/Izvorna%20TV.png" group-title="Music",Izvorna TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1406.ts
+#EXTINF:-1 tvg-id="BALKANIKA" tvg-name="Balkanika" tvg-logo="" group-title="Music",Balkanika
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Glas Drine" tvg-logo="" group-title="Music",Glas Drine
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8604.ts
+#EXTINF:-1 tvg-id="RTLKockica" tvg-name="RTL Kockica" tvg-logo="https://rtl-static.cdn.sysbee.net/image/rtl-kockica-0268f689228e3cc442e63518bf2a8e74_view_article.png" group-title="Kids",RTL Kockica
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1445.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title="Kids",Nickelodeon
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1444.ts
+#EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr" tvg-logo="http://nextgen-iptv.com/logo/nick%20jr.png" group-title="Kids",Nick Jr
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1443.ts
+#EXTINF:-1 tvg-id="MiniTV" tvg-name="Mini TV" tvg-logo="https://i.ytimg.com/vi/Sa4g80S8IrE/maxresdefault.jpg" group-title="Kids",Mini TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1442.ts
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/6/6f/Minimax_TV.png" group-title="Kids",Minimax
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1441.ts
+#EXTINF:-1 tvg-id="Hayatovci" tvg-name="Hayatovci" tvg-logo="http://nextgen-iptv.com/Logos/kid/hayatovci-logo.png" group-title="Kids",Hayatovci
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1440.ts
+#EXTINF:-1 tvg-id="PinkKids" tvg-name="Pink Kids" tvg-logo="http://i.imgur.com/DczokSl.jpg" group-title="Kids",Pink Kids
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1439.ts
+#EXTINF:-1 tvg-id="PinkSuperKids" tvg-name="Pink Super Kids" tvg-logo="http://tvprofil.net/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids",Pink Super Kids
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1438.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg" group-title="Kids",Tom and Jerry Channel
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7253.ts
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel UK" tvg-logo="" group-title="Kids",Disney Channel UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1436.ts
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Jr UK" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Disney Jr UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1435.ts
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="" group-title="Kids",Disney XD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1434.ts
+#EXTINF:-1 tvg-id="CartoonNetworkUK" tvg-name="Cartoon Network UK" tvg-logo="" group-title="Kids",Cartoon Network UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1433.ts
+#EXTINF:-1 tvg-id="kikade" tvg-name="Kika DE" tvg-logo="" group-title="Kids",Kika DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1432.ts
+#EXTINF:-1 tvg-id="nickde" tvg-name="Nickelodeon DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title="Kids",Nickelodeon DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1430.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://b7.pngbarn.com/png/731/279/babytv-television-channel-television-show-child-child-png-clip-art.png" group-title="Kids",Baby TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1429.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HR" tvg-logo="" group-title="Sport",Sport Klub 1 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HR" tvg-logo="" group-title="Sport",Sport Klub 2 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1528.ts
+#EXTINF:-1 tvg-id="SK3HR" tvg-name="Sport Klub 3 HR" tvg-logo="" group-title="Sport",Sport Klub 3 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1527.ts
+#EXTINF:-1 tvg-id="SportKlub1" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sport",Sport Klub 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sport",Sport Klub 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3" tvg-logo="" group-title="Sport",Sport Klub 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1524.ts
+#EXTINF:-1 tvg-id="SportKlub4" tvg-name="Sport Klub 4" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-4.png" group-title="Sport",Sport Klub 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5" tvg-logo="" group-title="Sport",Sport Klub 5
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6" tvg-logo="http://nextgen-iptv.com/Logos/spo/sk6.png" group-title="Sport",Sport Klub 6
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1521.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="" group-title="Sport",Sport Klub 7
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="" group-title="Sport",Sport Klub 8
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9" tvg-logo="" group-title="Sport",Sport Klub 9
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10" tvg-logo="" group-title="Sport",Sport Klub 10
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_skhd.png" group-title="Sport",Sport Klub HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="https://www.blog.uporabnastran.si/wp-content/uploads/2016/04/sport-klub-golf-sk-golf.png" group-title="Sport",Sport Klub Golf
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11839.ts
+#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-name="Arena Sport 1 HR" tvg-logo="" group-title="Sport",Arena Sport 1 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1520.ts
+#EXTINF:-1 tvg-id="ArenaSport2hr" tvg-name="Arena Sport 2 HR" tvg-logo="" group-title="Sport",Arena Sport 2 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1519.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport3_HR.png" group-title="Sport",Arena Sport 3 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport4_HR.png" group-title="Sport",Arena Sport 4 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport5_HR.png" group-title="Sport",Arena Sport 5 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1516.ts
+#EXTINF:-1 tvg-id="ArenaSport6hr" tvg-name="Arena Sport 6 HR" tvg-logo="" group-title="Sport",Arena Sport 6 HR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sport",Arena Sport 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport2_SRB.png" group-title="Sport",Arena Sport 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport3_SRB.png" group-title="Sport",Arena Sport 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport4_SRB.png" group-title="Sport",Arena Sport 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport5_SRB.png" group-title="Sport",Arena Sport 5
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://nextgen-iptv.com/logo/eurosport%20cz.png" group-title="Sport",Eurosport 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://nextgen-iptv.com/logo/eurosport%20cz.png" group-title="Sport",Eurosport 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Channel" tvg-logo="http://nextgen-iptv.com/logo/Fight-Sports-New-Update-Key-Working-Fine.png" group-title="Sport",Fight Channel
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1448.ts
+#EXTINF:-1 tvg-id="SportskaTV" tvg-name="Sportska TV" tvg-logo="https://tvprofil.com/img/kanali-logo/sptv-logo.png" group-title="Sport",Sportska TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1450.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOS Kanal" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/52399820473977.56042829518ac.jpg" group-title="Sport",SOS Kanal
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7345.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="Sport",NBA TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1451.ts
+#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="Sport",TSN 2 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria" tvg-logo="" group-title="Sport - Deutschland",Sky Sport Austria
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 Ro" tvg-logo="http://1.bp.blogspot.com/-7Lxnhk_bXMQ/UCdnpNqkX3I/AAAAAAAAIeE/0av9PPgR5uE/s1600/digi_sport1.png" group-title="Sport",Digi Sport 1 Ro
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1462.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 Ro" tvg-logo="http://4.bp.blogspot.com/-KUR-LjJdKhY/UCdn3Wko_QI/AAAAAAAAIeM/ivT0e5181jY/s1600/digi_sport2.png" group-title="Sport",Digi Sport 2 Ro
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1461.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 Ro" tvg-logo="https://itutorial.ro/wp-content/uploads/images-1.jpeg" group-title="Sport",Digi Sport 3 Ro
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1460.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 Nl" tvg-logo="http://nextgen-iptv.com/logo/FoxSports1.png" group-title="Sport",FOX Sports 1 Nl
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1466.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Nl" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 Nl
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1465.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 Nl" tvg-logo="" group-title="Sport",FOX Sports 3 Nl
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1464.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 4 Nl" tvg-logo="" group-title="Sport",FOX Sports 4 Nl
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="" group-title="Sport - Deutschland",Sky Sport Bundesliga 1 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 DE" tvg-logo="" group-title="Sport - Deutschland",Sky Sport 1 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1487.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 DE" tvg-logo="" group-title="Sport - Deutschland",Sky Sport 2 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1486.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports ESPN HD" tvg-logo="https://banner2.cleanpng.com/20180713/irc/kisspng-ultimate-fighting-championship-bt-sport-espn-telev-tv-channel-5b48e81c567dc2.5862355215315046683543.jpg" group-title="Sport",BT Sports ESPN HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1488.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.logolynx.com/images/logolynx/45/45fb48dea1f53eb313f148e00b3a9acf.jpeg" group-title="Sport",BT Sport 1 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1491.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="Sport",BT Sport 2 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1490.ts
+#EXTINF:-1 tvg-id="BTSport3" tvg-name="BT Sport 3 HD" tvg-logo="https://ewsat.com/img/BT_SPORT_3.png" group-title="Sport",BT Sport 3 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1489.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 DE" tvg-logo="" group-title="Sport - Deutschland",Eurosport 2 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1505.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 UK" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sport",Sky Sports F1 UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="Sport",Sky Sports Premier League UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png" group-title="Sport",Sky Sports Main Event UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="Sport",Sky Sports Football UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK" tvg-logo="https://i.dlpng.com/static/png/390722_preview.png" group-title="Sport",Sky Sports Arena UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7100.ts
+#EXTINF:-1 tvg-id="SkySportF1IT" tvg-name="Sky Sport F1 FHD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="Italian",Sky Sport F1 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8249.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 DE FullHD" tvg-logo="" group-title="Sport - Deutschland",EuroSport 1 DE FullHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8470.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 HD DE" tvg-logo="" group-title="Sport - Deutschland",DAZN Bar 1 HD DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8334.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 2 HD DE" tvg-logo="" group-title="Sport - Deutschland",DAZN Bar 2 HD DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8335.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 Poland FHD" tvg-logo="https://www.isportconnect.com/wp-content/uploads/2017/10/eleven-sports-2100x1200.png" group-title="Sport",Eleven Sports 1 Poland FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8384.ts
+#EXTINF:-1 tvg-id="PL-ElevenSports2" tvg-name="Eleven Sports 2 Poland FHD" tvg-logo="" group-title="Sport",Eleven Sports 2 Poland FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8385.ts
+#EXTINF:-1 tvg-id="SkySport24IT" tvg-name="Sky Sport 24 FHD" tvg-logo="" group-title="Italian",Sky Sport 24 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8253.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="" group-title="Sport",NFL Network
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 1 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 2 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 3 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 4 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 5 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 6 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 7 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 8 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="Sport - beIN Sports",Bein Sports 9 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/4610.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL DE" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtl_hd_de.png" group-title="Deutsch",RTL DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1576.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 DE" tvg-logo="" group-title="Deutsch",RTL 2 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1575.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL Plus" tvg-logo="" group-title="Deutsch",RTL Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL DE" tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2014-04/1398034768_super-rtl-hd-logo.jpg" group-title="Deutsch",Super RTL DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1574.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion De" tvg-logo="http://nextgen-iptv.com/logo/RTLPassion_HR.png" group-title="Deutsch",RTL Passion De
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1572.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben DE" tvg-logo="" group-title="Deutsch",ProSieben DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1571.ts
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben Maxx DE" tvg-logo="http://www.dwdl.de/images/1379164105.jpg" group-title="Deutsch",ProSieben Maxx DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/c/c8/20120329142914!Sat.1_HD_Logo.png" group-title="Deutsch",Sat 1 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins DE" tvg-logo="http://i.imgur.com/xiHX88m.jpg" group-title="Deutsch",Kabel Eins DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1568.ts
+#EXTINF:-1 tvg-id="" tvg-name="3sat DE" tvg-logo="" group-title="Deutsch",3sat DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1567.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOX DE" tvg-logo="http://upload.wikimedia.org/wikipedia/de/thumb/e/ee/Vox-HD.svg/1000px-Vox-HD.svg.png" group-title="Deutsch",VOX DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste DE" tvg-logo="http://i.imgur.com/YMp1rvY.jpg" group-title="Deutsch",Das Erste DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1564.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZDF DE" tvg-logo="" group-title="Deutsch",ZDF DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1563.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF 1" tvg-logo="" group-title="Deutsch",ORF 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1562.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPFNrI1Rwsz11xqBv1rWcinbEIj--QB1dnqlDMwSnxyJIS7KkOjO3HGw" group-title="Deutsch",ORF 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1561.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sixx DE" tvg-logo="" group-title="Deutsch",Sixx DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1560.ts
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix DE" tvg-logo="http://i.imgur.com/PdMmYdM.png" group-title="Deutsch",Phoenix DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1559.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX DE" tvg-logo="http://globalepix.com/wp-content/uploads/2013/10/logos_none-FOX_bwlogo_wtext_400.jpg" group-title="Deutsch",FOX DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1558.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN DE" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c4/AXN_HD_logo.png/revision/latest?cb=20140520122642" group-title="Deutsch",AXN DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky 1" tvg-logo="" group-title="Deutsch",Sky 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema 24 DE" tvg-logo="" group-title="Deutsch",Sky Cinema 24 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  24 DE" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/448_sky_logo_skycinema24hd_tvguide.png" group-title="Deutsch",Sky Cinema  24 DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Hits DE" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Deutsch",Sky Hits DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Action DE" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_action_hd.png" group-title="Deutsch",Sky Action DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Comedy DE" tvg-logo="http://image1.tvdigital.de/files/station_logos/617.png" group-title="Deutsch",Sky Comedy DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Krimi DE" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRU9fHABTvlyh-chQzN2HhhUuiv7SusmM-sUl0dFerakc1bWvHoxt1r7I" group-title="Deutsch",Sky Krimi DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1551.ts
+#EXTINF:-1 tvg-id="SkyEmotionDE" tvg-name="Sky Emotion DE" tvg-logo="http://i.imgur.com/BiboVZJ.jpg" group-title="Deutsch",Sky Emotion DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic DE" tvg-logo="http://i.imgur.com/Fmb3idH.jpg" group-title="Deutsch",Sky Atlantic DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nostalgie" tvg-logo="" group-title="Deutsch",Sky Nostalgie
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal DE" tvg-logo="" group-title="Deutsch",Universal DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1548.ts
+#EXTINF:-1 tvg-id="" tvg-name="13th Street DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/13th_Street_Universal_HD.svg/495px-13th_Street_Universal_HD.svg.png" group-title="Deutsch",13th Street DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1547.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Film DE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="Deutsch",TNT Film DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1546.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Comedy" tvg-logo="" group-title="Deutsch",TNT Comedy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11124.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Serie DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="Deutsch",TNT Serie DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy DE" tvg-logo="http://i.imgur.com/mwZRfMr.jpg" group-title="Deutsch",Syfy DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1544.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic DE" tvg-logo="http://www5.pbrc.hawaii.edu/pcrl/img/natgeo_logo.png" group-title="Deutsch",National Geographic DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild DE" tvg-logo="" group-title="Deutsch",Nat Geo Wild DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel DE" tvg-logo="http://img1.wikia.nocookie.net/__cb20091126085643/logopedia/images/d/d8/Discovery_Channel_HD_2007.png" group-title="Deutsch",Discovery Channel DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1541.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel DE" tvg-logo="" group-title="Deutsch",History Channel DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1540.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX DE" tvg-logo="http://i714.photobucket.com/albums/ww144/robinsrl01/dmaxlogo3.jpg" group-title="Deutsch",DMAX DE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/1539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 1" tvg-logo="" group-title="Deutsch",Sky Select DE 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 2" tvg-logo="" group-title="Deutsch",Sky Select DE 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 4" tvg-logo="" group-title="Deutsch",Sky Select DE 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 5" tvg-logo="" group-title="Deutsch",Sky Select DE 5
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 6" tvg-logo="" group-title="Deutsch",Sky Select DE 6
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7242.ts
+#EXTINF:-1 tvg-id="SkySelect7" tvg-name="Sky Select DE 7" tvg-logo="" group-title="Deutsch",Sky Select DE 7
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 8" tvg-logo="" group-title="Deutsch",Sky Select DE 8
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select DE 9" tvg-logo="" group-title="Deutsch",Sky Select DE 9
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7239.ts
+#EXTINF:-1 tvg-id="SVT1" tvg-name="SVT 1" tvg-logo="" group-title="Scandinavia",SVT 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7333.ts
+#EXTINF:-1 tvg-id="SVT2" tvg-name="SVT 2" tvg-logo="" group-title="Scandinavia",SVT 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7332.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 SE" tvg-logo="" group-title="Scandinavia",TV 3 SE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7331.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="" group-title="Scandinavia",TV 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7330.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Fakta" tvg-logo="" group-title="Scandinavia",TV 4 Fakta
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7329.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Film" tvg-logo="" group-title="Scandinavia",TV 4 Film
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 SE" tvg-logo="" group-title="Scandinavia",Kanal 5 SE
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7327.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="" group-title="Scandinavia",TV 6
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7326.ts
+#EXTINF:-1 tvg-id="TV8TR" tvg-name="TV 8" tvg-logo="" group-title="Turk",TV 8
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7279.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 10" tvg-logo="" group-title="Scandinavia",TV 10
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7325.ts
+#EXTINF:-1 tvg-id="CMoreFirst" tvg-name="C More First" tvg-logo="" group-title="Scandinavia",C More First
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7317.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll" tvg-logo="" group-title="Scandinavia",C More Fotboll
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7316.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Hits" tvg-logo="" group-title="Scandinavia",C More Hits
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7315.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Series" tvg-logo="" group-title="Scandinavia",C More Series
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Action" tvg-logo="" group-title="Scandinavia",Viasat Action
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll" tvg-logo="" group-title="Scandinavia",Viasat Fotboll
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7322.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport" tvg-logo="" group-title="Scandinavia",Viasat Sport
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Series" tvg-logo="" group-title="Scandinavia",Viasat Series
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7319.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="UK & USA",BBC 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7150.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC 2" tvg-logo="" group-title="UK & USA",BBC 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7149.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTE 1" tvg-logo="" group-title="UK & USA",RTE 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 4 UK" tvg-logo="" group-title="UK & USA",Channel 4 UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7148.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="" group-title="UK & USA",CNN USA
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8293.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic UK" tvg-logo="" group-title="UK & USA",National Geographic UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet UK" tvg-logo="" group-title="UK & USA",Animal Planet UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery UK" tvg-logo="" group-title="UK & USA",Discovery UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science UK" tvg-logo="" group-title="UK & USA",Discovery Science UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7127.ts
+#EXTINF:-1 tvg-id="" tvg-name="History 1 UK" tvg-logo="" group-title="UK & USA",History 1 UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network UK" tvg-logo="" group-title="UK & USA",Food Network UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7116.ts
+#EXTINF:-1 tvg-id="" tvg-name="E UK" tvg-logo="" group-title="UK & USA",E UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central UK" tvg-logo="" group-title="UK & USA",Comedy Central UK
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7119.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Albanian",RTK 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7228.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="Albanian",RTK 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7227.ts
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="" group-title="Albanian",KTV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7221.ts
+#EXTINF:-1 tvg-id="RTV21" tvg-name="RTV 21" tvg-logo="" group-title="Albanian",RTV 21
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7224.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus" tvg-logo="" group-title="Albanian",RTV 21 Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7223.ts
+#EXTINF:-1 tvg-id="21Popullore" tvg-name="RTV 21 Popullore" tvg-logo="" group-title="Albanian",RTV 21 Popullore
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7222.ts
+#EXTINF:-1 tvg-id="3PLUS" tvg-name="Tring 3plus" tvg-logo="" group-title="Albanian",Tring 3plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Albanian",Vizion Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7381.ts
+#EXTINF:-1 tvg-id="KlanTV" tvg-name="KLAN" tvg-logo="" group-title="Albanian",KLAN
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7220.ts
+#EXTINF:-1 tvg-id="KlanKosova" tvg-name="KLAN Kosova" tvg-logo="" group-title="Albanian",KLAN Kosova
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7219.ts
+#EXTINF:-1 tvg-id="EXPShkence" tvg-name="Explorer Shkence" tvg-logo="" group-title="Albanian",Explorer Shkence
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7218.ts
+#EXTINF:-1 tvg-id="EXPNatyra" tvg-name="Explorer Natyra" tvg-logo="" group-title="Albanian",Explorer Natyra
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7217.ts
+#EXTINF:-1 tvg-id="EXPHistori" tvg-name="Explorer Histori" tvg-logo="" group-title="Albanian",Explorer Histori
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Albanian",Tring Life
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7195.ts
+#EXTINF:-1 tvg-id="TRINGPLANET" tvg-name="Tring Planet" tvg-logo="" group-title="Albanian",Tring Planet
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7214.ts
+#EXTINF:-1 tvg-id="TRINGSHQIP" tvg-name="Tring Shqip" tvg-logo="" group-title="Albanian",Tring Shqip
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7200.ts
+#EXTINF:-1 tvg-id="TRINGSUPER" tvg-name="Tring Super" tvg-logo="" group-title="Albanian",Tring Super
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7199.ts
+#EXTINF:-1 tvg-id="TRINGTRING" tvg-name="Tring Tring" tvg-logo="" group-title="Albanian",Tring Tring
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Albanian",Tring World
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Albanian",Tring Action
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7198.ts
+#EXTINF:-1 tvg-id="TRINGCOMEDY" tvg-name="Tring Comedy" tvg-logo="" group-title="Albanian",Tring Comedy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Albanian",Tring Fantasy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="Albanian",Tring History
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7213.ts
+#EXTINF:-1 tvg-id="FilmAksion" tvg-name="Film Aksion" tvg-logo="" group-title="Albanian",Film Aksion
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7205.ts
+#EXTINF:-1 tvg-id="FilmDy" tvg-name="Film Dy" tvg-logo="" group-title="Albanian",Film Dy
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7207.ts
+#EXTINF:-1 tvg-id="FilmHits" tvg-name="Film Hits" tvg-logo="" group-title="Albanian",Film Hits
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7206.ts
+#EXTINF:-1 tvg-id="FilmNje" tvg-name="Film Nje" tvg-logo="" group-title="Albanian",Film Nje
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Albanian",Elrodi TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Albanian",Bang Bang
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7187.ts
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TRT" tvg-logo="" group-title="Turk",TRT
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7285.ts
+#EXTINF:-1 tvg-id="ATVTR" tvg-name="ATV TR" tvg-logo="" group-title="Turk",ATV TR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7284.ts
+#EXTINF:-1 tvg-id="NTVTR" tvg-name="NTV TR" tvg-logo="" group-title="Turk",NTV TR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7275.ts
+#EXTINF:-1 tvg-id="CNNTURK" tvg-name="CNN Turk" tvg-logo="" group-title="Turk",CNN Turk
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7273.ts
+#EXTINF:-1 tvg-id="StarTVTR" tvg-name="Star TV" tvg-logo="" group-title="Turk",Star TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7283.ts
+#EXTINF:-1 tvg-id="KANALDTR" tvg-name="Kanal D TR" tvg-logo="" group-title="Turk",Kanal D TR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7 TR" tvg-logo="" group-title="Turk",Kanal 7 TR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox TV TR" tvg-logo="" group-title="Turk",Fox TV TR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7280.ts
+#EXTINF:-1 tvg-id="KRALTR" tvg-name="Kral TR" tvg-logo="" group-title="Turk",Kral TR
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7270.ts
+#EXTINF:-1 tvg-id="ShowTVTR" tvg-name="Show TV" tvg-logo="" group-title="Turk",Show TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7282.ts
+#EXTINF:-1 tvg-id="BEYAZTR" tvg-name="Beyaz TV" tvg-logo="" group-title="Turk",Beyaz TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7278.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="Turk",TRT Haber
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7276.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT Muzik" tvg-logo="" group-title="Turk",TRT Muzik
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7271.ts
+#EXTINF:-1 tvg-id="DREAMTURK" tvg-name="Dream Turk" tvg-logo="" group-title="Turk",Dream Turk
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Haber Turk" tvg-logo="" group-title="Turk",Haber Turk
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7274.ts
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="" group-title="France",W9
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11115.ts
+#EXTINF:-1 tvg-id="FRANCE2" tvg-name="France 2" tvg-logo="" group-title="France",France 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7456.ts
+#EXTINF:-1 tvg-id="FRANCE3" tvg-name="France 3" tvg-logo="" group-title="France",France 3
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7454.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="" group-title="France",France 4
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7453.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="France",France 5
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7452.ts
+#EXTINF:-1 tvg-id="TF1FR" tvg-name="TF1" tvg-logo="" group-title="France",TF1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7460.ts
+#EXTINF:-1 tvg-id="TMCFR" tvg-name="TMC" tvg-logo="" group-title="France",TMC
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7459.ts
+#EXTINF:-1 tvg-id="M6FR" tvg-name="M6" tvg-logo="" group-title="France",M6
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7458.ts
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="" group-title="France",M6 Music
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Plus" tvg-logo="" group-title="France",Canal Plus
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/7450.ts
+#EXTINF:-1 tvg-id="Rai1" tvg-name="Rai 1 FHD" tvg-logo="" group-title="Italian",Rai 1 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8291.ts
+#EXTINF:-1 tvg-id="Rai2" tvg-name="Rai 2 FHD" tvg-logo="" group-title="Italian",Rai 2 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8290.ts
+#EXTINF:-1 tvg-id="Rai3" tvg-name="Rai 3 FHD" tvg-logo="" group-title="Italian",Rai 3 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8289.ts
+#EXTINF:-1 tvg-id="Rai4" tvg-name="Rai 4 FHD" tvg-logo="" group-title="Italian",Rai 4 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8288.ts
+#EXTINF:-1 tvg-id="Canale5" tvg-name="Canale 5 HD" tvg-logo="" group-title="Italian",Canale 5 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11143.ts
+#EXTINF:-1 tvg-id="Italia1" tvg-name="Italia 1 FHD" tvg-logo="" group-title="Italian",Italia 1 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 FHD" tvg-logo="" group-title="Italian",Rete 4 FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8286.ts
+#EXTINF:-1 tvg-id="RsiLa1" tvg-name="RSI LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Italian",RSI LA 1 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8283.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 7 HD" tvg-logo="" group-title="Italian",LA 7 HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="" group-title="Italian",Rai Movie
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8276.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamilyHD" tvg-name="Sky Cinema Family FHD" tvg-logo="" group-title="Italian",Sky Cinema Family FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8270.ts
+#EXTINF:-1 tvg-id="PremiumCrimeHD" tvg-name="Premium Crime HD" tvg-logo="" group-title="Italian",Premium Crime HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8261.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 IT HD" tvg-logo="" group-title="Italian",EuroSport 1 IT HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8256.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 IT HD" tvg-logo="" group-title="Italian",EuroSport 2 IT HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8255.ts
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Pesca HD" tvg-logo="" group-title="Italian",Pesca HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12102.ts
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" tvg-logo="" group-title="Doku & Style",National Geographic HD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/8533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="" group-title="Srbija",Agro TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Balkan trip" tvg-logo="" group-title="Srbija",Balkan trip
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Star TV" tvg-logo="" group-title="Srbija",Super Star TV
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12689.ts
+#EXTINF:-1 tvg-id="" tvg-name="K1" tvg-logo="" group-title="Srbija",K1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12690.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV 2" tvg-logo="" group-title="Film & serije",CineStar TV 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 DE 2K Hevc" tvg-logo="" group-title="Sport - Deutschland",Eurosport 1 DE 2K Hevc
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 DE 2K Hevc" tvg-logo="" group-title="Sport - Deutschland",Eurosport 2 DE 2K Hevc
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film klub" tvg-logo="" group-title="Film & serije",Film klub
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12722.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Star Life FHD" tvg-logo="" group-title="Film & serije",Star Life FHD
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/11153.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV VESELJAK (test)" tvg-logo="" group-title="Slovenija",TV VESELJAK (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLANET 2 Sl (test)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Planet2_logo.png" group-title="Slovenija",PLANET 2 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12727.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA 24 Sl (test)" tvg-logo="" group-title="Slovenija",NOVA 24 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12728.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Sl (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Slovenija",HBO Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12729.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Sl (test)" tvg-logo="" group-title="Slovenija",HBO 2 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12730.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 Sl (test)" tvg-logo="" group-title="Slovenija",HBO 3 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12731.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sl (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="Slovenija",FOX Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12732.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Life Sl (test)" tvg-logo="" group-title="Slovenija",Star Life Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime Sl (test)" tvg-logo="" group-title="Slovenija",Fox Crime Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12734.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Premiere 1 Sl (test)" tvg-logo="" group-title="Slovenija",CineStar Premiere 1 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12736.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Premiere 2 Sl (test)" tvg-logo="" group-title="Slovenija",CineStar Premiere 2 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12737.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 1000 Sl (test)" tvg-logo="" group-title="Slovenija",TV 1000 Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Sl (test)" tvg-logo="" group-title="Slovenija",Nat Geo Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12739.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC Sl (test)" tvg-logo="" group-title="Slovenija",TLC Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Sl (test)" tvg-logo="" group-title="Slovenija",Animal Planet Sl (test)
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12741.ts
+#EXTINF:-1 tvg-id="" tvg-name="MaxSport 1" tvg-logo="" group-title="Sport",MaxSport 1
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12745.ts
+#EXTINF:-1 tvg-id="" tvg-name="MaxSport 2" tvg-logo="" group-title="Sport",MaxSport 2
+http://mana.etnoselo.tv:80/unAHWLYAWm/3fSw4tmG7r/12746.ts
