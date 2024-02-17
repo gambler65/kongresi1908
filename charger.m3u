@@ -1,0 +1,787 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="====== INFO IPTV VON ULTRA HD IPTV =======" tvg-logo="" group-title="TR: ULTRA HD KANALLAR",====== INFO IPTV VON ULTRA HD IPTV =======
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24511
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 ULTRAHD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/trt-1_medium_9.png" group-title="TR: ULTRA HD KANALLAR",TR: TRT 1 ULTRAHD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24480
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="http://hasbahca.net/TVLogo/TR/trt-1_medium_9.png" group-title="TR: ULTRA HD KANALLAR",TRT 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24481
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT 4K FHD 1920" tvg-logo="http://hasbahca.net/TVLogo/TR/trt4k.jpg" group-title="TR: ULTRA HD KANALLAR",TR: TRT 4K FHD 1920
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24482
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 2 HD 1280/720" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/t/trt_2_logo.png" group-title="TR: ULTRA HD KANALLAR",TR: TRT 2 HD 1280/720
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24506
+#EXTINF:-1 tvg-id="TRT 2" tvg-name="TR: TRT 2 FHD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/t/trt_2_logo.png" group-title="TR: ULTRA HD KANALLAR",TR: TRT 2 FHD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24503
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/star-tv_medium_7.png" group-title="TR: ULTRA HD KANALLAR",TR: STAR HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24475
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR ULTRAHD-4K@" tvg-logo="http://hasbahca.net/TVLogo/TR/star-tv_medium_7.png" group-title="TR: ULTRA HD KANALLAR",TR: STAR ULTRAHD-4K@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24476
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: EURO STAR" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="TR: ULTRA HD KANALLAR",TR: EURO STAR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24500
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/atvhd.png" group-title="TR: ULTRA HD KANALLAR",TR: ATV HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24467
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV ULTRAHD-4K@" tvg-logo="http://hasbahca.net/TVLogo/TR/atvhd.png" group-title="TR: ULTRA HD KANALLAR",TR: ATV ULTRAHD-4K@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24470
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV AVRUPA" tvg-logo="https://www.film-tv-video.de/wp-content/uploads/2017/08/B_0817_ATV_Logo.png" group-title="TR: ULTRA HD KANALLAR",TR: ATV AVRUPA
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24501
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D  HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/kanald.png" group-title="TR: ULTRA HD KANALLAR",TR: KANAL D  HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24477
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: EURO D" tvg-logo="http://hasbahca.net/TVLogo/TR/eurod.png" group-title="TR: ULTRA HD KANALLAR",TR: EURO D
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24499
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD 1920/1080" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple111/v4/fc/cc/d0/fcccd0a3-7dce-595f-c7b3-b4ea069b8f4e/source/175x175bb.jpg" group-title="TR: ULTRA HD KANALLAR",TR: SHOW TV HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24471
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV ULTRAHD-4K@" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple111/v4/fc/cc/d0/fcccd0a3-7dce-595f-c7b3-b4ea069b8f4e/source/175x175bb.jpg" group-title="TR: ULTRA HD KANALLAR",TR: SHOW TV ULTRAHD-4K@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24472
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TURK" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/show_turk.png" group-title="TR: ULTRA HD KANALLAR",TR: SHOW TURK
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24466
+#EXTINF:-1 tvg-id="SHOW Max" tvg-name="TR: SHOW MAX HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/show_max.png" group-title="TR: ULTRA HD KANALLAR",TR: SHOW MAX HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33386
+#EXTINF:-1 tvg-id="FOX TR" tvg-name="TR: FOX TV HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/fox-tv-turkiye_medium_10.png" group-title="TR: ULTRA HD KANALLAR",TR: FOX TV HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24473
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV" tvg-logo="http://hasbahca.net/TVLogo/TR/fox-tv-turkiye_medium_10.png" group-title="TR: ULTRA HD KANALLAR",TR: FOX TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24474
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/kanal7_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: KANAL 7 HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24478
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 ULTRAHD-4K@ LOCAL" tvg-logo="http://hasbahca.net/TVLogo/TR/kanal7_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: KANAL 7 ULTRAHD-4K@ LOCAL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24479
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA" tvg-logo="http://hasbahca.net/TVLogo/TR/kanal7_avrupa.png" group-title="TR: ULTRA HD KANALLAR",TR: KANAL 7 AVRUPA
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/30361
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/tv8_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: TV 8 HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24483
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 ULTRAHD-4K@" tvg-logo="http://hasbahca.net/TVLogo/TR/tv8_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: TV 8 ULTRAHD-4K@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24484
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/teve2.png" group-title="TR: ULTRA HD KANALLAR",TR: TEVE 2 FHD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24507
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD 1920/1080" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/teve2.png" group-title="TR: ULTRA HD KANALLAR",TR: TEVE 2 HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24508
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8,5 UHD-4K" tvg-logo="http://hasbahca.net/TVLogo/TR/tv85_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: TV 8,5 UHD-4K
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24512
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8,5 HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/tv85_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: TV 8,5 HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24513
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/beyaz_tv_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: BEYAZ TV HD 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24497
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD " tvg-logo="http://hasbahca.net/TVLogo/TR/beyaztvtr.png" group-title="TR: ULTRA HD KANALLAR",TR: BEYAZ TV HD 
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24485
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/360-tv_medium_107.png" group-title="TR: ULTRA HD KANALLAR",TR: 360 HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24509
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TR: 360 TV FHD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24468
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 FHD" tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="TR: ULTRA HD KANALLAR",TR: A2 FHD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/24469
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KANALLAR HEVC" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: ULTRA HD KANALLAR HEVC
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33530
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TR: TRT 1 H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: TRT 1 H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33531
+#EXTINF:-1 tvg-id="Star TV" tvg-name="TR: STAR TV H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: STAR TV H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33535
+#EXTINF:-1 tvg-id="ATV" tvg-name="TR: ATV H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: ATV H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33532
+#EXTINF:-1 tvg-id="Show TV" tvg-name="TR: SHOW TV H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: SHOW TV H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33534
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="TR: KANAL D H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: KANAL D H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33533
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: FOX TV H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/37561
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: TV 8 H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/37562
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="TR: BEYAZ TV H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: BEYAZ TV H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33537
+#EXTINF:-1 tvg-id="A2" tvg-name="TR: A2 H265" tvg-logo="" group-title="TR: ULTRA HD KANALLAR HEVC",TR: A2 H265
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33539
+#EXTINF:-1 tvg-id="" tvg-name="===== TR: YEREL KANALLAR =====" tvg-logo="" group-title="TR: YEREL KANALLAR",===== TR: YEREL KANALLAR =====
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16262
+#EXTINF:-1 tvg-id="0" tvg-name="TR: VATAN TV" tvg-logo="http://51.91.159.153/logo/turkey/vatan_tv_tr.png" group-title="TR: YEREL KANALLAR",TR: VATAN TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/4792
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAY TV " tvg-logo="" group-title="TR: YEREL KANALLAR",TR: CAY TV 
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/19964
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ TV" tvg-logo="https://th.bing.com/th/id/OIP.__7T9YOknhZPsHP4Oy36HgHaFj?w=228&h=180&c=7&o=5&pid=1.7" group-title="TR: YEREL KANALLAR",TR: MAVI KARADENIZ TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16096
+#EXTINF:-1 tvg-id="0" tvg-name="TR: YOL TV" tvg-logo="http://picon.webhop.net/logo/turkey/yol_tv_de.png" group-title="TR: YEREL KANALLAR",TR: YOL TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9683
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV HD" tvg-logo="" group-title="TR: ULTRA HD KANALLAR",TR: FLASH TV HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/35035
+#EXTINF:-1 tvg-id="" tvg-name="TR===HABERLER===" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e9/ca/3b/e9ca3bd11719cc9235a6e71eb1b59265.jpg" group-title="TR: HABERLER",TR===HABERLER===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/12530
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/ahabertr.png" group-title="TR: HABERLER",TR: A HABER HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15268
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER ULTRAHD-4K-@" tvg-logo="http://hasbahca.net/TVLogo/TR/ahabertr.png" group-title="TR: HABERLER",TR: A HABER ULTRAHD-4K-@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5504
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/tgrt_haber.png" group-title="TR: HABERLER",TR: TGRT HABER HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5475
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL" tvg-logo="" group-title="TR: HABERLER",TR: HABER GLOBAL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/35203
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100" tvg-logo="http://hasbahca.net/TVLogo/TR/tv100.png" group-title="TR: HABERLER",TR: TV 100
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33512
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER FHD " tvg-logo="http://hasbahca.net/TVLogo/TR/tgrt_haber.png" group-title="TR: HABERLER",TR: TGRT HABER FHD 
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15182
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/haberturktr.png" group-title="TR: HABERLER",TR: HABER TURK FHD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15184
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ULKE TV HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/ulketvtr.png" group-title="TR: HABERLER",TR: ULKE TV HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15561
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ULKE TV HD" tvg-logo="http://hasbahca.net/TVLogo/TR/ulketvtr.png" group-title="TR: HABERLER",TR: ULKE TV HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3196
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/ntvhdtr.png" group-title="TR: HABERLER",TR: NTV HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/10233
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV ULTRA-HD-4 K@" tvg-logo="http://hasbahca.net/TVLogo/TR/ntvhdtr.png" group-title="TR: HABERLER",TR: NTV ULTRA-HD-4 K@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5503
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD 1280/720" tvg-logo="http://hasbahca.net/TVLogo/TR/trthaberhdtr.png" group-title="TR: HABERLER",TR: TRT HABER HD 1280/720
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5476
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER ULTRAHD-4K@" tvg-logo="http://hasbahca.net/TVLogo/TR/trthaberhdtr.png" group-title="TR: HABERLER",TR: TRT HABER ULTRAHD-4K@
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5505
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL 24 HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/kanal-24_medium_94.png" group-title="TR: HABERLER",TR: KANAL 24 HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15183
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL 24 HD" tvg-logo="http://hasbahca.net/TVLogo/TR/24_tr.png" group-title="TR: HABERLER",TR: KANAL 24 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3198
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/cnnturk.jpg" group-title="TR: HABERLER",TR: CNN TURK HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3118
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK" tvg-logo="http://hasbahca.net/TVLogo/TR/cnnturk.jpg" group-title="TR: HABERLER",TR: CNN TURK
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/30385
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HALK TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/halktvtr.png" group-title="TR: HABERLER",TR: HALK TV FHD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15606
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="http://hasbahca.net/TVLogo/TR/teLe1.png" group-title="TR: HABERLER",TR: TELE 1
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/10283
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="TR: KANAL B HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/kanal_b.png" group-title="TR: HABERLER",TR: KANAL B HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/10250
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL TV" tvg-logo="http://hasbahca.net/TVLogo/TR/ulsalkanaltr.png" group-title="TR: HABERLER",TR: ULUSAL TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9680
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KRT TV" tvg-logo="http://hasbahca.net/TVLogo/TR/krt_tr.png" group-title="TR: HABERLER",TR: KRT TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/7632
+#EXTINF:-1 tvg-id="" tvg-name="TR===BELGESELLER===" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e9/ca/3b/e9ca3bd11719cc9235a6e71eb1b59265.jpg" group-title="TR: BELGESEL KANALLARI",TR===BELGESELLER===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/12532
+#EXTINF:-1 tvg-id="0" tvg-name="TR: VIASAT EXPLORE" tvg-logo="http://hasbahca.net/TVLogo/TR/viasat_explore.png" group-title="TR: BELGESEL KANALLARI",TR: VIASAT EXPLORE
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3437
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat History HD" tvg-logo="http://hasbahca.net/TVLogo/TR/Viasat%20History.png" group-title="TR: BELGESEL KANALLARI",TR: Viasat History HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/19791
+#EXTINF:-1 tvg-id="0" tvg-name="D-Smart=National Geo WILD CANLI" tvg-logo="http://hasbahca.net/TVLogo/TR/natgeowildhd.png" group-title="TR: BELGESEL KANALLARI",D-Smart=National Geo WILD CANLI
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3436
+#EXTINF:-1 tvg-id="0" tvg-name="TR: HISTORY" tvg-logo="http://hasbahca.net/TVLogo/TR/history.png" group-title="TR: BELGESEL KANALLARI",TR: HISTORY
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/4987
+#EXTINF:-1 tvg-id="0" tvg-name="D Smart=NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://hasbahca.net/TVLogo/TR/nationalgeographicchannel.png" group-title="TR: BELGESEL KANALLARI",D Smart=NATIONAL GEOGRAPHIC CHANNEL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3433
+#EXTINF:-1 tvg-id="0" tvg-name="D-Smart=DISCOVERY SCIENCE HD" tvg-logo="http://hasbahca.net/TVLogo/TR/Discovery_Science.png" group-title="TR: BELGESEL KANALLARI",D-Smart=DISCOVERY SCIENCE HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3435
+#EXTINF:-1 tvg-id="0" tvg-name="TR: Discovery Channel HD CANLI" tvg-logo="http://hasbahca.net/TVLogo/TR/discoverychannel.png" group-title="TR: BELGESEL KANALLARI",TR: Discovery Channel HD CANLI
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3438
+#EXTINF:-1 tvg-id="0" tvg-name="TR: TLC" tvg-logo="http://hasbahca.net/TVLogo/TR/tlchd.png" group-title="TR: BELGESEL KANALLARI",TR: TLC
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/4986
+#EXTINF:-1 tvg-id="TRT Belgesel TR" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://hasbahca.net/TVLogo/TR/trtbelgeselhdtr.png" group-title="TR: BELGESEL KANALLARI",TR: TRT BELGESEL HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/10004
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX 4K+" tvg-logo="http://hasbahca.net/TVLogo/TR/dmaxhd.png" group-title="TR: BELGESEL KANALLARI",TR: DMAX 4K+
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/12681
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN GURME" tvg-logo="http://hasbahca.net/TVLogo/TR/beingurme-hd-205x150.png" group-title="TR: BELGESEL KANALLARI",TR: beIN GURME
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18078
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ" tvg-logo="http://hasbahca.net/TVLogo/TR/beiniz-hd-205x150.png" group-title="TR: BELGESEL KANALLARI",TR: beIN IZ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18079
+#EXTINF:-1 tvg-id="" tvg-name="TR===SPOR===" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e9/ca/3b/e9ca3bd11719cc9235a6e71eb1b59265.jpg" group-title="TR: LIGTV SPOR KANALLARI",TR===SPOR===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/12531
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEiN SPORT HABER HD" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsporhaber.jpg" group-title="TR: LIGTV SPOR KANALLARI",TR: BEiN SPORT HABER HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9689
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 HD 1920/1080P LOCAL" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports1-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: beIN SPORTS 1 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18523
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN SPORTS 2 HD 1920/1080P LOCAL" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports2-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: beIN SPORTS 2 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18524
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 HD 1920/1080P LOCAL" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports4-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: beIN SPORTS 4 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18066
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS HD 1 1280/720 P" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports1-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS HD 1 1280/720 P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/19737
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 FHD 1920/1080i" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports1-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 1 FHD 1920/1080i
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18067
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 FHD 1920/1080i" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports2-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 2 FHD 1920/1080i
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18068
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 FHD 1920/1080i" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports3-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 3 FHD 1920/1080i
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18069
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 FHD 1920/1080i" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports4-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 4 FHD 1920/1080i
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18070
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD LOCAL 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports1-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 1 HD LOCAL 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5534
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD LOCAL 1920/1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 2 HD LOCAL 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3220
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD LOCAL 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports3-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 3 HD LOCAL 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3221
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD LOCAL 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports4-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS 4 HD LOCAL 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/7534
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR:SADECE SUPER LIG 1 MACLARI" tvg-logo="http://hasbahca.net/TVLogo/TR/beinsports1-hd-205x150.png" group-title="TR: LIGTV SPOR KANALLARI",TR:SADECE SUPER LIG 1 MACLARI
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18521
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS MAX 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5692
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="http://hasbahca.net/TVLogo/TR/beinspormax2.jpg" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS MAX 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22981
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD" tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: EXXEN SPORT 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33946
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 2" tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: Exxen Spor 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33856
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD" tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: EXXEN SPORT 3 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33947
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 3" tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: Exxen Spor 3
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33857
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: EXXEN SPORT 4 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33948
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: EXXEN SPORT 5 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33949
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 5 " tvg-logo="" group-title="TR: EXXEN SPORT PAKET",TR: Exxen Spor 5 
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33938
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD 1920/1080P" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="TR: LIGTV SPOR KANALLARI",TR: TRT SPOR HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3133
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT 2 SPOR HD 1280/720" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="TR: LIGTV SPOR KANALLARI",TR: TRT 2 SPOR HD 1280/720
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9642
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/trt_spor.png" group-title="TR: LIGTV SPOR KANALLARI",TR: TRT SPOR YILDIZ HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36947
+#EXTINF:-1 tvg-id="A Spor" tvg-name="TR: A SPOR 1920/1080" tvg-logo="http://hasbahca.net/TVLogo/TR/asporthdtr.png" group-title="TR: LIGTV SPOR KANALLARI",TR: A SPOR 1920/1080
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33352
+#EXTINF:-1 tvg-id="A Spor" tvg-name="TR: A SPOR HD" tvg-logo="http://hasbahca.net/TVLogo/TR/asporthdtr.png" group-title="TR: LIGTV SPOR KANALLARI",TR: A SPOR HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5502
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD 1920/1080P" tvg-logo="https://th.bing.com/th/id/OIP.Ep9AsjXfTCmxTIaF8H3ZQAHaEJ?w=300&h=180&c=7&o=5&pid=1.7" group-title="TR: LIGTV SPOR KANALLARI",TR: S-SPORT 1 HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5906
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://hasbahca.net/TVLogo/TR/ssportplus.jpg" group-title="TR: LIGTV SPOR KANALLARI",TR: S SPORT 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22903
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: GALATASARAY TV 1920/1080P" tvg-logo="http://hasbahca.net/TVLogo/TR/gstvtr.png" group-title="TR: LIGTV SPOR KANALLARI",TR: GALATASARAY TV 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3102
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor.png" group-title="TR: LIGTV SPOR KANALLARI",TR: TIVIBUSPOR 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2861
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor.png" group-title="TR: LIGTV SPOR KANALLARI",TR: TIVIBUSPOR 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2862
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor.png" group-title="TR: LIGTV SPOR KANALLARI",TR: TIVIBUSPOR 3 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5392
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMART SPOR HD 1920/1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="TR: LIGTV SPOR KANALLARI",TR: SMART SPOR HD 1920/1080P
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3087
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/cocuk_smart.png" group-title="TR: LIGTV SPOR KANALLARI",TR: Smart Spor 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32369
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EuroSport 1 HD" tvg-logo="http://picon.webhop.net/logo/denmark/eurosport_fr_2.png" group-title="TR: LIGTV SPOR KANALLARI",TR: EuroSport 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3491
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EuroSport 2 HD" tvg-logo="http://picon.webhop.net/logo/denmark/eurosport_fr_2.png" group-title="TR: LIGTV SPOR KANALLARI",TR: EuroSport 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3492
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV 1280/720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="TR: LIGTV SPOR KANALLARI",TR: FB TV 1280/720
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3194
+#EXTINF:-1 tvg-id="" tvg-name="TR| DIGITURK | BEINMOVIES PREMIER HD" tvg-logo="" group-title="TR: DIGITURK",TR| DIGITURK | BEINMOVIES PREMIER HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16142
+#EXTINF:-1 tvg-id="" tvg-name="TR===COCUK-BOLUMU===" tvg-logo="" group-title="TR: COCUK KANALLARI",TR===COCUK-BOLUMU===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/14900
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR:TRT COCUK HD" tvg-logo="" group-title="TR: COCUK KANALLARI",TR:TRT COCUK HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/7526
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPE TV" tvg-logo="" group-title="TR: COCUK KANALLARI",TR: PEPE TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/25360
+#EXTINF:-1 tvg-id="0" tvg-name="DE: Disney Channel" tvg-logo="" group-title="TR: COCUK KANALLARI",DE: Disney Channel
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2836
+#EXTINF:-1 tvg-id="0" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR: COCUK KANALLARI",TR: BABY TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5175
+#EXTINF:-1 tvg-id="0" tvg-name="TR: MINIKA GO HD" tvg-logo="" group-title="TR: COCUK KANALLARI",TR: MINIKA GO HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2832
+#EXTINF:-1 tvg-id="0" tvg-name="minika cocuk" tvg-logo="" group-title="TR: COCUK KANALLARI",minika cocuk
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2833
+#EXTINF:-1 tvg-id="" tvg-name="TR===MUZIK===" tvg-logo="" group-title="TR: MUZIK",TR===MUZIK===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15986
+#EXTINF:-1 tvg-id="0" tvg-name="TR: KRAL POP HD" tvg-logo="" group-title="TR: MUZIK",TR: KRAL POP HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3216
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV" tvg-logo="" group-title="TR: MUZIK",TR: KRAL TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/17952
+#EXTINF:-1 tvg-id="0" tvg-name="TR: NUMBER ONE TURK HD" tvg-logo="" group-title="TR: MUZIK",TR: NUMBER ONE TURK HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5697
+#EXTINF:-1 tvg-id="0" tvg-name="TR: TRT MUZIK" tvg-logo="TRT MUZIK" group-title="TR: MUZIK",TR: TRT MUZIK
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3653
+#EXTINF:-1 tvg-id="0" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="TR: MUZIK",TR: POWER TURK HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5698
+#EXTINF:-1 tvg-id="0" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TR: MUZIK",TR: DREAM TURK
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5696
+#EXTINF:-1 tvg-id="" tvg-name="TR===DINI-KANALLAR===" tvg-logo="" group-title="TR: DINI KANALLAR",TR===DINI-KANALLAR===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15988
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: SEMERKANT TV" tvg-logo="" group-title="TR: DINI KANALLAR",TR: SEMERKANT TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16359
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/dost_tv.png" group-title="TR: DINI KANALLAR",TR: Dost TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16362
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/akit_tv.png" group-title="TR: DINI KANALLAR",TR: Akit TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/21230
+#EXTINF:-1 tvg-id="" tvg-name="DE:=== DEUTSCHE SENDE===" tvg-logo="" group-title="DE: DEUTSCHE SENDER ",DE:=== DEUTSCHE SENDE===
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/14898
+#EXTINF:-1 tvg-id="ARD-alpha DE" tvg-name="DE: ARD HD" tvg-logo="http://hasbahca.net/TVLogo/DE/ard_das_erste.png" group-title="DE: DEUTSCHE SENDER ",DE: ARD HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2975
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF HD" tvg-logo="http://hasbahca.net/TVLogo/DE/zdf.png" group-title="DE: DEUTSCHE SENDER ",ZDF HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3063
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: WDR HD" tvg-logo="http://hasbahca.net/TVLogo/DE/wdr_studio_duisburg.png" group-title="DE: DEUTSCHE SENDER ",DE: WDR HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/3643
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="DE: Sat 1 HD" tvg-logo="http://hasbahca.net/TVLogo/DE/sat1%20hd.png" group-title="DE: DEUTSCHE SENDER ",DE: Sat 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33417
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="DE: RTL HD" tvg-logo="http://hasbahca.net/TVLogo/DE/rtl.png" group-title="DE: DEUTSCHE SENDER ",DE: RTL HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33332
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="DE: KABEL 1 HD" tvg-logo="http://hasbahca.net/TVLogo/DE/kabel_eins_de.png" group-title="DE: DEUTSCHE SENDER ",DE: KABEL 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/1573
+#EXTINF:-1 tvg-id="Pro7 DE" tvg-name="DE: Prosieben HD" tvg-logo="http://hasbahca.net/TVLogo/DE/pro%20sieben.png" group-title="DE: DEUTSCHE SENDER ",DE: Prosieben HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33335
+#EXTINF:-1 tvg-id="RTLZWEI DE" tvg-name="DE: RTL 2 HD" tvg-logo="http://hasbahca.net/TVLogo/DE/rtl2_at.png" group-title="DE: DEUTSCHE SENDER ",DE: RTL 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33336
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="DE: VOX HD" tvg-logo="http://hasbahca.net/TVLogo/DE/vox.png" group-title="DE: DEUTSCHE SENDER ",DE: VOX HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33333
+#EXTINF:-1 tvg-id="DE_sixx" tvg-name="DE: SIXX HD" tvg-logo="http://hasbahca.net/TVLogo/DE/sixx%20hd.png" group-title="DE: DEUTSCHE SENDER ",DE: SIXX HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2800
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE SAT 1 GOLD" tvg-logo="http://hasbahca.net/TVLogo/DE/sat1_de_gold.png" group-title="DE: DEUTSCHE SENDER ",DE SAT 1 GOLD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5411
+#EXTINF:-1 tvg-id="prosiebenmaxx" tvg-name="DE: PRO7 MAXX" tvg-logo="http://hasbahca.net/TVLogo/DE/pro%20sieben%20maxx.png" group-title="DE: DEUTSCHE SENDER ",DE: PRO7 MAXX
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5417
+#EXTINF:-1 tvg-id="DE_TELE 5" tvg-name="DE: TELE 5 HD" tvg-logo="http://hasbahca.net/TVLogo/DE/tele5_de.png" group-title="DE: DEUTSCHE SENDER ",DE: TELE 5 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16303
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Up HD" tvg-logo="http://hasbahca.net/TVLogo/DE/rtl.png" group-title="DE: DEUTSCHE SENDER ",DE: RTL Up HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/34857
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="DE: Super RTL HD" tvg-logo="http://hasbahca.net/TVLogo/DE/super_rtl_de.png" group-title="DE: DEUTSCHE SENDER ",DE: Super RTL HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2799
+#EXTINF:-1 tvg-id="DE_kabel eins Doku" tvg-name="DE: KABEL EINS DOCU HD" tvg-logo="http://hasbahca.net/TVLogo/DE/kabel_eins_at_doku.png" group-title="DE: DEUTSCHE SENDER ",DE: KABEL EINS DOCU HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15152
+#EXTINF:-1 tvg-id="DE_kabel eins CLASSICS" tvg-name="DE: KABEL EINS CLASSIC HD" tvg-logo="http://hasbahca.net/TVLogo/DE/kabel_eins_classics.png" group-title="DE: DEUTSCHE SENDER ",DE: KABEL EINS CLASSIC HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15160
+#EXTINF:-1 tvg-id="DE_TOGGO plus" tvg-name="DE: TOGGO PLUS" tvg-logo="http://hasbahca.net/TVLogo/DE/toggo_plus_de.png" group-title="DE: DEUTSCHE SENDER ",DE: TOGGO PLUS
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15270
+#EXTINF:-1 tvg-id="SAT.1 emotions DE" tvg-name="DE: SAT 1 EMOTION HD" tvg-logo="http://hasbahca.net/TVLogo/DE/sat1_de_emotions.png" group-title="DE: DEUTSCHE SENDER ",DE: SAT 1 EMOTION HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9743
+#EXTINF:-1 tvg-id="DE_ProSieben Fun" tvg-name="DE: PRO7 Fun HD" tvg-logo="http://hasbahca.net/TVLogo/DE/pro%20sieben%20fun.png" group-title="DE: DEUTSCHE SENDER ",DE: PRO7 Fun HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/26584
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="DE: DMAX HD" tvg-logo="http://picon.webhop.net/logo/germanynew/dmaxx.png" group-title="DE: HISTORY",DE: DMAX HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2805
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="http://hasbahca.net/TVLogo/DE/zdf_neo_hd.png" group-title="DE: DEUTSCHE SENDER ",DE: ZDF NEO HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/12326
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="DE: 3Sat HD" tvg-logo="http://picon.webhop.net/logo/germanynew/3_sat.png" group-title="DE: NACHRICHTEN",DE: 3Sat HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/10249
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE:N24" tvg-logo="http://picon.webhop.net/logo/germanynew/n24_doku.png" group-title="DE: NACHRICHTEN",DE:N24
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5388
+#EXTINF:-1 tvg-id="arte DE" tvg-name="DE: ARTE HD" tvg-logo="" group-title="DE: DEUTSCHE SENDER ",DE: ARTE HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36393
+#EXTINF:-1 tvg-id="ATV.de" tvg-name="AT: ATV HD" tvg-logo="http://hasbahca.net/TVLogo/DE/atv_at.png" group-title="DE: DEUTSCHE SENDER ",AT: ATV HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15273
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="AT: ORF 1 HD AUSTRIA" tvg-logo="http://hasbahca.net/TVLogo/DE/orf_eins_hd.png" group-title="DE: DEUTSCHE SENDER ",AT: ORF 1 HD AUSTRIA
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9741
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="AT: ORF 2 HD AUSTRIA" tvg-logo="http://hasbahca.net/TVLogo/DE/orf2bhd.png" group-title="DE: DEUTSCHE SENDER ",AT: ORF 2 HD AUSTRIA
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9742
+#EXTINF:-1 tvg-id="" tvg-name="DE: ===== SKY CINEMA =====" tvg-logo="" group-title="DE: SKY CINEMA",DE: ===== SKY CINEMA =====
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/15180
+#EXTINF:-1 tvg-id="DE_Sky Action" tvg-name="DE: SKY ACTION HD" tvg-logo="http://hasbahca.net/TVLogo/DE/sky_de_cinema_action.png" group-title="DE: SKY CINEMA",DE: SKY ACTION HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6147
+#EXTINF:-1 tvg-id="DE_Sky Cinema Best Of" tvg-name="DE: Sky Cinema Best Of  HD" tvg-logo="http://picon.webhop.net/logo/germanynew/sky_cinema_hits.png" group-title="DE: SKY CINEMA",DE: Sky Cinema Best Of  HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18077
+#EXTINF:-1 tvg-id="DE_Sky Cinema Premieren" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="http://hasbahca.net/TVLogo/DE/sky_de_cinema_nostalgie.png" group-title="DE: SKY CINEMA",DE: SKY CINEMA PREMIEREN HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16302
+#EXTINF:-1 tvg-id="DE_Sky Cinema Premieren +24" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_cinema_+24.png" group-title="DE: SKY CINEMA",DE: Sky Cinema Premieren +24 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5161
+#EXTINF:-1 tvg-id="DE_Sky Family" tvg-name="DE: SKY CINEMA FAMILY" tvg-logo="http://hasbahca.net/TVLogo/DE/sky_de_cinema_family.png" group-title="DE: SKY CINEMA",DE: SKY CINEMA FAMILY
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6172
+#EXTINF:-1 tvg-id="DE_Sky Cinema Thriller HD" tvg-name="DE: SKY Cinema Thriller HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_cinema_th.png" group-title="DE: SKY CINEMA",DE: SKY Cinema Thriller HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18075
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: SKY CINEMA SPECIAL HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_cinema_spezial.png" group-title="DE: SKY CINEMA",DE: SKY CINEMA SPECIAL HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9744
+#EXTINF:-1 tvg-id="DE_Sky Krimi" tvg-name="DE: SKY KRIMI" tvg-logo="http://hasbahca.net/TVLogo/DE/sky%20krimi.png" group-title="DE: SKY CINEMA",DE: SKY KRIMI
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6178
+#EXTINF:-1 tvg-id="DE_Universal Channel HD" tvg-name="DE: Universal Channel HD" tvg-logo="http://hasbahca.net/TVLogo/DE/universal_channel_global.png" group-title="DE: SKY CINEMA",DE: Universal Channel HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/1625
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: WARNER FILM" tvg-logo="http://hasbahca.net/TVLogo/DE/tnt%20film.png" group-title="DE: SKY CINEMA",DE: WARNER FILM
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6040
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: WARNER COMEDY HD" tvg-logo="http://hasbahca.net/TVLogo/DE/tnt_us_comedy.png" group-title="DE: SKY CINEMA",DE: WARNER COMEDY HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6041
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: WARNER SERIE HD" tvg-logo="http://hasbahca.net/TVLogo/DE/tnt%20serie.png" group-title="DE: SKY CINEMA",DE: WARNER SERIE HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6221
+#EXTINF:-1 tvg-id="DE_Syfy" tvg-name="DE: SKY SYFY HD" tvg-logo="http://hasbahca.net/TVLogo/DE/syfy.png" group-title="DE: SKY CINEMA",DE: SKY SYFY HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6220
+#EXTINF:-1 tvg-id="DE_13TH STREET" tvg-name="DE: 13TH STREET HD" tvg-logo="http://hasbahca.net/TVLogo/DE/13th%20street.png" group-title="DE: SKY CINEMA",DE: 13TH STREET HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6128
+#EXTINF:-1 tvg-id="0" tvg-name="DE: NATIONAL GEO HD" tvg-logo="" group-title="DE: HISTORY",DE: NATIONAL GEO HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6042
+#EXTINF:-1 tvg-id="DE: SKY NAT GEO WILD HD" tvg-name="DE: National Geo Wild HD" tvg-logo="http://picon.webhop.net/logo/germanynew/national_geo_wild.png" group-title="DE: HISTORY",DE: National Geo Wild HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6043
+#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="DE: SKY DISCOVERY CHANNEL HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/L-sat05.01.21/Europe/Russia/discovery-channel-east-us.png" group-title="DE: SKY CINEMA",DE: SKY DISCOVERY CHANNEL HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36381
+#EXTINF:-1 tvg-id="0" tvg-name="DE: HISTORY CHANNEL" tvg-logo="http://picon.webhop.net/logo/usa/history_us.png" group-title="DE: HISTORY",DE: HISTORY CHANNEL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6139
+#EXTINF:-1 tvg-id="DE: SPIEGEL Geschichte" tvg-name="DE: SPIEGEL GESCHICHTE SD" tvg-logo="http://picon.webhop.net/logo/germany/spiegel_tv_de_geschichte_hd.png" group-title="DE: HISTORY",DE: SPIEGEL GESCHICHTE SD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9713
+#EXTINF:-1 tvg-id="DE_Sky Cinema Fun" tvg-name="DE: SKY CINEMA FUN HD" tvg-logo="http://hasbahca.net/TVLogo/DE/sky_de_cinema_plus1.png" group-title="DE: SKY CINEMA",DE: SKY CINEMA FUN HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6173
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN Sony HD" tvg-logo="http://hasbahca.net/TVLogo/DE/axn_global.png" group-title="DE: SKY CINEMA",DE: AXN Sony HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/14864
+#EXTINF:-1 tvg-id="" tvg-name="DE: Romanen TV" tvg-logo="http://hasbahca.net/TVLogo/DE/romance_tv_de.png" group-title="DE: SKY CINEMA",DE: Romanen TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/14873
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="http://picon.webhop.net/logo/germanynew/tlc.png" group-title="DE: HISTORY",DE: TLC
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/12336
+#EXTINF:-1 tvg-id="DE_RTL Living" tvg-name="DE: RTL LIVING" tvg-logo="http://picon.webhop.net/logo/germanynew/rtl_living_de.png" group-title="DE: SKY CINEMA",DE: RTL LIVING
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6144
+#EXTINF:-1 tvg-id="DE_RTL Passion" tvg-name="DE: RTL PASSION" tvg-logo="http://hasbahca.net/TVLogo/DE/rtl_passion_de.png" group-title="DE: SKY CINEMA",DE: RTL PASSION
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6145
+#EXTINF:-1 tvg-id="DE_KinoweltTV" tvg-name="DE: SKY KINOWELT TV" tvg-logo="http://hasbahca.net/TVLogo/DE/kinowelt%20tv.png" group-title="DE: SKY CINEMA",DE: SKY KINOWELT TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6177
+#EXTINF:-1 tvg-id="0" tvg-name="DE: DISNEY CHANNEL" tvg-logo="" group-title="DE: KINDER KANAL",DE: DISNEY CHANNEL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6132
+#EXTINF:-1 tvg-id="0" tvg-name="DE: DISNEY JUNIOR" tvg-logo="" group-title="DE: KINDER KANAL",DE: DISNEY JUNIOR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6133
+#EXTINF:-1 tvg-id="0" tvg-name="DE: NICK +" tvg-logo="" group-title="DE: KINDER KANAL",DE: NICK +
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6140
+#EXTINF:-1 tvg-id="0" tvg-name="DE: DISNEY XD" tvg-logo="" group-title="DE: KINDER KANAL",DE: DISNEY XD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6049
+#EXTINF:-1 tvg-id="0" tvg-name="DE: Nickelodeon HD" tvg-logo="" group-title="DE: KINDER KANAL",DE: Nickelodeon HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/2801
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bulli 1 4K+ (VIP)" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 1 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/31161
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: Sky Bulli 2 4K+ (VIP)" tvg-logo="http://picon.webhop.net/logo/germany/sky_bundesliga_hd_2.png" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 2 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9731
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: Sky Bulli 3 4K+ (VIP)" tvg-logo="http://picon.webhop.net/logo/germany/sky_bundesliga_hd_3.png" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 3 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9732
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="DE: Sky Bulli 5 4K+ (VIP)" tvg-logo="http://picon.webhop.net/logo/germany/sky_bundesliga_hd_5.png" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 5 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9734
+#EXTINF:-1 tvg-id="0" tvg-name="DE: Sky Bulli 7 4K+ (VIP)" tvg-logo="http://picon.webhop.net/logo/germany/sky_bundesliga_hd_7.png" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 7 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9736
+#EXTINF:-1 tvg-id="0" tvg-name="DE: Sky Bulli 9 4K+ (VIP)" tvg-logo="http://picon.webhop.net/logo/germany/sky_bundesliga_hd_9.png" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 9 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/9738
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bulli 8 4K+ (VIP)" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 8 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/17959
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bulli 10 4K+ (VIP)" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: Sky Bulli 10 4K+ (VIP)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/18080
+#EXTINF:-1 tvg-id="" tvg-name="DE: BULLI 1 HD" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: BULLI 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/31180
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 2" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5295
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 3" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 3
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6155
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 4" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6157
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 5" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 5
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6159
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 6" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 6
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6161
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 7" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 7
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5983
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 7" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 7
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6163
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 8 " tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 8 
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5984
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli 8 HD" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli 8 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6165
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 9 " tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 9 
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5985
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 9" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 9
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6167
+#EXTINF:-1 tvg-id="0" tvg-name="DE: bulli HD 10" tvg-logo="" group-title="DE: SKY BUNDESLIGA",DE: bulli HD 10
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6151
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22889
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22890
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 3 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22891
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 4 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22892
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEINSPORT.1" tvg-logo="" group-title="FR: SPORT",FR: BEINSPORT.1
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22893
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEINSPORT.2" tvg-logo="" group-title="FR: SPORT",FR: BEINSPORT.2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22894
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 4 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 4 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22896
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 5 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 5 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22897
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 6 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 6 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22898
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 7 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 7 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22899
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 8 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 8 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22900
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 9 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 9 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22901
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 10 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN MAX 10 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22902
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIGITURK BEIN MOVIES TURK HD" tvg-logo="https://i.hizliresim.com/36kYyp.png" group-title="TR: DIGITURK",TR: DIGITURK BEIN MOVIES TURK HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/16133
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/kanal_av.png" group-title="TR: HABERLER",TR: KANAL AVRUPA
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22133
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 1 (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22713
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 2 (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22714
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 3 (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22715
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 4 (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22716
+#EXTINF:-1 tvg-id="" tvg-name="HRT INT (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT INT (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22717
+#EXTINF:-1 tvg-id="" tvg-name="DOMA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",DOMA TV (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22720
+#EXTINF:-1 tvg-id="" tvg-name="RTL TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL TV (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22721
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL 2 (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22722
+#EXTINF:-1 tvg-id="" tvg-name="RTL LIVING (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL LIVING (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22725
+#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL PASSION (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22726
+#EXTINF:-1 tvg-id="" tvg-name="RTL KOCKICA (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL KOCKICA (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22727
+#EXTINF:-1 tvg-id="" tvg-name="OSIJECKA (HR)" tvg-logo="" group-title="HR: HIRVASKI",OSIJECKA (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22729
+#EXTINF:-1 tvg-id="" tvg-name="LAUDATO TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",LAUDATO TV (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22730
+#EXTINF:-1 tvg-id="" tvg-name="KLASIK (HR)" tvg-logo="" group-title="HR: HIRVASKI",KLASIK (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22731
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL  (HR)" tvg-logo="" group-title="HR: HIRVASKI",CAPITAL  (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22732
+#EXTINF:-1 tvg-id="" tvg-name="TREND TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",TREND TV (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22734
+#EXTINF:-1 tvg-id="" tvg-name="SLAVONSKA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",SLAVONSKA TV (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22735
+#EXTINF:-1 tvg-id="" tvg-name="Z1 (HR)" tvg-logo="" group-title="HR: HIRVASKI",Z1 (HR)
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/22740
+#EXTINF:-1 tvg-id="DE_RTL Crime" tvg-name="DE: RTL CRIME HD" tvg-logo="http://picon.webhop.net/logo/germanynew/rtl_crime.png" group-title="DE: SKY CINEMA",DE: RTL CRIME HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/1620
+#EXTINF:-1 tvg-id="DE_RTLup" tvg-name="DE: RTL NITRO" tvg-logo="http://hasbahca.net/TVLogo/DE/rtl%20nitro.png" group-title="DE: DEUTSCHE SENDER ",DE: RTL NITRO
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/5420
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1 HD" tvg-logo="" group-title="IT: ITALYA",IT: RAI 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32085
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 HD" tvg-logo="" group-title="IT: ITALYA",IT: RAI 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/35411
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 HD" tvg-logo="" group-title="IT: ITALYA",IT: RAI 3 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32087
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4 HD" tvg-logo="" group-title="IT: ITALYA",IT: RAI 4 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32098
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="" group-title="IT: ITALYA",IT: Rai 5
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32099
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4" tvg-logo="" group-title="IT: ITALYA",IT: Rete 4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32088
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Italia 2" tvg-logo="" group-title="IT: ITALYA",Mediaset Italia 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/33482
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News 24" tvg-logo="" group-title="IT: ITALYA",IT: Rai News 24
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32101
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP HD" tvg-logo="" group-title="IT: ITALYA",IT: RAI GULP HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32102
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM HD" tvg-logo="" group-title="IT: ITALYA",IT: RAI PREMIUM HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32104
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola" tvg-logo="" group-title="IT: ITALYA",IT: Rai Scuola
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32106
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset EXTRA" tvg-logo="" group-title="IT: ITALYA",IT: Mediaset EXTRA
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32108
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset ITALIA DUE" tvg-logo="" group-title="IT: ITALYA",IT: Mediaset ITALIA DUE
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32109
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 8" tvg-logo="" group-title="IT: ITALYA",IT: Canale 8
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32116
+#EXTINF:-1 tvg-id="" tvg-name="======SKY Cinema======" tvg-logo="" group-title="IT: ITALYA",======SKY Cinema======
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32121
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DUE 24" tvg-logo="" group-title="IT: ITALYA",IT: SKY CINEMA DUE 24
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32125
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION HD" tvg-logo="" group-title="IT: ITALYA",IT: SKY CINEMA ACTION HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32128
+#EXTINF:-1 tvg-id="" tvg-name="======SKY Cultura======" tvg-logo="" group-title="IT: ITALYA",======SKY Cultura======
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32138
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky National Geo" tvg-logo="" group-title="IT: ITALYA",IT: Sky National Geo
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32139
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky NatGeo People" tvg-logo="" group-title="IT: ITALYA",IT: Sky NatGeo People
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32141
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Discovery" tvg-logo="" group-title="IT: ITALYA",IT: Sky Discovery
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32142
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Animal Planet" tvg-logo="" group-title="IT: ITALYA",IT: Sky Animal Planet
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32143
+#EXTINF:-1 tvg-id="" tvg-name="======SKY Bambini======" tvg-logo="" group-title="IT: ITALYA",======SKY Bambini======
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32151
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Film Sala" tvg-logo="" group-title="IT: ITALYA",Vetrina Film Sala
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32197
+#EXTINF:-1 tvg-id="" tvg-name="Sala 2" tvg-logo="" group-title="IT: ITALYA",Sala 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32201
+#EXTINF:-1 tvg-id="" tvg-name="======SKY. Sport======" tvg-logo="" group-title="IT: ITALYA",======SKY. Sport======
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32222
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_1" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_1
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32245
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_3_" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_3_
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32247
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_4_" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_4_
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32248
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_5_" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_5_
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32249
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_6" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_6
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32250
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_7_" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_7_
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32251
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_8" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_8
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32252
+#EXTINF:-1 tvg-id="" tvg-name="BEI: BeinSport_9_" tvg-logo="" group-title="IT: ITALYA",BEI: BeinSport_9_
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/32253
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Federalna TV" tvg-logo="" group-title="EX: YU",EX YU: Federalna TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36182
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CineStar Premiere 2" tvg-logo="" group-title="EX: YU",EX YU: CineStar Premiere 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36183
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CineStar Action HR" tvg-logo="" group-title="EX: YU",EX YU: CineStar Action HR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36185
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Cinemax 2 HD" tvg-logo="" group-title="EX: YU",EX YU: Cinemax 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36186
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Cinemax HD" tvg-logo="" group-title="EX: YU",EX YU: Cinemax HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36187
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Zabava" tvg-logo="" group-title="EX: YU",EX YU: Pink Zabava
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36188
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Movies" tvg-logo="" group-title="EX: YU",EX YU: Pink Movies
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36189
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink M" tvg-logo="" group-title="EX: YU",EX YU: Pink M
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36190
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Horror" tvg-logo="" group-title="EX: YU",EX YU: Pink Horror
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36191
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Crime & Mystery" tvg-logo="" group-title="EX: YU",EX YU: Pink Crime & Mystery
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36192
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Lov i Ribolov" tvg-logo="" group-title="EX: YU",EX YU: Lov i Ribolov
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36193
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayatovci" tvg-logo="" group-title="EX: YU",EX YU: Hayatovci
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36194
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: O Kanal HD" tvg-logo="" group-title="EX: YU",EX YU: O Kanal HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36195
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL Kockica" tvg-logo="" group-title="EX: YU",EX YU: RTL Kockica
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36196
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Folk 2" tvg-logo="" group-title="EX: YU",EX YU: Pink Folk 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36197
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Happy Tv" tvg-logo="" group-title="EX: YU",EX YU: Happy Tv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36198
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX Movies" tvg-logo="" group-title="EX: YU",EX YU: FOX Movies
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36199
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX" tvg-logo="" group-title="EX: YU",EX YU: FOX
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36200
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: DM Sat" tvg-logo="" group-title="EX: YU",EX YU: DM Sat
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36201
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: BHT 1" tvg-logo="" group-title="EX: YU",EX YU: BHT 1
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36202
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 2 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 2 SR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36204
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 1 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 1 HR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36205
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 1 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 1 SR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36206
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 2 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 2 HR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36207
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 3 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 3 HR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36208
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Al Jazzera Balkan" tvg-logo="" group-title="EX: YU",EX YU: Al Jazzera Balkan
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36209
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva Plus" tvg-logo="" group-title="EX: YU",EX YU: Prva Plus
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36210
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 2 HD" tvg-logo="" group-title="EX: YU",EX YU: HBO 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36211
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 1 HD" tvg-logo="" group-title="EX: YU",EX YU: HBO 1 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36212
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayat Plus" tvg-logo="" group-title="EX: YU",EX YU: Hayat Plus
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36213
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Grand TV" tvg-logo="" group-title="EX: YU",EX YU: Grand TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36214
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Doma Tv" tvg-logo="" group-title="EX: YU",EX YU: Doma Tv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36215
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CMC" tvg-logo="" group-title="EX: YU",EX YU: CMC
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36216
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Reality" tvg-logo="" group-title="EX: YU",EX YU: Pink Reality
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36217
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Kids" tvg-logo="" group-title="EX: YU",EX YU: Pink Kids
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36220
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Folk" tvg-logo="" group-title="EX: YU",EX YU: Pink Folk
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36221
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Film" tvg-logo="" group-title="EX: YU",EX YU: Pink Film
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36222
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Extra" tvg-logo="" group-title="EX: YU",EX YU: Pink Extra
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36223
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Comedy" tvg-logo="" group-title="EX: YU",EX YU: Pink Comedy
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36224
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: N1 HR" tvg-logo="" group-title="EX: YU",EX YU: N1 HR
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36226
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Klasik TV" tvg-logo="" group-title="EX: YU",EX YU: Klasik TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36227
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL Living" tvg-logo="" group-title="EX: YU",EX YU: RTL Living
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36230
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL 2 HD" tvg-logo="" group-title="EX: YU",EX YU: RTL 2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36231
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva Tv" tvg-logo="" group-title="EX: YU",EX YU: Prva Tv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36232
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Premium" tvg-logo="" group-title="EX: YU",EX YU: Pink Premium
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36233
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL HD" tvg-logo="" group-title="EX: YU",EX YU: RTL HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36234
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Kuvar" tvg-logo="" group-title="EX: YU",EX YU: Pink Kuvar
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36235
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Mtv Igman" tvg-logo="" group-title="EX: YU",EX YU: Mtv Igman
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36236
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayat Music" tvg-logo="" group-title="EX: YU",EX YU: Hayat Music
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36237
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: E!" tvg-logo="" group-title="EX: YU",EX YU: E!
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36238
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Duga TV" tvg-logo="" group-title="EX: YU",EX YU: Duga TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36239
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Banovina Tv" tvg-logo="" group-title="EX: YU",EX YU: Banovina Tv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36240
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Animal Planet HD" tvg-logo="" group-title="EX: YU",EX YU: Animal Planet HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36241
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink 3 Info" tvg-logo="" group-title="EX: YU",EX YU: Pink 3 Info
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36242
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: BN TV" tvg-logo="" group-title="EX: YU",EX YU: BN TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36243
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: BN Music" tvg-logo="" group-title="EX: YU",EX YU: BN Music
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36244
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX Crime" tvg-logo="" group-title="EX: YU",EX YU: FOX Crime
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36258
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Face Tv" tvg-logo="" group-title="EX: YU",EX YU: Face Tv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36259
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: KCN 3" tvg-logo="" group-title="EX: YU",EX YU: KCN 3
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36288
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Kino Tv" tvg-logo="" group-title="EX: YU",EX YU: Kino Tv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36289
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: LOL" tvg-logo="" group-title="EX: YU",EX YU: LOL
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36290
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Nova BH HD" tvg-logo="" group-title="EX: YU",EX YU: Nova BH HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36297
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Novi Pazar" tvg-logo="" group-title="EX: YU",EX YU: Novi Pazar
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36298
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink" tvg-logo="" group-title="EX: YU",EX YU: Pink
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36299
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Classic" tvg-logo="" group-title="EX: YU",EX YU: Pink Classic
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36300
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Family" tvg-logo="" group-title="EX: YU",EX YU: Pink Family
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36301
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Hits" tvg-logo="" group-title="EX: YU",EX YU: Pink Hits
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36302
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Hits 2" tvg-logo="" group-title="EX: YU",EX YU: Pink Hits 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36303
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Music 2" tvg-logo="" group-title="EX: YU",EX YU: Pink Music 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36304
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Z1" tvg-logo="" group-title="EX: YU",EX YU: Z1
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/36343
+#EXTINF:-1 tvg-id="0" tvg-name="TR:ANKARA FM" tvg-logo="" group-title="",TR:ANKARA FM
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6432
+#EXTINF:-1 tvg-id="0" tvg-name="KRAL FM" tvg-logo="" group-title="",KRAL FM
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6431
+#EXTINF:-1 tvg-id="0" tvg-name="TURK-BABA RADYO" tvg-logo="" group-title="",TURK-BABA RADYO
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/6430
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FilmBoX ᴴᴰ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| FilmBoX ᴴᴰ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38341
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Fox Crime ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Fox Crime ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38342
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Turk ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Moviesmart Turk ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38343
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Premium ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Moviesmart Premium ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38344
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Classic ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Moviesmart Classic ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38345
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dizi Smart Premium ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Dizi Smart Premium ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38346
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dizi Smart MAX ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Dizi Smart MAX ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38347
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38348
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 2" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV 2
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38349
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV Aile ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38350
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile 2 ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV Aile 2 ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38351
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aksiyon ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV Aksiyon ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38353
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1001" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV 1001
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38354
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1002 ғнᴅ" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",|TR| Sinema TV 1002 ғнᴅ
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38355
+#EXTINF:-1 tvg-id="" tvg-name="Black Warrant 2023 |TR|" tvg-logo="" group-title="TR: ONLINE FILIM KANALLARI",Black Warrant 2023 |TR|
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38397
+#EXTINF:-1 tvg-id="" tvg-name="ntv" tvg-logo="" group-title="TR: ULTRA HD KANALLAR",ntv
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38652
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIGTV HD 4 K 1920" tvg-logo="" group-title="TR: LIGTV SPOR KANALLARI",TR: LIGTV HD 4 K 1920
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38653
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIG TV 1 K4" tvg-logo="" group-title="TR: LIGTV SPOR KANALLARI",TR: LIG TV 1 K4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38656
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIGTV 2 K4" tvg-logo="" group-title="TR: LIGTV SPOR KANALLARI",TR: LIGTV 2 K4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38657
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIGTV 3 K4" tvg-logo="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36" group-title="TR: LIGTV SPOR KANALLARI",TR: LIGTV 3 K4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38658
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIGTV 4 K4" tvg-logo="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36" group-title="TR: ULTRA HD KANALLAR",TR: LIGTV 4 K4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38659
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIGTV 5 K4" tvg-logo="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36" group-title="TR: LIGTV SPOR KANALLARI",TR: LIGTV 5 K4
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38660
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX K2 HD" tvg-logo="" group-title="TR: LIGTV SPOR KANALLARI",TR: BEIN SPORTS MAX K2 HD
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38661
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORT MAX 1 HD 4K" tvg-logo="" group-title="TR: LIGTV SPOR KANALLARI",TR: BEINSPORT MAX 1 HD 4K
+http://www.x-changer.org:80/EG3BrPjQt9yn/4VHwDyhFqHaG/38662
