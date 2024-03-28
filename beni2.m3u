@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="||FR|| RMC SPORT 2 FHD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~bd9dce9c307daa98.png/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="RMC SPORTS",||FR|| RMC SPORT 2 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1091.ts
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="||FR|| RMC SPORT 3 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="RMC SPORTS",||FR|| RMC SPORT 3 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1092.ts
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="||FR|| RMC SPORT 4 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport42.png" group-title="RMC SPORTS",||FR|| RMC SPORT 4 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1093.ts
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="||FR|| RMC SPORT 5 FHD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~a45fd975130071f4.png/1200x630/crop-from/top/quality/80/rmc-sport-live-5.png" group-title="RMC SPORTS",||FR|| RMC SPORT 5 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1094.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 6 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive62.png" group-title="RMC SPORTS",||FR|| RMC SPORT 6 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1095.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 7 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive72.png" group-title="RMC SPORTS",||FR|| RMC SPORT 7 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1096.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC NEWS SPORT FHD" tvg-logo="" group-title="RMC SPORTS",||FR|| RMC NEWS SPORT FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1986.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="||FR|| BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 1 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/450.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="||FR|| BEIN SPORTS 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 2 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/451.ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="||FR|| BEIN SPORTS 3 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 3 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/453.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1972.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1973.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1974.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1975.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="||FR|| BEIN MAX 8 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 8 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1976.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="||FR|| BEIN MAX 9 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 9 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1977.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 6 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive62.png" group-title="RMC SPORTS",||FR|| RMC SPORT 6 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6667.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT NEWS HD" tvg-logo="" group-title="RMC SPORTS",||FR|| RMC SPORT NEWS HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/91.ts
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="||FR|| RMC SPORT 1 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~6dfb62722912d957.png/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="RMC SPORTS",||FR|| RMC SPORT 1 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/92.ts
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="||FR|| RMC SPORT 2 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~bd9dce9c307daa98.png/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="RMC SPORTS",||FR|| RMC SPORT 2 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/93.ts
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="||FR|| RMC SPORT 3 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="RMC SPORTS",||FR|| RMC SPORT 3 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/94.ts
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="||FR|| RMC SPORT 4 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport42.png" group-title="RMC SPORTS",||FR|| RMC SPORT 4 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 5 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive52.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 5 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 6 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive62.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 6 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 7 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive72.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 7 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT						 LIVE 8 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive82.png" group-title="RMC SPORTS",||FR|| RMC SPORT						 LIVE 8 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 9 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-rmc-sport-live-9.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 9 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 10 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-rmc-sport-live-10.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 10 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/487.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC ACCESS SPORT 2 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~bd9dce9c307daa98.png/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="RMC SPORTS",||FR|| RMC ACCESS SPORT 2 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/489.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC ACCESS SPORT 3 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="RMC SPORTS",||FR|| RMC ACCESS SPORT 3 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/490.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 11 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-rmc-sport-live-11.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 11 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1944.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 12 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-rmc-sport-live-12.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 12 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1945.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 13 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~8977c8bdfd019332.png/1200x630/crop-from/top/quality/80/rmc-sport-live-13.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 13 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1946.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 14 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-rmc-sport-live-14.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 14 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1947.ts
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="||FR|| RMC SPORT 5 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~a45fd975130071f4.png/1200x630/crop-from/top/quality/80/rmc-sport-live-5.png" group-title="RMC SPORTS",||FR|| RMC SPORT 5 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1968.ts
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 7 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive72.png" group-title="RMC SPORTS",||FR|| RMC SPORT 7 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6671.ts
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="||FR|| RMC SPORT 1 HD ACCESS" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~6dfb62722912d957.png/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="RMC SPORTS",||FR|| RMC SPORT 1 HD ACCESS
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6704.ts
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="||FR|| RMC SPORT 2 HD ACCESS" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~bd9dce9c307daa98.png/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="RMC SPORTS",||FR|| RMC SPORT 2 HD ACCESS
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6705.ts
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="||FR|| RMC SPORT 3 HD ACCESS" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="RMC SPORTS",||FR|| RMC SPORT 3 HD ACCESS
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6706.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/106.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/107.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/108.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/109.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="||FR|| BEIN MAX 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 8 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/110.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="||FR|| BEIN MAX 9 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 9 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/111.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX10.fr" tvg-name="||FR|| BEIN MAX 10 HD" tvg-logo="http://obsfullhd.tv:25461/images/b91b887a44dd86a1d09d2327c469f97d.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 10 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/112.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="||FR|| BEIN SPORTS 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 1 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/163.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="||FR|| BEIN SPORTS 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 2 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/164.ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="||FR|| BEIN SPORTS 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 3 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/165.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6708.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 HD						" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 HD						
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6709.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6710.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/6711.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="||FR|| BEIN SPORTS 1 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 1 SD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/48686.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HEVC HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HEVC HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/7477.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HEVC HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HEVC HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/7478.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 7 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 7 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 8 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 9 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 9 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 10 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 10 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1871.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1872.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1874.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1875.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1876.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1877.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 7 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 7 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1878.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 8 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 8 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1879.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORT 9 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORT 9 FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1880.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 10 FHD " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 10 FHD 
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/1881.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN MOVIES 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN MOVIES 1 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ||AR.BEIN|| BEIN MOVIES 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية", ||AR.BEIN|| BEIN MOVIES 2 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2684.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ||AR.BEIN|| BEIN MOVIES 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية", ||AR.BEIN|| BEIN MOVIES 3 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2685.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SERIES 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SERIES 1
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2687.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SERIES 2 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SERIES 2 
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2688.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN FOX REWAYAT" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN FOX REWAYAT
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2690.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ||AR.BEIN|| BEIN FATAFEAT" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/FATAFEAT-1.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية", ||AR.BEIN|| BEIN FATAFEAT
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2691.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN GOURMET" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/GOURMET_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN GOURMET
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2692.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ||AR.BEIN|| BEIN GULI" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية", ||AR.BEIN|| BEIN GULI
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS NEWS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS NEWS HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/5275.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★BEIN SPORTS ARABE  بين سبورت عربية ★●•" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",•●★BEIN SPORTS ARABE  بين سبورت عربية ★●•
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/9640.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47269.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47270.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47271.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 HEVC
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47277.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HEVC
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47278.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HEVC
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47279.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 HEVC
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47280.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORT XTRA 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORT XTRA 1 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47292.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORT XTRA 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORT XTRA 2 HD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47293.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 ENGLISH HD " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 ENGLISH HD 
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47294.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47295.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47296.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/47297.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/61143.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/61144.ts
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
+http://obsfullhd.tv:25461/live/okyanus54/QWBEQwJVLBThjsvdJEVEJEH5/61145.ts
