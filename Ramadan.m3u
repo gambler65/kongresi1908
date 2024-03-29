@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:135,sansatramadan2.mp4
+#EXTVLCOPT:network-caching=1000
+http://62.210.189.55:25461/images/sansatramadan2.mp4
