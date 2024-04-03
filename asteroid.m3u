@@ -1,0 +1,1131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5724" tvg-name="HRT 3 Backup" tvg-logo="https://tvprofil.com/img/kanali-logo/HRT3_logo.png" group-title="Hrvatska",HRT 3 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5724
+#EXTINF:-1 tvg-id="5725" tvg-name="HRT 4 Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/103.hr.png" group-title="Hrvatska",HRT 4 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5725
+#EXTINF:-1 tvg-id="1257" tvg-name="HRT Int." tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska",HRT Int.
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1257
+#EXTINF:-1 tvg-id="1256" tvg-name="Nova Tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska",Nova Tv
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1256
+#EXTINF:-1 tvg-id="1255" tvg-name="Doma Tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma Tv
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1255
+#EXTINF:-1 tvg-id="1252" tvg-name="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/RTL2-logo.png" group-title="Hrvatska",RTL 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1252
+#EXTINF:-1 tvg-id="4585" tvg-name="RTL 2 Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL2-logo.png" group-title="Hrvatska",RTL 2 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4585
+#EXTINF:-1 tvg-id="1251" tvg-name="RTL Crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1251
+#EXTINF:-1 tvg-id="1244" tvg-name="Banovina TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTB_TV_HR_logo.png" group-title="Hrvatska",Banovina TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1244
+#EXTINF:-1 tvg-id="1339" tvg-name="BHT 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1339
+#EXTINF:-1 tvg-id="4586" tvg-name="BHT 1 Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4586
+#EXTINF:-1 tvg-id="4816" tvg-name="BHT HD" tvg-logo="http://epg.netsolutionpro.com/logo-tv/100.ba.png" group-title="BiH",BHT HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4816
+#EXTINF:-1 tvg-id="1338" tvg-name="Federalna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/FTV_BA_logo.png" group-title="BiH",Federalna TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1338
+#EXTINF:-1 tvg-id="4587" tvg-name="Federalna TV Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/101.ba.png" group-title="BiH",Federalna TV Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4587
+#EXTINF:-1 tvg-id="1244" tvg-name="TV Sarajevo" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/tvsa-logo.png" group-title="BiH",TV Sarajevo
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1337
+#EXTINF:-1 tvg-id="1336" tvg-name="Al Jazeera Balkans" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/aljazeera_balkans-logo.png" group-title="BiH",Al Jazeera Balkans
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1336
+#EXTINF:-1 tvg-id="1335" tvg-name="ATV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/ATV_BA_logo.png" group-title="BiH",ATV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1335
+#EXTINF:-1 tvg-id="1334" tvg-name="Face TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/face-tv-logo.png" group-title="BiH",Face TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1334
+#EXTINF:-1 tvg-id="4588" tvg-name="Face TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/face-tv-logo.png" group-title="BiH",Face TV HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4588
+#EXTINF:-1 tvg-id="4589" tvg-name="Hayat FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayat-hd_logo.png" group-title="BiH",Hayat FHD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4589
+#EXTINF:-1 tvg-id="1244" tvg-name="RTV HB" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTV_HB.png" group-title="BiH",RTV HB
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5726
+#EXTINF:-1 tvg-id="5636" tvg-name="Nova Bh Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_BH_BA_logo.png" group-title="BiH",Nova Bh Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5636
+#EXTINF:-1 tvg-id="1329" tvg-name="OBN" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/OBN-logo.png" group-title="BiH",OBN
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1329
+#EXTINF:-1 tvg-id="4590" tvg-name="OBN Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/OBN-logo.png" group-title="BiH",OBN Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4590
+#EXTINF:-1 tvg-id="1326" tvg-name="BN" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/bn_televizija_zemaljski.jpg" group-title="BiH",BN
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1326
+#EXTINF:-1 tvg-id="1318" tvg-name="Alfa TV Sarajevo" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/alfatvlogo.png" group-title="BiH",Alfa TV Sarajevo
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1318
+#EXTINF:-1 tvg-id="1317" tvg-name="RTRS" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/rtrs-logo.png" group-title="BiH",RTRS
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1317
+#EXTINF:-1 tvg-id="5446" tvg-name="RTRS PLUS" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTRS_PLUS_logo.png" group-title="BiH",RTRS PLUS
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5446
+#EXTINF:-1 tvg-id="1310" tvg-name="RTS 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1310
+#EXTINF:-1 tvg-id="4591" tvg-name="RTS 1 Backup" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4591
+#EXTINF:-1 tvg-id="1309" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS2_logo.png" group-title="Srbija",RTS 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1309
+#EXTINF:-1 tvg-id="4592" tvg-name="RTS 2 Backup" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png" group-title="Srbija",RTS 2 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4592
+#EXTINF:-1 tvg-id="1308" tvg-name="RTS 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_3_logo.png" group-title="Srbija",RTS 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1308
+#EXTINF:-1 tvg-id="5815" tvg-name="RTS ZIVOT" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_Zivot_logo.png" group-title="Srbija",RTS ZIVOT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5815
+#EXTINF:-1 tvg-id="1244" tvg-name="RTS TREZOR" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_Trezor_logo.png" group-title="Srbija",RTS TREZOR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5814
+#EXTINF:-1 tvg-id="5813" tvg-name="RTS SVET" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_svet_logo.png" group-title="Srbija",RTS SVET
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5813
+#EXTINF:-1 tvg-id="4608" tvg-name="RTS FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS FHD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4608
+#EXTINF:-1 tvg-id="1306" tvg-name="B92" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/b92_logo_2020.png" group-title="Srbija",B92
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1306
+#EXTINF:-1 tvg-id="1305" tvg-name="Studio B" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/studiob-logo.png" group-title="Srbija",Studio B
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1305
+#EXTINF:-1 tvg-id="1312" tvg-name="Nova S" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_S_RS_logo.png" group-title="Srbija",Nova S
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1312
+#EXTINF:-1 tvg-id="1303" tvg-name="Prva" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva-srpska-logo.png" group-title="Srbija",Prva
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1303
+#EXTINF:-1 tvg-id="4593" tvg-name="Prva Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva-srpska-logo.png" group-title="Srbija",Prva Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4593
+#EXTINF:-1 tvg-id="1244" tvg-name="Prva Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Prva_Plus_Logo.png" group-title="Srbija",Prva Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1302
+#EXTINF:-1 tvg-id="1301" tvg-name="Prva World" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva_world_logo.png" group-title="Srbija",Prva World
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1301
+#EXTINF:-1 tvg-id="1300" tvg-name="Prva Max" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva-max_logo.jpg" group-title="Srbija",Prva Max
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1300
+#EXTINF:-1 tvg-id="4556" tvg-name="Prva Kick" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/PRVA-KICK_logo.png" group-title="Srbija",Prva Kick
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4556
+#EXTINF:-1 tvg-id="1244" tvg-name="Prva Files" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Prva_FILES_logo.png" group-title="Srbija",Prva Files
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5696
+#EXTINF:-1 tvg-id="1299" tvg-name="Happy TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Happy_new_logo.png" group-title="Srbija",Happy TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1299
+#EXTINF:-1 tvg-id="4594" tvg-name="Happy TV Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/119.sr.png" group-title="Srbija",Happy TV Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4594
+#EXTINF:-1 tvg-id="5812" tvg-name="Zadruga Live" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-1-384x216-1.png" group-title="Srbija",Zadruga Live
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5812
+#EXTINF:-1 tvg-id="1244" tvg-name="RTCG 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTCG1-logo.jpg" group-title="Crna Gora",RTCG 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4831
+#EXTINF:-1 tvg-id="1244" tvg-name="RTCG 2 " tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTCG2-logo.jpg" group-title="Crna Gora",RTCG 2 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4535
+#EXTINF:-1 tvg-id="1292" tvg-name="KCN 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/kcn1-logo.png" group-title="Srbija",KCN 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1292
+#EXTINF:-1 tvg-id="1291" tvg-name="KCN 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/k_cn2_rs.png" group-title="Srbija",KCN 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1291
+#EXTINF:-1 tvg-id="1290" tvg-name="KCN 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/svetplus_logo.png" group-title="Srbija",KCN 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1290
+#EXTINF:-1 tvg-id="1244" tvg-name="TV Vijesti" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/TV_Vijesti_CG_logo.png" group-title="Crna Gora",TV Vijesti
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1288
+#EXTINF:-1 tvg-id="2456" tvg-name="Sandzak TV" tvg-logo="https://zona.ba/wp-content/uploads/sandzak-2.jpg" group-title="Srbija",Sandzak TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/2456
+#EXTINF:-1 tvg-id="1244" tvg-name="Kanal 5" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/kanal5-logo.png" group-title="Makedonija",Kanal 5
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1283
+#EXTINF:-1 tvg-id="1280" tvg-name="Telma" tvg-logo="http://caffe.link:25461/images/95b694c912a3f454a014ce2961282219.png" group-title="Makedonija",Telma
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1280
+#EXTINF:-1 tvg-id="1244" tvg-name="Alsat M" tvg-logo="http://caffe.link:25461/images/e89b66f4b863721eeb9430f392df865e.png" group-title="Makedonija",Alsat M
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1279
+#EXTINF:-1 tvg-id="1277" tvg-name="24 Vesti" tvg-logo="http://caffe.link:25461/images/cc9ea3e3d01cef846498202016a6acc3.jpg" group-title="Makedonija",24 Vesti
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1277
+#EXTINF:-1 tvg-id="1272" tvg-name="SLO 1" tvg-logo="https://tvprofil.com/img/kanali-logo/rtv-slo1-logo.png" group-title="Slovenija",SLO 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1272
+#EXTINF:-1 tvg-id="1271" tvg-name="SLO 2" tvg-logo="https://tvprofil.com/img/kanali-logo/rtv-slo2-logo.png" group-title="Slovenija",SLO 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1271
+#EXTINF:-1 tvg-id="3660" tvg-name="SLO 3" tvg-logo="https://tvprofil.com/img/kanali-logo/rtv-slo3-logo.png" group-title="Slovenija",SLO 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3660
+#EXTINF:-1 tvg-id="1270" tvg-name="POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/pop-tv-logo.png" group-title="Slovenija",POP TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1270
+#EXTINF:-1 tvg-id="3643" tvg-name="POP Brio" tvg-logo="https://tvprofil.com/img/kanali-logo/LOGO-BRIO_logo.png" group-title="Slovenija",POP Brio
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3643
+#EXTINF:-1 tvg-id="3642" tvg-name="POP Oto" tvg-logo="https://tvprofil.com/img/kanali-logo/LOGO-OTO_logo.png" group-title="Slovenija",POP Oto
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3642
+#EXTINF:-1 tvg-id="3719" tvg-name="Planet TV SLO" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Planet_tv_logo.png" group-title="Slovenija",Planet TV SLO
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3719
+#EXTINF:-1 tvg-id="1363" tvg-name="Pink" tvg-logo="http://caffe.link:25461/images/0a9aadded0962cb60be24c0d51a3d185.png" group-title="Pink",Pink
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1363
+#EXTINF:-1 tvg-id="4595" tvg-name="Pink Backup" tvg-logo="http://caffe.link:25461/images/0a9aadded0962cb60be24c0d51a3d185.png" group-title="Pink",Pink Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4595
+#EXTINF:-1 tvg-id="1362" tvg-name="Nova BH" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_BH_BA_logo.png" group-title="BiH",Nova BH
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1362
+#EXTINF:-1 tvg-id="1361" tvg-name="Pink Plus" tvg-logo="http://caffe.link:25461/images/61cce84159c07a5f912f297d40a1c54c.png" group-title="Pink",Pink Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1361
+#EXTINF:-1 tvg-id="1360" tvg-name="RED TV" tvg-logo="http://caffe.link:25461/images/5450e45f3856347f4ac747bd8758d883.png" group-title="Pink",RED TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1360
+#EXTINF:-1 tvg-id="1356" tvg-name="Pink Action" tvg-logo="http://caffe.link:25461/images/a2e8099158c4f228d22e7ce8e646279c.png" group-title="Pink",Pink Action
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1356
+#EXTINF:-1 tvg-id="1344" tvg-name="Pink Classic" tvg-logo="http://caffe.link:25461/images/c34be68853b91db3980d8b03a9552343.png" group-title="Pink",Pink Classic
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1344
+#EXTINF:-1 tvg-id="1355" tvg-name="Pink Film" tvg-logo="http://caffe.link:25461/images/99a034810f2d32e886e4c53daad1d105.png" group-title="Pink",Pink Film
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1355
+#EXTINF:-1 tvg-id="1352" tvg-name="Pink Horror" tvg-logo="http://epg.netsolutionpro.com/logo-tv/164.sr.png" group-title="Pink",Pink Horror
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1352
+#EXTINF:-1 tvg-id="1354" tvg-name="Pink Premium" tvg-logo="http://caffe.link:25461/images/f111f98dbb5637ff42c7b539da828d3e.png" group-title="Pink",Pink Premium
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1354
+#EXTINF:-1 tvg-id="1341" tvg-name="Pink Reality" tvg-logo="http://epg.netsolutionpro.com/logo-tv/173.sr.png" group-title="Pink",Pink Reality
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1341
+#EXTINF:-1 tvg-id="1342" tvg-name="Pink Romance" tvg-logo="http://epg.netsolutionpro.com/logo-tv/167.sr.png" group-title="Pink",Pink Romance
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1342
+#EXTINF:-1 tvg-id="1357" tvg-name="Pink Soap" tvg-logo="http://epg.netsolutionpro.com/logo-tv/172.sr.png" group-title="Pink",Pink Soap
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1357
+#EXTINF:-1 tvg-id="1348" tvg-name="Pink Western" tvg-logo="http://caffe.link:25461/images/64ff1b346ebbdf9511a2dbc31f64bf0a.png" group-title="Pink",Pink Western
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1348
+#EXTINF:-1 tvg-id="1349" tvg-name="Pink World" tvg-logo="http://caffe.link:25461/images/1b57375900c3d1e98910cd4ed2502dfd.png" group-title="Pink",Pink World
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1349
+#EXTINF:-1 tvg-id="1343" tvg-name="Pink Zabava" tvg-logo="http://caffe.link:25461/images/c80868c30ba461486a9c736bb0051bde.png" group-title="Pink",Pink Zabava
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1343
+#EXTINF:-1 tvg-id="5305" tvg-name="Pink Media BH" tvg-logo="http://caffe.link:25461/images/b765b35b9ba8b58a070a0ec1a45ae210.png" group-title="Pink",Pink Media BH
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5305
+#EXTINF:-1 tvg-id="1385" tvg-name="HBO" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/hbo-logo.png" group-title="Film & serije",HBO
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1385
+#EXTINF:-1 tvg-id="1384" tvg-name="HBO 2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/HBO2_b_p.png" group-title="Film & serije",HBO 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1384
+#EXTINF:-1 tvg-id="1383" tvg-name="HBO 3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/HBO3_logo.png" group-title="Film & serije",HBO 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1383
+#EXTINF:-1 tvg-id="1382" tvg-name="CineStar TV" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",CineStar TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1382
+#EXTINF:-1 tvg-id="1381" tvg-name="CineStar Premiere" tvg-logo="http://caffe.link:25461/images/cb3272cef2e6fb58387c7e25d07adaee.png" group-title="Film & serije",CineStar Premiere
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1381
+#EXTINF:-1 tvg-id="1380" tvg-name="CineStar Premiere 2" tvg-logo="http://caffe.link:25461/images/3f709962dc81fefd67d71def236379e9.png" group-title="Film & serije",CineStar Premiere 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1380
+#EXTINF:-1 tvg-id="1377" tvg-name="Cinemax 1" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",Cinemax 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1377
+#EXTINF:-1 tvg-id="1376" tvg-name="Cinemax 2" tvg-logo="http://caffe.link:25461/images/9cce6235ca31e849206127bf0a6c59e7.png" group-title="Film & serije",Cinemax 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1376
+#EXTINF:-1 tvg-id="1375" tvg-name="M1 Film" tvg-logo="http://caffe.link:25461/images/b2479cb301b7e0e67a2fd846750350b5.png" group-title="Film & serije",M1 Film
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1375
+#EXTINF:-1 tvg-id="1374" tvg-name="Kino TV" tvg-logo="http://caffe.link:25461/images/fbcbe07e312381f9ac5367b55865bde0.png" group-title="Film & serije",Kino TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1374
+#EXTINF:-1 tvg-id="3655" tvg-name="Film Klub" tvg-logo="http://caffe.link:25461/images/0689a376d8967ebca6e4ca289e9f7b73.png" group-title="Film & serije",Film Klub
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3655
+#EXTINF:-1 tvg-id="1373" tvg-name="FilmBox Extra" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png" group-title="Film & serije",FilmBox Extra
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1373
+#EXTINF:-1 tvg-id="1371" tvg-name="Klasik TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/122.hr.png" group-title="Film & serije",Klasik TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1371
+#EXTINF:-1 tvg-id="1370" tvg-name="TV 1000" tvg-logo="http://epg.netsolutionpro.com/logo-tv/149.hr.png" group-title="Film & serije",TV 1000
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1370
+#EXTINF:-1 tvg-id="5387" tvg-name="DIVA" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/DIVA_ENGLISH_STACK_CORAL_RGB.png" group-title="Film & serije",DIVA
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5387
+#EXTINF:-1 tvg-id="1244" tvg-name="C mania" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cinemania-logo.png" group-title="Film & serije",C mania
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5214
+#EXTINF:-1 tvg-id="5445" tvg-name="AXN Spin" tvg-logo="http://caffe.link:25461/images/7992919c8fac2b64ec57a6b68f45add4.png" group-title="Film & serije",AXN Spin
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5445
+#EXTINF:-1 tvg-id="4827" tvg-name="AMC" tvg-logo="http://epg.netsolutionpro.com/logo-tv/155.hr.png" group-title="Film & serije",AMC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4827
+#EXTINF:-1 tvg-id="1369" tvg-name="AXN" tvg-logo="http://caffe.link:25461/images/005d646fc58240959ccda3435c209b55.png" group-title="Film & serije",AXN
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1369
+#EXTINF:-1 tvg-id="1368" tvg-name="FOX" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox-logo.png" group-title="Film & serije",FOX
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1368
+#EXTINF:-1 tvg-id="1367" tvg-name="FOX Movies" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox-movies-logo.png" group-title="Film & serije",FOX Movies
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1367
+#EXTINF:-1 tvg-id="1366" tvg-name="FOX Life" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox_life_ru.png" group-title="Film & serije",FOX Life
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1366
+#EXTINF:-1 tvg-id="1365" tvg-name="FOX Crime" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox_crime_logo.png" group-title="Film & serije",FOX Crime
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1365
+#EXTINF:-1 tvg-id="1404" tvg-name="National Geographic" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1404
+#EXTINF:-1 tvg-id="1403" tvg-name="Discovery Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1403
+#EXTINF:-1 tvg-id="1402" tvg-name="History Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/history-logo.png" group-title="Doku & Style",History Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1402
+#EXTINF:-1 tvg-id="1401" tvg-name="History Channel 2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/H2_logo.png" group-title="Doku & Style",History Channel 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1401
+#EXTINF:-1 tvg-id="1400" tvg-name="Viasat Explore" tvg-logo="http://caffe.link:25461/images/78fc90bf0ef1af02fa73abb2b37403fc.png" group-title="Doku & Style",Viasat Explore
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1400
+#EXTINF:-1 tvg-id="1399" tvg-name="Viasat History" tvg-logo="http://caffe.link:25461/images/3ed399a4b1dee605b3b8b9a25b3a3f91.png" group-title="Doku & Style",Viasat History
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1399
+#EXTINF:-1 tvg-id="1396" tvg-name="Viasat Nature" tvg-logo="http://caffe.link:25461/images/9f66dbd204358af98ec59f5c3199a36f.png" group-title="Doku & Style",Viasat Nature
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1396
+#EXTINF:-1 tvg-id="1395" tvg-name="NatGeo Wild" tvg-logo="http://caffe.link:25461/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="Doku & Style",NatGeo Wild
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1395
+#EXTINF:-1 tvg-id="1394" tvg-name="Animal Planet" tvg-logo="http://caffe.link:25461/images/2ae20085ab28d1ecbb3a4ca4e797d483.png" group-title="Doku & Style",Animal Planet
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1394
+#EXTINF:-1 tvg-id="1386" tvg-name="Lov i Ribolov" tvg-logo="http://caffe.link:25461/images/b0702ed6a2111e2ade8dc6fd095a8e5d.png" group-title="Doku & Style",Lov i Ribolov
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1386
+#EXTINF:-1 tvg-id="1398" tvg-name="Travel Channel" tvg-logo="http://caffe.link:25461/images/28ddfc274d22ef447aa649aa103ed5fb.png" group-title="Doku & Style",Travel Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1398
+#EXTINF:-1 tvg-id="3639" tvg-name="BBC Earth (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/188.hr.png" group-title="Doku & Style",BBC Earth (Test)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3639
+#EXTINF:-1 tvg-id="1393" tvg-name="Crime Investigation" tvg-logo="http://caffe.link:25461/images/10116afbb86e4a29cde074b825db49bb.png" group-title="Doku & Style",Crime Investigation
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1393
+#EXTINF:-1 tvg-id="1244" tvg-name="Investigation Discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",Investigation Discovery
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1392
+#EXTINF:-1 tvg-id="1244" tvg-name="ID Backup" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",ID Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1391
+#EXTINF:-1 tvg-id="1397" tvg-name="Pink Pedia" tvg-logo="http://caffe.link:25461/images/60e8cdb9178abcc08f81c8a34b79a85b.png" group-title="Pink",Pink Pedia
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1397
+#EXTINF:-1 tvg-id="1390" tvg-name="E!" tvg-logo="http://epg.netsolutionpro.com/logo-tv/185.hr.png" group-title="Doku & Style",E!
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1390
+#EXTINF:-1 tvg-id="1389" tvg-name="TLC" tvg-logo="http://caffe.link:25461/images/adb1dd921634dd6d09ad9da5820f0f92.png" group-title="Doku & Style",TLC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1389
+#EXTINF:-1 tvg-id="1387" tvg-name="24 Kitchen" tvg-logo="http://caffe.link:25461/images/9f3f201e08e2b18f6a2cd29d79bcb3b4.png" group-title="Doku & Style",24 Kitchen
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1387
+#EXTINF:-1 tvg-id="1428" tvg-name="MTV Adria" tvg-logo="http://caffe.link:25461/images/5b5a0568a4d5902fe6a027d59343dbca.png" group-title="Music",MTV Adria
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1428
+#EXTINF:-1 tvg-id="1422" tvg-name="MTV Base" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-base-logo.png" group-title="Music",MTV Base
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1422
+#EXTINF:-1 tvg-id="1425" tvg-name="MTV Classic" tvg-logo="https://seeklogo.com/images/M/mtv-classic-2013-logo-68E2737F53-seeklogo.com.png" group-title="Music",MTV Classic
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1425
+#EXTINF:-1 tvg-id="1426" tvg-name="MTV Hits" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-hits-logo.png" group-title="Music",MTV Hits
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1426
+#EXTINF:-1 tvg-id="1244" tvg-name="MTV Music" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-music.png" group-title="Music",MTV Music
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1427
+#EXTINF:-1 tvg-id="1424" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1424
+#EXTINF:-1 tvg-id="1244" tvg-name="VH1" tvg-logo="https://tvprofil.com/img/kanali-logo/VH1_IT_logo.png" group-title="Music",VH1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1421
+#EXTINF:-1 tvg-id="1411" tvg-name="Pink n Roll" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkNRoll_logo.png" group-title="Music",Pink n Roll
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1411
+#EXTINF:-1 tvg-id="1419" tvg-name="Jugoton TV" tvg-logo="http://caffe.link:25461/images/bce5485c205385172e5a5643a1f080c4.png" group-title="Music",Jugoton TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1419
+#EXTINF:-1 tvg-id="1420" tvg-name="CMC" tvg-logo="http://caffe.link:25461/images/ad2b08a58bbcf1214cc29d221eafcb5c.png" group-title="Music",CMC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1420
+#EXTINF:-1 tvg-id="1409" tvg-name="Pink Folk 1" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkFolk1_logo.png" group-title="Music",Pink Folk 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1409
+#EXTINF:-1 tvg-id="1408" tvg-name="Pink Folk 2" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkFolk2_logo.png" group-title="Music",Pink Folk 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1408
+#EXTINF:-1 tvg-id="1410" tvg-name="Pink Music" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkMusic_logo.png" group-title="Music",Pink Music
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1410
+#EXTINF:-1 tvg-id="1244" tvg-name="G2 Narodna Tv" tvg-logo="http://caffe.link:25461/images/1a013725390efb5c7022af9b6fa3ecb6.png" group-title="Music",G2 Narodna Tv
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1416
+#EXTINF:-1 tvg-id="1417" tvg-name="G Narodna TV" tvg-logo="https://tvprofil.com/img/kanali-logo/Grand_TV_logo.png" group-title="Music",G Narodna TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1417
+#EXTINF:-1 tvg-id="1414" tvg-name="Hayat Music" tvg-logo="https://tvprofil.com/img/kanali-logo/hayatmusic_logo.png" group-title="Music",Hayat Music
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1414
+#EXTINF:-1 tvg-id="1418" tvg-name="BN Music" tvg-logo="http://caffe.link:25461/images/5477c05e5d784d59eaf515c8122ca047.png" group-title="Music",BN Music
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1418
+#EXTINF:-1 tvg-id="1415" tvg-name="DM Sat" tvg-logo="https://tvprofil.com/img/kanali-logo/dm-sat-logo.png" group-title="Music",DM Sat
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1415
+#EXTINF:-1 tvg-id="1407" tvg-name="Balkanika" tvg-logo="http://caffe.link:25461/images/9aa9756c22c4ea8102fdd5be1f0b8484.png" group-title="Music",Balkanika
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1407
+#EXTINF:-1 tvg-id="1445" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids",RTL Kockica
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1445
+#EXTINF:-1 tvg-id="1444" tvg-name="Nickelodeon" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1444
+#EXTINF:-1 tvg-id="1444" tvg-name="Nick Jr Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/nick_jr_logo.png" group-title="Kids",Nick Jr Hr
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1443
+#EXTINF:-1 tvg-id="1442" tvg-name="Mini Tv" tvg-logo="http://caffe.link:25461/images/f0d790a663b827f1ad00b08c4e6cec41.png" group-title="Kids",Mini Tv
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1442
+#EXTINF:-1 tvg-id="1441" tvg-name="Minimax" tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="Kids",Minimax
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1441
+#EXTINF:-1 tvg-id="1440" tvg-name="Hayatovci" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatovci-logo.png" group-title="Kids",Hayatovci
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1440
+#EXTINF:-1 tvg-id="5212" tvg-name="Pikaboo Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="Kids",Pikaboo Hr
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5212
+#EXTINF:-1 tvg-id="1439" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-kids-logo.png" group-title="Kids",Pink Kids
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1439
+#EXTINF:-1 tvg-id="1438" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids",Pink Super Kids
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1438
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids",Disney Channel UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1436
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Junior UK" tvg-logo="http://caffe.link:25461/images/85e7dd0b4aee92209317b2f1c2cd94c4.png" group-title="Kids",Disney Junior UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1435
+#EXTINF:-1 tvg-id="1433" tvg-name="Cartoon Network UK" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids",Cartoon Network UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1433
+#EXTINF:-1 tvg-id="1432" tvg-name="Kika DE" tvg-logo="https://tvprofil.com/img/kanali-logo/kika-logo.png" group-title="Kids",Kika DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1432
+#EXTINF:-1 tvg-id="1430" tvg-name="Nickelodeon DE" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1430
+#EXTINF:-1 tvg-id="1429" tvg-name="Baby TV" tvg-logo="http://caffe.link:25461/images/8d3375d0af71f11028bbac82710a9e79.png" group-title="Kids",Baby TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1429
+#EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",SK 1  ( HR )
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1529
+#EXTINF:-1 tvg-id="1528" tvg-name="SK 2 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2 ( HR )
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1528
+#EXTINF:-1 tvg-id="1527" tvg-name="SK 3 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",SK 3 ( HR )
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1527
+#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",SK 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1526
+#EXTINF:-1 tvg-id="1525" tvg-name="SK 2" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1525
+#EXTINF:-1 tvg-id="1524" tvg-name="SK 3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",SK 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1524
+#EXTINF:-1 tvg-id="1523" tvg-name="SK 4" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK4_HR_logo.png" group-title="Sport",SK 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1523
+#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport",Arena Sport 1 HR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1520
+#EXTINF:-1 tvg-id="1519" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport",Arena Sport 2 HR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1519
+#EXTINF:-1 tvg-id="1518" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="Sport",Arena Sport 3 HR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1518
+#EXTINF:-1 tvg-id="1517" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="Sport",Arena Sport 4 HR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1517
+#EXTINF:-1 tvg-id="1516" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="Sport",Arena Sport 5 HR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1516
+#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport",Arena Sport 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1515
+#EXTINF:-1 tvg-id="1514" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Sport",Arena Sport 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1514
+#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport",Arena Sport 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1513
+#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Sport",Arena Sport 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1512
+#EXTINF:-1 tvg-id="1511" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="Sport",Arena Sport 5
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1511
+#EXTINF:-1 tvg-id="1508" tvg-name="Eurosport 1" tvg-logo="http://caffe.link:25461/images/7c31d506280b8151acf6e374787db2ee.png" group-title="Sport",Eurosport 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1508
+#EXTINF:-1 tvg-id="1507" tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",Eurosport 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1507
+#EXTINF:-1 tvg-id="5302" tvg-name="EUROSPORT 1 FR" tvg-logo="http://caffe.link:25461/images/a587f5bcc7a85f01cd4e08afa17944f0.png" group-title="Sport",EUROSPORT 1 FR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5302
+#EXTINF:-1 tvg-id="1244" tvg-name="EUROSPORT 2 FR" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",EUROSPORT 2 FR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5301
+#EXTINF:-1 tvg-id="1506" tvg-name="Eurosport 1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="Sport",Eurosport 1 DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1506
+#EXTINF:-1 tvg-id="1505" tvg-name="Eurosport 2 DE" tvg-logo="http://caffe.link:25461/images/30d8bcbb44a3a267b27d9a39464a2402.png" group-title="Sport",Eurosport 2 DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1505
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport Action HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="Sport",Skx Sport Action HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1498
+#EXTINF:-1 tvg-id="1497" tvg-name="Skx Sport Arena HD" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-arena.png" group-title="Sport",Skx Sport Arena HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1497
+#EXTINF:-1 tvg-id="1496" tvg-name="Cricket HD" tvg-logo="http://caffe.link:25461/images/965611e613278f75a569eea7861f6355.png" group-title="Sport",Cricket HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1496
+#EXTINF:-1 tvg-id="1499" tvg-name="Skx Sport F1 UK" tvg-logo="http://caffe.link:25461/images/14a51e49472aab8602a9b81f475d9d1e.png" group-title="Sport",Skx Sport F1 UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1499
+#EXTINF:-1 tvg-id="1495" tvg-name="Skx Sports Fotball HD" tvg-logo="http://caffe.link:25461/images/3be62fbaa4806d3d6c747f3bb4d633d3.png" group-title="Sport",Skx Sports Fotball HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1495
+#EXTINF:-1 tvg-id="1494" tvg-name="Skx sports Golff HD" tvg-logo="https://tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png" group-title="Sport",Skx sports Golff HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1494
+#EXTINF:-1 tvg-id="1493" tvg-name="Skx Sport Main Event HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="Sport",Skx Sport Main Event HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1493
+#EXTINF:-1 tvg-id="1492" tvg-name="Skx Sport Mix HD" tvg-logo="http://caffe.link:25461/images/959bb2868772e7f17fd06e6c5aa0380b.png" group-title="Sport",Skx Sport Mix HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1492
+#EXTINF:-1 tvg-id="1491" tvg-name="BSport 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport",BSport 1 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1491
+#EXTINF:-1 tvg-id="1490" tvg-name="BSport 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 2 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1490
+#EXTINF:-1 tvg-id="1489" tvg-name="BSport 3 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 3 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1489
+#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="Sport",BSports ESPN HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1488
+#EXTINF:-1 tvg-id="1484" tvg-name="BLiga 2 (Matchday only)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/sky_sport_bundesliga_2.png" group-title="Sport",BLiga 2 (Matchday only)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1484
+#EXTINF:-1 tvg-id="1483" tvg-name="BLiga 3 (Matchday only)" tvg-logo="http://caffe.link:25461/images/ed1eb31f9204710cffbc3c66acfd84ea.png" group-title="Sport",BLiga 3 (Matchday only)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1483
+#EXTINF:-1 tvg-id="1482" tvg-name="BLiga 4 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_bundesliga_4.png" group-title="Sport",BLiga 4 (Matchday only)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1482
+#EXTINF:-1 tvg-id="1481" tvg-name="BLiga5 Test (Matchday only)" tvg-logo="http://caffe.link:25461/images/43e21b20d013f8f39054f67e0dc4c256.png" group-title="Sport",BLiga5 Test (Matchday only)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1481
+#EXTINF:-1 tvg-id="1477" tvg-name="IT: RAI NEWS 24" tvg-logo="https://tvprofil.com/img/kanali-logo/rai_news24_logo.png" group-title="Italian",IT: RAI NEWS 24
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1477
+#EXTINF:-1 tvg-id="1476" tvg-name="Skx Sport F1 IT" tvg-logo="http://caffe.link:25461/images/7cae27aceb2fe350825e92d21ec651c7.png" group-title="Sport",Skx Sport F1 IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1476
+#EXTINF:-1 tvg-id="1475" tvg-name="Bein Sports 1" tvg-logo="http://caffe.link:25461/images/35e363b9f790404ee212d15fa5ca9d97.png" group-title="Sport",Bein Sports 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1475
+#EXTINF:-1 tvg-id="1474" tvg-name="Bein Sports 2" tvg-logo="http://caffe.link:25461/images/ec320fef7ab69378d11d85f0f2d0a063.png" group-title="Sport",Bein Sports 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1474
+#EXTINF:-1 tvg-id="1473" tvg-name="Bein Sports 3" tvg-logo="http://caffe.link:25461/images/b20b3bacff756560118f6bf64b0e2525.png" group-title="Sport",Bein Sports 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1473
+#EXTINF:-1 tvg-id="1472" tvg-name="Bein Sports 4" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD4.png" group-title="Sport",Bein Sports 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1472
+#EXTINF:-1 tvg-id="1471" tvg-name="Bein Sports 5" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD5.png" group-title="Sport",Bein Sports 5
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1471
+#EXTINF:-1 tvg-id="1470" tvg-name="Bein Sports 6" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD6.png" group-title="Sport",Bein Sports 6
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1470
+#EXTINF:-1 tvg-id="1469" tvg-name="Bein Sports 7" tvg-logo="http://caffe.link:25461/images/b9cc8ad6389b452ee3f2c9c3e4579785.png" group-title="Sport",Bein Sports 7
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1469
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 8" tvg-logo="http://caffe.link:25461/images/faf9fbf9bf8eaef2af875086440a79ae.png" group-title="Sport",Bein Sports 8
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1468
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 9" tvg-logo="http://caffe.link:25461/images/8662db5677e4a06be94824a45dba2993.png" group-title="Sport",Bein Sports 9
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1467
+#EXTINF:-1 tvg-id="1466" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-eredivisie.png" group-title="Sport",FOX Sports 1 (Nl)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1466
+#EXTINF:-1 tvg-id="1465" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-2-netherlands.png" group-title="Sport",FOX Sports 2 (Nl)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1465
+#EXTINF:-1 tvg-id="1464" tvg-name="FOX Sports 3 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-3-eredivisie.png" group-title="Sport",FOX Sports 3 (Nl)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1464
+#EXTINF:-1 tvg-id="1463" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-4-netherlands.png" group-title="Sport",FOX Sports 4 (Nl)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1463
+#EXTINF:-1 tvg-id="1462" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://caffe.link:25461/images/4c018807b6dd0c4fd44f8c6e5a6209f8.png" group-title="Sport",Digi Sport 1 (Ro)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1462
+#EXTINF:-1 tvg-id="1461" tvg-name="Digi Sport 2 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport2.png" group-title="Sport",Digi Sport 2 (Ro)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1461
+#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="Sport",Skx Sport Austria
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1457
+#EXTINF:-1 tvg-id="1244" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Sport",NBA TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1451
+#EXTINF:-1 tvg-id="1450" tvg-name="Sportska TV" tvg-logo="https://tvprofil.com/img/kanali-logo/sptv-logo.png" group-title="Sport",Sportska TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1450
+#EXTINF:-1 tvg-id="1449" tvg-name="Auto Motor Sport" tvg-logo="https://ewsat.com/img/AUTO_MOTOR_SPORT.png" group-title="Sport",Auto Motor Sport
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1449
+#EXTINF:-1 tvg-id="1448" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Fight_Channel_World_logo.png" group-title="Sport",Fight Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1448
+#EXTINF:-1 tvg-id="1447" tvg-name="Real Madrid TV (Spa)" tvg-logo="https://tvprofil.com/img/kanali-logo/realmadrid-tv-logo.png" group-title="Sport",Real Madrid TV (Spa)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1447
+#EXTINF:-1 tvg-id="1446" tvg-name="Barca TV (Spa)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/barca-tv-plus.png" group-title="Sport",Barca TV (Spa)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1446
+#EXTINF:-1 tvg-id="1574" tvg-name="Super RTL DE" tvg-logo="http://caffe.link:25461/images/1ba15b1880f596f42282eddb28ebc606.png" group-title="Deutsch",Super RTL DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1574
+#EXTINF:-1 tvg-id="1573" tvg-name="RTL Nitro DE" tvg-logo="https://tvprofil.com/img/kanali-logo/nitro_logo.png" group-title="Deutsch",RTL Nitro DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1573
+#EXTINF:-1 tvg-id="1572" tvg-name="RTL Passion De" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl_passion_de_logo_.png" group-title="Deutsch",RTL Passion De
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1572
+#EXTINF:-1 tvg-id="5703" tvg-name="RTL Crime DE" tvg-logo="http://caffe.link:25461/images/6e5115fd853f466837490cec44a12806.png" group-title="Deutsch",RTL Crime DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5703
+#EXTINF:-1 tvg-id="4834" tvg-name="RTL Living HD" tvg-logo="http://caffe.link:25461/images/93ab1907271110d67c5af24ce43e09ad.png" group-title="Deutsch",RTL Living HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4834
+#EXTINF:-1 tvg-id="4833" tvg-name="RTL UP" tvg-logo="http://caffe.link:25461/images/a7423fa574909b312e5be279c7bfea36.png" group-title="Deutsch",RTL UP
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4833
+#EXTINF:-1 tvg-id="1571" tvg-name="ProSieben DE" tvg-logo="http://caffe.link:25461/images/1436a0e71353a59d05ca336514e3a844.png" group-title="Deutsch",ProSieben DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1571
+#EXTINF:-1 tvg-id="1569" tvg-name="Sat.1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Sat.1_logo_2016.png" group-title="Deutsch",Sat.1 DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1569
+#EXTINF:-1 tvg-id="4832" tvg-name="Sat 1 Gold" tvg-logo="http://caffe.link:25461/images/fb5d25962d1470e2120c0f36c4a18dad.png" group-title="Deutsch",Sat 1 Gold
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4832
+#EXTINF:-1 tvg-id="1568" tvg-name="Kabel Eins DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Kabel_1_DE_logo.png" group-title="Deutsch",Kabel Eins DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1568
+#EXTINF:-1 tvg-id="1567" tvg-name="3sat DE" tvg-logo="https://tvprofil.com/img/kanali-logo/3sat-logo.png" group-title="Deutsch",3sat DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1567
+#EXTINF:-1 tvg-id="1566" tvg-name="VOX DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/vox-logoUntitled-1.png" group-title="Deutsch",VOX DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1566
+#EXTINF:-1 tvg-id="1565" tvg-name="Arte DE" tvg-logo="https://tvprofil.com/img/kanali-logo/arte-logo.png" group-title="Deutsch",Arte DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1565
+#EXTINF:-1 tvg-id="1564" tvg-name="Das Erste DE" tvg-logo="http://caffe.link:25461/images/7a76c17d6acf3257eb6e1a16d5c68296.png" group-title="Deutsch",Das Erste DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1564
+#EXTINF:-1 tvg-id="1563" tvg-name="ZDF DE" tvg-logo="https://tvprofil.com/img/kanali-logo/zdf-logo.png" group-title="Deutsch",ZDF DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1563
+#EXTINF:-1 tvg-id="1562" tvg-name="ORF 1" tvg-logo="http://caffe.link:25461/images/5cce922347c178511057817fd5a312ec.png" group-title="Austrija",ORF 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1562
+#EXTINF:-1 tvg-id="1560" tvg-name="Sixx DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/sixx-logoUntitled-1.png" group-title="Deutsch",Sixx DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1560
+#EXTINF:-1 tvg-id="1559" tvg-name="Phoenix DE" tvg-logo="https://tvprofil.com/img/kanali-logo/phoenix-logo.png" group-title="Deutsch",Phoenix DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1559
+#EXTINF:-1 tvg-id="1558" tvg-name="FOX DE" tvg-logo="http://caffe.link:25461/images/cfb182c1e32556ba0779bdebf5c71180.png" group-title="Deutsch",FOX DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1558
+#EXTINF:-1 tvg-id="1557" tvg-name="AXN DE" tvg-logo="http://caffe.link:25461/images/d8505f811e4490a896fbab3b59ced950.png" group-title="Deutsch",AXN DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1557
+#EXTINF:-1 tvg-id="1555" tvg-name="Cine 24 DE" tvg-logo="http://caffe.link:25461/images/f76a89f0cb91bc419542ce9fa43902dc.png" group-title="Deutsch",Cine 24 DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1555
+#EXTINF:-1 tvg-id="1551" tvg-name="Skx Crime DE" tvg-logo="http://caffe.link:25461/images/c73dfe6c630edb4c1692db67c510f65c.png" group-title="Deutsch",Skx Crime DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1551
+#EXTINF:-1 tvg-id="1244" tvg-name="Emotion DE" tvg-logo="http://caffe.link:25461/images/20673a3a263b59bd06b3418870dc18dc.png" group-title="Deutsch",Emotion DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1550
+#EXTINF:-1 tvg-id="1548" tvg-name="Universal DE" tvg-logo="http://caffe.link:25461/images/fc727169786668ac66e79c5f75417425.png" group-title="Deutsch",Universal DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1548
+#EXTINF:-1 tvg-id="1544" tvg-name="Syfy DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Syfy_2017.png" group-title="Deutsch",Syfy DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1544
+#EXTINF:-1 tvg-id="1543" tvg-name="National Geographic DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Deutsch",National Geographic DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1543
+#EXTINF:-1 tvg-id="1542" tvg-name="Nat Geo Wild DE" tvg-logo="http://caffe.link:25461/images/35fce47abf82943cb2bcd14f9c1f570a.png" group-title="Deutsch",Nat Geo Wild DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1542
+#EXTINF:-1 tvg-id="1541" tvg-name="Discovery Channel DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Deutsch",Discovery Channel DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1541
+#EXTINF:-1 tvg-id="1540" tvg-name="History Channel DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Deutsch",History Channel DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1540
+#EXTINF:-1 tvg-id="1539" tvg-name="DMAX DE" tvg-logo="http://caffe.link:25461/images/d68db1649a24b89be9c3ed9bb28ba22b.png" group-title="Deutsch",DMAX DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1539
+#EXTINF:-1 tvg-id="1538" tvg-name="Kinowelt TV DE" tvg-logo="http://caffe.link:25461/images/6a5b74fac0da31fc20cd854cf9ac327d.jpg" group-title="Deutsch",Kinowelt TV DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1538
+#EXTINF:-1 tvg-id="1601" tvg-name="BBC One UK" tvg-logo="http://caffe.link:25461/images/d5b874a9ab139048d98b3f782af424d1.png" group-title="UK & USA",BBC One UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1601
+#EXTINF:-1 tvg-id="1596" tvg-name="CNN" tvg-logo="http://caffe.link:25461/images/06b88a3158b7595f634d324755e976fc.png" group-title="UK & USA",CNN
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1596
+#EXTINF:-1 tvg-id="1595" tvg-name="News UK" tvg-logo="http://caffe.link:25461/images/af5ab4f4a0c1529172d77967105b288e.png" group-title="UK & USA",News UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1595
+#EXTINF:-1 tvg-id="1594" tvg-name="National Geographic Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="UK & USA",National Geographic Channel UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1594
+#EXTINF:-1 tvg-id="1593" tvg-name="Nat Geo Wild UK" tvg-logo="http://caffe.link:25461/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="UK & USA",Nat Geo Wild UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1593
+#EXTINF:-1 tvg-id="1592" tvg-name="Discovery Channel UK" tvg-logo="http://caffe.link:25461/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="UK & USA",Discovery Channel UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1592
+#EXTINF:-1 tvg-id="1244" tvg-name="Investigation Discovery UK" tvg-logo="https://tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="UK & USA",Investigation Discovery UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1589
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Cinema Comedy UK" tvg-logo="http://caffe.link:25461/images/4f16c818875d9fcb6867c7bdc89be7eb.png" group-title="UK & USA",Skx Cinema Comedy UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1585
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/220px-Disney_Channel_logo_%282014%29.svg.png" group-title="UK & USA",Disney UK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1579
+#EXTINF:-1 tvg-id="1244" tvg-name="Rai 1 IT" tvg-logo="https://tvprofil.com/img/kanali-logo/rai1-logo.png" group-title="Italian",Rai 1 IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1628
+#EXTINF:-1 tvg-id="1244" tvg-name="Rai 2 IT" tvg-logo="http://caffe.link:25461/images/c5f5f20a31452d3ae91ecb1c27a3cf19.png" group-title="Italian",Rai 2 IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1627
+#EXTINF:-1 tvg-id="1626" tvg-name="Rai 3 IT" tvg-logo="http://caffe.link:25461/images/21ad76774bd9c47d2925f9e510bac2da.png" group-title="Italian",Rai 3 IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1626
+#EXTINF:-1 tvg-id="1625" tvg-name="Italia 1" tvg-logo="https://tvprofil.com/img/kanali-logo/italia1-logo.png" group-title="Italian",Italia 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1625
+#EXTINF:-1 tvg-id="1624" tvg-name="Canale 5 IT" tvg-logo="https://tvprofil.com/img/kanali-logo/canale5-logo.png" group-title="Italian",Canale 5 IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1624
+#EXTINF:-1 tvg-id="1620" tvg-name="Skx Cinema comedy" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_comedy_logo.png" group-title="Italian",Skx Cinema comedy
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1620
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Cinema Famili" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_family_logo.png" group-title="Italian",Skx Cinema Famili
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1621
+#EXTINF:-1 tvg-id="1616" tvg-name="Skx Cinema Action" tvg-logo="http://caffe.link:25461/images/ca9174b92ee81349c21e9a376840f172.png" group-title="Italian",Skx Cinema Action
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1616
+#EXTINF:-1 tvg-id="1244" tvg-name="Premium Crime IT" tvg-logo="http://caffe.link:25461/images/e9c3d91e71bd192df1e3d6f76f093769.png" group-title="Italian",Premium Crime IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1615
+#EXTINF:-1 tvg-id="1244" tvg-name="Nat Geo Wild IT" tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="Italian",Nat Geo Wild IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1608
+#EXTINF:-1 tvg-id="1609" tvg-name="Discovery Channel IT" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Italian",Discovery Channel IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1609
+#EXTINF:-1 tvg-id="1610" tvg-name="Rai Gulp HD " tvg-logo="https://tvprofil.com/img/kanali-logo/rai_gulp.png" group-title="Italian",Rai Gulp HD 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1610
+#EXTINF:-1 tvg-id="1607" tvg-name="DMAX IT" tvg-logo="https://tvprofil.com/img/kanali-logo/dmax-logo.png" group-title="Italian",DMAX IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1607
+#EXTINF:-1 tvg-id="1244" tvg-name="RSI La1 IT" tvg-logo="http://caffe.link:25461/images/9996ab38e8904dee36f78019994ef4e7.png" group-title="Italian",RSI La1 IT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1612
+#EXTINF:-1 tvg-id="1605" tvg-name="RAI YoYo" tvg-logo="https://tvprofil.com/img/kanali-logo/rai_yoyo.png" group-title="Italian",RAI YoYo
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1605
+#EXTINF:-1 tvg-id="4846" tvg-name="ATV AT" tvg-logo="https://tvprofil.com/img/kanali-logo/atv-logo.png" group-title="Austrija",ATV AT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4846
+#EXTINF:-1 tvg-id="1691" tvg-name="Top Channel" tvg-logo="http://caffe.link:25461/images/d9f2804e8dfccad8a27af2b3cd7f4ab2.png" group-title="Albanian",Top Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1691
+#EXTINF:-1 tvg-id="1244" tvg-name="Top News" tvg-logo="http://caffe.link:25461/images/37ad997eac79d93b15666f4e982ff1ff.jpg" group-title="Albanian",Top News
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1690
+#EXTINF:-1 tvg-id="1689" tvg-name="ABC News" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="Albanian",ABC News
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1689
+#EXTINF:-1 tvg-id="1688" tvg-name="Klan" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_Klan_AL_logo.png" group-title="Albanian",Klan
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1688
+#EXTINF:-1 tvg-id="1244" tvg-name="Klan Kosova" tvg-logo="https://tvprofil.com/img/kanali-logo/klan-kosova_logo.png" group-title="Albanian",Klan Kosova
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1687
+#EXTINF:-1 tvg-id="1244" tvg-name="RTSH" tvg-logo="https://tvprofil.com/img/kanali-logo/RTSH_1_AL_logo.png" group-title="Albanian",RTSH
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1686
+#EXTINF:-1 tvg-id="1244" tvg-name="Explorer Shkence" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" group-title="Albanian",Explorer Shkence
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1685
+#EXTINF:-1 tvg-id="1684" tvg-name="Explorer Histori" tvg-logo="http://caffe.link:25461/images/a8142c30ea6e4352c00eefa3b17b86a6.png" group-title="Albanian",Explorer Histori
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1684
+#EXTINF:-1 tvg-id="1244" tvg-name="Explorer Natyra" tvg-logo="http://caffe.link:25461/images/2428923fc22b62ad54ef6513cbf59986.png" group-title="Albanian",Explorer Natyra
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1683
+#EXTINF:-1 tvg-id="1678" tvg-name="Film Aksion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Showcase_Action.png/220px-Showcase_Action.png" group-title="Albanian",Film Aksion
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1678
+#EXTINF:-1 tvg-id="1244" tvg-name="Film Autor" tvg-logo="https://tvprofil.com/img/kanali-logo/Film_Autor_AL_logo.png" group-title="Albanian",Film Autor
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1682
+#EXTINF:-1 tvg-id="1244" tvg-name="Film Drame" tvg-logo="https://tvprofil.com/img/kanali-logo/Film_Drame_AL_logo.png" group-title="Albanian",Film Drame
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1679
+#EXTINF:-1 tvg-id="1681" tvg-name="Film Hits" tvg-logo="https://tvprofil.com/img/kanali-logo/Film_Hits_AL_logo.png" group-title="Albanian",Film Hits
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1681
+#EXTINF:-1 tvg-id="1677" tvg-name="Film Komedi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Comedylogo.png/200px-Comedylogo.png" group-title="Albanian",Film Komedi
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1677
+#EXTINF:-1 tvg-id="1676" tvg-name="Film Nje" tvg-logo="https://tvprofil.com/img/kanali-logo/Gold_HD_AL_logo.png" group-title="Albanian",Film Nje
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1676
+#EXTINF:-1 tvg-id="1680" tvg-name="Film Thriller" tvg-logo="http://caffe.link:25461/images/b852add522da3d35205497dd0d75a67f.png" group-title="Albanian",Film Thriller
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1680
+#EXTINF:-1 tvg-id="1673" tvg-name="SuperSport 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-digitalb.gif" group-title="Sport",SuperSport 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1673
+#EXTINF:-1 tvg-id="1672" tvg-name="SuperSport 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif" group-title="Sport",SuperSport 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1672
+#EXTINF:-1 tvg-id="1671" tvg-name="SuperSport 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-3-digitalb.gif" group-title="Sport",SuperSport 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1671
+#EXTINF:-1 tvg-id="1670" tvg-name="SuperSport 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-4-digitalb.gif" group-title="Sport",SuperSport 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1670
+#EXTINF:-1 tvg-id="1669" tvg-name="Bang Bang" tvg-logo="https://tvprofil.com/img/kanali-logo/Bang_Bang_AL_logo.png" group-title="Albanian",Bang Bang
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1669
+#EXTINF:-1 tvg-id="1244" tvg-name="Junior" tvg-logo="http://caffe.link:25461/images/f904032207c8c941e9bbbe0a06b95b0e.png" group-title="Albanian",Junior
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1667
+#EXTINF:-1 tvg-id="1244" tvg-name="Vizion Plus" tvg-logo="http://caffe.link:25461/images/e000d38989d47f10cc287cead287fd94.png" group-title="Albanian",Vizion Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1666
+#EXTINF:-1 tvg-id="1665" tvg-name="KTV" tvg-logo="https://tvprofil.com/img/kanali-logo/kohavision-logo.png" group-title="Albanian",KTV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1665
+#EXTINF:-1 tvg-id="1661" tvg-name="RTK" tvg-logo="http://caffe.link:25461/images/f4610db73fe55777accd18956947cd70.png" group-title="Albanian",RTK
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1661
+#EXTINF:-1 tvg-id="1664" tvg-name="RTV 21" tvg-logo="https://tvprofil.com/img/kanali-logo/RTV21_KS_logo.png" group-title="Albanian",RTV 21
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1664
+#EXTINF:-1 tvg-id="1663" tvg-name="RTV 21 Plus" tvg-logo="https://www.donasport.com/slike/rtv-21-plus.jpg" group-title="Albanian",RTV 21 Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1663
+#EXTINF:-1 tvg-id="1662" tvg-name="RTV 21 Popullore" tvg-logo="https://www.donasport.com/slike/rtv-21-popullore.jpg" group-title="Albanian",RTV 21 Popullore
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1662
+#EXTINF:-1 tvg-id="1244" tvg-name="3 Plus" tvg-logo="https://tvprofil.com/img/kanali-logo/Tring3TV.png" group-title="Albanian",3 Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1659
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Comedy" tvg-logo="http://caffe.link:25461/images/6ce969dc9346009fa13bdbe6a851baa2.png" group-title="Albanian",Tring Comedy
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1655
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Fantasy" tvg-logo="http://caffe.link:25461/images/71a15a3e9dbb4176e167e4c4a9563f6e.png" group-title="Albanian",Tring Fantasy
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1654
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring History" tvg-logo="http://caffe.link:25461/images/4aceec31e0d05c573bcf269364c9b3af.png" group-title="Albanian",Tring History
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1653
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Life" tvg-logo="https://tvprofil.com/img/kanali-logo/TringLife.png" group-title="Albanian",Tring Life
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1656
+#EXTINF:-1 tvg-id="1652" tvg-name="Tring Planet" tvg-logo="https://tvprofil.com/img/kanali-logo/TringPlanet.png" group-title="Albanian",Tring Planet
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1652
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Shqip" tvg-logo="https://tvprofil.com/img/kanali-logo/TringShqip.png" group-title="Albanian",Tring Shqip
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1660
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Super" tvg-logo="http://caffe.link:25461/images/016c7b4de0c22f8fbf8700e636185302.png" group-title="Albanian",Tring Super
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1658
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Tring" tvg-logo="http://caffe.link:25461/images/7ea718ffc956a2df3b7851051974af55.png" group-title="Albanian",Tring Tring
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1645
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring World" tvg-logo="http://caffe.link:25461/images/ae34b10c48d503e8bfb873b5a7fa5c28.png" group-title="Albanian",Tring World
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1651
+#EXTINF:-1 tvg-id="1244" tvg-name="Elrodi TV" tvg-logo="http://caffe.link:25461/images/c1ae95903b2f15588c5b8d309da684e2.png" group-title="Albanian",Elrodi TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1650
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/TringSport1-HD_logo.png" group-title="Albanian",Tring Sport 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1648
+#EXTINF:-1 tvg-id="1244" tvg-name="Tring Sport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/sport2-hd-logo.png" group-title="Albanian",Tring Sport 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1647
+#EXTINF:-1 tvg-id="1646" tvg-name="Tring Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/sport3-hd-logo.png" group-title="Albanian",Tring Sport 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1646
+#EXTINF:-1 tvg-id="1244" tvg-name="Tip TV" tvg-logo="http://caffe.link:25461/images/559f771a60f14c8fa6c66136a6b9c83d.png" group-title="Albanian",Tip TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1644
+#EXTINF:-1 tvg-id="1712" tvg-name="SVT 1" tvg-logo="http://ewsat.com/img/SVT_1.png" group-title="Scandinavia",SVT 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1712
+#EXTINF:-1 tvg-id="1711" tvg-name="SVT 2" tvg-logo="http://ewsat.com/img/SVT_2.png" group-title="Scandinavia",SVT 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1711
+#EXTINF:-1 tvg-id="1710" tvg-name="TV 3 SE" tvg-logo="https://seeklogo.com/images/T/TV3-logo-CF4B054E3C-seeklogo.com.png" group-title="Scandinavia",TV 3 SE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1710
+#EXTINF:-1 tvg-id="1244" tvg-name="TV 4" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1442642731/b0qf1gknqj98vqyr8w7g.png" group-title="Scandinavia",TV 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1709
+#EXTINF:-1 tvg-id="1707" tvg-name="TV 4 Fakta" tvg-logo="https://static.tv24.co/v2/channels/small/69434.png" group-title="Scandinavia",TV 4 Fakta
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1707
+#EXTINF:-1 tvg-id="1708" tvg-name="TV 4 Film" tvg-logo="http://caffe.link:25461/images/6cf17241c7cca89dc081878500e9df31.png" group-title="Scandinavia",TV 4 Film
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1708
+#EXTINF:-1 tvg-id="1706" tvg-name="Kanal 5 SE" tvg-logo="http://caffe.link:25461/images/4e960abf5929459a532b5155cb6f30fe.png" group-title="Scandinavia",Kanal 5 SE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1706
+#EXTINF:-1 tvg-id="1705" tvg-name="TV 6" tvg-logo="http://ewsat.com/img/TV_6.png" group-title="Scandinavia",TV 6
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1705
+#EXTINF:-1 tvg-id="1704" tvg-name="TV 10" tvg-logo="https://static.tv24.co/v2/channels/small/76813.png" group-title="Scandinavia",TV 10
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1704
+#EXTINF:-1 tvg-id="1703" tvg-name="Viasat Film Action" tvg-logo="http://ewsat.com/img/VIASAT_FILM_ACTION.png" group-title="Scandinavia",Viasat Film Action
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1703
+#EXTINF:-1 tvg-id="1244" tvg-name="Viasat Fotboll" tvg-logo="http://ewsat.com/img/VIASAT_FOTBOLL.png" group-title="Scandinavia",Viasat Fotboll
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1697
+#EXTINF:-1 tvg-id="1701" tvg-name="Viasat Film Hits" tvg-logo="http://ewsat.com/img/VIASAT_FILM_HITS.png" group-title="Scandinavia",Viasat Film Hits
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1701
+#EXTINF:-1 tvg-id="1244" tvg-name="Viasat Film Premiere" tvg-logo="http://caffe.link:25461/images/820480eaf49e1d9fdfd4b248832584a8.png" group-title="Scandinavia",Viasat Film Premiere
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1702
+#EXTINF:-1 tvg-id="1699" tvg-name="Viasat Series" tvg-logo="http://caffe.link:25461/images/70caa6e83193853819e9723cad5672bb.png" group-title="Scandinavia",Viasat Series
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1699
+#EXTINF:-1 tvg-id="1698" tvg-name="Viasat Sport" tvg-logo="http://caffe.link:25461/images/59b78ea821d5e8124a6fe41f4d6b4281.png" group-title="Scandinavia",Viasat Sport
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1698
+#EXTINF:-1 tvg-id="1696" tvg-name="C More First" tvg-logo="http://ewsat.com/img/C_MORE_FIRST.png" group-title="Scandinavia",C More First
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1696
+#EXTINF:-1 tvg-id="1692" tvg-name="C More Fotboll" tvg-logo="http://caffe.link:25461/images/050ec7677a49085f5aa3100b335baceb.png" group-title="Scandinavia",C More Fotboll
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1692
+#EXTINF:-1 tvg-id="1694" tvg-name="C More Hits" tvg-logo="http://ewsat.com/img/C_MORE_HITS.png" group-title="Scandinavia",C More Hits
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1694
+#EXTINF:-1 tvg-id="1693" tvg-name="C More Series" tvg-logo="https://omtv.se/content/image/channels/original/series-cmore-se.png" group-title="Scandinavia",C More Series
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1693
+#EXTINF:-1 tvg-id="4571" tvg-name="C More Live" tvg-logo="http://ewsat.com/img/C_MORE_LIVE_1.png" group-title="Scandinavia",C More Live
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4571
+#EXTINF:-1 tvg-id="1244" tvg-name="C More Live 2" tvg-logo="http://ewsat.com/img/C_MORE_LIVE_2.png" group-title="Scandinavia",C More Live 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4572
+#EXTINF:-1 tvg-id="1244" tvg-name="C More Live 3" tvg-logo="http://ewsat.com/img/C_MORE_LIVE_3.png" group-title="Scandinavia",C More Live 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4573
+#EXTINF:-1 tvg-id="1244" tvg-name="C More Live 4" tvg-logo="http://ewsat.com/img/C_MORE_LIVE_4.png" group-title="Scandinavia",C More Live 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4574
+#EXTINF:-1 tvg-id="1244" tvg-name="C  More Sport" tvg-logo="https://www.teleservice.net/wp-content/uploads/2018/09/c-more-sport.jpg" group-title="Scandinavia",C  More Sport
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4815
+#EXTINF:-1 tvg-id="1244" tvg-name="AB1" tvg-logo="https://www.ab1.tv/upload/media/logo-ab1v2-rvb-6123b95a18f8a.png" group-title="France",AB1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3667
+#EXTINF:-1 tvg-id="1244" tvg-name="AB3" tvg-logo="https://tvprofil.com/img/kanali-logo/AB3-logo.png" group-title="France",AB3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3668
+#EXTINF:-1 tvg-id="3669" tvg-name="TF1" tvg-logo="https://tvprofil.com/img/kanali-logo/TF1_logo.png" group-title="France",TF1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3669
+#EXTINF:-1 tvg-id="3670" tvg-name="TMC" tvg-logo="http://caffe.link:25461/images/2cbaf8e25248d7f2972a661c2d083594.png" group-title="France",TMC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3670
+#EXTINF:-1 tvg-id="1244" tvg-name="M6 Music" tvg-logo="http://caffe.link:25461/images/00012f12947b3b2eb617db73fe4f9645.jpg" group-title="France",M6 Music
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3672
+#EXTINF:-1 tvg-id="3661" tvg-name="France 2" tvg-logo="http://ewsat.com/img/FRANCE_2.png" group-title="France",France 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3661
+#EXTINF:-1 tvg-id="3666" tvg-name="France 24" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/France_24_logo-700x700.png" group-title="France",France 24
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3666
+#EXTINF:-1 tvg-id="3662" tvg-name="France 3" tvg-logo="https://tvprofil.com/img/kanali-logo/France_3_logo.png" group-title="France",France 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3662
+#EXTINF:-1 tvg-id="3663" tvg-name="France 4" tvg-logo="https://tvprofil.com/img/kanali-logo/France_4_logo.png" group-title="France",France 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3663
+#EXTINF:-1 tvg-id="3664" tvg-name="France 5" tvg-logo="https://tvprofil.com/img/kanali-logo/France_5_logo.png" group-title="France",France 5
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3664
+#EXTINF:-1 tvg-id="1244" tvg-name="France Ô" tvg-logo="http://caffe.link:25461/images/6a2252b812da61da1df35d5546fefbe3.png" group-title="France",France Ô
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3665
+#EXTINF:-1 tvg-id="3677" tvg-name="Canal+" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal-plus_logo.png" group-title="France",Canal+
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3677
+#EXTINF:-1 tvg-id="3673" tvg-name="Canal+ Cinema" tvg-logo="http://caffe.link:25461/images/2b7e480185cc845a0fd1d0a30a6c3aab.png" group-title="France",Canal+ Cinema
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3673
+#EXTINF:-1 tvg-id="3676" tvg-name="Canal+ Decale" tvg-logo="http://caffe.link:25461/images/b30841e7ab4e9952ec50a903446817df.png" group-title="France",Canal+ Decale
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3676
+#EXTINF:-1 tvg-id="3674" tvg-name="Canal+ Family" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Family_PL_PL_logo.png" group-title="France",Canal+ Family
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3674
+#EXTINF:-1 tvg-id="3675" tvg-name="Canal+ Series" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Series_logo.png" group-title="France",Canal+ Series
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3675
+#EXTINF:-1 tvg-id="1244" tvg-name="Canal+ Sport" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Sport_logo.png" group-title="France",Canal+ Sport
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3688
+#EXTINF:-1 tvg-id="3684" tvg-name="Cine+ Classic" tvg-logo="https://tvprofil.com/img/kanali-logo/Cine_Classic_FR_logo.png" group-title="France",Cine+ Classic
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3682
+#EXTINF:-1 tvg-id="1244" tvg-name="Cine+ Club" tvg-logo="https://tvprofil.com/img/kanali-logo/Cine_Club_FR_logo.png" group-title="France",Cine+ Club
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3681
+#EXTINF:-1 tvg-id="3687" tvg-name="Cine+ Family" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Family_PL_PL_logo.png" group-title="France",Cine+ Family
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3687
+#EXTINF:-1 tvg-id="3678" tvg-name="Cine+ Premier" tvg-logo="https://tvprofil.com/img/kanali-logo/Canalplus_Cine_plus_premier_logo.png" group-title="France",Cine+ Premier
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3678
+#EXTINF:-1 tvg-id="3697" tvg-name="Nati Geo Wild FR" tvg-logo="http://caffe.link:25461/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="France",Nati Geo Wild FR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3697
+#EXTINF:-1 tvg-id="3704" tvg-name="Discovery FR" tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="France",Discovery FR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3699
+#EXTINF:-1 tvg-id="3701" tvg-name="OCS MAX" tvg-logo="http://caffe.link:25461/images/876a62922317362fc1e7c4fb676cf8ca.png" group-title="France",OCS MAX
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3701
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Junior FR" tvg-logo="http://caffe.link:25461/images/85e7dd0b4aee92209317b2f1c2cd94c4.png" group-title="France",Disney Junior FR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3705
+#EXTINF:-1 tvg-id="6171" tvg-name="Zadruga Live 2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-2-384x216-1.png" group-title="Srbija",Zadruga Live 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6171
+#EXTINF:-1 tvg-id="6172" tvg-name="Zadruga Live 3" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-3-384x216-1.png" group-title="Srbija",Zadruga Live 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6172
+#EXTINF:-1 tvg-id="6173" tvg-name="Zadruga Live 4" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-4-384x216-1.png" group-title="Srbija",Zadruga Live 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6173
+#EXTINF:-1 tvg-id="6174" tvg-name="Zadruga Live 1" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-1-384x216-1.png" group-title="Srbija",Zadruga Live 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6174
+#EXTINF:-1 tvg-id="5830" tvg-name="SE: TV4" tvg-logo="" group-title="",SE: TV4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5830
+#EXTINF:-1 tvg-id="6078" tvg-name="RTS DRAMA" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_Drama_logo.png" group-title="Srbija",RTS DRAMA
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6078
+#EXTINF:-1 tvg-id="6080" tvg-name="Zvezda TV" tvg-logo="http://caffe.link:25461/images/b600900468fb1b5da023303a728dfbba.png" group-title="Sport",Zvezda TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6080
+#EXTINF:-1 tvg-id="6183" tvg-name="RTS KOLO" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="Srbija",RTS KOLO
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6183
+#EXTINF:-1 tvg-id="6410" tvg-name="SuperStar TV" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SuperstarTV_logo.png" group-title="Srbija",SuperStar TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6410
+#EXTINF:-1 tvg-id="6411" tvg-name="RTV Podrinje" tvg-logo="https://rtvpodrinje.rs/wp-content/uploads/2021/04/logo-2021b.png" group-title="BiH",RTV Podrinje
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6411
+#EXTINF:-1 tvg-id="1244" tvg-name="Viasat Motor" tvg-logo="https://i.goalzz.com/?i=logo_sports%2Fviasatmotor.jpg" group-title="Sport",Viasat Motor
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6413
+#EXTINF:-1 tvg-id="6636" tvg-name="Skx sports PLeague" tvg-logo="http://caffe.link:25461/images/556e258513a22a8c2bc1f4474fb267f3.png" group-title="UK & USA",Skx sports PLeague
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6636
+#EXTINF:-1 tvg-id="6637" tvg-name="One" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/10/Sky-One-OCT-2017.png" group-title="UK & USA",One
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6637
+#EXTINF:-1 tvg-id="6639" tvg-name="Channel 5" tvg-logo="https://tvprofil.com/img/kanali-logo/Channel_5_logo.png" group-title="UK & USA",Channel 5
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6639
+#EXTINF:-1 tvg-id="6870" tvg-name="Poljoprivredna TV (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/124.hr.png" group-title="Hrvatska",Poljoprivredna TV (Test)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6870
+#EXTINF:-1 tvg-id="6872" tvg-name="Libertas TV" tvg-logo="https://tvprofil.com/img/kanali-logo/LibertasTV.png" group-title="Hrvatska",Libertas TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6872
+#EXTINF:-1 tvg-id="6873" tvg-name="Jabuka TV (Test)" tvg-logo="https://www.jabuka.tv/wp-content/uploads/2015/01/logo_jabuka_web1.png" group-title="Hrvatska",Jabuka TV (Test)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6873
+#EXTINF:-1 tvg-id="6881" tvg-name="NL: VERONICA / DISNEY XD (Test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Veronicatvlogo.png/220px-Veronicatvlogo.png" group-title="NIzozemska",NL: VERONICA / DISNEY XD (Test)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6881
+#EXTINF:-1 tvg-id="1244" tvg-name="NL: RTL 8 HD" tvg-logo="http://caffe.link:25461/images/622d59465db911c9dcbb9c33f0624f44.png" group-title="NIzozemska",NL: RTL 8 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6883
+#EXTINF:-1 tvg-id="6884" tvg-name="NL: RTL 7" tvg-logo="http://caffe.link:25461/images/8ca8b01d138872202acc206f516e9a56.png" group-title="NIzozemska",NL: RTL 7
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6884
+#EXTINF:-1 tvg-id="6885" tvg-name="NL: RTL 5 " tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl5-nl.png" group-title="NIzozemska",NL: RTL 5 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6885
+#EXTINF:-1 tvg-id="6886" tvg-name="NL: RTL 4" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl4_nl.png" group-title="NIzozemska",NL: RTL 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6886
+#EXTINF:-1 tvg-id="6890" tvg-name="NL: Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="NIzozemska",NL: Boomerang 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6890
+#EXTINF:-1 tvg-id="1244" tvg-name="NL: NPO 1 " tvg-logo="http://caffe.link:25461/images/2590e4aa47293dd3601b72fbf4d3f94a.png" group-title="NIzozemska",NL: NPO 1 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6891
+#EXTINF:-1 tvg-id="1244" tvg-name="NL: NPO 2" tvg-logo="http://ewsat.com/img/NPO.png" group-title="NIzozemska",NL: NPO 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6892
+#EXTINF:-1 tvg-id="1244" tvg-name="NL: NPO 3" tvg-logo="http://caffe.link:25461/images/2590e4aa47293dd3601b72fbf4d3f94a.png" group-title="NIzozemska",NL: NPO 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6893
+#EXTINF:-1 tvg-id="6894" tvg-name="NL: Comedy Central " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/266px-Comedy_Central_2018.svg.png" group-title="NIzozemska",NL: Comedy Central 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6894
+#EXTINF:-1 tvg-id="6895" tvg-name="NL: FILM 1 ACTION " tvg-logo="http://caffe.link:25461/images/0c3e824da9bf2bd4ac81d57b4332b49e.png" group-title="NIzozemska",NL: FILM 1 ACTION 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6895
+#EXTINF:-1 tvg-id="6907" tvg-name="ATV 2" tvg-logo="http://caffe.link:25461/images/02aa51ad1947039accd25ebc9bb6478f.png" group-title="Austrija",ATV 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6907
+#EXTINF:-1 tvg-id="6909" tvg-name="Pro 7" tvg-logo="http://caffe.link:25461/images/1436a0e71353a59d05ca336514e3a844.png" group-title="Austrija",Pro 7
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6909
+#EXTINF:-1 tvg-id="6910" tvg-name="Sixx at" tvg-logo="https://tvprofil.com/img/kanali-logo/sixx-logo.png" group-title="Albanian",Sixx at
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6910
+#EXTINF:-1 tvg-id="6923" tvg-name="Disney Junior DE" tvg-logo="https://tvprofil.com/img/kanali-logo/disney-junior-logo.png" group-title="Kids",Disney Junior DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6923
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney XD DE" tvg-logo="http://caffe.link:25461/images/d923160ebd02a231ba43b7fad08a6a01.png" group-title="Kids",Disney XD DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6924
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Cinemagic DE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f62318602691.560c0356efb24.jpg" group-title="Kids",Disney Cinemagic DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6925
+#EXTINF:-1 tvg-id="1244" tvg-name="Tnt Kids" tvg-logo="http://caffe.link:25461/images/16f84651e3cb4938b65f42e3adaee381.png" group-title="Kids",Tnt Kids
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6927
+#EXTINF:-1 tvg-id="1244" tvg-name="PRVA CG" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prvacg.jpg" group-title="Crna Gora",PRVA CG
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7334
+#EXTINF:-1 tvg-id="7336" tvg-name="Pink M" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Pink_M_logo.png" group-title="Crna Gora",Pink M
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7336
+#EXTINF:-1 tvg-id="1244" tvg-name="RSI La2" tvg-logo="https://tvprofil.com/img/kanali-logo/rsi_la_2_logo.png" group-title="Italian",RSI La2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5303
+#EXTINF:-1 tvg-id="3690" tvg-name="Arte" tvg-logo="http://caffe.link:25461/images/dc7391a593c72a381082b07af063a620.png" group-title="France",Arte
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3690
+#EXTINF:-1 tvg-id="15027" tvg-name="Moja TV Premier liga" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Moja_TV_logo.png" group-title="BiH",Moja TV Premier liga
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15027
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 4 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15792
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 10 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15798
+#EXTINF:-1 tvg-id="1258" tvg-name="HRT 4" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/HRT4-logo.png" group-title="Hrvatska",HRT 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1258
+#EXTINF:-1 tvg-id="1259" tvg-name="HRT 3" tvg-logo="https://aviion-frontcdn.aviion.tv/e62ea560badf4409bdba35cceb40e3b8.png" group-title="Hrvatska",HRT 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1259
+#EXTINF:-1 tvg-id="1260" tvg-name="HRT 2" tvg-logo="https://aviion-frontcdn.aviion.tv/e76a1ffc86e54cb6adc0d9b19c490712.png" group-title="Hrvatska",HRT 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1260
+#EXTINF:-1 tvg-id="1261" tvg-name="HRT 1" tvg-logo="https://aviion-frontcdn.aviion.tv/18988b7176f2420d9584da7f2b1e2da4.png" group-title="Hrvatska",HRT 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1261
+#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="http://caffe.link:25461/images/636fa30942ce6c7b74d682339866ea27.png" group-title="Sport",Skx Sport 1 DE FHD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1487
+#EXTINF:-1 tvg-id="1545" tvg-name="TNT Serie DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Warner_TV_Serie_DE_logo.png" group-title="Deutsch",TNT Serie DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1545
+#EXTINF:-1 tvg-id="1546" tvg-name="TNT Film DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Warner_TV_Film_DE_logo.png" group-title="Deutsch",TNT Film DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1546
+#EXTINF:-1 tvg-id="1547" tvg-name="13th Street DE HEVC" tvg-logo="http://caffe.link:25461/images/ac23aa98556e0515eca2725daf64dae6.png" group-title="Deutsch",13th Street DE HEVC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1547
+#EXTINF:-1 tvg-id="1549" tvg-name="Atlantik DE HEVC" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_atlantic_de.png" group-title="Deutsch",Atlantik DE HEVC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1549
+#EXTINF:-1 tvg-id="1552" tvg-name="Skx Cine Comedy DE" tvg-logo="http://caffe.link:25461/images/ee0f2de99f3c3eba703641173f307783.png" group-title="Deutsch",Skx Cine Comedy DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1552
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Action DE" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_de.png" group-title="Deutsch",Skx Action DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1553
+#EXTINF:-1 tvg-id="1244" tvg-name="Hits DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-Cinema-Hits-logo.png" group-title="Deutsch",Hits DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1554
+#EXTINF:-1 tvg-id="1556" tvg-name="Cine DE HEVC" tvg-logo="http://caffe.link:25461/images/47d823e5020c46df208b7acb73bf8a3d.png" group-title="Deutsch",Cine DE HEVC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1556
+#EXTINF:-1 tvg-id="1575" tvg-name="RTL 2 DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_Zwei_DE_logo.png" group-title="Deutsch",RTL 2 DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1575
+#EXTINF:-1 tvg-id="1576" tvg-name="RTL DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1576
+#EXTINF:-1 tvg-id="4622" tvg-name="Skx Sport News De" tvg-logo="http://caffe.link:25461/images/8fe59663630697bb628e4de0d1592cdc.png" group-title="Sport",Skx Sport News De
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4622
+#EXTINF:-1 tvg-id="4835" tvg-name="N24" tvg-logo="https://tvprofil.com/img/kanali-logo/Welt_TV_logo.png" group-title="Deutsch",N24
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4835
+#EXTINF:-1 tvg-id="4836" tvg-name="SKx One HEVC" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_1_de.png" group-title="Deutsch",SKx One HEVC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4836
+#EXTINF:-1 tvg-id="4837" tvg-name="TNT Comedy" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Warner_TV_Comedy_DE_logo.png" group-title="Deutsch",TNT Comedy
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4837
+#EXTINF:-1 tvg-id="4838" tvg-name="Cine Action HD" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_de.png" group-title="Deutsch",Cine Action HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4838
+#EXTINF:-1 tvg-id="4839" tvg-name="Nostalgia" tvg-logo="http://caffe.link:25461/images/c20c6357a2290935656ff10ce1bafc8e.png" group-title="Deutsch",Nostalgia
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4839
+#EXTINF:-1 tvg-id="4840" tvg-name="Pro 7 Fun FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/prosieben-fun-logo.png" group-title="Deutsch",Pro 7 Fun FHD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4840
+#EXTINF:-1 tvg-id="4841" tvg-name="Disney Channel De" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids",Disney Channel De
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4841
+#EXTINF:-1 tvg-id="4842" tvg-name="Spiegel Geschichte HD" tvg-logo="http://caffe.link:25461/images/4d3801c2339fa8b3b0e14180b9ae4b62.png" group-title="Deutsch",Spiegel Geschichte HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4842
+#EXTINF:-1 tvg-id="4843" tvg-name="Servus TV" tvg-logo="https://tvprofil.com/img/kanali-logo/servustv-logo.png" group-title="Austrija",Servus TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4843
+#EXTINF:-1 tvg-id="4844" tvg-name="N-TV HD" tvg-logo="http://caffe.link:25461/images/ee527d561eb86d14e62f821e314a77ea.png" group-title="Deutsch",N-TV HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4844
+#EXTINF:-1 tvg-id="4845" tvg-name="Tele 5" tvg-logo="http://caffe.link:25461/images/076ef83225d6216da794bd03e5ebbbbd.png" group-title="Deutsch",Tele 5
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4845
+#EXTINF:-1 tvg-id="5210" tvg-name="DAZN SPORT 1 BAR  DE" tvg-logo="http://caffe.link:25461/images/0c5e54b311bb3953af4824bd0ca7dc63.png" group-title="Sport",DAZN SPORT 1 BAR  DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5210
+#EXTINF:-1 tvg-id="5211" tvg-name="DAZN SPORT2 BAR DE" tvg-logo="http://caffe.link:25461/images/9fa70fa54d04cc3a277d1ecd0fc37387.png" group-title="Sport",DAZN SPORT2 BAR DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5211
+#EXTINF:-1 tvg-id="5306" tvg-name="Sport 1 HD DE" tvg-logo="http://caffe.link:25461/images/96986ad8b77aa822a0709a51f2e7527d.png" group-title="Sport",Sport 1 HD DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5306
+#EXTINF:-1 tvg-id="5821" tvg-name="Eurosport 1 DE" tvg-logo="http://caffe.link:25461/images/7c31d506280b8151acf6e374787db2ee.png" group-title="Sport",Eurosport 1 DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5821
+#EXTINF:-1 tvg-id="6170" tvg-name="BLiga DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/skybundesliga1_logo.png" group-title="Sport",BLiga DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/6170
+#EXTINF:-1 tvg-id="7679" tvg-name="RTL Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL_Adria_2020.png" group-title="Hrvatska",RTL Adria
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7679
+#EXTINF:-1 tvg-id="1244" tvg-name="Cine Fun" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/sky-fun-276181.png" group-title="Deutsch",Cine Fun
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7680
+#EXTINF:-1 tvg-id="7681" tvg-name="Cine Famili" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_family_de.png" group-title="Deutsch",Cine Famili
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7681
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Cinema Thriller" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_thriller_logo.png" group-title="Deutsch",Skx Cinema Thriller
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7682
+#EXTINF:-1 tvg-id="7684" tvg-name="Romanca Tv" tvg-logo="https://tvprofil.com/img/kanali-logo/RomanceTV-logo.png" group-title="Deutsch",Romanca Tv
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/7684
+#EXTINF:-1 tvg-id="13659" tvg-name="RTV Vojvodina 2 " tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/rtv-vojvodina.jpg" group-title="Srbija",RTV Vojvodina 2 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13659
+#EXTINF:-1 tvg-id="13663" tvg-name="NL:Film Family1" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film_1_nl_family.png" group-title="NIzozemska",NL:Film Family1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13663
+#EXTINF:-1 tvg-id="13668" tvg-name="Animal Planet (DE)" tvg-logo="http://caffe.link:25461/images/05837400c1fc1a4e0d135e173a6a5b4b.png" group-title="Deutsch",Animal Planet (DE)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13668
+#EXTINF:-1 tvg-id="13669" tvg-name="Animal Planet (NL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="NIzozemska",Animal Planet (NL)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13669
+#EXTINF:-1 tvg-id="1244" tvg-name="RTL Z (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl_z_nl.png" group-title="NIzozemska",RTL Z (NL)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13670
+#EXTINF:-1 tvg-id="13671" tvg-name="RTL Lounge" tvg-logo="https://www.nlziet.nl/nl/wp-content/uploads/2022/05/rtl-lounge-live-nlziet-1.jpg" group-title="NIzozemska",RTL Lounge
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13671
+#EXTINF:-1 tvg-id="13687" tvg-name="Eurosport 1 NL" tvg-logo="http://epg.netsolutionpro.com/logo-tv/221.sr.png" group-title="Sport",Eurosport 1 NL
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13687
+#EXTINF:-1 tvg-id="13731" tvg-name="Kabel Eins Classic HD (DE)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/kabel_eins_classics_DE_logo.png" group-title="Deutsch",Kabel Eins Classic HD (DE)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13731
+#EXTINF:-1 tvg-id="1244" tvg-name="HBO (MK)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/HBO2_b_p.png" group-title="Makedonija",HBO (MK)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13803
+#EXTINF:-1 tvg-id="13804" tvg-name="HBO 2 (MK) " tvg-logo="http://caffe.link:25461/images/19c0a3768306086c9601f4c7c5a5cc81.png" group-title="Makedonija",HBO 2 (MK) 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13804
+#EXTINF:-1 tvg-id="13812" tvg-name="SK 4 (HR)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK4_HR_logo.png" group-title="Sport",SK 4 (HR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13812
+#EXTINF:-1 tvg-id="13813" tvg-name="SK 5 (HR)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK5_HR_logo.png" group-title="Sport",SK 5 (HR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13813
+#EXTINF:-1 tvg-id="13839" tvg-name="Boomerang (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/boomerang_it_logo.png" group-title="Kids",Boomerang (DE)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13839
+#EXTINF:-1 tvg-id="13840" tvg-name="CARTOON NETWORK (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids",CARTOON NETWORK (DE)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13840
+#EXTINF:-1 tvg-id="13844" tvg-name="Digi Sport 3 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport3a.png" group-title="Sport",Digi Sport 3 (Ro)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13844
+#EXTINF:-1 tvg-id="13845" tvg-name="Digi Sport 4 (Ro)" tvg-logo="http://caffe.link:25461/images/5defcb1b612fcd854f5a3d4b287c4d6f.jpg" group-title="Sport",Digi Sport 4 (Ro)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13845
+#EXTINF:-1 tvg-id="13847" tvg-name="Eurosport 1 HD (UK)" tvg-logo="https://tvprofil.com/img/kanali-logo/eurosport-uk-logo.png" group-title="Sport",Eurosport 1 HD (UK)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13847
+#EXTINF:-1 tvg-id="13929" tvg-name="6TER HD (FR)" tvg-logo="http://caffe.link:25461/images/bc9813a784a78ac9c7ed4a5e9d4cf0cd.png" group-title="France",6TER HD (FR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13929
+#EXTINF:-1 tvg-id="13932" tvg-name="RTL 9 (FR)" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~246653f2b32bda77.png/1200x630/crop-from/top/quality/80/rtl-9.png" group-title="France",RTL 9 (FR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13932
+#EXTINF:-1 tvg-id="13933" tvg-name="M6 HD (FR)" tvg-logo="https://tvprofil.com/img/kanali-logo/M6_logo.png" group-title="France",M6 HD (FR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13933
+#EXTINF:-1 tvg-id="13934" tvg-name="Comédie+ (FR)" tvg-logo="http://caffe.link:25461/images/1fa4b677cbdf846e5ec64632f75bddd8.png" group-title="France",Comédie+ (FR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13934
+#EXTINF:-1 tvg-id="13936" tvg-name="Cine+ Frisson HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Cine_Classic_FR_logo.png" group-title="France",Cine+ Frisson HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13936
+#EXTINF:-1 tvg-id="13938" tvg-name="Gulli HD(FR)" tvg-logo="https://tvprofil.com/img/kanali-logo/gulli_logo.png" group-title="France",Gulli HD(FR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13938
+#EXTINF:-1 tvg-id="13953" tvg-name="National Geographic" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Scandinavia",National Geographic
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13953
+#EXTINF:-1 tvg-id="13956" tvg-name="Viasat Explore" tvg-logo="http://caffe.link:25461/images/1742ce965bb7d4d7b678d69e1c9a1b09.png" group-title="Scandinavia",Viasat Explore
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13956
+#EXTINF:-1 tvg-id="13957" tvg-name="SVT24/B" tvg-logo="https://static.tv24.co/v2/channels/small/99332.png" group-title="Scandinavia",SVT24/B
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13957
+#EXTINF:-1 tvg-id="13958" tvg-name="Sjuan" tvg-logo="http://ewsat.com/img/SJUAN.png" group-title="Scandinavia",Sjuan
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13958
+#EXTINF:-1 tvg-id="13959" tvg-name="SF-Kanalen " tvg-logo="http://caffe.link:25461/images/92aac71407b860a9e44db4b8e2d91f8a.png" group-title="Scandinavia",SF-Kanalen 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13959
+#EXTINF:-1 tvg-id="13960" tvg-name="Kunskapskanalen " tvg-logo="https://static.tv24.co/v2/channels/small/99333.png" group-title="Scandinavia",Kunskapskanalen 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13960
+#EXTINF:-1 tvg-id="13962" tvg-name="Discovery Channel " tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="Scandinavia",Discovery Channel 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13962
+#EXTINF:-1 tvg-id="1244" tvg-name="C MORE STARS HD" tvg-logo="http://ewsat.com/img/C_MORE_STARS.png" group-title="Scandinavia",C MORE STARS HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13964
+#EXTINF:-1 tvg-id="13965" tvg-name="Kanal 9" tvg-logo="http://ewsat.com/img/KANAL_9.png" group-title="Scandinavia",Kanal 9
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13965
+#EXTINF:-1 tvg-id="13966" tvg-name="Kanal 11 HD" tvg-logo="https://static.tv24.co/v2/channels/small/98336.png" group-title="Scandinavia",Kanal 11 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/13966
+#EXTINF:-1 tvg-id="14050" tvg-name="DE: Ard HD " tvg-logo="https://www.ard.de/icons/sharing-icon-1280x720.png" group-title="Deutsch",DE: Ard HD 
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14050
+#EXTINF:-1 tvg-id="14051" tvg-name="N24 Doku HD | DE" tvg-logo="http://caffe.link:25461/images/a0c13eebf8aad9b16b89c3945b5450f1.png" group-title="Deutsch",N24 Doku HD | DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14051
+#EXTINF:-1 tvg-id="14052" tvg-name="ZDF Info HD DE" tvg-logo="https://tvprofil.com/img/kanali-logo/zdf-info-logo.png" group-title="Deutsch",ZDF Info HD DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14052
+#EXTINF:-1 tvg-id="14103" tvg-name="Tring Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/sport4-hd-logo.png" group-title="Sport",Tring Sport 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14103
+#EXTINF:-1 tvg-id="14109" tvg-name="CBS Reality (USA)" tvg-logo="http://caffe.link:25461/images/03e7a011f3c3e6c707895260ae8cccca.png" group-title="UK & USA",CBS Reality (USA)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14109
+#EXTINF:-1 tvg-id="1244" tvg-name="TLC (USA)" tvg-logo="https://tvprofil.com/img/kanali-logo/tlc-logo.png" group-title="UK & USA",TLC (USA)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14115
+#EXTINF:-1 tvg-id="1244" tvg-name="Comedy Central (USA)" tvg-logo="https://tvprofil.com/img/kanali-logo/comedy_central_ro.png" group-title="UK & USA",Comedy Central (USA)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14117
+#EXTINF:-1 tvg-id="1244" tvg-name="HBO Comedy" tvg-logo="https://www.openbinacle.com/openbinacle/tv/hbo-comedy-hd/image/HBOcomedy.png" group-title="UK & USA",HBO Comedy
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14119
+#EXTINF:-1 tvg-id="1244" tvg-name="AMC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="UK & USA",AMC (USA)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14126
+#EXTINF:-1 tvg-id="1244" tvg-name="USA: HGTV" tvg-logo="https://tvprofil.com/img/kanali-logo/hgtv_uk_logo.png" group-title="UK & USA",USA: HGTV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14127
+#EXTINF:-1 tvg-id="1244" tvg-name="ITA | Rai Storia FHD" tvg-logo="http://caffe.link:25461/images/e5bef31aa8af9a2da19814dbfa7e5aa3.png" group-title="Italian",ITA | Rai Storia FHD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14130
+#EXTINF:-1 tvg-id="14131" tvg-name="ITA | Rai Premium" tvg-logo="https://tvprofil.com/img/kanali-logo/rai_premium.png" group-title="Italian",ITA | Rai Premium
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14131
+#EXTINF:-1 tvg-id="14132" tvg-name="IT: Rai Movie" tvg-logo="http://caffe.link:25461/images/8dbd5fbc2b112b5ce5de1f3012f7f494.png" group-title="Italian",IT: Rai Movie
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14132
+#EXTINF:-1 tvg-id="14150" tvg-name="Net 5 (NL)" tvg-logo="https://origin.ziggo.nl/content/dam/ziggo/entertainment/img/zenderoverzicht/svg_logos/009_net_5_v2.svg.transform/w640/high/img.jpg" group-title="NIzozemska",Net 5 (NL)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14150
+#EXTINF:-1 tvg-id="1244" tvg-name="Planet Plus HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Planet2_logo.png" group-title="Slovenija",Planet Plus HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14310
+#EXTINF:-1 tvg-id="1244" tvg-name="Slovenija | HBO 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/14517
+#EXTINF:-1 tvg-id="15737" tvg-name="DMC TV" tvg-logo="https://tvprofil.com/img/kanali-logo/DMC_televizija_logo.png" group-title="Music",DMC TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15737
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 1 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15789
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 2 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15790
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 3 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15791
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 5 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15793
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 6 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15794
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 7 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15795
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 8 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15796
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 9 HD
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15797
+#EXTINF:-1 tvg-id="1244" tvg-name="DK: TV2" tvg-logo="https://web.tv2a.dk/static/images/apple-touch-icon.png" group-title="Danska",DK: TV2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/33005
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sports 3 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_3_de.png" group-title="Sport",Skx Sports 3 (Matchday only)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/33017
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport 4 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_4_de.png" group-title="Sport",Skx Sport 4 (Matchday only)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/33018
+#EXTINF:-1 tvg-id="34138" tvg-name="CBS Reality (TEST)" tvg-logo="http://caffe.link:25461/images/c631d7329ae4d6a7e80866ec62cbfb41.png" group-title="Doku & Style",CBS Reality (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34138
+#EXTINF:-1 tvg-id="1244" tvg-name="BN 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BiH",BN 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34148
+#EXTINF:-1 tvg-id="1244" tvg-name="RTS MUZIKA" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTS_Muzika_logo.png" group-title="Srbija",RTS MUZIKA
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34150
+#EXTINF:-1 tvg-id="34151" tvg-name="HGTV" tvg-logo="http://caffe.link:25461/images/ff1293a36697f240de9ef70dd1500d25.png" group-title="Doku & Style",HGTV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34151
+#EXTINF:-1 tvg-id="34164" tvg-name="RTS POLETARAC" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTS_Poletarac_logo.png" group-title="Srbija",RTS POLETARAC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34164
+#EXTINF:-1 tvg-id="34166" tvg-name="M1 Gold (TEST)" tvg-logo="http://caffe.link:25461/images/2f0b0f0676f5fe52702a8fe1b114cce3.png" group-title="Film & serije",M1 Gold (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34166
+#EXTINF:-1 tvg-id="34168" tvg-name="Skx Sony DE (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/sony-channel-de-logo.png" group-title="Deutsch",Skx Sony DE (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34168
+#EXTINF:-1 tvg-id="34170" tvg-name="Heimat kanal (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/Heimatkanal-logo.png" group-title="Deutsch",Heimat kanal (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34170
+#EXTINF:-1 tvg-id="1244" tvg-name="Motorvision" tvg-logo="https://tvprofil.com/img/kanali-logo/motorvision_logo.png" group-title="Sport",Motorvision
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34173
+#EXTINF:-1 tvg-id="34174" tvg-name="Sky Sony AXN (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/sony-axn-logo.png" group-title="Deutsch",Sky Sony AXN (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34174
+#EXTINF:-1 tvg-id="34175" tvg-name="Sky Cinema special (TEST)" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/890_sky_logo_cinema_special_hd_tvguide.png" group-title="Deutsch",Sky Cinema special (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34175
+#EXTINF:-1 tvg-id="34176" tvg-name="Discovery Science" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery Science
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34176
+#EXTINF:-1 tvg-id="1244" tvg-name="BMC" tvg-logo="https://bmc-network.com/wp-content/uploads/2022/08/BMC-Nova-Verzija-90-final.png" group-title="Music",BMC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34182
+#EXTINF:-1 tvg-id="1244" tvg-name="M1 Family (TEST)" tvg-logo="http://caffe.link:25461/images/2f0b0f0676f5fe52702a8fe1b114cce3.png" group-title="Film & serije",M1 Family (TEST)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34183
+#EXTINF:-1 tvg-id="1244" tvg-name="NickToons DE" tvg-logo="http://caffe.link:25461/images/a2262f4e85da4df3e570d2450c1a39c5.png" group-title="Kids",NickToons DE
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34187
+#EXTINF:-1 tvg-id="1244" tvg-name="SportDigital" tvg-logo="https://tvprofil.com/img/kanali-logo/Sportdigital_Fussball_DE_logo.png" group-title="Sport",SportDigital
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/34188
+#EXTINF:-1 tvg-id="7685" tvg-name="Skx Cinema best OF HEVC" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_cinema_hits_de.png" group-title="Deutsch",Skx Cinema best OF HEVC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53549
+#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 2" tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport",MAX Sport 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53548
+#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 1 (HR)" tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport",MAX Sport 1 (HR)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53547
+#EXTINF:-1 tvg-id="" tvg-name="Skx Sport Premier League HEVC" tvg-logo="http://caffe.link:25461/images/556e258513a22a8c2bc1f4474fb267f3.png" group-title="Sport",Skx Sport Premier League HEVC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53652
+#EXTINF:-1 tvg-id="1254" tvg-name="RTL" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL.png" group-title="Hrvatska",RTL
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53655
+#EXTINF:-1 tvg-id="" tvg-name="TV Hram" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/TV_Hram_logo.png" group-title="Srbija",TV Hram
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53657
+#EXTINF:-1 tvg-id="" tvg-name="SKY folk" tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Makedonija",SKY folk
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53665
+#EXTINF:-1 tvg-id="" tvg-name="Boxing Tv" tvg-logo="https://boxing-tv.com/wp-content/uploads/2020/10/121468580_1239763093053450_6846298824313007452_n-1.png" group-title="Sport",Boxing Tv
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53725
+#EXTINF:-1 tvg-id="" tvg-name="Impact Plus" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/11/Plus-1.jpg" group-title="Sport",Impact Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53730
+#EXTINF:-1 tvg-id="" tvg-name="Skx Sport Austria 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria-4.png" group-title="Sport",Skx Sport Austria 4
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53770
+#EXTINF:-1 tvg-id="1632" tvg-name="Beyaz TV" tvg-logo="https://tvprofil.com/img/kanali-logo/beyaz-tv-logo.png" group-title="Turk",Beyaz TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1632
+#EXTINF:-1 tvg-id="1633" tvg-name="TV 8" tvg-logo="http://caffe.link:25461/images/7df06974db995bd2990871db75b4c054.png" group-title="Turk",TV 8
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1633
+#EXTINF:-1 tvg-id="1634" tvg-name="Show TV" tvg-logo="https://tvprofil.com/img/kanali-logo/show_tv_tr.png" group-title="Turk",Show TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1634
+#EXTINF:-1 tvg-id="1635" tvg-name="Star TV" tvg-logo="http://caffe.link:25461/images/78dee8fab3e983e61e1a17206ebc8235.png" group-title="Turk",Star TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1635
+#EXTINF:-1 tvg-id="1636" tvg-name="TRT Haber" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/mobile/static/images/trt-haber-share-logo.png" group-title="Turk",TRT Haber
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1636
+#EXTINF:-1 tvg-id="1244" tvg-name="Dream TV" tvg-logo="https://tvprofil.com/img/kanali-logo/dream-tv-logo.png" group-title="Turk",Dream TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1637
+#EXTINF:-1 tvg-id="1638" tvg-name="Kanal D TR" tvg-logo="http://caffe.link:25461/images/e66cee4a3f3a57c5dfa1152947e02213.png" group-title="Turk",Kanal D TR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1638
+#EXTINF:-1 tvg-id="1639" tvg-name="Kral TR" tvg-logo="https://tvprofil.com/img/kanali-logo/kral-tv-logo.png" group-title="Turk",Kral TR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1639
+#EXTINF:-1 tvg-id="1640" tvg-name="NTV TR" tvg-logo="http://caffe.link:25461/images/565cffaaaec77d5a2101b699bcee8100.png" group-title="Turk",NTV TR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1640
+#EXTINF:-1 tvg-id="1641" tvg-name="ATV TR" tvg-logo="https://tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="Turk",ATV TR
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1641
+#EXTINF:-1 tvg-id="1642" tvg-name="CNN Turk" tvg-logo="http://caffe.link:25461/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="Turk",CNN Turk
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1642
+#EXTINF:-1 tvg-id="1643" tvg-name="TRT" tvg-logo="https://tvprofil.com/img/kanali-logo/trt1-logo.png" group-title="Turk",TRT
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1643
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://tvprofil.com/img/kanali-logo/TRT_World_TR_logo.png" group-title="Turk",TRT World
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53706
+#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2018/08/05/thumbs_b_c_4f164c2e42f73c92834e3172c6a6e97b.jpg" group-title="Turk",TRT Cocuk
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53707
+#EXTINF:-1 tvg-id="" tvg-name="TRT Avaz" tvg-logo="https://tvprofil.com/img/kanali-logo/trt-avaz-logo.png" group-title="Turk",TRT Avaz
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53708
+#EXTINF:-1 tvg-id="" tvg-name="TRT Muzik" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/trt-muzik-logo.png" group-title="Turk",TRT Muzik
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53709
+#EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="https://tvprofil.com/img/kanali-logo/trt-turk-logo.png" group-title="Turk",TRT Turk
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53710
+#EXTINF:-1 tvg-id="" tvg-name="TRT Kurdi" tvg-logo="https://tvprofil.com/img/kanali-logo/trt_kurdi_logo.png" group-title="Turk",TRT Kurdi
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53711
+#EXTINF:-1 tvg-id="" tvg-name="TRT Arabi" tvg-logo="https://tvprofil.com/img/kanali-logo/trt-arapca-logo.png" group-title="Turk",TRT Arabi
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/53712
+#EXTINF:-1 tvg-id="6410" tvg-name="Superstar TV backup" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SuperstarTV_logo.png" group-title="Srbija",Superstar TV backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/114361
+#EXTINF:-1 tvg-id="4578" tvg-name="HRT 1 Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/htv1-logo.png" group-title="Hrvatska",HRT 1 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4578
+#EXTINF:-1 tvg-id="4579" tvg-name="HRT 2 Backup" tvg-logo="https://aviion-frontcdn.aviion.tv/e76a1ffc86e54cb6adc0d9b19c490712.png" group-title="Hrvatska",HRT 2 Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4579
+#EXTINF:-1 tvg-id="4580" tvg-name="Nova Tv Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska",Nova Tv Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4580
+#EXTINF:-1 tvg-id="4581" tvg-name="RTL Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/107.hr.png" group-title="Hrvatska",RTL Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4581
+#EXTINF:-1 tvg-id="4584" tvg-name="Doma Tv Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma Tv Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4584
+#EXTINF:-1 tvg-id="15018" tvg-name="N1 Sr Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/130.sr.png" group-title="Srbija",N1 Sr Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15018
+#EXTINF:-1 tvg-id="15017" tvg-name="Nova S Backup" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_S_RS_logo.png" group-title="Srbija",Nova S Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/15017
