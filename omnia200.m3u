@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="’60s.rs" tvg-name="ARENA ADRENALIN (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4QwlW-xOYVST_owxL_6Yp0V8DyehzQHKOkRzwBrsN_8g.png" group-title="SPORTSKI PROGRAMI",ARENA ADRENALIN (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/36063.ts
+#EXTINF:-1 tvg-id="Arena Esport HD.ba" tvg-name="ARENA ESPORT" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4dgVDE8S6VaPzPssqRQhbrAE_UKEI7_jRZfUPwewIgIY.png" group-title="SPORTSKI PROGRAMI",ARENA ESPORT
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/34834.ts
+#EXTINF:-1 tvg-id="arena-fight" tvg-name="ARENA FIGHT (RS)" tvg-logo="http://omniapro.xyz:80/images/d50a75c64ded65c0dfec9124b645b198.png" group-title="SPORTSKI PROGRAMI",ARENA FIGHT (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/334.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-1-ba" tvg-name="ARENA SPORT 1 (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4YEzOOpkDPiup6wIPEUf9MkWnuY74rHplzQtLzMOnzJr.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 1 (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/335.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-1-hr" tvg-name="ARENA SPORT 1 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4YEzOOpkDPiup6wIPEUf9MkWnuY74rHplzQtLzMOnzJr.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 1 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/361.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-1" tvg-name="ARENA SPORT 1 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4YEzOOpkDPiup6wIPEUf9MkWnuY74rHplzQtLzMOnzJr.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 1 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/337.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-name="ARENA SPORT 1 PREMIUM (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4dl7ENdwj_PnfV5nQDmGK6XBZqFxdPcmH7MS-DA6Qfu8.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 1 PREMIUM (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/354.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-1-premium" tvg-name="ARENA SPORT 1 PREMIUM (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4dl7ENdwj_PnfV5nQDmGK6XBZqFxdPcmH7MS-DA6Qfu8.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 1 PREMIUM (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/336.ts
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4eLMqrkMPWaAQgaN05bVFnom_hwP-ZXtCv6UY7zQa0Dp.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 10 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/362.ts
+#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-name="ARENA SPORT 10 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4eLMqrkMPWaAQgaN05bVFnom_hwP-ZXtCv6UY7zQa0Dp.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 10 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/338.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-1x2" tvg-name="ARENA SPORT 1X2" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4RU5h_OSSA-LJJPrdz-oOiw_lqffVwHOfXtezctSwrho.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 1X2
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/339.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-2-bih" tvg-name="ARENA SPORT 2 (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UtR9_Og70U67B-9daIrNZw8PP88txZAEHQVGeOGcdl9.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 2 (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/340.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA SPORT 2 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UtR9_Og70U67B-9daIrNZw8PP88txZAEHQVGeOGcdl9.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 2 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/363.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UtR9_Og70U67B-9daIrNZw8PP88txZAEHQVGeOGcdl9.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 2 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/342.ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-name="ARENA SPORT 2 PREMIUM (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4W2aNXWMzabb39RDtDS9unoSiIM7bATooXsy0dO_Ho6R.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 2 PREMIUM (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/355.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-2-premium" tvg-name="ARENA SPORT 2 PREMIUM (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4W2aNXWMzabb39RDtDS9unoSiIM7bATooXsy0dO_Ho6R.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 2 PREMIUM (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/341.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-3-bih" tvg-name="ARENA SPORT 3 (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Zr0kcoZnUMx8KSe9FwNDyglzc5yGIFr--8U8q4Bda6v.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 3 (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/343.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA SPORT 3 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Zr0kcoZnUMx8KSe9FwNDyglzc5yGIFr--8U8q4Bda6v.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 3 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/364.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-3" tvg-name="ARENA SPORT 3 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Zr0kcoZnUMx8KSe9FwNDyglzc5yGIFr--8U8q4Bda6v.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 3 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/346.ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-name="ARENA SPORT 3 PREMIUM (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4TBV9eHv4D5kCLBzyJHypGM0fb79UuWkqiLl9FSZZtdB.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 3 PREMIUM (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/356.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-3-premium" tvg-name="ARENA SPORT 3 PREMIUM (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4TBV9eHv4D5kCLBzyJHypGM0fb79UuWkqiLl9FSZZtdB.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 3 PREMIUM (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/345.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-4-bih" tvg-name="ARENA SPORT 4 (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4SD39P0TmMIwjrItIgk61x2S916LdtFOkq4m0AwScrTt.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 4 (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/347.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-4-hr" tvg-name="ARENA SPORT 4 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4SD39P0TmMIwjrItIgk61x2S916LdtFOkq4m0AwScrTt.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 4 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/365.ts
+#EXTINF:-1 timeshift="1" tvg-id="tv-arena-sport-4" tvg-name="ARENA SPORT 4 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4SD39P0TmMIwjrItIgk61x2S916LdtFOkq4m0AwScrTt.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 4 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/348.ts
+#EXTINF:-1 tvg-id="arena-sport-4-premium" tvg-name="ARENA SPORT 4 PREMIUM (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4cbJKW7VGqJ4Nl8cXYWENYANwA485bH8bE4NRUIneicnLcC_4xodAmwngVOBRmRieA.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 4 PREMIUM (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/35545.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-5-bih" tvg-name="ARENA SPORT 5 (BA)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4bHhAf1_oDDEo-rhX0qEw-NZQJ5GRczbnN-W4h7T7eG7.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 5 (BA)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/349.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-5-hr" tvg-name="ARENA SPORT 5 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4bHhAf1_oDDEo-rhX0qEw-NZQJ5GRczbnN-W4h7T7eG7.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 5 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/366.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-5" tvg-name="ARENA SPORT 5 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4bHhAf1_oDDEo-rhX0qEw-NZQJ5GRczbnN-W4h7T7eG7.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 5 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/350.ts
+#EXTINF:-1 tvg-id="arena-sport-5-premium" tvg-name="ARENA SPORT 5 PREMIUM (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Yi7LNWAepLbvb1qnI5M6Y0l2TTR0t8TWrH7ro4OkxAxJHB0AWw51EbAtzSeywnctg.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 5 PREMIUM (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/36064.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-6-hr" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4V5pNtxVryQ9UIE9laQ42Vd1un8FejtgrVZCukHStncT.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 6 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/367.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-6" tvg-name="ARENA SPORT 6 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4V5pNtxVryQ9UIE9laQ42Vd1un8FejtgrVZCukHStncT.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 6 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/351.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-7-hr" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ed_nbbLo1CkGcAxNOahrpjCNzDBpYgiwmXtNkuakhR_.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 7 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/368.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-7" tvg-name="ARENA SPORT 7 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ed_nbbLo1CkGcAxNOahrpjCNzDBpYgiwmXtNkuakhR_.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 7 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/352.ts
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Tw-BRhm8FcRo3Q3D71Ey_DL72IAapxWoLSpGOhjK_Lr.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 8 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/369.ts
+#EXTINF:-1 timeshift="1" tvg-id="arena-sport-8" tvg-name="ARENA SPORT 8 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Tw-BRhm8FcRo3Q3D71Ey_DL72IAapxWoLSpGOhjK_Lr.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 8 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/353.ts
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4WioqtaYp7ehbjyDX9yhrL1zKkhstQpuJhT1W2xp4GYf.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 9 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/370.ts
+#EXTINF:-1 tvg-id="Arena Sport 9.rs" tvg-name="ARENA SPORT 9 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4WioqtaYp7ehbjyDX9yhrL1zKkhstQpuJhT1W2xp4GYf.png" group-title="SPORTSKI PROGRAMI",ARENA SPORT 9 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/34258.ts
+#EXTINF:-1 tvg-id="arena-sport-tenis" tvg-name="ARENA TENIS (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4WkG8PSvgaNiCPR_vERUj0sCOvkoXTv4Utebzd0DTX9H.png" group-title="SPORTSKI PROGRAMI",ARENA TENIS (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/35334.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32791.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports 1
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32792.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports 2
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32793.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports 3
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32794.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 10" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 10
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32801.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 4" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 4
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32795.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 5" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 5
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32800.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 6" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 6
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32796.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 7" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 7
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32797.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 8" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 8
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32798.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 9" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4UcE3mLw4AL94ob2x4mSwJozuuQeVI7hjt7tz2A5rK_N.png" group-title="SPORTSKI PROGRAMI",beIN Sports Max 9
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32799.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT CHANNEL" tvg-logo="http://omniapro.xyz:80/images/f56bf9a0ced2e11320327827cca9f3e8.png" group-title="SPORTSKI PROGRAMI",FIGHT CHANNEL
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/359.ts
+#EXTINF:-1 tvg-id="fightchannel" tvg-name="SK FIGHT (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Zvu9bsyYe1vA5nhuVxaH6IDqmfLn80plfdePOHHp-mj.png" group-title="SPORTSKI PROGRAMI",SK FIGHT (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/36116.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SKY BUNDESLIGA 1 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 1 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6902.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10.de" tvg-name="SKY BUNDESLIGA 10 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 10 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32299.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SKY BUNDESLIGA 2 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 2 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6903.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD.de" tvg-name="SKY BUNDESLIGA 3 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 3 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6904.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD.de" tvg-name="SKY BUNDESLIGA 4 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 4 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6905.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 HD.de" tvg-name="SKY BUNDESLIGA 5 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 5 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6906.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6.de" tvg-name="SKY BUNDESLIGA 6 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 6 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6907.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7.de" tvg-name="SKY BUNDESLIGA 7 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 7 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6908.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8.de" tvg-name="SKY BUNDESLIGA 8 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 8 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/6910.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9.de" tvg-name="SKY BUNDESLIGA 9 (DE)" tvg-logo="http://omniapro.xyz:80/images/02af39921265dff23b28a6136262e7f0.png" group-title="SPORTSKI PROGRAMI",SKY BUNDESLIGA 9 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32298.ts
+#EXTINF:-1 tvg-id="sky-sport-1-de" tvg-name="SKY SPORT 1 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 1 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32336.ts
+#EXTINF:-1 tvg-id="sky-sport-2-de" tvg-name="SKY SPORT 2 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 2 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32337.ts
+#EXTINF:-1 tvg-id="Sky Sport 3.de" tvg-name="SKY SPORT 3 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 3 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32342.ts
+#EXTINF:-1 tvg-id="Sky Sport 4.de" tvg-name="SKY SPORT 4 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 4 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32338.ts
+#EXTINF:-1 tvg-id="Sky Sport 5.de" tvg-name="SKY SPORT 5 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 5 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32339.ts
+#EXTINF:-1 tvg-id="Sky Sport 6.de" tvg-name="SKY SPORT 6 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 6 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32340.ts
+#EXTINF:-1 tvg-id="Sky Sport 7.de" tvg-name="SKY SPORT 7 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ciS2Vgj1oo1HQINI1o658sRR3BqCu9m2GK_4KxMUyVU.png" group-title="SPORTSKI PROGRAMI",SKY SPORT 7 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32341.ts
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-name="SKY SPORT F1" tvg-logo="http://omniapro.xyz:80/images/3a96897cd2d202a25af43c4ea96c0626.png" group-title="SPORTSKI PROGRAMI",SKY SPORT F1
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/20044.ts
+#EXTINF:-1 tvg-id="sky-sport-news-de" tvg-name="SKY SPORT NEWS (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4RDBWmQfQrv3Y4YXi7uu8yahsahCsaNbnxCpB-N1ZVum.png" group-title="SPORTSKI PROGRAMI",SKY SPORT NEWS (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/35544.ts
+#EXTINF:-1 tvg-id="Sky Sport Premier League HD.de" tvg-name="SKY SPORT PREMIER LEAGUE (DE)" tvg-logo="http://omniapro.xyz:80/images/68c79848ed648cd26fed31dd8cba8ad9.png" group-title="SPORTSKI PROGRAMI",SKY SPORT PREMIER LEAGUE (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32303.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event HD.de" tvg-name="SKY SPORT TOP EVENT (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ah1niDpYr9gx6nq6CCD1XkP3FUo5cFITzARGWBTS3Ms.png" group-title="SPORTSKI PROGRAMI",SKY SPORT TOP EVENT (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/32909.ts
+#EXTINF:-1 tvg-id="dsf" tvg-name="SPORT 1 (DE)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4YqghV-caoRhuroMUVccP46ILQIfukrvuNeDRWwY1iSv.png" group-title="SPORTSKI PROGRAMI",SPORT 1 (DE)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/35543.ts
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SPORT KLUB 1 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4c2FP7HRxDaOg5YRA5FUc_pKytLPXWa76E2aWsNFNUX3.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 1 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/375.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="SPORT KLUB 1 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4c2FP7HRxDaOg5YRA5FUc_pKytLPXWa76E2aWsNFNUX3.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 1 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/376.ts
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="SPORT KLUB 2 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4SmsQ5anyfcmbyXUQkWbBE3Wz76-FVKc3cq7nXRl38bM.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 2 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/379.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="SPORT KLUB 2 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4SmsQ5anyfcmbyXUQkWbBE3Wz76-FVKc3cq7nXRl38bM.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 2 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/380.ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SPORT KLUB 3 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4VoihHrs5fYNr8IuCkPuZZd52xSgHOTu_pv9gsdFkKr0.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 3 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/381.ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SPORT KLUB 3 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4VoihHrs5fYNr8IuCkPuZZd52xSgHOTu_pv9gsdFkKr0.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 3 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/382.ts
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SPORT KLUB 4 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Rj7jNrnHWsKqQFhxZBiGO1f5zf7LJk46nziY1JnKsu_.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 4 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/383.ts
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SPORT KLUB 4 (RS)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Rj7jNrnHWsKqQFhxZBiGO1f5zf7LJk46nziY1JnKsu_.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 4 (RS)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/384.ts
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="SPORT KLUB 5 (HR)" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4YKe4vip8rV8XcENaLXhWfPIJFqQfz7cVKykM9tAXsqU.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB 5 (HR)
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/385.ts
+#EXTINF:-1 tvg-id="golf-klub" tvg-name="SPORT KLUB GOLF" tvg-logo="http://omniapro.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4Z3FpnixFJuqA0qjNXlhrZlo-VkFBQRDo1F4YOgWpTzn.png" group-title="SPORTSKI PROGRAMI",SPORT KLUB GOLF
+http://omniapro.xyz:80/tomastelegram/5FCdFdjG2A/36127.ts
