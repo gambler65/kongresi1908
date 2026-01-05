@@ -1,0 +1,334 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##########   Albania   ##########" tvg-logo="http://tugapt.com/picons/albania.png" group-title="Albania",##########   Albania   ##########
+#EXTINF:-1 tvg-id="" tvg-name="rtk1" tvg-logo="" group-title="all",rtk1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/1
+#EXTINF:-1 tvg-id="" tvg-name="rtv21" tvg-logo="" group-title="all",rtv21
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/2
+#EXTINF:-1 tvg-id="" tvg-name="ktv" tvg-logo="" group-title="all",ktv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/3
+#EXTINF:-1 tvg-id="" tvg-name="klan kosova" tvg-logo="" group-title="all",klan kosova
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/4
+#EXTINF:-1 tvg-id="" tvg-name="top channel" tvg-logo="" group-title="all",top channel
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/5
+#EXTINF:-1 tvg-id="" tvg-name="klan hd" tvg-logo="" group-title="all",klan hd
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/6
+#EXTINF:-1 tvg-id="" tvg-name="dukagjini" tvg-logo="" group-title="all",dukagjini
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/7
+#EXTINF:-1 tvg-id="" tvg-name="t7" tvg-logo="" group-title="all",t7
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/8
+#EXTINF:-1 tvg-id="" tvg-name="kanal 10" tvg-logo="" group-title="all",kanal 10
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/9
+#EXTINF:-1 tvg-id="" tvg-name="atv shqip" tvg-logo="" group-title="all",atv shqip
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/10
+#EXTINF:-1 tvg-id="" tvg-name="top news" tvg-logo="" group-title="all",top news
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/11
+#EXTINF:-1 tvg-id="" tvg-name="fokus folk" tvg-logo="" group-title="all",fokus folk
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/12
+#EXTINF:-1 tvg-id="" tvg-name="Pro 1" tvg-logo="" group-title="all",Pro 1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/13
+#EXTINF:-1 tvg-id="" tvg-name="rtk3" tvg-logo="" group-title="all",rtk3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/14
+#EXTINF:-1 tvg-id="" tvg-name="rtk4" tvg-logo="" group-title="all",rtk4
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/15
+#EXTINF:-1 tvg-id="" tvg-name="radio vala" tvg-logo="" group-title="all",radio vala
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/16
+#EXTINF:-1 tvg-id="" tvg-name="alsat m" tvg-logo="" group-title="all",alsat m
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/17
+#EXTINF:-1 tvg-id="" tvg-name="rtsh1" tvg-logo="" group-title="all",rtsh1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/18
+#EXTINF:-1 tvg-id="" tvg-name="vizion plus" tvg-logo="" group-title="all",vizion plus
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/19
+#EXTINF:-1 tvg-id="" tvg-name="dasma tv" tvg-logo="" group-title="all",dasma tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/20
+#EXTINF:-1 tvg-id="" tvg-name="first channel" tvg-logo="" group-title="all",first channel
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/21
+#EXTINF:-1 tvg-id="" tvg-name="besa" tvg-logo="" group-title="all",besa
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/22
+#EXTINF:-1 tvg-id="" tvg-name="tv prizreni" tvg-logo="" group-title="all",tv prizreni
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/23
+#EXTINF:-1 tvg-id="" tvg-name="syri vizion" tvg-logo="" group-title="all",syri vizion
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/24
+#EXTINF:-1 tvg-id="" tvg-name="tv dielli" tvg-logo="" group-title="all",tv dielli
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/25
+#EXTINF:-1 tvg-id="" tvg-name="abc news" tvg-logo="" group-title="all",abc news
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/26
+#EXTINF:-1 tvg-id="" tvg-name="klan plus" tvg-logo="" group-title="all",klan plus
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/27
+#EXTINF:-1 tvg-id="" tvg-name="klan news" tvg-logo="" group-title="all",klan news
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/28
+#EXTINF:-1 tvg-id="" tvg-name="tv shenja" tvg-logo="" group-title="all",tv shenja
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/29
+#EXTINF:-1 tvg-id="" tvg-name="syri tv" tvg-logo="" group-title="all",syri tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/30
+#EXTINF:-1 tvg-id="" tvg-name="arta news" tvg-logo="" group-title="all",arta news
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/31
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="" group-title="all",euronews
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/32
+#EXTINF:-1 tvg-id="" tvg-name="fax news" tvg-logo="" group-title="all",fax news
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/33
+#EXTINF:-1 tvg-id="" tvg-name="21 maqedonia" tvg-logo="" group-title="all",21 maqedonia
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/34
+#EXTINF:-1 tvg-id="" tvg-name="klan makedonia" tvg-logo="" group-title="all",klan makedonia
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/35
+#EXTINF:-1 tvg-id="" tvg-name="rtv fontana" tvg-logo="" group-title="all",rtv fontana
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/36
+#EXTINF:-1 tvg-id="" tvg-name="amol tv" tvg-logo="" group-title="all",amol tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/37
+#EXTINF:-1 tvg-id="" tvg-name="ziko tv" tvg-logo="" group-title="all",ziko tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/38
+#EXTINF:-1 tvg-id="" tvg-name="bbf" tvg-logo="" group-title="all",bbf
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/39
+#EXTINF:-1 tvg-id="" tvg-name="elrodi tv" tvg-logo="" group-title="all",elrodi tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/40
+#EXTINF:-1 tvg-id="" tvg-name="mtv kosova" tvg-logo="" group-title="all",mtv kosova
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/41
+#EXTINF:-1 tvg-id="" tvg-name="turbo channel" tvg-logo="" group-title="all",turbo channel
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/42
+#EXTINF:-1 tvg-id="" tvg-name="21 plus" tvg-logo="" group-title="all",21 plus
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/43
+#EXTINF:-1 tvg-id="" tvg-name="21 popullore" tvg-logo="" group-title="all",21 popullore
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/44
+#EXTINF:-1 tvg-id="" tvg-name="folk +" tvg-logo="" group-title="all",folk +
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/45
+#EXTINF:-1 tvg-id="" tvg-name="opoja tv" tvg-logo="" group-title="all",opoja tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/46
+#EXTINF:-1 tvg-id="" tvg-name="club tv" tvg-logo="" group-title="all",club tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/47
+#EXTINF:-1 tvg-id="" tvg-name="festina tv" tvg-logo="" group-title="all",festina tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/48
+#EXTINF:-1 tvg-id="" tvg-name="tv mitrovica" tvg-logo="" group-title="all",tv mitrovica
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/49
+#EXTINF:-1 tvg-id="" tvg-name="click tv" tvg-logo="" group-title="all",click tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/50
+#EXTINF:-1 tvg-id="" tvg-name="mtv hits" tvg-logo="" group-title="all",mtv hits
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/51
+#EXTINF:-1 tvg-id="" tvg-name="balkanika tv" tvg-logo="" group-title="all",balkanika tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/52
+#EXTINF:-1 tvg-id="" tvg-name="bang bang" tvg-logo="" group-title="all",bang bang
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/53
+#EXTINF:-1 tvg-id="" tvg-name="Cufo Tv" tvg-logo="" group-title="all",Cufo Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/54
+#EXTINF:-1 tvg-id="" tvg-name="tao tao" tvg-logo="" group-title="all",tao tao
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/55
+#EXTINF:-1 tvg-id="" tvg-name="tring kids" tvg-logo="" group-title="all",tring kids
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/56
+#EXTINF:-1 tvg-id="" tvg-name="tring tring" tvg-logo="" group-title="all",tring tring
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/57
+#EXTINF:-1 tvg-id="" tvg-name="buble tv" tvg-logo="" group-title="all",buble tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/58
+#EXTINF:-1 tvg-id="" tvg-name="sofia" tvg-logo="" group-title="all",sofia
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/59
+#EXTINF:-1 tvg-id="" tvg-name="kids" tvg-logo="" group-title="all",kids
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/60
+#EXTINF:-1 tvg-id="" tvg-name="21 Junior" tvg-logo="" group-title="all",21 Junior
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/61
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="all",Cartoon Network
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/62
+#EXTINF:-1 tvg-id="" tvg-name="t hd" tvg-logo="" group-title="all",t hd
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/63
+#EXTINF:-1 tvg-id="" tvg-name="hits" tvg-logo="" group-title="all",hits
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/64
+#EXTINF:-1 tvg-id="" tvg-name="film aksion" tvg-logo="" group-title="all",film aksion
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/65
+#EXTINF:-1 tvg-id="" tvg-name="film drama" tvg-logo="" group-title="all",film drama
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/66
+#EXTINF:-1 tvg-id="" tvg-name="thriller" tvg-logo="" group-title="all",thriller
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/67
+#EXTINF:-1 tvg-id="" tvg-name="film autor" tvg-logo="" group-title="all",film autor
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/68
+#EXTINF:-1 tvg-id="" tvg-name="max hd" tvg-logo="" group-title="all",max hd
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/69
+#EXTINF:-1 tvg-id="" tvg-name="gold hd" tvg-logo="" group-title="all",gold hd
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/70
+#EXTINF:-1 tvg-id="" tvg-name="tring shqip" tvg-logo="" group-title="all",tring shqip
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/71
+#EXTINF:-1 tvg-id="" tvg-name="tring comedy" tvg-logo="" group-title="all",tring comedy
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/72
+#EXTINF:-1 tvg-id="" tvg-name="tring fantasy" tvg-logo="" group-title="all",tring fantasy
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/73
+#EXTINF:-1 tvg-id="" tvg-name="tring action" tvg-logo="" group-title="all",tring action
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/74
+#EXTINF:-1 tvg-id="" tvg-name="tring super" tvg-logo="" group-title="all",tring super
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/75
+#EXTINF:-1 tvg-id="" tvg-name="tring colection" tvg-logo="" group-title="all",tring colection
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/76
+#EXTINF:-1 tvg-id="" tvg-name="tring family" tvg-logo="" group-title="all",tring family
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/77
+#EXTINF:-1 tvg-id="" tvg-name="tring life" tvg-logo="" group-title="all",tring life
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/78
+#EXTINF:-1 tvg-id="" tvg-name="tring classic" tvg-logo="" group-title="all",tring classic
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/79
+#EXTINF:-1 tvg-id="" tvg-name="tring novela" tvg-logo="" group-title="all",tring novela
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/80
+#EXTINF:-1 tvg-id="" tvg-name="tring clasic" tvg-logo="" group-title="all",tring clasic
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/81
+#EXTINF:-1 tvg-id="" tvg-name="jolly hd" tvg-logo="" group-title="all",jolly hd
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/82
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="all",3 Plus
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/83
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="all",Star Channel
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/84
+#EXTINF:-1 tvg-id="" tvg-name="Star Life" tvg-logo="" group-title="all",Star Life
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/85
+#EXTINF:-1 tvg-id="" tvg-name="Star Crime" tvg-logo="" group-title="all",Star Crime
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/86
+#EXTINF:-1 tvg-id="" tvg-name="kanal drama" tvg-logo="" group-title="all",kanal drama
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/87
+#EXTINF:-1 tvg-id="" tvg-name="21mix" tvg-logo="" group-title="all",21mix
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/88
+#EXTINF:-1 tvg-id="" tvg-name="tring internacional" tvg-logo="" group-title="all",tring internacional
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/89
+#EXTINF:-1 tvg-id="" tvg-name="ss1" tvg-logo="" group-title="all",ss1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/90
+#EXTINF:-1 tvg-id="" tvg-name="ss2" tvg-logo="" group-title="all",ss2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/91
+#EXTINF:-1 tvg-id="" tvg-name="ss3" tvg-logo="" group-title="all",ss3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/92
+#EXTINF:-1 tvg-id="" tvg-name="ss4" tvg-logo="" group-title="all",ss4
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/93
+#EXTINF:-1 tvg-id="" tvg-name="ts1" tvg-logo="" group-title="all",ts1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/94
+#EXTINF:-1 tvg-id="" tvg-name="ts2" tvg-logo="" group-title="all",ts2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/95
+#EXTINF:-1 tvg-id="" tvg-name="ts3" tvg-logo="" group-title="all",ts3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/96
+#EXTINF:-1 tvg-id="" tvg-name="ts4" tvg-logo="" group-title="all",ts4
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/97
+#EXTINF:-1 tvg-id="" tvg-name="ts news" tvg-logo="" group-title="all",ts news
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/98
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="" group-title="all",RTSH Sport
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/99
+#EXTINF:-1 tvg-id="" tvg-name="eurosport1" tvg-logo="" group-title="all",eurosport1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/100
+#EXTINF:-1 tvg-id="" tvg-name="eurosport2" tvg-logo="" group-title="all",eurosport2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/101
+#EXTINF:-1 tvg-id="" tvg-name="tring planet" tvg-logo="" group-title="all",tring planet
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/105
+#EXTINF:-1 tvg-id="" tvg-name="tring histori" tvg-logo="" group-title="all",tring histori
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/106
+#EXTINF:-1 tvg-id="" tvg-name="tring world" tvg-logo="" group-title="all",tring world
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/107
+#EXTINF:-1 tvg-id="" tvg-name="EXP Natyra" tvg-logo="" group-title="all",EXP Natyra
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/108
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="all",National Geographic
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/109
+#EXTINF:-1 tvg-id="" tvg-name="nat geo wild" tvg-logo="" group-title="all",nat geo wild
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/110
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="all",Travel Channel
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/111
+#EXTINF:-1 tvg-id="" tvg-name="muse" tvg-logo="" group-title="all",muse
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/112
+#EXTINF:-1 tvg-id="" tvg-name="peace tv" tvg-logo="" group-title="all",peace tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/113
+#EXTINF:-1 tvg-id="" tvg-name="smile" tvg-logo="" group-title="all",smile
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/114
+#EXTINF:-1 tvg-id="" tvg-name="living" tvg-logo="" group-title="all",living
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/115
+#EXTINF:-1 tvg-id="" tvg-name="tip tv" tvg-logo="" group-title="all",tip tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/116
+#EXTINF:-1 tvg-id="" tvg-name="kanal 7" tvg-logo="" group-title="all",kanal 7
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/117
+#EXTINF:-1 tvg-id="" tvg-name="rtk2" tvg-logo="" group-title="all",rtk2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/149
+#EXTINF:-1 tvg-id="" tvg-name="tv opinion" tvg-logo="" group-title="all",tv opinion
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/150  
+#EXTINF:-1 tvg-id="" tvg-name="klan ziri" tvg-logo="" group-title="all",klan ziri
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/155
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3" tvg-logo="" group-title="all",RTSH 3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/166
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Plus" tvg-logo="" group-title="all",RTSH Plus
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/167
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv" tvg-logo="" group-title="all",Baby Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/170
+#EXTINF:-1 tvg-id="" tvg-name="Art sport 1" tvg-logo="" group-title="all",Art sport 1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/172
+#EXTINF:-1 tvg-id="" tvg-name="Art sport 2" tvg-logo="" group-title="all",Art sport 2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/173
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3" tvg-logo="" group-title="all",Art Sport 3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/174
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4" tvg-logo="" group-title="all",Art Sport 4
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/175
+#EXTINF:-1 tvg-id="" tvg-name="K sport 1" tvg-logo="" group-title="all",K sport 1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/176
+#EXTINF:-1 tvg-id="" tvg-name="k Sport 2" tvg-logo="" group-title="all",k Sport 2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/177
+#EXTINF:-1 tvg-id="" tvg-name="K sport 3" tvg-logo="" group-title="all",K sport 3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/178
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5" tvg-logo="" group-title="all",Art Sport 5
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/179
+#EXTINF:-1 tvg-id="" tvg-name="K sport 4" tvg-logo="" group-title="all",K sport 4
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/180
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24" tvg-logo="" group-title="all",RTSH 24
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/169
+#EXTINF:-1 tvg-id="" tvg-name="Report Tv" tvg-logo="" group-title="all",Report Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/185
+#EXTINF:-1 tvg-id="" tvg-name="Panaroma Tv" tvg-logo="" group-title="all",Panaroma Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/186
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus Tv" tvg-logo="" group-title="all",Star Plus Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/187
+#EXTINF:-1 tvg-id="" tvg-name="STV Folk" tvg-logo="" group-title="all",STV Folk
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/188
+#EXTINF:-1 tvg-id="" tvg-name="Supersonic Tv" tvg-logo="" group-title="all",Supersonic Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/189
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzik" tvg-logo="" group-title="all",RTSH Muzik
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/190
+#EXTINF:-1 tvg-id="" tvg-name="My Music" tvg-logo="" group-title="all",My Music
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/191
+#EXTINF:-1 tvg-id="" tvg-name="Klan Music" tvg-logo="" group-title="all",Klan Music
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/192
+#EXTINF:-1 tvg-id="" tvg-name="Beat Tv" tvg-logo="" group-title="all",Beat Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/193
+#EXTINF:-1 tvg-id="" tvg-name="Melody Tv" tvg-logo="" group-title="all",Melody Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/194
+#EXTINF:-1 tvg-id="" tvg-name="Prince Kids" tvg-logo="" group-title="all",Prince Kids
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/195
+#EXTINF:-1 tvg-id="" tvg-name="Junior Tv" tvg-logo="" group-title="all",Junior Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/196
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="all",Film Komedi
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/197
+#EXTINF:-1 tvg-id="" tvg-name="Family HD" tvg-logo="" group-title="all",Family HD
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/198
+#EXTINF:-1 tvg-id="" tvg-name="EuroFilm" tvg-logo="" group-title="all",EuroFilm
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/199
+#EXTINF:-1 tvg-id="" tvg-name="Artkino 1" tvg-logo="" group-title="all",Artkino 1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/200
+#EXTINF:-1 tvg-id="" tvg-name="Artkino 2" tvg-logo="" group-title="all",Artkino 2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/201
+#EXTINF:-1 tvg-id="" tvg-name="Artkino 3" tvg-logo="" group-title="all",Artkino 3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/202
+#EXTINF:-1 tvg-id="" tvg-name="RTSH SHqip" tvg-logo="" group-title="all",RTSH SHqip
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/203
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="all",Premiere 1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/204
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="all",Premiere 2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/205
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="all",Premiere 3
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/206
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="all",Premiere 4
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/207
+#EXTINF:-1 tvg-id="" tvg-name="Episode" tvg-logo="" group-title="all",Episode
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/208
+#EXTINF:-1 tvg-id="" tvg-name="Prime" tvg-logo="" group-title="all",Prime
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/209
+#EXTINF:-1 tvg-id="" tvg-name="Exp Histori" tvg-logo="" group-title="all",Exp Histori
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/210
+#EXTINF:-1 tvg-id="" tvg-name="EXP SHkence" tvg-logo="" group-title="all",EXP SHkence
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/211
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku1" tvg-logo="" group-title="all",Art Doku1
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/212
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 2" tvg-logo="" group-title="all",Art Doku 2
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/213
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr Tv" tvg-logo="" group-title="all",Zjarr Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/214
+#EXTINF:-1 tvg-id="" tvg-name="Premium channel" tvg-logo="" group-title="all",Premium channel
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/215
+#EXTINF:-1 tvg-id="" tvg-name="Scan Tv" tvg-logo="" group-title="all",Scan Tv
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/216
+#EXTINF:-1 tvg-id="" tvg-name="SS5" tvg-logo="" group-title="all",SS5
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/217
+#EXTINF:-1 tvg-id="" tvg-name="SS6" tvg-logo="" group-title="all",SS6
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/218
+#EXTINF:-1 tvg-id="" tvg-name="SS7" tvg-logo="" group-title="all",SS7
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/219
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6" tvg-logo="" group-title="all",Art Sport 6
+http://46.165.212.87:25448/r9NG7ZyQCX3z/75Dynnn/220
